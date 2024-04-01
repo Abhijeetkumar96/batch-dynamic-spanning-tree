@@ -2,6 +2,8 @@
 #include "euler_tour.cuh"
 #include "dynamic_tree.cuh"
 
+using namespace cub;
+
 __device__ __forceinline__
 long binary_search(uint64_t* array, long num_elements, uint64_t key) {
     long left = 0;
@@ -27,12 +29,13 @@ void delete_edges_kernel(
     long num_edges,         
     uint64_t* d_edges_to_delete, // size <- delete_batch_size
     int delete_batch_size, 
-    unsigned char* flags)       // size <- numEdges
+    unsigned char* d_flags)       // size <- numEdges
 {
 
     int tid = blockIdx.x * blockDim.x + threadIdx.x;
+    
     if (tid < delete_batch_size) {
-        uint32_t u, v;
+
         uint64_t t = d_edges_to_delete[tid];
         uint32_t u = (uint32_t)(t >> 32);
         uint32_t v = (uint32_t)(t & 0xFFFFFFFF); 
@@ -41,15 +44,15 @@ void delete_edges_kernel(
         if(u == d_parent[v]) {
             d_parent[v] = v;
         }
-        else if(v == parent[u]) {
-            parent[u] = u;
+        else if(v == d_parent[u]) {
+            d_parent[u] = u;
         }
 
         else {
             // t is the key, to be searched in the d_edge_list array
             long pos = binary_search(d_edge_list, num_edges, t);
             if(pos != -1) {
-                d_flag[pos] = 0;
+                d_flags[pos] = 0;
             }
         }
     }
@@ -106,6 +109,10 @@ void update_existing_ds(
     CUDA_CHECK(cudaMalloc((void**)&d_flags, sizeof(unsigned char) * num_edges), 
         "Failed to allocate memory for d_flags");
 
+    int numThreads = 1024;
+    int numBlocks = (delete_size + numThreads - 1) / numThreads;
+
+    // Launch kernel to mark batch edges for deletion in the actual edge_list
     delete_edges_kernel<<<<<<numThreads, numBlocks>>>(
         d_parent, 
         d_edge_list, 
@@ -162,15 +169,6 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     pHashTable = create_hashtable();
 }
 
-dynamic_tree_manager::~dynamic_tree_manager() {
-    cudaFree(d_parent);
-    cudaFree(d_rep);
-    cudaFree(d_unique_rep);
-    cudaFree(d_edges_to_delete);
-    cudaFree(d_edge_list);
-    destroy_hashtable(pHashTable);
-}
-
 keyValues* create_hashtable() {
     keyValues* hashtable;
     CUDA_CHECK(cudaMalloc(&hashtable, sizeof(keyValues) * kHashTableCapacity), "Failed to allocate hashtable");
@@ -210,7 +208,19 @@ void dynamic_tree_manager::read_delete_batch(const std::string& delete_filename)
 }
 
 void dynamic_tree_manager::update_existing_ds() {
-	update_existing_ds(d_parent, d_rep, num_vert, d_edge_list, num_edges, d_edges_to_delete, delete_batch_size);
+	update_existing_ds(
+        d_parent, d_rep, num_vert, 
+        d_edge_list, num_edges, 
+        d_edges_to_delete, delete_batch_size);
+}
+
+dynamic_tree_manager::~dynamic_tree_manager() {
+    cudaFree(d_parent);
+    cudaFree(d_rep);
+    cudaFree(d_unique_rep);
+    cudaFree(d_edges_to_delete);
+    cudaFree(d_edge_list);
+    destroy_hashtable(pHashTable);
 }
 
 void repair_spanning_tree() {

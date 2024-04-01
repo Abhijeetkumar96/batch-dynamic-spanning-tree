@@ -5,7 +5,7 @@
 #include <random>
 #include <chrono>
 
-#include "cuda_utility.h"
+#include "cuda_utility.cuh"
 
 __global__
 void pointer_jumping_kernel(int *next, int n)
@@ -91,5 +91,11 @@ void find_unique(
     for (int i = 0; i < h_num_selected_out; ++i) {
         std::cout << h_out[i] << " ";
     }
+    std::cout << std::endl;
+}
+
+void host_print(const std::vector<int> arr) {
+    for(const auto &i : arr)
+        std::cout << i <<" ";
     std::cout << std::endl;
 }

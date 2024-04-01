@@ -1,32 +1,29 @@
-# Specify the compiler
-CC=nvcc
-CXX=g++
-# Specify compiler flags
-CFLAGS=-std=c++17 -O3
+# Compiler settings
+CC = g++
+NVCC = nvcc
+CUDA_PATH = /usr/local/cuda
+INCLUDE = -I$(CUDA_PATH)/include -Iinclude
 
-# Target executable name
-TARGET=euler
+# Compiler flags
+CFLAGS = -std=c++11 -O3
+NVCCFLAGS = -arch=sm_61 $(INCLUDE) # Adjust -arch based on your GPU
 
 # Object files
-OBJS=euler.o list_ranking.o main.o bfs.o
+OBJS = bfs.o cuda_utility.o dynamic_tree_util.o euler_v1.o list_ranking.o main.o
 
-# Link object files into the executable
-$(TARGET): $(OBJS)
-	$(CC) $(CFLAGS) $(OBJS) -o $(TARGET)
+# Executable name
+EXEC = my_program
 
-# Compile each source file into an object file
-euler.o: euler.cu
-	$(CC) $(CFLAGS) -c euler.cu
+all: $(EXEC)
 
-list_ranking.o: list_ranking.cu list_ranking.cuh
-	$(CC) $(CFLAGS) -c list_ranking.cu
+$(EXEC): $(OBJS)
+	$(CC) -o $@ $^ -L$(CUDA_PATH)/lib64 -lcudart
 
-bfs.o: bfs.cpp bfs.h
-	$(CXX) $(CFLAGS) -c bfs.cpp
+%.o: %.cpp
+	$(CC) $(CFLAGS) -c $< -o $@
 
-main.o: main.cu
-	$(CC) $(CFLAGS) -c main.cu
+%.o: %.cu
+	$(NVCC) $(NVCCFLAGS) -c $< -o $@
 
-# Clean target for removing compiled products
 clean:
-	rm -f $(TARGET) $(OBJS)
+	rm -f $(OBJS) $(EXEC)

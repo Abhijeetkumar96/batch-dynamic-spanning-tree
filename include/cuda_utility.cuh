@@ -80,11 +80,12 @@ void pointer_jumping(int* d_next, int n);
 
     So we need to have the array sorted
 */
-
 void find_unique(
     int* d_in, 
     int* d_out,
     int num_items,
     int h_num_selected_out);
+
+void host_print(const std::vector<int>& parent);
 
 #endif // CUDA_UTILITY_H
