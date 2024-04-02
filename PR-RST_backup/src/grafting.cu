@@ -1,4 +1,5 @@
 #include "grafting.h"
+#include "utility.h"
 
 __global__
 void DetermineWinners(int *u_arr, int *v_arr, int *rep, int *winner, int edges, int *d_flag) {
@@ -70,7 +71,15 @@ void Graft(
 	DetermineWinners<<<numBlocks_e, numThreads>>> (d_u_ptr, d_v_ptr, d_ptr, d_winner_ptr, edges, d_flag);
 	cudaDeviceSynchronize();
 
+	std::cout << "d_winner_ptr:\n";
+	print_device_array(d_winner_ptr, vertices); 
+
 	// Step 2.2: Update labels based on winners and mark parents
 	UpdateLabels<<<numBlocks_e, numThreads>>>(d_u_ptr, d_v_ptr, d_ptr, d_winner_ptr, edges, d_marked_parent, d_OnPath);
+
+	std::cout << "d_marked_parent:\n";
+	print_device_array(d_marked_parent, vertices);
+	std::cout << "d_OnPath:\n";
+	print_device_array(d_OnPath, vertices);
 	cudaDeviceSynchronize();	
 }

@@ -2,8 +2,6 @@
 #include "grafting.h"
 #include "reRoot.h"
 #include "shortcutting.h"
-#include "verifySol.h"
-#include "utility.h"
 
 __global__ 
 void init(int *arr, int *rep, int n) {
@@ -26,7 +24,12 @@ void init_1(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, size_t numEle
     }
 }
 
-void RootedSpanningTree(int* d_u_ptr, int* d_v_ptr, const int numVert, const int numEdges) {
+void RootedSpanningTree(
+	RST_Resource_manager& pr_resources, 
+	int* d_u_ptr, 
+	int* d_v_ptr, 
+	const int numVert, 
+	const int numEdges) {
 
 	int n = numVert;
 	int vertices = n;
