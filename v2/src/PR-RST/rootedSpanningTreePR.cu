@@ -15,6 +15,19 @@ void init(int *arr, int *rep, int n) {
 	}
 }
 
+__global__ 
+void init_arrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_winner_ptr, size_t numElements) {
+    size_t idx = blockIdx.x * blockDim.x + threadIdx.x;
+    if (idx < numElements) {
+        d_OnPath[idx] = 0;
+        d_index_ptr[idx] = 0;
+
+        d_marked_parent[idx] = -1;
+        d_winner_ptr[idx] = -1;
+    }
+}
+
+
 void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEdges) {
 
 	int n = numVert;
@@ -48,7 +61,9 @@ void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEd
 	int *d_new_next;
 	int *d_index_ptr;
 	int *d_pr_size_ptr;
+	int *d_flag;
 
+	CUDA_CHECK(cudaMalloc(&d_flag, sizeof(int)), 						"Failed to allocate memory for d_flag");
 	CUDA_CHECK(cudaMalloc((void**)&d_winner_ptr, n * sizeof(int)), 		"Failed to allocate memory for d_winner_ptr");
 	CUDA_CHECK(cudaMalloc((void**)&d_ptr, size), 						"Failed to allocate memory for d_ptr");
 	CUDA_CHECK(cudaMalloc((void**)&d_parent_ptr, size), 				"Failed to allocate memory for d_parent_ptr");
@@ -75,9 +90,6 @@ void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEd
 	init<<<numBlocks_n, numThreads>>>(d_ptr, d_parent_ptr, vertices);
 	cudaDeviceSynchronize();
 
-	int *d_flag;
-	cudaMalloc(&d_flag, sizeof(int));
-
 	int flag = 1;
 	int iter_number = 0;
 
@@ -88,11 +100,13 @@ void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEd
 		}
 
 		flag = 0;
-		cudaMemcpy(d_flag, &flag, sizeof(int), cudaMemcpyHostToDevice);
-		cudaMemset(d_OnPath, 		 0, size);
-		cudaMemset(d_index_ptr,		 0, size);
-		cudaMemset(d_marked_parent,	-1, size);
-		cudaMemset(d_winner_ptr, 	-1, size);
+
+		CUDA_CHECK(cudaMemcpy(d_flag, &flag, sizeof(int), cudaMemcpyHostToDevice), 	"Failed to copy flag to device");
+	
+		int threadsPerBlock = 1024;
+		size_t blocksPerGrid = (n + threadsPerBlock - 1) / threadsPerBlock;
+		init_arrays<<<blocksPerGrid, threadsPerBlock>>>(d_OnPath, d_index_ptr, d_marked_parent, d_winner_ptr, n);
+		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after init_arrays kernel");
 
 		//Step 2: Graft
 		Graft(vertices, edges, d_edgelist, d_ptr, d_winner_ptr, d_marked_parent, d_OnPath, d_flag);
@@ -100,7 +114,7 @@ void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEd
 		cudaMemcpy(d_next, d_parent_ptr, size, cudaMemcpyDeviceToDevice);
 
 		// Step 4: Shortcutting
-		cudaMemset(d_pr_size_ptr,0,size);
+		cudaMemset(d_pr_size_ptr, 0, size);
 		cudaMemset(d_pr_arr, -1, pr_size);
 
 		Shortcut(vertices, edges, log_2_size, d_next, d_new_next, d_pr_arr, d_ptr, d_pr_size_ptr);	
