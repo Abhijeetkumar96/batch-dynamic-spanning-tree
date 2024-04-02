@@ -1,5 +1,4 @@
-#include "reversePaths.h"
-#include "utility.h"
+#include "PR-RST/reversePaths.cuh"
 
 __global__
 void Reverse(int* onPath, int *parent,int *new_parent,int n) {

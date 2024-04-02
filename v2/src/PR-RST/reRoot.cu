@@ -1,5 +1,5 @@
-#include "reRoot.h"
-#include "reversePaths.h"
+#include "PR-RST/reRoot.cuh"
+#include "PR-RST/reversePaths.cuh"
 
 __global__
 void AssignParents(int *marked_parent, int *parent, int n) {

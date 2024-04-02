@@ -124,13 +124,13 @@ inline void host_print(const std::vector<T> arr) {
 template <typename T>
 inline void print_device_array(const T* arr, long size) {
     print_device_array_kernel<<<1, 1>>>(arr, size);
-    cudaDeviceSynchronize();
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_device_array_kernel");
 }
 
 template <typename T>
 inline void print_device_edge_list(const T* arr, long size) {
     print_device_edge_list_kernel<<<1, 1>>>(arr, size);
-    cudaDeviceSynchronize();
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_device_edge_list_kernel");
 }
 
 template <typename T1, typename T2>
@@ -178,8 +178,8 @@ inline void find_unique(
     #endif
 
     // Cleanup
-    cudaFree(d_temp_storage);
-    cudaFree(d_num_selected_out);
+    CUDA_CHECK(cudaFree(d_temp_storage), "Failed to free d_temp_storage");
+    CUDA_CHECK(cudaFree(d_num_selected_out), "Failed to free d_temp_storage");
 }
 
 

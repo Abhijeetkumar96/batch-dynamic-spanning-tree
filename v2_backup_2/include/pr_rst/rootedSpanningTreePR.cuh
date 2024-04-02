@@ -9,10 +9,11 @@
 #include <chrono>
 #include <cuda.h>
 
+#include "pr_rst.cuh"
+
 void RootedSpanningTree(
     RST_Resource_manager& pr_resources, 
-    int* d_u_ptr, 
-    int* d_v_ptr, 
+    uint64_t* d_edge_list,
     const int numVert, 
     const int numEdges);
 

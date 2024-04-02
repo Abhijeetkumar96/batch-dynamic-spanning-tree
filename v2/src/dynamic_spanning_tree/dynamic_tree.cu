@@ -1,10 +1,10 @@
 #include <cuda_runtime.h>
 
-#include "euler_tour.cuh"
-#include "cuda_utility.cuh"
-#include "dynamic_tree.cuh"
-#include "dynamic_tree_util.cuh"
-// #include "hashtable.cuh"
+#include "PR-RST/rootedSpanningTreePR.cuh"
+#include "dynamic_spanning_tree/euler_tour.cuh"
+#include "common/cuda_utility.cuh"
+#include "dynamic_spanning_tree/dynamic_tree.cuh"
+#include "dynamic_spanning_tree/dynamic_tree_util.cuh"
 
 //Create a hash table. For linear probing, this is just an array of keyValues
 keyValues* create_hashtable()
@@ -62,7 +62,7 @@ uint64_t combine_keys(uint32_t key1, uint32_t key2)
 
 //Lookup keys in the hashtable, and return the values
 __global__
-void gpu_hashtable_lookup(keyValues* hashtable, int* d_parent, int* d_val1, int* d_val2, unsigned int size)
+void gpu_hashtable_lookup(keyValues* hashtable, int* d_parent, uint32_t* d_val1, uint32_t* d_val2, unsigned int size)
 {
     unsigned int tid = blockIdx.x * blockDim.x + threadIdx.x;
     if(tid > 0 && tid < size)
@@ -146,7 +146,7 @@ void update_rep_map(int* d_unique_rep, int* d_rep_map, int unique_rep_count) {
     }
 }
 
-void create_super_graph(dynamic_tree_manager& tree_ds) {
+void create_super_graph(dynamic_tree_manager& tree_ds, const int& unique_rep_count) {
 
 	keyValues* pHashTable = create_hashtable();
 	
@@ -183,6 +183,20 @@ void create_super_graph(dynamic_tree_manager& tree_ds) {
 	std::cout << "unique_super_graph_edges: " << unique_super_graph_edges << "\n";
 	std::cout << "Super graph Edges:\n";
 	print_device_edge_list(d_edge_list + 1, unique_super_graph_edges - 1);
+
+	RootedSpanningTree(d_edge_list + 1, unique_rep_count, unique_super_graph_edges - 1);
+
+	// RST_Resource_manager pr_resources(unique_rep_count);
+	
+	// Apply any parallel rooted spanning tree algorithm to get replacement edge.
+	// RootedSpanningTree(
+	// pr_resources, 
+	// d_edge_list + 1,				// edge_list + 1 to avoid one 0
+	// unique_rep_count, 				// this many vertices are there in superGraph
+	// unique_super_graph_edges - 1);	// edges
+
+	// int* new_parent = pr_resources.d_new_parent_ptr;
+	// print_device_array(new_parent, tree_ds.delete_batch_size + 1);
 }
 
 void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& tree_ds, EulerianTour& euler_tour) {
@@ -221,9 +235,7 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
 	print_device_array(d_rep_map, num_vert);
 	
 	// weed out self loops and duplicates
-	
-	create_super_graph(tree_ds);
-	// Apply any parallel rooted spanning tree algorithm to get replacement edge.
-
+	// get the rooted spanning tree too
+	create_super_graph(tree_ds, unique_rep_count);
 }
 

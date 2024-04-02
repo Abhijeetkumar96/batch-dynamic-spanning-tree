@@ -1,4 +1,4 @@
-#include "shortcutting.h"
+#include "PR-RST/shortcutting.cuh"
 
 //Pointer Jumping Kernel
 __global__
