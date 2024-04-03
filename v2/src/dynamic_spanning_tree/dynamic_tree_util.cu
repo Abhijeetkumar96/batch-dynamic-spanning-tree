@@ -3,6 +3,8 @@
 #include "dynamic_spanning_tree/dynamic_tree_util.cuh"
 #include "dynamic_spanning_tree/update_ds.cuh"
 
+#include "hash_table/HashTable.cuh"
+
 // #define DEBUG
 
 using namespace cub;
@@ -17,7 +19,12 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     size_t num_edges = edge_list.size() * sizeof(uint64_t);
     
     // Allocate device memory
+
+    pHashTable = create_hashtable();
+
     CUDA_CHECK(cudaMalloc(&d_parent, size), "Failed to allocate memory for d_parent");
+    CUDA_CHECK(cudaMalloc(&new_parent, size), "Failed to allocate memory for d_parent");
+    CUDA_CHECK(cudaMalloc(&d_rep_dup, size), "Failed to allocate memory for d_parent");
     CUDA_CHECK(cudaMalloc(&d_org_parent, size), "Failed to allocate memory for d_org_parent");
     CUDA_CHECK(cudaMalloc(&d_unique_rep, size), "Failed to allocate memory for d_unique_rep");
     CUDA_CHECK(cudaMalloc(&d_rep_map, size), "Failed to allocate memory for d_rep_map");
@@ -35,8 +42,8 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     CUDA_CHECK(cudaMemcpy(d_edges_to_delete, edges_to_delete.data(), delete_size, cudaMemcpyHostToDevice), "Failed to copy edges to delete to device");
     CUDA_CHECK(cudaMemcpy(d_edge_list, edge_list.data(), num_edges, cudaMemcpyHostToDevice), "Failed to copy edge list to device");
     
-    // Create a hash table on the device
-    // HashTable = create_hashtable();
+    CUDA_CHECK(cudaMalloc((void **)&d_super_graph_u, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_u");
+    CUDA_CHECK(cudaMalloc((void **)&d_super_graph_v, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_v");
 }
 
 void dynamic_tree_manager::read_delete_batch(const std::string& delete_filename) {
@@ -66,8 +73,17 @@ void dynamic_tree_manager::read_delete_batch(const std::string& delete_filename)
     }
 
     #ifdef DEBUG
+
+        std::cout << "edges_to_delete array uint64_t:\n";
+
+        for(auto i : edges_to_delete)
+            std::cout << i <<" ";
+        std::cout << std::endl;
+
         std::cout << "edges_to_delete array:\n";
-        host_print(edges_to_delete);
+        for(const auto &i : edges_to_delete)
+            std::cout << (i >> 32) << " " << (i & 0xFFFFFFFF) << "\n";
+        std::cout << std::endl;
     #endif
 }
 
@@ -85,7 +101,7 @@ dynamic_tree_manager::~dynamic_tree_manager() {
     cudaFree(d_unique_rep);
     cudaFree(d_edges_to_delete);
     cudaFree(d_edge_list);
-    // destroy_hashtable(HashTable);
+    destroy_hashtable(pHashTable);
 }
 
 // ====[ End of update ds Code ]====

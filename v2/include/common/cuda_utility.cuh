@@ -30,7 +30,7 @@ inline void check_for_error(cudaError_t error, const std::string& message, const
     }
 }
 
-#define DEBUG
+// #define DEBUG
 
 #define CUDA_CHECK(err, msg) check_for_error(err, msg, __FILE__, __LINE__)
 

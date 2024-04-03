@@ -371,7 +371,7 @@ void compute_first_last(
     cudaMemcpy(h_first, new_first, numNodes * sizeof(int), cudaMemcpyDeviceToHost);
     cudaMemcpy(h_last, new_last, numNodes * sizeof(int), cudaMemcpyDeviceToHost);
 
-    bool g_verbose = true;
+    bool g_verbose = false;
     
     if(g_verbose) {
         std::cout << "Node\tFirst\tLast\n";

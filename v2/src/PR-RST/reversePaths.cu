@@ -117,5 +117,5 @@ void ReversePaths(
 	Reverse<<<numBlocks_n, numThreads>>> (d_OnPath,d_parent_ptr, d_new_parent_ptr,vertices);
 	cudaDeviceSynchronize();
 
-	cudaMemcpy(d_parent_ptr,d_new_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
+	cudaMemcpy(d_parent_ptr, d_new_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
 }

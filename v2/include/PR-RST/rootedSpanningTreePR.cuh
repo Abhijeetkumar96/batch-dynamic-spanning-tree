@@ -11,6 +11,6 @@
 
 #include "PR-RST/pr_rst_util.cuh"
 
-void RootedSpanningTree(uint64_t* d_edgelist, PR_RST& mem_mag);
+void RootedSpanningTree(uint64_t* d_edgelist, int edges, PR_RST& mem_mag);
 
 #endif // ROOTED_SPANNING_TREE_PR_CUH

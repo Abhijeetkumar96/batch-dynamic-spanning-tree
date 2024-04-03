@@ -20,13 +20,17 @@ public:
 	int *d_index_ptr;
 	int *d_pr_size_ptr;
 	int *d_flag;
+	int* interval;
+
+	// original replacement edges
+	int* d_edge_u;
+	int* d_parent_u;
 
 	int num_vert;
-	int num_edges;
 	int log_2_size;
 	long long pr_size;
 
-	PR_RST(int num_vert, int num_edges);
+	PR_RST(int num_vert);
 	void mem_alloc();
 	void mem_init();
 	~PR_RST();

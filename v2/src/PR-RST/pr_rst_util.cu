@@ -10,7 +10,7 @@ void init_pr(int *arr, int *rep, int n) {
 	}
 }
 
-PR_RST::PR_RST(int num_vert, int num_edges) : num_vert(num_vert), num_edges(num_edges) {
+PR_RST::PR_RST(int num_vert) : num_vert(num_vert) {
     mem_alloc();
     mem_init();
 }
@@ -19,10 +19,8 @@ void PR_RST::mem_alloc() {
 
 	int n = num_vert;
 	int vertices = n;
-	int edges = num_edges;
 
 	std::cout << "No. of vertices = " << vertices << std::endl;
-	std::cout << "No. of edges = " << edges << std::endl;
 
 	// Update values for pointerJumping
 	std::cout << "log2(n) = " << std::log2(n) << std::endl;
@@ -39,6 +37,12 @@ void PR_RST::mem_alloc() {
 	CUDA_CHECK(cudaMalloc((void**)&d_ptr, size), 						"Failed to allocate memory for d_ptr");
 	CUDA_CHECK(cudaMalloc((void**)&d_parent_ptr, size), 				"Failed to allocate memory for d_parent_ptr");
 	CUDA_CHECK(cudaMalloc((void**)&d_new_parent_ptr, size), 			"Failed to allocate memory for d_new_parent_ptr");
+
+	CUDA_CHECK(cudaMalloc((void**)&interval, size), 					"Failed to allocate memory for interval");
+
+	CUDA_CHECK(cudaMalloc((void**)&d_edge_u, size), 					"Failed to allocate memory for d_edge_u");
+	CUDA_CHECK(cudaMalloc((void**)&d_parent_u, size), 					"Failed to allocate memory for d_parent_u");
+
 	CUDA_CHECK(cudaMalloc((void**)&d_pr_arr, sizeof(int) * pr_size), 	"Failed to allocate memory for d_pr_arr");
 	CUDA_CHECK(cudaMalloc((void**)&d_OnPath, size), 					"Failed to allocate memory for d_OnPath");
 	CUDA_CHECK(cudaMalloc((void**)&d_new_OnPath, size), 				"Failed to allocate memory for d_new_OnPath");

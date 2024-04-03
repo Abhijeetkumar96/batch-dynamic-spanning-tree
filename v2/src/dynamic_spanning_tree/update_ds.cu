@@ -1,4 +1,5 @@
 #include <cuda_runtime.h>
+#include <iostream>
 #include <cub/cub.cuh>
 
 #include "dynamic_spanning_tree/update_ds.cuh"
@@ -125,9 +126,6 @@ void DisplayResults(T* arr, int num_items) {
     printf("\n");
 }
 
-#include <cuda_runtime.h>
-#include <iostream>
-
 void DisplayDeviceUint64Array(uint64_t* d_arr, int num_items) {
     // Allocate host memory for the copy
     uint64_t* h_arr = new uint64_t[num_items];
@@ -179,8 +177,10 @@ void sort_array_uint64_t(uint64_t* d_data, long num_items) {
 
 void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, long& num_items) {
 
-    DisplayDeviceUint64Array(d_in, num_items);
-    DisplayDeviceUCharArray(d_flags, num_items);
+    #ifdef DEBUG
+        DisplayDeviceUint64Array(d_in, num_items);
+        DisplayDeviceUCharArray(d_flags, num_items);
+    #endif
 
     long     *d_num_selected_out   = NULL;
     g_allocator.DeviceAllocate((void**)&d_num_selected_out, sizeof(long));
@@ -203,15 +203,17 @@ void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lon
     uint64_t* h_out = new uint64_t[num_items];
     cudaMemcpy(h_out, d_out, sizeof(uint64_t) * num_items, cudaMemcpyDeviceToHost);
 
-    // Print output data
-    printf("\nOutput Data (h_out):\n");
-    DisplayResults(h_out, h_num); // Print only the selected elements
+    #ifdef DEBUG
+        // Print output data
+        printf("\nOutput Data (h_out):\n");
+        DisplayResults(h_out, h_num); // Print only the selected elements
+    #endif
 
 }
 
 void update_edgelist(
     int* d_parent, int num_vert, 
-    uint64_t* d_edge_list, uint64_t* d_updated_ed_list, long num_edges, 
+    uint64_t* d_edge_list, uint64_t* d_updated_ed_list, long& num_edges, 
     uint64_t* d_edges_to_delete, int delete_size) {
 
     // sort the input edges
@@ -244,11 +246,13 @@ void update_edgelist(
     mark_tree_edges_kernel<<<numThreads, numBlocks>>>(d_parent, d_flags, d_edge_list, num_edges, num_vert);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to delete edges");
 
-    // now delete the edges from the parent array
+    // now delete the edges from the graph array
     select_flagged(d_edge_list, d_updated_ed_list, d_flags, num_edges);
 
-    std::cout << "printing updated edgelist:\n";
-    std::cout << "numEdges after delete batch: " << num_edges << "\n";
-    print_device_edge_list(d_updated_ed_list, num_edges);
+    #ifdef DEBUG
+        std::cout << "printing updated edgelist:\n";
+        std::cout << "numEdges after delete batch: " << num_edges << "\n";
+        print_device_edge_list(d_updated_ed_list, num_edges);
+    #endif
 }
 

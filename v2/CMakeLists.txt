@@ -18,6 +18,8 @@ file(GLOB_RECURSE CUDA_SRC
     "src/dynamic_spanning_tree/*.cu"
     "src/PR-RST/*.cu"
     "src/hash_table/*.cu"
+    "src/super_graph/*.cu"
+    "src/cuda_bfs/*.cu"
     "src/main.cu"
 )
 

@@ -6,7 +6,7 @@
 
 #include "common/cuda_utility.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 __global__ 
 void init_arrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_winner_ptr, size_t numElements) {
@@ -20,11 +20,10 @@ void init_arrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_w
     }
 }
 
-void RootedSpanningTree(uint64_t* d_edgelist, PR_RST& mem_mag) {
+void RootedSpanningTree(uint64_t* d_edgelist, int edges, PR_RST& mem_mag) {
 
 	int n = mem_mag.num_vert;
 	int vertices = n;
-	int edges = mem_mag.num_edges;
 
 	// Update values for pointerJumping
 	int log_2_size = std::ceil(std::log2(n));
