@@ -17,7 +17,6 @@ file(GLOB_RECURSE CUDA_SRC
     "src/common/*.cu"
     "src/dynamic_spanning_tree/*.cu"
     "src/PR-RST/*.cu"
-    "src/hash_table/*.cu"
     "src/main.cu"
 )
 

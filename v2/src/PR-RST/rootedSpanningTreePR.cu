@@ -1,19 +1,12 @@
 #include "PR-RST/rootedSpanningTreePR.cuh"
 #include "PR-RST/grafting.cuh"
 #include "PR-RST/reRoot.cuh"
+#include "PR-RST/pr_rst_util.cuh"
 #include "PR-RST/shortcutting.cuh"
 
 #include "common/cuda_utility.cuh"
 
-__global__ 
-void init(int *arr, int *rep, int n) {
-	int tid = blockDim.x * blockIdx.x + threadIdx.x;
-	if (tid < n)
-	{
-		arr[tid] = tid;
-		rep[tid] = tid;
-	}
-}
+#define DEBUG
 
 __global__ 
 void init_arrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_winner_ptr, size_t numElements) {
@@ -27,68 +20,34 @@ void init_arrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_w
     }
 }
 
+void RootedSpanningTree(uint64_t* d_edgelist, PR_RST& mem_mag) {
 
-void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEdges) {
-
-	int n = numVert;
+	int n = mem_mag.num_vert;
 	int vertices = n;
-	int edges = numEdges;
-
-	std::cout << "No. of vertices = " << vertices << std::endl;
-	std::cout << "No. of edges = " << edges << std::endl;
+	int edges = mem_mag.num_edges;
 
 	// Update values for pointerJumping
-	std::cout << "log2(n) = " << std::log2(n) << std::endl;
 	int log_2_size = std::ceil(std::log2(n));
 	long long pr_size = std::ceil(n * 1LL * log_2_size);
-	std::cout << "pr_size = " << pr_size << std::endl;
-	
 	long long size = n * 1LL * sizeof(int); // For n vertices
 
-	std::cout << "size: " <<  size << std::endl;
-
-	int *d_winner_ptr;
-	int *d_ptr;
-	int *d_parent_ptr;
-	int *d_new_parent_ptr;
-	int *d_pr_arr;
-	int *d_label;
-	int *d_OnPath;
-	int *d_new_OnPath;
-	int *d_rep;
-	int *d_marked_parent;
-	int *d_next;
-	int *d_new_next;
-	int *d_index_ptr;
-	int *d_pr_size_ptr;
-	int *d_flag;
-
-	CUDA_CHECK(cudaMalloc(&d_flag, sizeof(int)), 						"Failed to allocate memory for d_flag");
-	CUDA_CHECK(cudaMalloc((void**)&d_winner_ptr, n * sizeof(int)), 		"Failed to allocate memory for d_winner_ptr");
-	CUDA_CHECK(cudaMalloc((void**)&d_ptr, size), 						"Failed to allocate memory for d_ptr");
-	CUDA_CHECK(cudaMalloc((void**)&d_parent_ptr, size), 				"Failed to allocate memory for d_parent_ptr");
-	CUDA_CHECK(cudaMalloc((void**)&d_new_parent_ptr, size), 			"Failed to allocate memory for d_new_parent_ptr");
-	CUDA_CHECK(cudaMalloc((void**)&d_pr_arr, sizeof(int) * pr_size), 	"Failed to allocate memory for d_pr_arr");
-	CUDA_CHECK(cudaMalloc((void**)&d_label, size), 						"Failed to allocate memory for d_label");
-	CUDA_CHECK(cudaMalloc((void**)&d_rep, size), 						"Failed to allocate memory for d_rep");
-	CUDA_CHECK(cudaMalloc((void**)&d_OnPath, size), 					"Failed to allocate memory for d_OnPath");
-	CUDA_CHECK(cudaMalloc((void**)&d_new_OnPath, size), 				"Failed to allocate memory for d_new_OnPath");
-	CUDA_CHECK(cudaMalloc((void**)&d_marked_parent, size), 				"Failed to allocate memory for d_marked_parent");
-	CUDA_CHECK(cudaMalloc((void**)&d_next, size), 						"Failed to allocate memory for d_next");
-	CUDA_CHECK(cudaMalloc((void**)&d_new_next, size), 					"Failed to allocate memory for d_new_next");
-	CUDA_CHECK(cudaMalloc((void**)&d_index_ptr, size), 					"Failed to allocate memory for d_index_ptr");
-	CUDA_CHECK(cudaMalloc((void**)&d_pr_size_ptr, sizeof(int)), 		"Failed to allocate memory for d_pr_size_ptr");
+	int *d_winner_ptr 		= 	mem_mag.d_winner_ptr;
+	int *d_ptr 				= 	mem_mag.d_ptr;
+	int *d_parent_ptr 		= 	mem_mag.d_parent_ptr;
+	int *d_new_parent_ptr 	= 	mem_mag.d_new_parent_ptr;
+	int *d_pr_arr 			= 	mem_mag.d_pr_arr;
+	int *d_OnPath 			= 	mem_mag.d_OnPath;
+	int *d_new_OnPath 		= 	mem_mag.d_new_OnPath;
+	int *d_marked_parent 	= 	mem_mag.d_marked_parent;
+	int *d_next 			=	mem_mag.d_next;
+	int *d_new_next 		=	mem_mag.d_new_next;
+	int *d_index_ptr 		=	mem_mag.d_index_ptr;
+	int *d_pr_size_ptr 		= 	mem_mag.d_pr_size_ptr;
+	int *d_flag 			=	mem_mag.d_flag;
 
 	// Till here pointerJumping values set up
 
-	int numThreads = 1024;
-	int numBlocks_n = (vertices + numThreads - 1) / numThreads;
-
 	auto start = std::chrono::high_resolution_clock::now();
-
-	// Step 1: Initialize rep with vertices themselves
-	init<<<numBlocks_n, numThreads>>>(d_ptr, d_parent_ptr, vertices);
-	cudaDeviceSynchronize();
 
 	int flag = 1;
 	int iter_number = 0;
@@ -123,23 +82,23 @@ void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEd
 		cudaMemcpy(&flag, d_flag, sizeof(int), cudaMemcpyDeviceToHost);
 	}
 	
-	std::vector<int> h_parent(n), h_rep(n);
-	cudaMemcpy(h_parent.data(), d_parent_ptr, n*sizeof(int), cudaMemcpyDeviceToHost);
-	cudaMemcpy(h_rep.data(), d_ptr, n*sizeof(int), cudaMemcpyDeviceToHost);
-	
-	std::cout << "parent array : \n";
+	#ifdef DEBUG
+		std::vector<int> h_parent(n), h_rep(n);
+		cudaMemcpy(h_parent.data(), d_parent_ptr, n*sizeof(int), cudaMemcpyDeviceToHost);
+		cudaMemcpy(h_rep.data(), d_ptr, n*sizeof(int), cudaMemcpyDeviceToHost);
+		
+		std::cout << "parent array : \n";
 
-	int j = 0;
-	for (auto i : h_parent)
-		std::cout << "parent[" << j++ << "] = " << i << std::endl;
-	std::cout << std::endl;
+		int j = 0;
+		for (auto i : h_parent)
+			std::cout << "parent[" << j++ << "] = " << i << std::endl;
+		std::cout << std::endl;
 
-	std::cout<<"Parent before exiting module \n\n";
-	for(auto i : h_parent){
-		std::cout<<i<<" ";
-	}
+		std::cout<<"Parent before exiting module \n\n";
+		for(auto i : h_parent){
+			std::cout<<i<<" ";
+		}
 
-	std::cout<<std::endl;
-
-	cudaFree(d_OnPath);
+		std::cout<<std::endl;
+	#endif
 }

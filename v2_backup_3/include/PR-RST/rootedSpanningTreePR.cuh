@@ -9,8 +9,6 @@
 #include <chrono>
 #include <cuda.h>
 
-#include "PR-RST/pr_rst_util.cuh"
-
-void RootedSpanningTree(uint64_t* d_edgelist, PR_RST& mem_mag);
+void RootedSpanningTree(uint64_t* d_edgelist, const int numVert, const int numEdges);
 
 #endif // ROOTED_SPANNING_TREE_PR_CUH
