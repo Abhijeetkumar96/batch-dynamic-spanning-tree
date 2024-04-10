@@ -1,7 +1,7 @@
 #include "PR-RST/grafting.cuh"
 
 __global__
-void DetermineWinners(uint64_t* d_edgelist, int *rep, int *winner, int edges, int *d_flag) {
+void DetermineWinners(int* d_edge_u, int* d_edge_v, int *rep, int *winner, int edges, int *d_flag) {
 	
 	int tid = blockDim.x * blockIdx.x + threadIdx.x;
 	if(tid < edges) {
@@ -9,9 +9,8 @@ void DetermineWinners(uint64_t* d_edgelist, int *rep, int *winner, int edges, in
 		//for each neighbor j of vertex i:
 		//Assuming u as vertex i and v as all neighbours of u
 
-		uint64_t t = d_edgelist[tid];
-        uint32_t u = (uint32_t)t & 0xFFFFFFFF;
-        uint32_t v = (uint32_t)(t >> 32);
+		int u = d_edge_u[tid];
+        int v = d_edge_v[tid];
 
 		int rep_u = rep[u], rep_v = rep[v];
 
@@ -23,16 +22,15 @@ void DetermineWinners(uint64_t* d_edgelist, int *rep, int *winner, int edges, in
 }
 
 __global__ 
-void UpdateLabels(uint64_t* d_edgelist, int *rep, int *winner, int edges, int *marked_parent, int *onPath)
+void UpdateLabels(int* d_edge_u, int* d_edge_v, int *rep, int *winner, int edges, int *marked_parent, int *onPath)
 {
 
 	int tid = blockDim.x * blockIdx.x + threadIdx.x;
 
-	if (tid < edges)
-	{
-		uint64_t t = d_edgelist[tid];
-        uint32_t u = (uint32_t)t & 0xFFFFFFFF;
-        uint32_t v = (uint32_t)(t >> 32);
+	if (tid < edges) {		
+
+        int u = d_edge_u[tid];
+        int v = d_edge_v[tid];
 
 		int rep_u = rep[u], rep_v = rep[v];
 
@@ -56,7 +54,8 @@ void UpdateLabels(uint64_t* d_edgelist, int *rep, int *winner, int edges, int *m
 void Graft(
 	int vertices,
 	int edges,
-	uint64_t* d_edgelist,
+	int *edge_u,
+	int *edge_v,
 	int *d_ptr,
 	int *d_winner_ptr,
 	int *d_marked_parent,
@@ -69,10 +68,10 @@ void Graft(
 	int numBlocks_e = (edges + numThreads - 1) / numThreads;
 
 	// Step 2.1: Determine potential winners for each vertex
-	DetermineWinners<<<numBlocks_e, numThreads>>> (d_edgelist, d_ptr, d_winner_ptr, edges, d_flag);
+	DetermineWinners<<<numBlocks_e, numThreads>>> (edge_u, edge_v, d_ptr, d_winner_ptr, edges, d_flag);
 	cudaDeviceSynchronize();
 
 	// Step 2.2: Update labels based on winners and mark parents
-	UpdateLabels<<<numBlocks_e, numThreads>>>(d_edgelist, d_ptr, d_winner_ptr, edges, d_marked_parent, d_OnPath);
+	UpdateLabels<<<numBlocks_e, numThreads>>>(edge_u, edge_v, d_ptr, d_winner_ptr, edges, d_marked_parent, d_OnPath);
 	cudaDeviceSynchronize();	
 }

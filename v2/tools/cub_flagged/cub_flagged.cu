@@ -1,3 +1,5 @@
+// nvcc -std=c++17 -O3 cub_flagged.cu -o cub_flagged
+
 #include <stdio.h>
 #include <random>
 #include <limits.h>

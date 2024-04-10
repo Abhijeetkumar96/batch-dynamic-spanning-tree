@@ -8,6 +8,15 @@
 
 // #define DEBUG
 
+__global__
+void update_parent(int* d_parent) {
+	int idx = blockIdx.x * blockDim.x + threadIdx.x;	
+	if(idx == 0) {
+		d_parent[0] = 1;
+		d_parent[1] = 1;
+	}
+}
+
 __global__ 
 void init_arrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_winner_ptr, size_t numElements) {
     size_t idx = blockIdx.x * blockDim.x + threadIdx.x;
@@ -20,7 +29,7 @@ void init_arrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_w
     }
 }
 
-void RootedSpanningTree(uint64_t* d_edgelist, int edges, PR_RST& mem_mag) {
+void RootedSpanningTree(int* d_edge_u, int* d_edge_v, int edges, PR_RST& mem_mag) {
 
 	int n = mem_mag.num_vert;
 	int vertices = n;
@@ -48,6 +57,33 @@ void RootedSpanningTree(uint64_t* d_edgelist, int edges, PR_RST& mem_mag) {
 
 	auto start = std::chrono::high_resolution_clock::now();
 
+	if(edges == 1) {
+		update_parent<<<1,1>>>(d_parent_ptr);
+		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_parent kernel");
+
+		#ifdef DEBUG
+			std::vector<int> h_parent(n), h_rep(n);
+			cudaMemcpy(h_parent.data(), d_parent_ptr, n * sizeof(int), cudaMemcpyDeviceToHost);
+			cudaMemcpy(h_rep.data(), d_ptr, n * sizeof(int), cudaMemcpyDeviceToHost);
+			
+			std::cout << "parent array : \n";
+
+			int j = 0;
+			for (auto i : h_parent)
+				std::cout << "parent[" << j++ << "] = " << i << std::endl;
+			std::cout << std::endl;
+
+			std::cout<<"Parent before exiting module \n\n";
+			for(auto i : h_parent){
+				std::cout<<i<<" ";
+			}
+
+			std::cout<<std::endl;
+		#endif
+
+		return;
+	}
+
 	int flag = 1;
 	int iter_number = 0;
 
@@ -67,7 +103,7 @@ void RootedSpanningTree(uint64_t* d_edgelist, int edges, PR_RST& mem_mag) {
 		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after init_arrays kernel");
 
 		//Step 2: Graft
-		Graft(vertices, edges, d_edgelist, d_ptr, d_winner_ptr, d_marked_parent, d_OnPath, d_flag);
+		Graft(vertices, edges, d_edge_u, d_edge_v, d_ptr, d_winner_ptr, d_marked_parent, d_OnPath, d_flag);
 		ReRoot(vertices, edges, log_2_size, iter_number, d_OnPath, d_new_OnPath , d_pr_arr, d_parent_ptr, d_new_parent_ptr, d_index_ptr, d_pr_size_ptr, d_marked_parent, d_ptr);
 		cudaMemcpy(d_next, d_parent_ptr, size, cudaMemcpyDeviceToDevice);
 

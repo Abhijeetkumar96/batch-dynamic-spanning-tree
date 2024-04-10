@@ -194,6 +194,23 @@ void compute_first_last(
     }
 }
 
+
+__global__
+void update_root_last(
+    int* new_last_ptr, 
+    int* child_count, 
+    int* child_list, 
+    int* starting_index,
+    int root) {
+    
+    int i = blockIdx.x * blockDim.x + threadIdx.x;
+
+    if(i == 0) {
+        int last_child_root = child_list[starting_index[root] + child_count[root] - 1];
+        new_last_ptr[root] = new_last_ptr[last_child_root] + 1;
+    }
+}
+
 /**
  * Function: parallelSubgraphComputation()
  *
@@ -219,6 +236,8 @@ void compute_first_last(
  */
  void cal_first_last(int root, int* d_parent, EulerianTour& eulerTour) {
     
+    std::cout << "root: " << root << std::endl;
+
     const int numNodes      =   eulerTour.N;
     const int edge_count    =   numNodes - 1;
     const int edges         =   edge_count * 2;
@@ -362,6 +381,13 @@ void compute_first_last(
         new_first, 
         new_last);
 
+    update_root_last<<<1,1>>>(
+        new_last, 
+        d_child_count, 
+        d_child_list, 
+        starting_index, 
+        root);
+
     cudaDeviceSynchronize();
 
     int* h_first = new int[numNodes];
@@ -371,7 +397,7 @@ void compute_first_last(
     cudaMemcpy(h_first, new_first, numNodes * sizeof(int), cudaMemcpyDeviceToHost);
     cudaMemcpy(h_last, new_last, numNodes * sizeof(int), cudaMemcpyDeviceToHost);
 
-    bool g_verbose = false;
+    bool g_verbose = true;
     
     if(g_verbose) {
         std::cout << "Node\tFirst\tLast\n";

@@ -95,25 +95,6 @@ void print_device_edge_list_kernel(T* edgeList, long numEdges) {
 
 void pointer_jumping(int* d_next, int n);
 
-/*
-    Scenario 1:
-    - num_items             <-- [8]
-    - d_in                  <-- [0, 2, 2, 9, 5, 5, 5, 8]
-    - d_out                 <-- [0, 2, 9, 5, 8]
-    - d_num_selected_out    <-- [5]    
-
-    Scenario 2:
-    - d_in                  <-- [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
-    - d_out                 <-- [0, 1, 0] 
-
-    So we need to have the array sorted
-*/
-// void find_unique(
-//     int* d_in, 
-//     int* d_out,
-//     int num_items,
-//     int& h_num_selected_out);
-
 template <typename T>
 inline void host_print(const std::vector<T> arr) {
     for(const auto &i : arr)
@@ -132,6 +113,52 @@ inline void print_device_edge_list(const T* arr, long size) {
     print_device_edge_list_kernel<<<1, 1>>>(arr, size);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_device_edge_list_kernel");
 }
+
+inline void DisplayDeviceEdgeList(const int *device_u, const int *device_v, size_t num_edges) {
+    std::cout << "\n" << "Edge List:" << "\n";
+    int *host_u = new int[num_edges];
+    int *host_v = new int[num_edges];
+    cudaMemcpy(host_u, device_u, num_edges * sizeof(int), cudaMemcpyDeviceToHost);
+    cudaMemcpy(host_v, device_v, num_edges * sizeof(int), cudaMemcpyDeviceToHost);
+    cudaDeviceSynchronize();
+    for (size_t i = 0; i < num_edges; ++i) {
+        std::cout << " Edge[" << i << "]: (" << host_u[i] << ", " << host_v[i] << ")" << "\n";
+    }
+    delete[] host_u;
+    delete[] host_v;
+}
+
+
+void remove_self_loops_duplicates(
+    int*&           d_keys,               // Input keys (edges' first vertices)
+    int*&           d_values,             // Input values (edges' second vertices)
+    int             num_items,
+    uint64_t*&      d_merged,             // Intermediate storage for merged (zipped) keys and values
+    unsigned char*& d_flags,              // Flags used to mark items for removal
+    int*            d_num_selected_out,   // Output: number of items selected (non-duplicates, non-self-loops)
+    int*&           d_keys_out,           // Output keys (processed edges' first vertices)
+    int*&           d_values_out,         // Output values (processed edges' second vertices)
+    void*&          d_temp_storage);
+
+/*
+    Scenario 1:
+    - num_items             <-- [8]
+    - d_in                  <-- [0, 2, 2, 9, 5, 5, 5, 8]
+    - d_out                 <-- [0, 2, 9, 5, 8]
+    - d_num_selected_out    <-- [5]    
+
+    Scenario 2:
+    - d_in                  <-- [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
+    - d_out                 <-- [0, 1, 0] 
+
+    So we need to have the array sorted
+    ** all indices marked as 1 get to stay
+*/
+// void find_unique(
+//     int* d_in, 
+//     int* d_out,
+//     int num_items,
+//     int& h_num_selected_out);
 
 template <typename T1, typename T2>
 inline void find_unique(

@@ -20,6 +20,7 @@ file(GLOB_RECURSE CUDA_SRC
     "src/hash_table/*.cu"
     "src/super_graph/*.cu"
     "src/cuda_bfs/*.cu"
+    "src/connected_components/*.cu"
     "src/main.cu"
 )
 

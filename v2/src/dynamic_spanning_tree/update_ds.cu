@@ -7,7 +7,6 @@
 
 using namespace cub;
 
-bool g_verbose = true;  // Whether to display input/output to console
 CachingDeviceAllocator g_allocator(true);  // Caching allocator for device memory
 
 __device__ __forceinline__
@@ -28,7 +27,6 @@ long binary_search(uint64_t* array, long num_elements, uint64_t key) {
     return -1; // Key not found
 }
 
-
 __global__
 void print_variable(long* u) {
     int index = threadIdx.x + blockIdx.x * blockDim.x;
@@ -44,7 +42,7 @@ void mark_delete_edges_kernel(
     long num_edges,         
     uint64_t* d_edges_to_delete, // size <- delete_batch_size
     int delete_batch_size, 
-    unsigned char* d_flags)       // size <- numEdges
+    unsigned char* d_flags)     // size <- numEdges
 {
 
     int tid = blockIdx.x * blockDim.x + threadIdx.x;
@@ -126,21 +124,25 @@ void DisplayResults(T* arr, int num_items) {
     printf("\n");
 }
 
-void DisplayDeviceUint64Array(uint64_t* d_arr, int num_items) {
+void DisplayDeviceUint64Array(uint64_t* d_arr, unsigned char* d_flags, int num_items) {
     // Allocate host memory for the copy
     uint64_t* h_arr = new uint64_t[num_items];
     
     // Copy data from device to host
     cudaMemcpy(h_arr, d_arr, sizeof(uint64_t) * num_items, cudaMemcpyDeviceToHost);
     
-    std::cout << "Device h_in Array: ";
+    unsigned char* flag_arr = new unsigned char[num_items];
+    cudaMemcpy(flag_arr, d_flags, sizeof(unsigned char) * num_items, cudaMemcpyDeviceToHost);
+    
+    std::cout << "Device h_in Array: \n";
     for(int i = 0; i < num_items; ++i) {
-        std::cout << h_arr[i] << " ";
+        std::cout << h_arr[i] << " <-- " << static_cast<int>(flag_arr[i]) << "\n";
     }
     std::cout << std::endl;
     
     // Cleanup host memory
     delete[] h_arr;
+    delete[] flag_arr;
 }
 
 void DisplayDeviceUCharArray(unsigned char* d_arr, int num_items) {
@@ -177,11 +179,11 @@ void sort_array_uint64_t(uint64_t* d_data, long num_items) {
 
 void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, long& num_items) {
 
-    #ifdef DEBUG
-        DisplayDeviceUint64Array(d_in, num_items);
-        DisplayDeviceUCharArray(d_flags, num_items);
-    #endif
-
+    if(g_verbose) {
+        DisplayDeviceUint64Array(d_in, d_flags, num_items);
+        // DisplayDeviceUCharArray(d_flags, num_items);
+    }
+    
     long     *d_num_selected_out   = NULL;
     g_allocator.DeviceAllocate((void**)&d_num_selected_out, sizeof(long));
 
@@ -203,11 +205,11 @@ void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lon
     uint64_t* h_out = new uint64_t[num_items];
     cudaMemcpy(h_out, d_out, sizeof(uint64_t) * num_items, cudaMemcpyDeviceToHost);
 
-    #ifdef DEBUG
+    if(g_verbose) {
         // Print output data
         printf("\nOutput Data (h_out):\n");
         DisplayResults(h_out, h_num); // Print only the selected elements
-    #endif
+    }
 
 }
 
@@ -249,10 +251,10 @@ void update_edgelist(
     // now delete the edges from the graph array
     select_flagged(d_edge_list, d_updated_ed_list, d_flags, num_edges);
 
-    #ifdef DEBUG
+    if(g_verbose) {
         std::cout << "printing updated edgelist:\n";
         std::cout << "numEdges after delete batch: " << num_edges << "\n";
         print_device_edge_list(d_updated_ed_list, num_edges);
-    #endif
+    }
 }
 

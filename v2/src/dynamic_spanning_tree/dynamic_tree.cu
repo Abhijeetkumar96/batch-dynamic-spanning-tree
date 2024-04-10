@@ -8,6 +8,8 @@
 #include "PR-RST/pr_rst_util.cuh"
 #include "dynamic_spanning_tree/path_reversal.cuh"
 
+// #define DEBUG
+
 __global__
 void update_rep_map(int* d_unique_rep, int* d_rep_map, int unique_rep_count) {
 	unsigned int tid = blockIdx.x * blockDim.x + threadIdx.x;
@@ -85,4 +87,6 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
 
     std::cout << "Total elapsed time for dynamic_spanning_tree repair: " << myTimer.getElapsedMilliseconds() << " ms" << std::endl;
 
+    // validation
+    // do pointer_jumping and is_unique
 }

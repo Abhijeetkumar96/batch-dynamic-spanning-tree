@@ -12,7 +12,8 @@
 void Graft(
 	int vertices,
 	int edges,
-	uint64_t* d_edgelist,
+	int* d_edge_u,
+	int* d_edge_v,
 	int *d_ptr,
 	int *d_winner_ptr,
 	int *d_marked_parent,

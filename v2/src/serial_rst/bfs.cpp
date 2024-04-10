@@ -39,6 +39,11 @@ int bfs(const std::vector<long>& nodes, const std::vector<int>& edges, std::vect
     int n = nodes.size() - 1, numComp = 0;
     std::vector<bool> visited(n, false);
 
+    int root = 5;
+    BFS_CSR(nodes, edges, root, parent, visited);
+    roots.push_back(root);
+    numComp++;
+
     for (int i = 0; i < n; ++i) {
         if (!visited[i]) 
         {
