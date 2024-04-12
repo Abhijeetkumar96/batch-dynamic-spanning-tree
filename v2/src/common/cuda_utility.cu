@@ -7,7 +7,7 @@
 
 #include "common/cuda_utility.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 using namespace cub;
 
@@ -26,6 +26,20 @@ void p_jump_kernel(int n, int *d_next) {
     }
 }
 
+__global__
+void pointer_jumping_kernel(int *next, int n)
+{
+    int tid = blockIdx.x * blockDim.x + threadIdx.x;    
+    if(tid < n)
+    {
+
+        if(next[tid] != tid)
+        {
+            next[tid] = next[next[tid]];
+        }
+    }
+}
+
 void pointer_jumping(int* d_next, int n) {
 
     // calculate the optimal number of threads and blocks
@@ -34,8 +48,13 @@ void pointer_jumping(int* d_next, int n) {
     
     auto parallel_start = std::chrono::high_resolution_clock::now();  
     
-    p_jump_kernel<<<blocksPerGrid, threadsPerBlock>>>(n, d_next);
-    cudaDeviceSynchronize();
+    // p_jump_kernel<<<blocksPerGrid, threadsPerBlock>>>(n, d_next);
+    // cudaDeviceSynchronize();
+
+    for (int j = 0; j < std::ceil(std::log2(n)); ++j){
+        pointer_jumping_kernel<<<blocksPerGrid, threadsPerBlock>>>(d_next, n);
+        cudaDeviceSynchronize();
+    }
 
     auto parallel_end = std::chrono::high_resolution_clock::now();
     auto parallel_duration = std::chrono::duration_cast<std::chrono::microseconds>(parallel_end - parallel_start).count();
@@ -149,7 +168,7 @@ void remove_self_loops_duplicates(
     void*&          d_temp_storage)       // Temporary storage for intermediate computations
 
 {
-    std::cout <<"num_items before edge_cleanup: " << num_items << "\n";
+    // std::cout <<"num_items before edge_cleanup: " << num_items << "\n";
     cudaError_t status;
     
     if(g_verbose) {
@@ -182,8 +201,8 @@ void remove_self_loops_duplicates(
     CUDA_CHECK(status, "Error in CUB Flagged");
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
-    std::cout <<"NumEdges after cleaning up: " << num_items << "\n";
-    std::cout <<"Cleaned edge stream:\n";
+    // std::cout <<"NumEdges after cleaning up: " << num_items << "\n";
+    // std::cout <<"Cleaned edge stream:\n";
     
     if(g_verbose)
         DisplayDeviceEdgeList(d_keys_out, d_values_out, *d_num_selected_out);

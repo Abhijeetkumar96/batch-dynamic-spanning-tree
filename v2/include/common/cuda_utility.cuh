@@ -71,7 +71,7 @@ template <typename T>
 __global__ 
 void print_device_array_kernel(T* array, long size) {
     int index = threadIdx.x + blockIdx.x * blockDim.x;
-    if (index == 0) { // Let only a single thread do the printing
+    if (index == 0) { 
         for (int i = 0; i < size; ++i) {
             printf("Array[%d] = %d\n", i, array[i]);
         }
@@ -165,7 +165,8 @@ inline void find_unique(
     T1* d_in, 
     T1* d_out,
     T2 num_items,
-    T2& h_num_selected_out) {
+    T2& h_num_selected_out,
+    bool print = false) {
     
     void* d_temp_storage = nullptr;
     size_t temp_storage_bytes = 0;
@@ -185,6 +186,16 @@ inline void find_unique(
 
     // Run sorting operation
     cub::DeviceRadixSort::SortKeys(d_temp_storage, max_temp_storage_bytes, d_in, d_in, num_items);
+    // print d_in values 
+    if(print) {
+        int* h_in = new int[num_items];
+        CUDA_CHECK(cudaMemcpy(h_in, d_in, num_items * sizeof(int), cudaMemcpyDeviceToHost), "Failed to copy back sorted results");
+        std::cout << "sorted array output:\n";
+        for(int i = 0; i < num_items; ++i) {
+            std::cout << h_in[i] << "\n";
+        }
+        std::cout << std::endl;
+    }
 
     // Run unique selection operation
     cub::DeviceSelect::Unique(d_temp_storage, max_temp_storage_bytes, d_in, d_out, d_num_selected_out, num_items);

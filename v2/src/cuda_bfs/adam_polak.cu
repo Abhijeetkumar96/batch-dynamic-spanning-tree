@@ -5,7 +5,9 @@
 #include <cuda.h>
 #include <cub/cub.cuh>
 
+#include "common/cuda_utility.cuh"
 #include "cuda_bfs/cuda_bfs.cuh"
+#include "common/Timer.hpp"
 
 // #define DEBUG
 
@@ -142,6 +144,10 @@ void adam_polak_bfs(int n, long m, long* d_nodes, int* d_edges) {
     h_nodefrontier_size[0] = 1;
     h_edgefrontier_size[0] = 0;
 
+    Timer myTimer;
+    myTimer.start();
+    std::cout << "Timer for adam_bfs started" << std::endl;
+
     while(h_nodefrontier_size[0] > 0) {
 
         level[0]++;
@@ -176,15 +182,29 @@ void adam_polak_bfs(int n, long m, long* d_nodes, int* d_edges) {
         cudaDeviceSynchronize();
     }
 
-        
+    std::cout << "Total elapsed time for adam mgpu_BFS: " << myTimer.getElapsedMilliseconds() << " ms" << std::endl;    
+    
+    #ifdef DEBUG
         // print d_distance to output_updated.txt
         int* h_distance = (int*)malloc(n * sizeof(int));
         cudaMemcpy(h_distance, d_distance, n * sizeof(int), cudaMemcpyDeviceToHost);
-        
-        #ifdef DEBUG
-          std::cout << "numNodes: " << n << "\n";
-            for(int i = 0; i < n; i++)
-                cout << h_distance[i] << " ";
-            std::cout << std::endl;
-        #endif
+        std::cout << "numNodes: " << n << "\n";
+        for(int i = 0; i < n; i++)
+            cout << h_distance[i] << " ";
+        std::cout << std::endl;
+        delete[] h_distance;
+    #endif
+
+    CUDA_CHECK(cudaFree(d_nodefrontier),            "Error freeing d_nodefrontier");
+    CUDA_CHECK(cudaFree(d_edgefrontier),            "Error freeing d_edgefrontier");
+    CUDA_CHECK(cudaFree(d_rank),                    "Error freeing d_rank");
+    CUDA_CHECK(cudaFree(d_distance),                "Error freeing d_distance");
+    CUDA_CHECK(cudaFree(d_segments),                "Error freeing d_segments");
+    CUDA_CHECK(cudaFree(d_seg),                     "Error freeing d_seg");
+    CUDA_CHECK(cudaFree(d_seg1),                    "Error freeing d_seg1"); 
+    CUDA_CHECK(cudaFree(d_temp_storage),            "Error freeing d_temp_storage");
+
+    CUDA_CHECK(cudaFreeHost(h_nodefrontier_size),   "Error freeing h_nodefrontier_size");
+    CUDA_CHECK(cudaFreeHost(level),                 "Error freeing level");
+    CUDA_CHECK(cudaFreeHost(h_edgefrontier_size),   "Error freeing h_edgefrontier_size");
 }

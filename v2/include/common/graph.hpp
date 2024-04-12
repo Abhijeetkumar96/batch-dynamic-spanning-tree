@@ -33,6 +33,7 @@ public:
     }
 
     void print_CSR() {
+        std::cout << "CSR for graph G:\n";
         for (int i = 0; i < numVert; ++i) {
             std::cout << "Vertex " << i << " is connected to: ";
             for (int j = vertices[i]; j < vertices[i + 1]; ++j) {

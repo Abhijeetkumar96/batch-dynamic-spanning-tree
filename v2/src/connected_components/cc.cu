@@ -112,7 +112,7 @@ void cc(int* edge_u, int* edge_v, int numVert, long numEdges) {
 
     std::vector<int> host_rep(numVert);
 
-    printMemoryInfo("after allocation is done");
+    // printMemoryInfo("after allocation is done");
 
     const long numThreads = 1024;
     int numBlocks = (numVert + numThreads - 1) / numThreads;
@@ -121,7 +121,7 @@ void cc(int* edge_u, int* edge_v, int numVert, long numEdges) {
     checkCudaError(cudaMalloc(&d_flag, sizeof(int)), "Unable to allocate flag value");
     auto start = std::chrono::high_resolution_clock::now();
     int* d_rep;
-    checkCudaError(cudaMalloc(&d_rep, numVert*sizeof(int)), "Unable to allocate rep array");
+    checkCudaError(cudaMalloc(&d_rep, numVert * sizeof(int)), "Unable to allocate rep array");
 
     initialise<<<numBlocks, numThreads>>>(d_rep, numVert);
     cudaError_t err = cudaGetLastError();
@@ -170,4 +170,7 @@ void cc(int* edge_u, int* edge_v, int numVert, long numEdges) {
     std::set<int> num_comp(host_rep.begin(), host_rep.end());
 
     std::cout <<"numComp = " << num_comp.size() << std::endl;
+
+    checkCudaError(cudaFree(d_flag), "Failed to free flag");
+    checkCudaError(cudaFree(d_rep), "Failed to free d_rep");
 }
