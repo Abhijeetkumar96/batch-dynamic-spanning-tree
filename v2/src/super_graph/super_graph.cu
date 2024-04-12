@@ -152,7 +152,8 @@ void superGraphKernel(
         uint32_t d_nst_u = edge >> 32;
         uint32_t d_nst_v = edge & 0xFFFFFFFF;
 
-        // printf("\nFor tid = %d, nst_u = %d, nst_v = %d, rep_u = %d, rep_v = %d, mapped_rep_u = %d, mapped_rev_v = %d ", tid, d_nst_u[tid], d_nst_v[tid], d_nst_u[tid], d_nst_v[tid], d_repMap[rep_array[d_nst_u[tid]]], d_repMap[rep_array[d_nst_v[tid]]]);
+        // printf("\nFor tid = %d, nst_u = %d, nst_v = %d \n", tid, d_nst_u, d_nst_v);
+
         superGraph_u[tid] = d_repMap[rep_array[d_nst_u]];
         superGraph_v[tid] = d_repMap[rep_array[d_nst_v]];
 
@@ -165,8 +166,14 @@ void superGraphKernel(
         int key1 = superGraph_u[tid];
         int key2 = superGraph_v[tid];
         
-        if(key1 > key2)
+        // printf("For tid = %d, value1 = %d, value2 = %d, key1 = %d, key2 = %d\n", tid, value1, value2, key1, key2);
+
+        if(key1 > key2) {
             swap_32(key1, key2);
+            swap_32(value1, value2);
+        }
+
+        // printf("For tid = %d, value1 = %d, value2 = %d, key1 = %d, key2 = %d\n", tid, value1, value2, key1, key2);
 
         unsigned long long key = combine_keys(key1, key2);
         uint64_t slot = hash(key);
@@ -190,19 +197,19 @@ void superGraphKernel(
 void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_mag, const int& unique_rep_count) {
 
     //-------------------------- Assign local pointers ----------------------------
-    keyValues* pHashTable = tree_ds.pHashTable;
+    keyValues* pHashTable   =   tree_ds.pHashTable;
 
-    uint64_t* d_edge_list = tree_ds.d_updated_edge_list;
-    uint64_t* d_super_graph = tree_ds.d_edge_list;
+    uint64_t* d_edge_list   =   tree_ds.d_updated_edge_list;
+    uint64_t* d_super_graph =   tree_ds.d_edge_list;
     
-    int* d_rep = tree_ds.d_parent;                                                                              
-    int* d_rep_map = tree_ds.d_rep_map; 
-    int* d_unique_rep = tree_ds.d_unique_rep;                                            
-    int* parent_u = pr_resource_mag.d_parent_u;
-    int* edge_u = pr_resource_mag.d_edge_u;
+    int* d_rep              =   tree_ds.d_parent;                                                                              
+    int* d_rep_map          =   tree_ds.d_rep_map; 
+    int* d_unique_rep       =   tree_ds.d_unique_rep;                                            
+    int* parent_u           =   pr_resource_mag.d_parent_u;
+    int* edge_u             =   pr_resource_mag.d_edge_u;
     
-    int* d_super_graph_u = tree_ds.d_super_graph_u;
-    int* d_super_graph_v = tree_ds.d_super_graph_v;
+    int* d_super_graph_u    =   tree_ds.d_super_graph_u;
+    int* d_super_graph_v    =   tree_ds.d_super_graph_v;
     
     int* d_new_super_graph_u = tree_ds.d_new_super_graph_u;
     int* d_new_super_graph_v = tree_ds.d_new_super_graph_v;
@@ -228,13 +235,17 @@ void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_ma
 
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
     
+    // g_verbose = true;
+
     if(g_verbose) {
+        std::cout << "printing from get_replacement_edges func:\n";
         DisplayDeviceEdgeList(d_super_graph_u, d_super_graph_v, num_edges);
     }
-    // if(g_verbose) {
-    //     std::cout << "remapped edges (d_super_graph (combined edges)):\n";
-    //     print_device_edge_list(d_super_graph, num_edges);
-    // }
+
+    if(g_verbose) {
+        std::cout << "remapped edges (d_super_graph (combined edges)):\n";
+        print_device_edge_list(d_super_graph, num_edges);
+    }
     
     // find unique edges
     // d_edge_list contains the new set of edges now and unique_super_graph_edges is the count
