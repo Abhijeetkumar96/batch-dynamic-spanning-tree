@@ -33,6 +33,8 @@
 
 using namespace cub;
 
+// #define DEBUG
+
 CachingDeviceAllocator g_allocator_(true);  // Caching allocator for device memory
 
 __device__ __forceinline__
@@ -117,6 +119,8 @@ void sort_array_uint64_t_(uint64_t* d_data, long num_items) {
     // Run sorting operation
     cub::DeviceRadixSort::SortKeys(d_temp_storage, temp_storage_bytes, d_data, d_data, num_items);
     cudaDeviceSynchronize();
+
+    CUDA_CHECK(cudaFree(d_temp_storage), "Failed to free d_temp_storage");
 }
 
 void select_flagged_(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, long& num_items) {
@@ -153,6 +157,9 @@ void select_flagged_(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lo
         DisplayResults(h_out, h_num); // Print only the selected elements
     }
 
+    CUDA_CHECK(cudaFree(d_temp_storage), "Failed to free d_temp_storage");
+    CUDA_CHECK(cudaFree(d_num_selected_out), "Failed to free d_num_selected_out");
+
 }
 
 void update_edgelist_bfs(
@@ -187,11 +194,12 @@ void update_edgelist_bfs(
     // now delete the edges from the graph array
     select_flagged_(d_edge_list, d_updated_ed_list, d_flags, num_edges);
 
-    if(g_verbose) {
-        std::cout << "printing updated edgelist:\n";
-        std::cout << "numEdges after delete batch: " << num_edges << "\n";
-        print_device_edge_list(d_updated_ed_list, num_edges);
-    }
+    // if(g_verbose) {
+    //     std::cout << "printing updated edgelist:\n";
+    //     std::cout << "numEdges after delete batch: " << num_edges << "\n";
+    //     print_device_edge_list(d_updated_ed_list, num_edges);
+    // }
+    CUDA_CHECK(cudaFree(d_flags), "Failed to free d_flags");
 }
 
 __global__ 
@@ -225,9 +233,18 @@ void simpleBFS(
 }
 
 void constructSpanningTree(
-    int no_of_vertices, long numEdges, 
-    long* d_offset, int* d_neighbours, 
-    int* d_level, int* d_parent, int root) {
+    int no_of_vertices, 
+    long numEdges, 
+    long* d_offset, 
+    int* d_neighbours, 
+    int* d_level, 
+    int* d_parent, 
+    int root) 
+{
+
+    #ifdef DEBUG
+        g_verbose = true;
+    #endif
 
     int level = 0;
     int totalThreads = 1024;
@@ -239,8 +256,8 @@ void constructSpanningTree(
     *d_changed= 1;
 
     setParentLevelKernel<<<1, 1>>>(d_parent, d_level, root);
-    CUDA_CHECK(cudaGetLastError(), "Failed to launch setParentLevelKernel.");
-    
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to launch setParentLevelKernel.");
+
     while (*d_changed) {
         *d_changed = 0;
         
@@ -256,6 +273,10 @@ void constructSpanningTree(
         CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after simpleBFS");
         ++level;
     }
+
+    std::cout << "Depth of tree: " << level << std::endl;
+
+    CUDA_CHECK(cudaFree(d_changed), "Failed to free d_changed");
 }
 
 // ====[ End of constructSpanningTree Code ]====
@@ -265,10 +286,11 @@ __global__
 void get_original_edges(uint64_t* d_edgeList, int* original_u, int* original_v, long numEdges) {
 	
 	long tid = blockIdx.x * blockDim.x + threadIdx.x;
-	
-	uint64_t t = d_edgeList[tid];
-    original_u[tid] = (int)t & 0xFFFFFFFF;
-    original_v[tid] = (int)(t >> 32);
+	if (tid < numEdges) { 
+	   uint64_t t = d_edgeList[tid];
+        original_u[tid] = (int)t & 0xFFFFFFFF;
+        original_v[tid] = (int)(t >> 32);
+    }
 }
 
 __global__
@@ -279,6 +301,17 @@ void print_original_edges(int* original_u, int* original_v, long numEdges) {
         for(long i = 0; i < numEdges; ++i) {
             printf("edge[%ld]: (%d, %d)\n", i, original_u[i], original_v[i]);
         }
+    }
+}
+
+void print_CSR(const std::vector<long>& vertices, const std::vector<int>& edges) {
+    int numVertices = vertices.size() - 1;
+    for (int i = 0; i < numVertices; ++i) {
+        std::cout << "Vertex " << i << " is connected to: ";
+        for (int j = vertices[i]; j < vertices[i + 1]; ++j) {
+            std::cout << edges[j] << " ";
+        }
+        std::cout << "\n";
     }
 }
 
@@ -340,12 +373,12 @@ void cuda_BFS(graph& G, const std::string& delete_filename) {
     size_t delete_size = edges_to_delete.size() * sizeof(uint64_t);
     size_t edge_list_size = G.edge_list.size() * sizeof(uint64_t);
 
-    if(g_verbose) {
-        std::cout << "Edge list from cuda_BFS:\n";
-        for(auto i : G.edge_list) 
-            std::cout << (i >> 32) <<" " << (i & 0xFFFFFFFF) << " <- " << i << "\n";
-        std::cout << std::endl;
-    }
+    // if(g_verbose) {
+    //     std::cout << "Edge list from cuda_BFS:\n";
+    //     for(auto i : G.edge_list) 
+    //         std::cout << (i >> 32) <<" " << (i & 0xFFFFFFFF) << " <- " << i << "\n";
+    //     std::cout << std::endl;
+    // }
     
     CUDA_CHECK(cudaMalloc(&d_edge_list, edge_list_size), "Failed to allocate memory for input edge list");
     CUDA_CHECK(cudaMalloc(&d_updated_ed_list, edge_list_size), "Failed to allocate memory for input edge list");
@@ -385,24 +418,23 @@ void cuda_BFS(graph& G, const std::string& delete_filename) {
 	cudaMalloc((void **)&d_parent,  numVert * sizeof(int));
     cudaMalloc((void **)&d_level,   numVert * sizeof(int));
 
+    CUDA_CHECK(cudaMemset(d_level, -1, numVert * sizeof(int)), "Failed to initialize level array.");
+
     int totalThreads = 1024;
     int numBlocks = (numEdges + totalThreads - 1) / totalThreads;
 
-    Timer myTimer;
-    myTimer.start();
-    std::cout << "Timer started" << std::endl;
+    // std::cout << "Timer started" << std::endl;
 
     get_original_edges<<<numBlocks, totalThreads>>>(d_updated_ed_list, original_u, original_v, numEdges);
-    cudaDeviceSynchronize();
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize get_original_edges");
     
-    if(g_verbose) {
-        print_original_edges<<<1,1>>>(original_u, original_v, numEdges);
-        cudaDeviceSynchronize();
-    }
     // validate once, if the tree is connected or not after deleting edges.
+    
     cc(original_u, original_v, numVert, numEdges);
-	create_duplicate(original_u, original_v, u_arr_buf, v_arr_buf, numEdges);
 
+    Timer myTimer;
+    myTimer.start();
+	create_duplicate(original_u, original_v, u_arr_buf, v_arr_buf, numEdges);
 	// Step [i]: alternate buffers for sorting operation
 	// Create DoubleBuffers
 	cub::DoubleBuffer<int> d_u_arr(u_arr_buf, u_arr_alt_buf);
@@ -414,7 +446,25 @@ void cuda_BFS(graph& G, const std::string& delete_filename) {
 
 	gpu_csr(d_u_arr, d_v_arr, E, numVert, d_vertices);
 	// CSR creation ends here
-	
+
+    // if(g_verbose) {
+    //     // print gpu_CSR
+    //     size_t size = E * sizeof(int);
+    //     std::vector<long> host_vert(numVert + 1);
+    //     std::vector<int> host_edges(E);
+    //     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize stream before cudaMemcpyAsync in gpu_csr");
+    //     // Use cudaMemcpyAsync with the stream for asynchronous memory copy
+    //     CUDA_CHECK(cudaMemcpy(host_vert.data(), d_vertices, (numVert + 1) * sizeof(long), cudaMemcpyDeviceToHost), 
+    //                 "Failed to copy back vertices array.");
+    //     CUDA_CHECK(cudaMemcpy(host_edges.data(), d_v_arr.Current(), size, cudaMemcpyDeviceToHost), 
+    //                 "Failed to copy back edges array.");
+
+    //     print_CSR(host_vert, host_edges);
+    // }
+
+    // std::cout << "d_level array from cuda_BFS:\n";
+    // print_device_array(d_level, numVert);
+
 	int root = 0;
 	// Step 1: Construct a rooted spanning tree
 	constructSpanningTree(
@@ -441,4 +491,7 @@ void cuda_BFS(graph& G, const std::string& delete_filename) {
 	cudaFree(d_vertices);
 	cudaFree(d_parent);
 	cudaFree(d_level);
+    cudaFree(d_edge_list);
+    cudaFree(d_updated_ed_list);
+    cudaFree(d_edges_to_delete);
 }

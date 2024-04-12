@@ -91,8 +91,8 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     CUDA_CHECK(cudaMalloc((void **)&d_super_graph_u, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_u");
     CUDA_CHECK(cudaMalloc((void **)&d_super_graph_v, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_v");
 
-    CUDA_CHECK(cudaMalloc((void **)&d_new_super_graph_u, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_u");
-    CUDA_CHECK(cudaMalloc((void **)&d_new_super_graph_v, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_v");
+    CUDA_CHECK(cudaMalloc((void **)&d_new_super_graph_u, num_edges * sizeof(int)), "Failed to allocate device memory for d_new_super_graph_u");
+    CUDA_CHECK(cudaMalloc((void **)&d_new_super_graph_v, num_edges * sizeof(int)), "Failed to allocate device memory for d_new_super_graph_v");
 
     CUDA_CHECK(cudaMallocManaged((void**)&super_graph_edges, sizeof(int)),   "Failed to allocate d_num_selected_out");
     CUDA_CHECK(cudaMalloc((void**)&d_flags, num_edges * sizeof(unsigned char)), "Failed to allocate flag array");
@@ -113,6 +113,8 @@ void dynamic_tree_manager::read_delete_batch(const std::string& delete_filename)
     uint32_t u, v;
     edges_to_delete.resize(n_edges);
     
+    tree_edge_count = 0;
+    
     std::cout << "Reading " << n_edges << " edges from the file." << std::endl;
 
     for (int i = 0; i < n_edges; ++i) {
@@ -128,34 +130,41 @@ void dynamic_tree_manager::read_delete_batch(const std::string& delete_filename)
         edges_to_delete[i] = ((uint64_t)(u) << 32 | v);
     }
 
+    g_verbose = true;
+
     if(g_verbose) {
 
         std::cout << "numTreeEdges: " << tree_edge_count << std::endl;
 
-        std::cout << "edges_to_delete array uint64_t:\n";
+        // std::cout << "edges_to_delete array uint64_t:\n";
 
-        for(auto i : edges_to_delete)
-            std::cout << i <<" ";
-        std::cout << std::endl;
+        // for(auto i : edges_to_delete)
+        //     std::cout << i <<" ";
+        // std::cout << std::endl;
 
-        std::cout << "edges_to_delete array:\n";
-        for(const auto &i : edges_to_delete)
-            std::cout << (i >> 32) << " " << (i & 0xFFFFFFFF) << "\n";
-        std::cout << std::endl;
+        // std::cout << "edges_to_delete array:\n";
+        // for(const auto &i : edges_to_delete)
+        //     std::cout << (i >> 32) << " " << (i & 0xFFFFFFFF) << "\n";
+        // std::cout << std::endl;
     }
+
+    g_verbose = false;
 }
 
 void dynamic_tree_manager::update_existing_ds() {
 	update_edgelist(
-        d_parent, num_vert, 
-        d_edge_list, d_updated_edge_list, num_edges, 
-        d_edges_to_delete, delete_batch_size);
+        d_parent,               // input
+        num_vert,               // input
+        d_edge_list,            // input
+        d_updated_edge_list,    // output
+        num_edges,              // output
+        d_edges_to_delete,      // input
+        delete_batch_size);     // input
 
-    // now num_edges contains nonTreeEdges - delete_batch count.
+    // now num_edges contains nonTreeEdges - parent_size - delete_batch count.
 }
 
 dynamic_tree_manager::~dynamic_tree_manager() {
-
     delete[] parent_array;
 
     cudaFree(d_parent);

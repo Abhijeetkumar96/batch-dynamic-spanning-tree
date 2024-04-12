@@ -236,7 +236,7 @@ void update_root_last(
  */
  void cal_first_last(int root, int* d_parent, EulerianTour& eulerTour) {
     
-    std::cout << "root: " << root << std::endl;
+    // std::cout << "root: " << root << std::endl;
 
     const int numNodes      =   eulerTour.N;
     const int edge_count    =   numNodes - 1;
@@ -397,7 +397,7 @@ void update_root_last(
     cudaMemcpy(h_first, new_first, numNodes * sizeof(int), cudaMemcpyDeviceToHost);
     cudaMemcpy(h_last, new_last, numNodes * sizeof(int), cudaMemcpyDeviceToHost);
 
-    bool g_verbose = true;
+    bool g_verbose = false;
     
     if(g_verbose) {
         std::cout << "Node\tFirst\tLast\n";

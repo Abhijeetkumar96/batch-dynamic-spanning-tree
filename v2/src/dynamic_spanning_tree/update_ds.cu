@@ -199,17 +199,17 @@ void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lon
 
     long h_num;
     cudaMemcpy(&h_num, d_num_selected_out, sizeof(long), cudaMemcpyDeviceToHost);
-    std::cout << "\nh_num: " <<  h_num << std::endl;
+    // std::cout << "\nh_num: " <<  h_num << std::endl;
     num_items = h_num;
     // Copy output data back to host
     uint64_t* h_out = new uint64_t[num_items];
     cudaMemcpy(h_out, d_out, sizeof(uint64_t) * num_items, cudaMemcpyDeviceToHost);
 
-    if(g_verbose) {
-        // Print output data
-        printf("\nOutput Data (h_out):\n");
-        DisplayResults(h_out, h_num); // Print only the selected elements
-    }
+    // if(g_verbose) {
+    //     // Print output data
+    //     printf("\nOutput Data (h_out):\n");
+    //     DisplayResults(h_out, h_num); // Print only the selected elements
+    // }
 
 }
 

@@ -21,15 +21,15 @@ void update_rep_map(int* d_unique_rep, int* d_rep_map, int unique_rep_count) {
 
 void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& tree_ds, EulerianTour& euler_tour) {
 
-	int* d_rep = tree_ds.d_parent;
-	int* d_rep_dup = tree_ds.d_rep_dup;
-	int* d_unique_rep = tree_ds.d_unique_rep;
-	int* d_rep_map = tree_ds.d_rep_map;
-	int num_vert = tree_ds.num_vert;
+	int* d_rep 			= 	tree_ds.d_parent;
+	int* d_rep_dup 		= 	tree_ds.d_rep_dup;
+	int* d_unique_rep 	= 	tree_ds.d_unique_rep;
+	int* d_rep_map 		= 	tree_ds.d_rep_map;
+	int num_vert 		= 	tree_ds.num_vert;
 	
 	Timer myTimer;
     myTimer.start();
-    std::cout << "Timer started" << std::endl;
+    // std::cout << "Timer started" << std::endl;
 
 	#ifdef DEBUG
 		std::cout << "parent array after deleting edges:\n";
@@ -40,7 +40,7 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
 	cal_first_last(roots[0], tree_ds.d_org_parent, euler_tour);
 
 	// 2. Do pointer jumping over parent array to update representative array.
-	pointer_jumping(d_rep, tree_ds.num_vert);
+	pointer_jumping(d_rep, num_vert);
 	
 	CUDA_CHECK(cudaMemcpy(d_rep_dup, d_rep, sizeof(int) * tree_ds.num_vert, cudaMemcpyDeviceToDevice),
 		"Failed to copy d_rep array to new d_rep_array");
@@ -54,16 +54,16 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
 	// send a copy of d_rep.
 	int unique_rep_count = 0;
 	find_unique(d_rep_dup, d_unique_rep, tree_ds.num_vert, unique_rep_count);
-	std::cout << "unique_rep_count: " << unique_rep_count << std::endl;
+	// std::cout << "unique_rep_count: " << unique_rep_count << std::endl;
 	
-	#ifdef DEBUG
-		std::cout << "d_rep array after find_unique:\n";
-		print_device_array(d_rep, tree_ds.num_vert);
+	// #ifdef DEBUG
+	// 	std::cout << "d_rep array after find_unique:\n";
+	// 	print_device_array(d_rep, tree_ds.num_vert);
 		
-		std::cout << "d_unique_rep array:\n";
-		print_device_array(d_unique_rep, unique_rep_count);
+	// 	std::cout << "d_unique_rep array:\n";
+	// 	print_device_array(d_unique_rep, unique_rep_count);
 
-	#endif
+	// #endif
 
 	int numThreads = 1024;
 	int numBlocks = (unique_rep_count + numThreads - 1) / numThreads;
