@@ -7,6 +7,8 @@
  * connected component), the program will add the minimum number of edges required to make
  * the graph fully connected.
  * 
+ * To compile: g++ -std=c++17 -O3 -Wall EdgeAdderForConnectivity.cpp -o EdgeAdderForConnectivity
+ * 
  * @author Abhijeet
  * @date Nov 18, 2023
  */
@@ -121,7 +123,7 @@ void write_output(
 int main(int argc, char* argv[]) {
     std::ios_base::sync_with_stdio(false);
     if(argc < 3) {
-        std::cerr << "Usage : " << argv[0] <<" filename " <<" output_path" << std::endl;
+        std::cerr << "Usage : " << argv[0] <<" <input_filename> " <<" output_path" << std::endl;
         return 0;
     }
 
