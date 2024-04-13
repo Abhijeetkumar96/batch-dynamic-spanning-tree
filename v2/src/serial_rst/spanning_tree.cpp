@@ -56,47 +56,57 @@ int bfs(const std::vector<long>& nodes, const std::vector<int>& edges, std::vect
     return numComp;
 }
 
-void DFS_kernel(int start, const std::vector<std::vector<int>>& adj, std::vector<int>& parent, std::vector<bool>& visited) {
+void DFS_kernel(int start, 
+    const std::vector<long>& nodes,
+    const std::vector<int>& edges,
+    std::vector<int>& parent, 
+        std::vector<unsigned char>& visited) {
+    
     std::stack<int> stack;
 
     // Start from the given start vertex
     stack.push(start);
-    parent[start] = start;  // Mark the start node's parent as itself (or could be -1 if preferred)
+    parent[start] = start;  // Mark the start node's parent as itself 
 
     while (!stack.empty()) {
         int v = stack.top();
         stack.pop();
 
         if (!visited[v]) {
-            visited[v] = true;
+            visited[v] = 1;
             // std::cout << "Vertex: " << v << " - Parent: " << parent[v] << std::endl;
 
             // Process all adjacent vertices
-            for (auto i = adj[v].rbegin(); i != adj[v].rend(); ++i) {
-                if (!visited[*i]) {
-                    stack.push(*i);
-                    parent[*i] = v;  // Set the parent of vertex *i to v
+            for (int i = nodes[v]; i < nodes[v+1]; ++i) {
+                int neighbour = edges[i];
+                if (!visited[neighbour]) {
+                    stack.push(neighbour);
+                    parent[neighbour] = v;  // Set the parent of vertex *i to v
                 }
             }
         }
     }
 }
 
-int dfs(const std::vector<std::vector<int>>& adj, std::vector<int>& parent, std::vector<int>& roots) {
-    int n = adj.size(), numComp = 0;
-    std::vector<bool> visited(n, false);
+int dfs(const std::vector<long>& nodes,
+    const std::vector<int>& edges, 
+    int root,
+    std::vector<int>& parent, 
+    std::vector<int>& roots) {
 
-        DFS_kernel(5, adj, parent, visited);
-        roots.push_back(5);
+    int n = nodes.size() - 1, numComp = 0;
+    std::vector<unsigned char> visited(n, 0);
+
+        DFS_kernel(root, nodes, edges, parent, visited);
+        roots.push_back(root);
         numComp++;
 
     for (int i = 0; i < n; ++i) {
         if (!visited[i]) {
-            DFS_kernel(i, adj, parent, visited);
+            DFS_kernel(i, nodes, edges, parent, visited);
             roots.push_back(i);
             numComp++;
         }
     }
     return numComp;
 }
-

@@ -44,7 +44,8 @@ int main(int argc, char* argv[]) {
     std::vector<int> roots;
     
     std::cout << "\t\tBFS Started...\n";
-    int numComp = bfs(G.vertices, G.edges, parent, roots);
+    int root = 5;
+    int numComp = bfs(G.vertices, G.edges, root, parent, roots);
 
     std::cout <<"Number of components in the graph : " << numComp << std::endl;
 
@@ -83,7 +84,7 @@ int main(int argc, char* argv[]) {
 
 int validate(const int* parent, int n) {
 
-    std::cout << "Executing validate part.\n";
+    // std::cout << "Executing validate part.\n";
     int* new_parent;
     CUDA_CHECK(cudaMalloc(&new_parent, n * sizeof(int)), "Failed to allocate memory for new_parent");
     CUDA_CHECK(cudaMemcpy(new_parent, parent, n * sizeof(int), cudaMemcpyDeviceToDevice), "Failed to copy parent array");
@@ -91,7 +92,7 @@ int validate(const int* parent, int n) {
     int* d_out;
     CUDA_CHECK(cudaMalloc(&d_out, n * sizeof(int)), "Failed to allocate memory for d_out");
 
-    std::cout << "Doing pointer_jumping.\n";
+    // std::cout << "Doing pointer_jumping.\n";
     pointer_jumping(new_parent, n);
     int result;
     find_unique(new_parent, d_out, n, result);

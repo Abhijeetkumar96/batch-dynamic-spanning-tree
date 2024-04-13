@@ -14,69 +14,70 @@
 using namespace std;
 
 __global__
-void computesegments(long* d_nodes, int* d_edges, long d_m, long d_n, long d_nodefrontier_size , int* d_nodefrontier , long* d_segments){
+void computesegments(long* d_nodes, int* d_edges, long d_m, long d_n, long d_nodefrontier_size , int* d_nodefrontier , long* d_segments) {
 
   long id = threadIdx.x + blockIdx.x * blockDim.x;
-  if(id < d_nodefrontier_size){
-    int node = d_nodefrontier[id];
-    long start = d_nodes[node];
-    long end = (node == d_n - 1) ? d_m : d_nodes[node + 1];
-    d_segments[id] = end - start;
-  }
-
+  if(id < d_nodefrontier_size) {
+        int node = d_nodefrontier[id];
+        long start = d_nodes[node];
+        long end = (node == d_n - 1) ? d_m : d_nodes[node + 1];
+        d_segments[id] = end - start;
+    }
 }
 
 __global__
-void computerank(long* d_rank , long* d_seg , long* d_segments , long d_edgefrontier_size){
-  long id = threadIdx.x + blockIdx.x * blockDim.x;
-  if(id < d_edgefrontier_size){
-    d_rank[id] = id - d_segments[d_seg[id]];
-  }
+void computerank(long* d_rank , long* d_seg , long* d_segments , long d_edgefrontier_size) {
+    long id = threadIdx.x + blockIdx.x * blockDim.x;
+    if(id < d_edgefrontier_size) {
+        d_rank[id] = id - d_segments[d_seg[id]];
+    }
 }
 
 __global__
-void computeedgefrontier(int* d_edgefrontier ,int* d_nodefrontier, long d_edgefrontier_size , long* d_rank , long* d_seg , long* d_nodes , int* d_edges){
-  long id = threadIdx.x + blockIdx.x * blockDim.x;
-  if(id < d_edgefrontier_size){
-    long seg = d_seg[id];
-    long rank = d_rank[id];
-    d_edgefrontier[id] = d_edges[d_nodes[d_nodefrontier[seg]] + rank];
-  }
-}
-
-
-__global__
-void markvisited(long d_edgefrontier_size , int level , int* d_edgefrontier , int* d_distance , long* d_seg){
-  long id = threadIdx.x + blockIdx.x * blockDim.x;
-  if(id < d_edgefrontier_size){
-    d_seg[id] = (-1 == atomicCAS(d_distance + d_edgefrontier[id], -1, level));
-  }
+void computeedgefrontier(int* d_edgefrontier ,int* d_nodefrontier, long d_edgefrontier_size , long* d_rank , long* d_seg , long* d_nodes , int* d_edges) {
+    long id = threadIdx.x + blockIdx.x * blockDim.x;
+    if(id < d_edgefrontier_size){
+        long seg = d_seg[id];
+        long rank = d_rank[id];
+        d_edgefrontier[id] = d_edges[d_nodes[d_nodefrontier[seg]] + rank];
+    }
 }
 
 
 __global__
-void computenodefrontier(int* d_nodefrontier , int* d_edgefrontier , long* d_seg , long d_nodefrontier_size){
-  long id = threadIdx.x + blockIdx.x * blockDim.x;
-  if(id < d_nodefrontier_size){
-    d_nodefrontier[id] = d_edgefrontier[d_seg[id]];
-  }
+void markvisited(long d_edgefrontier_size , int level , int* d_edgefrontier , int* d_distance , long* d_seg) {
+    long id = threadIdx.x + blockIdx.x * blockDim.x;
+    if(id < d_edgefrontier_size){
+        d_seg[id] = (-1 == atomicCAS(d_distance + d_edgefrontier[id], -1, level));
+    }
 }
 
 
-__global__ void custom_lbs(long *a, long n_a , long *b , long n_b){
-  long i = blockIdx.x*blockDim.x + threadIdx.x;
-  if(i< n_b){
-      long l = 1, r = n_a;
-      while(l<r){
-          long mid = (l+r)/2;
-          if(a[mid]<= i){
-              l = mid+1;
-          }else{
-              r = mid;
-          }
-      }
-      b[i] = l-1;
-  }
+__global__
+void computenodefrontier(int* d_nodefrontier , int* d_edgefrontier , long* d_seg , long d_nodefrontier_size) {
+    long id = threadIdx.x + blockIdx.x * blockDim.x;
+    if(id < d_nodefrontier_size){
+        d_nodefrontier[id] = d_edgefrontier[d_seg[id]];
+    }
+}
+
+
+__global__ 
+void custom_lbs(long *a, long n_a , long *b , long n_b) {
+    long i = blockIdx.x*blockDim.x + threadIdx.x;
+    if(i< n_b) {
+        long l = 1, r = n_a;
+        while(l < r) {
+            long mid = (l+r)/2;
+            if(a[mid]<= i) {
+                l = mid+1;
+            } else {
+                r = mid;
+            }
+        }
+      
+        b[i] = l-1;
+    }
 }
 
 template <typename T1, typename T2>
@@ -92,54 +93,59 @@ void print_a(T1* arr, T2 n) {
 }
 
 void adam_polak_bfs(int n, long m, long* d_nodes, int* d_edges) {
-
-    #ifdef DEBUG
-        std::cout << "n: " << n <<" m : " << m << std::endl;
-        std::cout << "d_nodes array;\n";
-        print_a<<<1,1>>>(d_nodes, n);
-        cudaDeviceSynchronize();
-        std::cout << "d_edges array;\n";
-        print_a<<<1,1>>>(d_edges, m);
-        cudaDeviceSynchronize();
-    #endif
   
     int* d_nodefrontier, *d_edgefrontier,* d_distance;
     long* d_rank;
     
-    cudaMalloc(&d_nodefrontier, n * sizeof(int));
-    cudaMalloc(&d_edgefrontier, m * sizeof(int));
-    cudaMalloc(&d_rank, max(static_cast<long>(n), m) * sizeof(long));
-    cudaMalloc(&d_distance, n * sizeof(int));
+    CUDA_CHECK(cudaMalloc(&d_nodefrontier, n * sizeof(int)),
+        "Failed to allocate memory for d_nodefrontier");
+    CUDA_CHECK(cudaMalloc(&d_edgefrontier, m * sizeof(int)),
+        "Failed to allocate memory for d_edgefrontier");
+    CUDA_CHECK(cudaMalloc(&d_rank, max(static_cast<long>(n), m) * sizeof(long)),
+        "Failed to allocate memory for d_rank");
+    CUDA_CHECK(cudaMalloc(&d_distance, n * sizeof(int)),
+        "Failed to allocate memory for d_distance");
 
     long* d_segments, *d_seg, *d_seg1;
 
-    cudaMalloc(&d_segments, (max(static_cast<long> (n), m) + 2) * sizeof(long));
-    cudaMalloc(&d_seg, (max(static_cast<long>(n), m) + 2) * sizeof(long));
-    cudaMalloc(&d_seg1,(max(static_cast<long> (n), m) + 2) * sizeof(long));
+    CUDA_CHECK(cudaMalloc(&d_segments, (max(static_cast<long> (n), m) + 2) * sizeof(long)),
+     "Failed to allocate memory for d_segments");
+    CUDA_CHECK(cudaMalloc(&d_seg, (max(static_cast<long>(n), m) + 2) * sizeof(long)),
+        "Failed to allocate memory for d_seg");
+    CUDA_CHECK(cudaMalloc(&d_seg1,(max(static_cast<long> (n), m) + 2) * sizeof(long)),
+        "Failed to allocate memory for d_seg1");
 
     //temp storage for cub scan
     void *d_temp_storage = NULL;
     size_t temp_storage_bytes = 0;
     
     cub::DeviceScan::ExclusiveSum(d_temp_storage, temp_storage_bytes, d_segments, d_segments, max(static_cast<long> (n) , m) + 2);
-    cudaMalloc(&d_temp_storage, temp_storage_bytes);
+    CUDA_CHECK(cudaMalloc(&d_temp_storage, temp_storage_bytes),
+        "Failed to allocate memory for temp_storage_bytes");
 
     void *d_temp_storage1 = NULL;
     size_t temp_storage_bytes1 = 0;
     cub::DeviceScan::ExclusiveSum(d_temp_storage1, temp_storage_bytes1, d_seg, d_seg1, max(static_cast<long> (n), m)+2);
-    cudaMalloc(&d_temp_storage1, temp_storage_bytes1);
+    CUDA_CHECK(cudaMalloc(&d_temp_storage1, temp_storage_bytes1),
+        "Failed to allocate memory for d_temp_storage1");
 
-    cudaMemset(d_distance, -1, n * sizeof(int));
-    cudaMemset(d_distance, 0, sizeof(int));
-    cudaMemset(d_nodefrontier, 0, sizeof(int));
+    int* d_row_indices;
+    size_t size = m * sizeof(int);
+
+    // Allocate memory on the device
+    CUDA_CHECK(cudaMalloc((void**)&d_row_indices, size),
+        "Failed to allocate device memory for row indices");
 
     int* level;
     long* h_nodefrontier_size;
     long* h_edgefrontier_size;
     
-    cudaMallocHost((void**)&h_nodefrontier_size, sizeof(long));
-    cudaMallocHost((void**)&level, sizeof(int));
-    cudaMallocHost((void**)&h_edgefrontier_size, sizeof(long));
+    CUDA_CHECK(cudaMallocHost((void**)&h_nodefrontier_size, sizeof(long)),
+        "Failed to allocate memory for h_nodefrontier_size");
+    CUDA_CHECK(cudaMallocHost((void**)&level, sizeof(int)),
+        "Failed to allocate memory for level");
+    CUDA_CHECK(cudaMallocHost((void**)&h_edgefrontier_size, sizeof(long)), 
+        "Failed to allocate memory for h_edgefrontier_size");
     
     h_nodefrontier_size[0] = 1;
     h_edgefrontier_size[0] = 0;
@@ -147,6 +153,16 @@ void adam_polak_bfs(int n, long m, long* d_nodes, int* d_edges) {
     Timer myTimer;
     myTimer.start();
     std::cout << "Timer for adam_bfs started" << std::endl;
+
+    // Initialize the allocated memories
+    CUDA_CHECK(cudaMemset(d_distance, -1, n * sizeof(int),
+        "Failed to set device memory for d_distance");
+    CUDA_CHECK(cudaMemset(d_distance, 0, sizeof(int),
+        "Failed to set device memory for d_distance");
+    CUDA_CHECK(cudaMemset(d_nodefrontier, 0, sizeof(int),
+        "Failed to set device memory for d_nodefrontier");
+    CUDA_CHECK(cudaMemset(d_row_indices, 0, size),
+        "Failed to set device memory for d_row_indices");
 
     while(h_nodefrontier_size[0] > 0) {
 
@@ -203,6 +219,9 @@ void adam_polak_bfs(int n, long m, long* d_nodes, int* d_edges) {
     CUDA_CHECK(cudaFree(d_seg),                     "Error freeing d_seg");
     CUDA_CHECK(cudaFree(d_seg1),                    "Error freeing d_seg1"); 
     CUDA_CHECK(cudaFree(d_temp_storage),            "Error freeing d_temp_storage");
+
+    CUDA_CHECK(cudaFree(d_temp_storage1),           "Error freeing d_temp_storage1");
+    CUDA_CHECK(cudaFree(d_row_indices),             "Error freeing d_row_indices");
 
     CUDA_CHECK(cudaFreeHost(h_nodefrontier_size),   "Error freeing h_nodefrontier_size");
     CUDA_CHECK(cudaFreeHost(level),                 "Error freeing level");

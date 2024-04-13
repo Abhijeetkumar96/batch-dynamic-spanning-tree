@@ -23,14 +23,14 @@ void PR_RST::mem_alloc() {
 	std::cout << "No. of vertices = " << vertices << std::endl;
 
 	// Update values for pointerJumping
-	std::cout << "log2(n) = " << std::log2(n) << std::endl;
+	// std::cout << "log2(n) = " << std::log2(n) << std::endl;
 	log_2_size = std::ceil(std::log2(n));
 	pr_size = std::ceil(n * 1LL * log_2_size);
-	std::cout << "pr_size = " << pr_size << std::endl;
+	// std::cout << "pr_size = " << pr_size << std::endl;
 
 	long long size = n * 1LL * sizeof(int); // For n vertices
 
-	std::cout << "size: " <<  size << std::endl;
+	// std::cout << "size: " <<  size << std::endl;
 
 	CUDA_CHECK(cudaMalloc(&d_flag, sizeof(int)), 						"Failed to allocate memory for d_flag");
 	CUDA_CHECK(cudaMalloc((void**)&d_winner_ptr, n * sizeof(int)), 		"Failed to allocate memory for d_winner_ptr");
