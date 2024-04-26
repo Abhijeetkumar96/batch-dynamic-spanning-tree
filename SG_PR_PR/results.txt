@@ -1,0 +1,119 @@
+build/dynamic_spanning_tree /raid/graphwork/datasets/new_graphs/csr_bin/GAP-road.egr /raid/graphwork/spanning_tree_datasets/GAP-road/batch_100/10_tree_edges/set_0.txt
+numVertices : 23947347, numEdges : 57708624
+		BFS Started...
+Number of components in the graph : 1
+Reading 100 edges from the file.
+
+h_num: 28854212
+The edge list has been updated.
+Timer started
+Total elapsed time for cudaBFS: 5240 ms
+Timer started
+N: 47894692
+Total time for parallel pointer jumping : 3759 microseconds (23947347 number of keys)
+unique_rep_count: 8
+No. of vertices = 8
+log2(n) = 3
+pr_size = 24
+size: 32
+Total elapsed time for dynamic_spanning_tree repair: 145 ms
+
+build/dynamic_spanning_tree /raid/graphwork/datasets/new_graphs/csr_bin/as-Skitter.egr /raid/graphwork/spanning_tree_datasets/as-Skitter/batch_100/10_tree_edges/set_0.txt
+numVertices : 1696415, numEdges : 22192106
+		BFS Started...
+Number of components in the graph : 1
+Reading 100 edges from the file.
+
+h_num: 11095953
+The edge list has been updated.
+Timer started
+Total elapsed time for cudaBFS: 2968 ms
+Timer started
+N: 3392828
+Total time for parallel pointer jumping : 323 microseconds (1696415 number of keys)
+unique_rep_count: 10
+No. of vertices = 10
+log2(n) = 3.32193
+pr_size = 40
+size: 40
+Total elapsed time for dynamic_spanning_tree repair: 28 ms
+
+build/dynamic_spanning_tree /raid/graphwork/datasets/new_graphs/csr_bin/as-Skitter.egr /raid/graphwork/spanning_tree_datasets/as-Skitter/batch_1000/500_tree_edges/set_0.txt
+numVertices : 1696415, numEdges : 22192106
+		BFS Started...
+Number of components in the graph : 1
+Reading 1000 edges from the file.
+
+h_num: 11095053
+The edge list has been updated.
+Timer started
+Total elapsed time for cudaBFS: 3659 ms
+Timer started
+N: 3392828
+Total time for parallel pointer jumping : 308 microseconds (1696415 number of keys)
+unique_rep_count: 392
+No. of vertices = 392
+log2(n) = 8.61471
+pr_size = 3528
+size: 1568
+Total elapsed time for dynamic_spanning_tree repair: 29 ms
+
+build/dynamic_spanning_tree /raid/graphwork/datasets/new_graphs/csr_bin/arabic-2005.egr /raid/graphwork/spanning_tree_datasets/arabic-2005/batch_100/10_tree_edges/set_0.txt
+numVertices : 22744080, numEdges : 1107807202
+		BFS Started...
+Number of components in the graph : 1
+Reading 100 edges from the file.
+
+h_num: 553903501
+The edge list has been updated.
+Timer started
+Total elapsed time for cudaBFS: 8634 ms
+Timer started
+N: 45488158
+Total time for parallel pointer jumping : 3300 microseconds (22744080 number of keys)
+unique_rep_count: 9
+No. of vertices = 9
+log2(n) = 3.16993
+pr_size = 36
+size: 36
+Total elapsed time for dynamic_spanning_tree repair: 827 ms
+
+build/dynamic_spanning_tree /raid/graphwork/datasets/new_graphs/csr_bin/eu-2005.egr /raid/graphwork/spanning_tree_datasets/eu-2005/batch_1000/10_tree_edges/set_0.txt
+numVertices : 862664, numEdges : 32276936
+		BFS Started...
+Number of components in the graph : 1
+Reading 1000 edges from the file.
+
+h_num: 15274815
+The edge list has been updated.
+Timer started
+Total elapsed time for cudaBFS: 7374 ms
+Timer started
+N: 1725326
+Total time for parallel pointer jumping : 256 microseconds (862664 number of keys)
+unique_rep_count: 11
+No. of vertices = 11
+log2(n) = 3.45943
+pr_size = 44
+size: 44
+Total elapsed time for dynamic_spanning_tree repair: 30 ms
+
+build/dynamic_spanning_tree /raid/graphwork/datasets/new_graphs/csr_bin/coPapersDBLP.egr /raid/graphwork/spanning_tree_datasets/coPapersDBLP/batch_1000/100_tree_edges/set_0.txt
+numVertices : 540486, numEdges : 30491458
+		BFS Started...
+Number of components in the graph : 1
+Reading 1000 edges from the file.
+
+h_num: 14704344
+The edge list has been updated.
+Timer started
+Total elapsed time for cudaBFS: 10410 ms
+Timer started
+N: 1080970
+Total time for parallel pointer jumping : 247 microseconds (540486 number of keys)
+unique_rep_count: 101
+No. of vertices = 101
+log2(n) = 6.65821
+pr_size = 707
+size: 404
+Total elapsed time for dynamic_spanning_tree repair: 28 ms

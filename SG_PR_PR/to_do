@@ -1,0 +1,6 @@
+auto stop = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("update datastr", duration);
+TO DO:
+learn about testing from Soham & Harmit.
