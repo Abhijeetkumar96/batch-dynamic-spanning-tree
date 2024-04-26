@@ -15,7 +15,7 @@
 #include <thrust/device_vector.h>
 #include <thrust/for_each.h>
 
-#define DEBUG
+// #define DEBUG
 // #define CHECKER
 
 __global__
@@ -26,6 +26,7 @@ void update_rep_map(int* d_unique_rep, int* d_rep_map, int unique_rep_count) {
     	d_rep_map[d_unique_rep[tid]] = tid;
     }
 }
+
 
 void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& tree_ds, EulerianTour& euler_tour) {
 
@@ -39,10 +40,10 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
     // myTimer.start();
     // std::cout << "Timer started" << std::endl;
 
-	// #ifdef DEBUG
+	#ifdef DEBUG
 		std::cout << "parent array after deleting edges:\n";
 		print_device_array(d_rep, num_vert);
-	// #endif
+	#endif
 
 	auto start = std::chrono::high_resolution_clock::now();
 	// 1. find eulerian tour
@@ -139,11 +140,11 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
 	thrust::device_vector <int> pr_arr(pr_size);
     thrust::device_vector <int> tobe_rep(num_vert), pr_arr_size(num_vert);
 
-    std::cout << "parent array:\n";
-    for(auto i : parent_pr) {
-    	std::cout << i << " ";
-    }
-    std::cout << std::endl;
+    // std::cout << "parent array:\n";
+    // for(auto i : parent_pr) {
+    // 	std::cout << i << " ";
+    // }
+    // std::cout << std::endl;
 
     Shortcut(num_vert, num_edges, log_2_size, 
     thrust::raw_pointer_cast(parent_pr.data()),
@@ -153,22 +154,22 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
     thrust::raw_pointer_cast(pr_arr_size.data())
 	);
 
-	std::cout<<"PR arr : \n";
-	for(int i=0;i<num_vert;i++)
-	{
-		std::cout<<i<<" : ";
-		for(int j=0;j<log_2_size;j++)
-		{
-			std::cout<<pr_arr[i*log_2_size+j]<<" ";
-		}
-		std::cout<< " | " <<pr_arr_size[i]<<"\n";
-	}
+	// std::cout<<"PR arr : \n";
+	// for(int i=0;i<num_vert;i++)
+	// {
+	// 	std::cout<<i<<" : ";
+	// 	for(int j=0;j<log_2_size;j++)
+	// 	{
+	// 		std::cout<<pr_arr[i*log_2_size+j]<<" ";
+	// 	}
+	// 	std::cout<< " | " <<pr_arr_size[i]<<"\n";
+	// }
 
     start = std::chrono::high_resolution_clock::now();
 
     thrust::device_vector <int> onPath(num_vert);
 
-	path_reversal(tree_ds, euler_tour, resource_mag, unique_rep_count, onPath, pr_arr,parent_pr ,pr_arr_size,log_2_size);
+	path_reversal(tree_ds, euler_tour, resource_mag, unique_rep_count, onPath, pr_arr, pr_arr_size, log_2_size);
 	stop = std::chrono::high_resolution_clock::now();
     duration = std::chrono::duration<double, std::milli>(stop - start).count();
 

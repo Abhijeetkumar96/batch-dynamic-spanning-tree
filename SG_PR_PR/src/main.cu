@@ -103,8 +103,8 @@ int main(int argc, char* argv[]) {
     // validate the output
     int* new_parent = tree_ds.new_parent;
 
-    // int temp = validate(new_parent, G.numVert);
-    // std::cout << "numComp after edge deletion: " << temp << std::endl;
+    int temp = validate(new_parent, G.numVert);
+    std::cout << "numComp after edge deletion: " << temp << std::endl;
 
     return EXIT_SUCCESS; 
 }

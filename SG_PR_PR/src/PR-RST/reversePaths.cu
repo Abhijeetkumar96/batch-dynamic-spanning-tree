@@ -7,7 +7,7 @@ void Reverse(int* onPath, int *parent,int *new_parent,int n) {
 	if(tid < n) {
 		if(onPath[tid])
 		{
-			printf("onPath[%d] = 1\n", tid);
+			// printf("onPath[%d] = 1\n", tid);
 			if(parent[tid] != tid)
 				new_parent[parent[tid]] = tid;
 		}
@@ -55,9 +55,9 @@ void ReversePaths(
 	int *d_pr_size_ptr
 )
 {
-		// #ifdef DEBUG
+		#ifdef DEBUG
 			std::vector<int> onPath(vertices),rnodes,prnodes,pr_arr(log_2_size*vertices),pr_size(vertices);
-		// #endif
+		#endif
 
 		int numThreads = 1024;
 		int numBlocks_n = (vertices + numThreads - 1) / numThreads;
@@ -98,7 +98,7 @@ void ReversePaths(
 		}
 		// cudaMemcpy(d_new_OnPath,d_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
 
-		// #ifdef DEBUG
+		#ifdef DEBUG
 			cudaMemcpy(onPath.data(), d_OnPath, vertices*sizeof(int), cudaMemcpyDeviceToHost);
 			std::cout << "OnPath nodes after : \n";
 			rnodes.clear();
@@ -113,24 +113,24 @@ void ReversePaths(
 			// printArr(rnodes,rnodes.size(),10);
 			for(auto i : rnodes) std::cout<<i<<" ";
 			std::cout<<"\n";
-		// #endif
+		#endif
 		// // Step 3.2: Reverse the marked paths
 
 		cudaMemcpy(d_new_parent_ptr,d_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
 		
 		std::vector<int> parent(vertices);
 		cudaMemcpy(parent.data(), d_parent_ptr, vertices*sizeof(int), cudaMemcpyDeviceToHost);
-		std::cout << "parent array before : \n";
-		for(auto i : parent) std::cout<<i<<" ";
-		std::cout<<"\n";
+		// std::cout << "parent array before : \n";
+		// for(auto i : parent) std::cout<<i<<" ";
+		// std::cout<<"\n";
 
 		Reverse<<<numBlocks_n, numThreads>>> (d_OnPath,d_parent_ptr, d_new_parent_ptr,vertices);
 		cudaDeviceSynchronize();
 
 		cudaMemcpy(parent.data(), d_new_parent_ptr, vertices*sizeof(int), cudaMemcpyDeviceToHost);
-		std::cout << "parent array after : \n";
-		for(auto i : parent) std::cout<<i<<" ";
-		std::cout<<"\n";
+		// std::cout << "parent array after : \n";
+		// for(auto i : parent) std::cout<<i<<" ";
+		// std::cout<<"\n";
 
 		cudaMemcpy(d_parent_ptr,d_new_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
 }

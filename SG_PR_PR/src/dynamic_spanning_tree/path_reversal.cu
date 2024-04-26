@@ -23,7 +23,7 @@ void generate_interval_kernel(
     	int u = d_edge_u[tid];
 		int rep_u = d_rep_array[u];
 		int mapped_rep = d_repMap[rep_u];
-		printf("u: %d, rep_u: %d, mapped_rep: %d\n", u, rep_u, mapped_rep);
+		// printf("u: %d, rep_u: %d, mapped_rep: %d\n", u, rep_u, mapped_rep);
         d_interval[mapped_rep] = u;
 
         onPath[u] = 1;
@@ -84,8 +84,8 @@ void reverse_new_parents(
 
 	int tid = blockIdx.x * blockDim.x + threadIdx.x;
 	if(tid < h_size) {
-		printf("[%d,%d]\n",edge_u[tid],parent_u[edge_u[tid]]);
-		new_parent[edge_u[tid]] = parent_u[edge_u[tid]];
+		// printf("[%d,%d]\n",edge_u[tid],parent_u[tid]);
+		new_parent[edge_u[tid]] = parent_u[tid];
 	}	
 }
 
@@ -106,7 +106,6 @@ void path_reversal(
 	const int& unique_rep_count,
 	thrust::device_vector<int> &onPath,
 	thrust::device_vector<int> &pr_arr,
-	thrust::device_vector<int> &parent_pr,
 	thrust::device_vector<int> &pr_arr_size,
 	int log_2_size) {
 
@@ -138,13 +137,14 @@ void path_reversal(
 	
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after generate_interval_kernel");
 	
-	std::cout<<"onPath : ";
-	for(auto i : onPath)
-	{
-		std::cout<<i<<" ";
-	}
-	std::cout<<"\n";
+	// std::cout<<"onPath : ";
+	// for(auto i : onPath)
+	// {
+	// 	std::cout<<i<<" ";
+	// }
+	// std::cout<<"\n";
 
+	g_verbose = 0;
 	if(g_verbose) {
 		print_interval<<<1,1>>>(interval, n);
 		cudaDeviceSynchronize();
@@ -159,32 +159,31 @@ void path_reversal(
 
 	numBlocks = (p_size + numThreads - 1) / numThreads;    
 
-	thrust::device_vector <int> onPathCpy(num_vert), n_parent(num_vert), parent_pr_tmp(num_vert),us1(num_vert);
-	thrust::copy(new_parent, new_parent + num_vert, n_parent.begin());
+	thrust::device_vector <int> onPathCpy(num_vert), parent_pr_tmp(num_vert),us1(num_vert);
 
-	std::cout<<"Parent new: ";
-	for(auto i : n_parent)
-	{
-		std::cout<<i<<" ";
-	}
-	std::cout<<"\n";
+	// std::cout<<"Parent new: ";
+	// for(auto i : n_parent)
+	// {
+	// 	std::cout<<i<<" ";
+	// }
+	// std::cout<<"\n";
 
     ReversePaths(num_vert, num_edges, log_2_size, 
         thrust::raw_pointer_cast(onPath.data()),
         thrust::raw_pointer_cast(onPathCpy.data()),
         thrust::raw_pointer_cast(pr_arr.data()),
-        thrust::raw_pointer_cast(n_parent.data()),          // changes reflected
+        new_parent,          // changes reflected
         thrust::raw_pointer_cast(parent_pr_tmp.data()),
         thrust::raw_pointer_cast(us1.data()),
         thrust::raw_pointer_cast(pr_arr_size.data())   
     );
 
-	std::cout<<"Parent after: ";
-	for(auto i : n_parent)
-	{
-		std::cout<<i<<" ";
-	}
-	std::cout<<"\n";
+	// std::cout<<"Parent after: ";
+	// for(auto i : n_parent)
+	// {
+	// 	std::cout<<i<<" ";
+	// }
+	// std::cout<<"\n";
 
 	// update_parent_kernel<<<numBlocks, numThreads>>>(
 	// 	new_parent,
@@ -206,13 +205,13 @@ void path_reversal(
 
 	reverse_new_parents<<<numBlocks, numThreads>>>(
 		edge_u, 
-        thrust::raw_pointer_cast(n_parent.data()),
+        parent_u,
         new_parent, 
         h_size);
 
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after update_parent_kernel");
 	
-	g_verbose = true;
+	g_verbose = false;
 
 	if(g_verbose) {
 		std::cout << "New parent array:\n";

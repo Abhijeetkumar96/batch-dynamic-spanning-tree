@@ -288,7 +288,7 @@ void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_ma
     // h_size is super_graph parent array size
     int h_size = pr_resource_mag.num_vert;
     // std::cout << "h_size (a.k.a. num_vert from pr_resource_mag): " << h_size << std::endl;
-    g_verbose = true;
+    // g_verbose = true;
     
     if(g_verbose) {
         std::cout << "super_graph parent array:\n";
