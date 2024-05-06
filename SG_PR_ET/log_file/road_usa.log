@@ -1,0 +1,340 @@
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 25827
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 50.7884 ms.
+
+Function execution times:
+Time of Eulerian Tour : 33.07 ms
+Time of Super graph Creation : 8.19 ms
+Time of Pointer Jumping : 4.26 ms
+Time of PR-RST module : 4.03 ms
+Time of update data structure : 0.85 ms
+Time of Path Reversal : 0.35 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 25705
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 76.1534 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.56 ms
+Time of Super graph Creation : 10.70 ms
+Time of Pointer Jumping : 6.00 ms
+Time of PR-RST module : 5.63 ms
+Time of update data structure : 2.74 ms
+Time of Path Reversal : 0.47 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 25776
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 74.7659 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.48 ms
+Time of Super graph Creation : 10.62 ms
+Time of Pointer Jumping : 6.01 ms
+Time of PR-RST module : 5.99 ms
+Time of update data structure : 1.15 ms
+Time of Path Reversal : 0.48 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 25706
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 74.2796 ms.
+
+Function execution times:
+Time of Eulerian Tour : 49.90 ms
+Time of Super graph Creation : 10.76 ms
+Time of Pointer Jumping : 5.99 ms
+Time of PR-RST module : 5.96 ms
+Time of update data structure : 1.14 ms
+Time of Path Reversal : 0.48 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 25912
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 76.9769 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.46 ms
+Time of Super graph Creation : 12.96 ms
+Time of Pointer Jumping : 6.00 ms
+Time of PR-RST module : 5.91 ms
+Time of update data structure : 1.12 ms
+Time of Path Reversal : 0.49 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 2561
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 69.6791 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.97 ms
+Time of Super graph Creation : 10.20 ms
+Time of Pointer Jumping : 5.54 ms
+Time of PR-RST module : 1.59 ms
+Time of update data structure : 1.04 ms
+Time of Path Reversal : 0.30 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 2557
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 69.8558 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.19 ms
+Time of Super graph Creation : 10.37 ms
+Time of Pointer Jumping : 5.54 ms
+Time of PR-RST module : 2.28 ms
+Time of update data structure : 1.11 ms
+Time of Path Reversal : 0.32 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.03 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 2541
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 48.0442 ms.
+
+Function execution times:
+Time of Eulerian Tour : 33.59 ms
+Time of Super graph Creation : 7.69 ms
+Time of Pointer Jumping : 3.97 ms
+Time of PR-RST module : 1.74 ms
+Time of update data structure : 0.81 ms
+Time of Path Reversal : 0.21 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 2605
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 70.644 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.40 ms
+Time of Super graph Creation : 10.24 ms
+Time of Pointer Jumping : 5.57 ms
+Time of PR-RST module : 2.96 ms
+Time of update data structure : 1.14 ms
+Time of Path Reversal : 0.29 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 2583
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 69.6556 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.29 ms
+Time of Super graph Creation : 10.21 ms
+Time of Pointer Jumping : 5.54 ms
+Time of PR-RST module : 2.21 ms
+Time of update data structure : 1.07 ms
+Time of Path Reversal : 0.30 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 23
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 66.9808 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.08 ms
+Time of Super graph Creation : 9.55 ms
+Time of Pointer Jumping : 5.39 ms
+Time of update data structure : 1.14 ms
+Time of PR-RST module : 0.55 ms
+Time of Path Reversal : 0.22 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 25
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 67.1831 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.33 ms
+Time of Super graph Creation : 9.56 ms
+Time of Pointer Jumping : 5.39 ms
+Time of update data structure : 1.08 ms
+Time of PR-RST module : 0.54 ms
+Time of Path Reversal : 0.23 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 26
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 67.1 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.53 ms
+Time of Super graph Creation : 9.44 ms
+Time of Pointer Jumping : 5.37 ms
+Time of update data structure : 1.01 ms
+Time of PR-RST module : 0.49 ms
+Time of Path Reversal : 0.22 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 26
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 67.3427 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.52 ms
+Time of Super graph Creation : 9.60 ms
+Time of Pointer Jumping : 5.39 ms
+Time of update data structure : 1.01 ms
+Time of PR-RST module : 0.55 ms
+Time of Path Reversal : 0.23 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 23
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 67.1942 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.11 ms
+Time of Super graph Creation : 9.91 ms
+Time of Pointer Jumping : 5.39 ms
+Time of update data structure : 1.03 ms
+Time of PR-RST module : 0.50 ms
+Time of Path Reversal : 0.22 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 239
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 68.3903 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.60 ms
+Time of Super graph Creation : 10.00 ms
+Time of Pointer Jumping : 5.40 ms
+Time of PR-RST module : 1.09 ms
+Time of update data structure : 1.03 ms
+Time of Path Reversal : 0.23 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 234
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 68.1409 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.64 ms
+Time of Super graph Creation : 10.08 ms
+Time of Pointer Jumping : 5.40 ms
+Time of update data structure : 1.03 ms
+Time of PR-RST module : 0.69 ms
+Time of Path Reversal : 0.24 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 244
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 67.5305 ms.
+
+Function execution times:
+Time of Eulerian Tour : 49.95 ms
+Time of Super graph Creation : 9.87 ms
+Time of Pointer Jumping : 5.40 ms
+Time of update data structure : 1.36 ms
+Time of PR-RST module : 0.69 ms
+Time of Path Reversal : 0.22 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 242
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 67.8082 ms.
+
+Function execution times:
+Time of Eulerian Tour : 49.99 ms
+Time of Super graph Creation : 10.06 ms
+Time of Pointer Jumping : 5.41 ms
+Time of PR-RST module : 1.06 ms
+Time of update data structure : 1.02 ms
+Time of Path Reversal : 0.23 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: road_usa.egr
+Number of deleted tree edges: 243
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 69.0984 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.76 ms
+Time of Super graph Creation : 10.52 ms
+Time of Pointer Jumping : 5.40 ms
+Time of PR-RST module : 1.11 ms
+Time of update data structure : 1.03 ms
+Time of Path Reversal : 0.23 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

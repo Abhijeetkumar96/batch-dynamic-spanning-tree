@@ -1,0 +1,400 @@
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 11489
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Total execution time of all functions: 12.9393 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.63 ms
+Time of Path Reversal : 3.14 ms
+Time of PR_Shortcut : 2.38 ms
+Time of PR-RST module : 2.07 ms
+Time of Pointer Jumping : 0.39 ms
+Time of update data structure : 0.32 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 11766
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Total execution time of all functions: 12.7895 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.60 ms
+Time of Path Reversal : 3.00 ms
+Time of PR_Shortcut : 2.39 ms
+Time of PR-RST module : 2.07 ms
+Time of Pointer Jumping : 0.38 ms
+Time of update data structure : 0.32 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 11610
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Total execution time of all functions: 15.4386 ms.
+
+Function execution times:
+Time of Super graph Creation : 5.64 ms
+Time of Path Reversal : 3.50 ms
+Time of PR-RST module : 2.62 ms
+Time of PR_Shortcut : 2.60 ms
+Time of update data structure : 0.54 ms
+Time of Pointer Jumping : 0.50 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 11675
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Total execution time of all functions: 12.9371 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.61 ms
+Time of Path Reversal : 3.10 ms
+Time of PR_Shortcut : 2.39 ms
+Time of PR-RST module : 2.12 ms
+Time of Pointer Jumping : 0.39 ms
+Time of update data structure : 0.31 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 11665
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Total execution time of all functions: 12.8931 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.60 ms
+Time of Path Reversal : 3.15 ms
+Time of PR_Shortcut : 2.32 ms
+Time of PR-RST module : 2.10 ms
+Time of Pointer Jumping : 0.38 ms
+Time of update data structure : 0.33 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 1106
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Total execution time of all functions: 11.3734 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.40 ms
+Time of Path Reversal : 2.91 ms
+Time of PR_Shortcut : 2.28 ms
+Time of PR-RST module : 1.10 ms
+Time of Pointer Jumping : 0.37 ms
+Time of update data structure : 0.29 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 1150
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Total execution time of all functions: 12.205 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.58 ms
+Time of Path Reversal : 3.03 ms
+Time of PR_Shortcut : 2.36 ms
+Time of PR-RST module : 1.55 ms
+Time of Pointer Jumping : 0.37 ms
+Time of update data structure : 0.29 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 1143
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Total execution time of all functions: 11.467 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.44 ms
+Time of Path Reversal : 2.90 ms
+Time of PR_Shortcut : 2.33 ms
+Time of PR-RST module : 1.10 ms
+Time of Pointer Jumping : 0.39 ms
+Time of update data structure : 0.29 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 1212
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Total execution time of all functions: 12.0262 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.45 ms
+Time of Path Reversal : 3.03 ms
+Time of PR_Shortcut : 2.32 ms
+Time of PR-RST module : 1.55 ms
+Time of Pointer Jumping : 0.37 ms
+Time of update data structure : 0.29 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 1136
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Total execution time of all functions: 11.4984 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.47 ms
+Time of Path Reversal : 2.88 ms
+Time of PR_Shortcut : 2.35 ms
+Time of PR-RST module : 1.10 ms
+Time of Pointer Jumping : 0.36 ms
+Time of update data structure : 0.31 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 18
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Total execution time of all functions: 13.9878 ms.
+
+Function execution times:
+Time of Super graph Creation : 7.87 ms
+Time of Path Reversal : 2.84 ms
+Time of PR_Shortcut : 2.19 ms
+Time of PR-RST module : 0.43 ms
+Time of Pointer Jumping : 0.36 ms
+Time of update data structure : 0.27 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 15
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Total execution time of all functions: 14.0561 ms.
+
+Function execution times:
+Time of Super graph Creation : 8.10 ms
+Time of Path Reversal : 2.67 ms
+Time of PR_Shortcut : 2.23 ms
+Time of PR-RST module : 0.38 ms
+Time of Pointer Jumping : 0.37 ms
+Time of update data structure : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 14
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Total execution time of all functions: 15.1354 ms.
+
+Function execution times:
+Time of Super graph Creation : 8.77 ms
+Time of Path Reversal : 2.86 ms
+Time of PR_Shortcut : 2.23 ms
+Time of PR-RST module : 0.62 ms
+Time of Pointer Jumping : 0.36 ms
+Time of update data structure : 0.27 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 18
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Total execution time of all functions: 13.8775 ms.
+
+Function execution times:
+Time of Super graph Creation : 7.27 ms
+Time of Path Reversal : 2.99 ms
+Time of PR_Shortcut : 2.21 ms
+Time of PR-RST module : 0.70 ms
+Time of Pointer Jumping : 0.37 ms
+Time of update data structure : 0.32 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 7
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Total execution time of all functions: 13.7596 ms.
+
+Function execution times:
+Time of Super graph Creation : 7.92 ms
+Time of Path Reversal : 2.65 ms
+Time of PR_Shortcut : 2.18 ms
+Time of Pointer Jumping : 0.35 ms
+Time of PR-RST module : 0.34 ms
+Time of update data structure : 0.29 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 111
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Total execution time of all functions: 11.3819 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.81 ms
+Time of Path Reversal : 2.86 ms
+Time of PR_Shortcut : 2.26 ms
+Time of PR-RST module : 0.77 ms
+Time of Pointer Jumping : 0.36 ms
+Time of update data structure : 0.30 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 117
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Total execution time of all functions: 12.0978 ms.
+
+Function execution times:
+Time of Super graph Creation : 5.54 ms
+Time of Path Reversal : 2.81 ms
+Time of PR_Shortcut : 2.28 ms
+Time of PR-RST module : 0.79 ms
+Time of Pointer Jumping : 0.38 ms
+Time of update data structure : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 117
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Total execution time of all functions: 11.2751 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.73 ms
+Time of Path Reversal : 2.83 ms
+Time of PR_Shortcut : 2.28 ms
+Time of PR-RST module : 0.77 ms
+Time of Pointer Jumping : 0.36 ms
+Time of update data structure : 0.29 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 96
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Total execution time of all functions: 11.6654 ms.
+
+Function execution times:
+Time of Super graph Creation : 5.04 ms
+Time of Path Reversal : 2.95 ms
+Time of PR_Shortcut : 2.24 ms
+Time of PR-RST module : 0.77 ms
+Time of Pointer Jumping : 0.36 ms
+Time of update data structure : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Number of deleted tree edges: 125
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Total execution time of all functions: 11.8183 ms.
+
+Function execution times:
+Time of Super graph Creation : 5.26 ms
+Time of Path Reversal : 2.83 ms
+Time of PR_Shortcut : 2.30 ms
+Time of PR-RST module : 0.77 ms
+Time of Pointer Jumping : 0.36 ms
+Time of update data structure : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

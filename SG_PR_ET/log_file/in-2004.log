@@ -1,0 +1,337 @@
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 686
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100000
+
+Total execution time of all functions: 11.4658 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.46 ms
+Time of Super graph Creation : 4.24 ms
+Time of PR-RST module : 1.06 ms
+Time of update data structure : 0.36 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 742
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100000
+
+Total execution time of all functions: 11.4404 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.45 ms
+Time of Super graph Creation : 4.23 ms
+Time of PR-RST module : 1.05 ms
+Time of update data structure : 0.36 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 679
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100000
+
+Total execution time of all functions: 11.6337 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.69 ms
+Time of Super graph Creation : 4.21 ms
+Time of PR-RST module : 1.03 ms
+Time of update data structure : 0.35 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 711
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100000
+
+Total execution time of all functions: 11.0316 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.46 ms
+Time of Super graph Creation : 4.25 ms
+Time of PR-RST module : 0.62 ms
+Time of update data structure : 0.35 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 687
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100000
+
+Total execution time of all functions: 11.36 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.42 ms
+Time of Super graph Creation : 4.22 ms
+Time of PR-RST module : 1.03 ms
+Time of update data structure : 0.35 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 73
+numVert: 1382908, num_edges: 27183212 and delete batch size: 10000
+
+Total execution time of all functions: 10.9845 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.62 ms
+Time of Super graph Creation : 4.22 ms
+Time of PR-RST module : 0.48 ms
+Time of update data structure : 0.32 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 74
+numVert: 1382908, num_edges: 27183212 and delete batch size: 10000
+
+Total execution time of all functions: 10.9614 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.61 ms
+Time of Super graph Creation : 4.23 ms
+Time of PR-RST module : 0.48 ms
+Time of update data structure : 0.31 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 79
+numVert: 1382908, num_edges: 27183212 and delete batch size: 10000
+
+Total execution time of all functions: 10.9278 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.56 ms
+Time of Super graph Creation : 4.24 ms
+Time of PR-RST module : 0.47 ms
+Time of update data structure : 0.33 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 79
+numVert: 1382908, num_edges: 27183212 and delete batch size: 10000
+
+Total execution time of all functions: 10.9346 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.56 ms
+Time of Super graph Creation : 4.24 ms
+Time of PR-RST module : 0.48 ms
+Time of update data structure : 0.31 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 72
+numVert: 1382908, num_edges: 27183212 and delete batch size: 10000
+
+Total execution time of all functions: 10.8116 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.44 ms
+Time of Super graph Creation : 4.23 ms
+Time of PR-RST module : 0.47 ms
+Time of update data structure : 0.32 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.03 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 1
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100
+
+Total execution time of all functions: 10.4126 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.48 ms
+Time of Super graph Creation : 4.06 ms
+Time of update data structure : 0.30 ms
+Time of Pointer Jumping : 0.28 ms
+Time of PR-RST module : 0.24 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 0
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100
+
+Total execution time of all functions: 10.0497 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.47 ms
+Time of Super graph Creation : 3.98 ms
+Time of update data structure : 0.29 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 2
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100
+
+Total execution time of all functions: 10.5475 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.56 ms
+Time of Super graph Creation : 4.07 ms
+Time of update data structure : 0.30 ms
+Time of Pointer Jumping : 0.29 ms
+Time of PR-RST module : 0.28 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 5
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100
+
+Total execution time of all functions: 10.5917 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.55 ms
+Time of Super graph Creation : 4.07 ms
+Time of PR-RST module : 0.32 ms
+Time of update data structure : 0.30 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 1
+numVert: 1382908, num_edges: 27183212 and delete batch size: 100
+
+Total execution time of all functions: 10.4546 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.49 ms
+Time of Super graph Creation : 4.10 ms
+Time of update data structure : 0.30 ms
+Time of Pointer Jumping : 0.28 ms
+Time of PR-RST module : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 7
+numVert: 1382908, num_edges: 27183212 and delete batch size: 1000
+
+Total execution time of all functions: 10.5526 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.43 ms
+Time of Super graph Creation : 4.17 ms
+Time of PR-RST module : 0.31 ms
+Time of update data structure : 0.31 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 6
+numVert: 1382908, num_edges: 27183212 and delete batch size: 1000
+
+Total execution time of all functions: 10.4746 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.46 ms
+Time of Super graph Creation : 4.05 ms
+Time of PR-RST module : 0.32 ms
+Time of update data structure : 0.31 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 9
+numVert: 1382908, num_edges: 27183212 and delete batch size: 1000
+
+Total execution time of all functions: 10.5766 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.43 ms
+Time of Super graph Creation : 4.13 ms
+Time of PR-RST module : 0.36 ms
+Time of update data structure : 0.31 ms
+Time of Pointer Jumping : 0.29 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 3
+numVert: 1382908, num_edges: 27183212 and delete batch size: 1000
+
+Total execution time of all functions: 10.5226 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.49 ms
+Time of Super graph Creation : 4.11 ms
+Time of update data structure : 0.30 ms
+Time of Pointer Jumping : 0.28 ms
+Time of PR-RST module : 0.27 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: in-2004.egr
+Number of deleted tree edges: 5
+numVert: 1382908, num_edges: 27183212 and delete batch size: 1000
+
+Total execution time of all functions: 10.7374 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.69 ms
+Time of Super graph Creation : 4.08 ms
+Time of PR-RST module : 0.32 ms
+Time of update data structure : 0.31 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms

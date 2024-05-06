@@ -1,0 +1,400 @@
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86267
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 68.8478 ms.
+
+Function execution times:
+Time of Path Reversal : 34.41 ms
+Time of PR_Shortcut : 21.73 ms
+Time of PR-RST module : 5.41 ms
+Time of Super graph Creation : 4.43 ms
+Time of Pointer Jumping : 2.50 ms
+Time of update data structure : 0.34 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86232
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 69.636 ms.
+
+Function execution times:
+Time of Path Reversal : 34.26 ms
+Time of PR_Shortcut : 21.84 ms
+Time of PR-RST module : 6.20 ms
+Time of Super graph Creation : 4.44 ms
+Time of Pointer Jumping : 2.50 ms
+Time of update data structure : 0.35 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86102
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 69.0213 ms.
+
+Function execution times:
+Time of Path Reversal : 34.48 ms
+Time of PR_Shortcut : 21.83 ms
+Time of PR-RST module : 5.38 ms
+Time of Super graph Creation : 4.44 ms
+Time of Pointer Jumping : 2.51 ms
+Time of update data structure : 0.34 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86006
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 69.699 ms.
+
+Function execution times:
+Time of Path Reversal : 34.55 ms
+Time of PR_Shortcut : 21.66 ms
+Time of PR-RST module : 6.19 ms
+Time of Super graph Creation : 4.43 ms
+Time of Pointer Jumping : 2.50 ms
+Time of update data structure : 0.34 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86364
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 70.0367 ms.
+
+Function execution times:
+Time of Path Reversal : 34.64 ms
+Time of PR_Shortcut : 21.77 ms
+Time of PR-RST module : 6.32 ms
+Time of Super graph Creation : 4.43 ms
+Time of Pointer Jumping : 2.50 ms
+Time of update data structure : 0.35 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8580
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 64.4481 ms.
+
+Function execution times:
+Time of Path Reversal : 32.49 ms
+Time of PR_Shortcut : 21.71 ms
+Time of Super graph Creation : 4.40 ms
+Time of PR-RST module : 3.16 ms
+Time of Pointer Jumping : 2.36 ms
+Time of update data structure : 0.30 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8624
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 64.8587 ms.
+
+Function execution times:
+Time of Path Reversal : 32.79 ms
+Time of PR_Shortcut : 21.79 ms
+Time of Super graph Creation : 4.41 ms
+Time of PR-RST module : 3.18 ms
+Time of Pointer Jumping : 2.36 ms
+Time of update data structure : 0.31 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8601
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 64.4844 ms.
+
+Function execution times:
+Time of Path Reversal : 32.60 ms
+Time of PR_Shortcut : 21.81 ms
+Time of Super graph Creation : 4.64 ms
+Time of PR-RST module : 2.74 ms
+Time of Pointer Jumping : 2.36 ms
+Time of update data structure : 0.31 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8616
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 64.4669 ms.
+
+Function execution times:
+Time of Path Reversal : 32.32 ms
+Time of PR_Shortcut : 21.81 ms
+Time of Super graph Creation : 4.46 ms
+Time of PR-RST module : 3.17 ms
+Time of Pointer Jumping : 2.36 ms
+Time of update data structure : 0.32 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8695
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 64.8273 ms.
+
+Function execution times:
+Time of Path Reversal : 32.69 ms
+Time of PR_Shortcut : 21.70 ms
+Time of Super graph Creation : 4.42 ms
+Time of PR-RST module : 3.27 ms
+Time of Pointer Jumping : 2.36 ms
+Time of update data structure : 0.36 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 95
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 60.3051 ms.
+
+Function execution times:
+Time of Path Reversal : 30.82 ms
+Time of PR_Shortcut : 21.56 ms
+Time of Super graph Creation : 4.29 ms
+Time of Pointer Jumping : 2.23 ms
+Time of PR-RST module : 1.07 ms
+Time of update data structure : 0.30 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 91
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 60.7618 ms.
+
+Function execution times:
+Time of Path Reversal : 31.15 ms
+Time of PR_Shortcut : 21.68 ms
+Time of Super graph Creation : 4.31 ms
+Time of Pointer Jumping : 2.24 ms
+Time of PR-RST module : 1.07 ms
+Time of update data structure : 0.29 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 84
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 60.1213 ms.
+
+Function execution times:
+Time of Path Reversal : 30.82 ms
+Time of PR_Shortcut : 21.70 ms
+Time of Super graph Creation : 4.29 ms
+Time of Pointer Jumping : 2.24 ms
+Time of PR-RST module : 0.77 ms
+Time of update data structure : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 91
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 60.7746 ms.
+
+Function execution times:
+Time of Path Reversal : 31.52 ms
+Time of PR_Shortcut : 21.65 ms
+Time of Super graph Creation : 4.28 ms
+Time of Pointer Jumping : 2.24 ms
+Time of PR-RST module : 0.78 ms
+Time of update data structure : 0.29 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 60.5372 ms.
+
+Function execution times:
+Time of Path Reversal : 31.24 ms
+Time of PR_Shortcut : 21.66 ms
+Time of Super graph Creation : 4.30 ms
+Time of Pointer Jumping : 2.23 ms
+Time of PR-RST module : 0.79 ms
+Time of update data structure : 0.30 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 877
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 62.251 ms.
+
+Function execution times:
+Time of Path Reversal : 31.57 ms
+Time of PR_Shortcut : 21.86 ms
+Time of Super graph Creation : 4.34 ms
+Time of Pointer Jumping : 2.31 ms
+Time of PR-RST module : 1.84 ms
+Time of update data structure : 0.30 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 850
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 61.9682 ms.
+
+Function execution times:
+Time of Path Reversal : 31.46 ms
+Time of PR_Shortcut : 21.75 ms
+Time of Super graph Creation : 4.30 ms
+Time of Pointer Jumping : 2.30 ms
+Time of PR-RST module : 1.83 ms
+Time of update data structure : 0.31 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 856
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 62.4312 ms.
+
+Function execution times:
+Time of Path Reversal : 31.78 ms
+Time of PR_Shortcut : 21.77 ms
+Time of Super graph Creation : 4.31 ms
+Time of Pointer Jumping : 2.30 ms
+Time of PR-RST module : 1.95 ms
+Time of update data structure : 0.30 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 861
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 61.9614 ms.
+
+Function execution times:
+Time of Path Reversal : 31.44 ms
+Time of PR_Shortcut : 21.75 ms
+Time of Super graph Creation : 4.30 ms
+Time of Pointer Jumping : 2.31 ms
+Time of PR-RST module : 1.83 ms
+Time of update data structure : 0.31 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 853
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 62.2479 ms.
+
+Function execution times:
+Time of Path Reversal : 31.72 ms
+Time of PR_Shortcut : 21.70 ms
+Time of Super graph Creation : 4.33 ms
+Time of Pointer Jumping : 2.32 ms
+Time of PR-RST module : 1.85 ms
+Time of update data structure : 0.31 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

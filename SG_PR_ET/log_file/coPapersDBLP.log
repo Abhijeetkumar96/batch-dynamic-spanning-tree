@@ -1,0 +1,334 @@
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 2284
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Total execution time of all functions: 9.53814 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.50 ms
+Time of Eulerian Tour : 3.54 ms
+Time of PR-RST module : 0.74 ms
+Time of update data structure : 0.47 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 2263
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Total execution time of all functions: 10.1199 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.52 ms
+Time of Eulerian Tour : 3.59 ms
+Time of PR-RST module : 1.23 ms
+Time of update data structure : 0.49 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 2288
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Total execution time of all functions: 10.04 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.48 ms
+Time of Eulerian Tour : 3.58 ms
+Time of PR-RST module : 1.23 ms
+Time of update data structure : 0.48 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 2230
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Total execution time of all functions: 10.1932 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.68 ms
+Time of Eulerian Tour : 3.53 ms
+Time of PR-RST module : 1.23 ms
+Time of update data structure : 0.48 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 2247
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Total execution time of all functions: 9.96246 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.50 ms
+Time of Eulerian Tour : 3.47 ms
+Time of PR-RST module : 1.23 ms
+Time of update data structure : 0.47 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 220
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Total execution time of all functions: 9.1907 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.45 ms
+Time of Eulerian Tour : 3.51 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.43 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 222
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Total execution time of all functions: 9.24379 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.47 ms
+Time of Eulerian Tour : 3.53 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.44 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 227
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Total execution time of all functions: 9.27227 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.48 ms
+Time of Eulerian Tour : 3.54 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.46 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 232
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Total execution time of all functions: 9.27942 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.45 ms
+Time of Eulerian Tour : 3.58 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.45 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 203
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Total execution time of all functions: 9.28138 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.50 ms
+Time of Eulerian Tour : 3.55 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.44 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 1
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Total execution time of all functions: 8.7042 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.28 ms
+Time of Eulerian Tour : 3.49 ms
+Time of update data structure : 0.43 ms
+Time of PR-RST module : 0.23 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 0
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Total execution time of all functions: 8.35955 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.21 ms
+Time of Eulerian Tour : 3.49 ms
+Time of update data structure : 0.42 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 3
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Total execution time of all functions: 8.80387 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.35 ms
+Time of Eulerian Tour : 3.48 ms
+Time of update data structure : 0.43 ms
+Time of PR-RST module : 0.28 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 0
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Total execution time of all functions: 8.43238 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.17 ms
+Time of Eulerian Tour : 3.61 ms
+Time of update data structure : 0.42 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 5
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Total execution time of all functions: 8.7623 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.27 ms
+Time of Eulerian Tour : 3.47 ms
+Time of update data structure : 0.43 ms
+Time of PR-RST module : 0.32 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 20
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Total execution time of all functions: 8.97852 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.34 ms
+Time of Eulerian Tour : 3.53 ms
+Time of update data structure : 0.44 ms
+Time of PR-RST module : 0.40 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 17
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Total execution time of all functions: 9.01801 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.33 ms
+Time of Eulerian Tour : 3.56 ms
+Time of update data structure : 0.47 ms
+Time of PR-RST module : 0.39 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 21
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Total execution time of all functions: 8.89922 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.39 ms
+Time of Eulerian Tour : 3.41 ms
+Time of update data structure : 0.44 ms
+Time of PR-RST module : 0.39 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 25
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Total execution time of all functions: 9.0051 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.36 ms
+Time of Eulerian Tour : 3.54 ms
+Time of update data structure : 0.44 ms
+Time of PR-RST module : 0.39 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersDBLP.egr
+Number of deleted tree edges: 21
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Total execution time of all functions: 8.90489 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.27 ms
+Time of Eulerian Tour : 3.53 ms
+Time of update data structure : 0.44 ms
+Time of PR-RST module : 0.40 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
