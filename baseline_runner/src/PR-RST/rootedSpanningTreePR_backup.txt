@@ -1,0 +1,189 @@
+#include <thrust/host_vector.h>
+#include <thrust/device_vector.h>
+
+#include "PR-RST/rootedSpanningTreePR.cuh"
+#include "PR-RST/grafting.cuh"
+#include "PR-RST/reRoot.cuh"
+#include "PR-RST/pr_rst_util.cuh"
+#include "PR-RST/shortcutting.cuh"
+
+#include "common/cuda_utility.cuh"
+
+// #define DEBUG
+
+__global__ 
+void init(int *arr, int *rep, int n)
+{
+	int tid = blockDim.x * blockIdx.x + threadIdx.x;
+	if (tid < n)
+	{
+		arr[tid] = tid;
+		rep[tid] = tid;
+	}
+}
+
+__global__ 
+void initializeArrays(int* d_OnPath, int* d_index_ptr, int* d_marked_parent, int* d_winner_ptr, int n) {
+    int tid = blockIdx.x * blockDim.x + threadIdx.x;
+    if (tid < n) {
+        d_OnPath[tid] = 0;              // Set to zero
+        d_index_ptr[tid] = 0;           // Set to zero
+        d_marked_parent[tid] = -1;      // Set to -1
+        d_winner_ptr[tid] = -1;         // Set to -1
+    }
+}
+
+std::vector<int> RootedSpanningTree(int *d_u_ptr, int *d_v_ptr, const int n, const int edges) {
+
+	int vertices = n;
+
+	std::cout << "No. of vertices = " << vertices << std::endl;
+	std::cout << "No. of edges = " << edges << std::endl;
+
+	int *d_winner_ptr = nullptr;
+
+	cudaMalloc((void**)&d_winner_ptr, n * sizeof(int));
+    cudaMemset(d_winner_ptr, 0, n * sizeof(int));
+
+	// Update values for pointerJumping
+	// std::cout << "log2(n) = " << std::log2(n) << std::endl;
+	int log_2_size = std::ceil(std::log2(n));
+	long long pr_size = std::ceil(n * 1LL * log_2_size);
+	// std::cout << "pr_size = " << pr_size << std::endl;
+	
+	long long size = n * 1LL * sizeof(int); // For n vertices
+	std::cout << "size: " << size << std::endl;
+	std::cout << "n * sizeof(int): " << n * sizeof(int) << std::endl;
+
+
+	int *d_ptr;
+	int *d_parent_ptr;
+	int *d_new_parent_ptr;
+	int *d_pr_arr;
+	int *d_label;
+	int *d_OnPath;
+	int *d_new_OnPath;
+	int *d_rep;
+	int *d_marked_parent;
+	int *d_next;
+	int *d_new_next;
+	int *d_index_ptr;
+	int *d_pr_size_ptr;
+
+
+	cudaMalloc((void **)&d_ptr, size);
+	cudaMalloc((void **)&d_parent_ptr,size);
+	cudaMalloc((void **)&d_new_parent_ptr,size);
+	cudaMalloc((void **)&d_pr_arr, sizeof(int) * pr_size);
+	cudaMalloc((void **)&d_label, size);
+	cudaMalloc((void **)&d_rep, size);
+	cudaMalloc((void **)&d_OnPath, size);
+	cudaMalloc((void **)&d_new_OnPath, size);
+	cudaMalloc((void **)&d_marked_parent,size);
+	cudaMalloc((void **)&d_next, size);
+	cudaMalloc((void **)&d_new_next, size);
+	cudaMalloc((void **)&d_index_ptr, size);
+	cudaMalloc((void **)&d_pr_size_ptr, size);
+
+#ifdef DEBUG
+	std::vector<int> rep(n),par(n),marked(n),pr_arr(pr_size),pr_arr_size(n);
+#endif
+
+	int numThreads = 1024;
+	int numBlocks_n = (vertices + numThreads - 1) / numThreads;
+
+	// Step 1: Initialize rep with vertices themselves
+	init<<<numBlocks_n, numThreads>>>(d_ptr, d_parent_ptr, vertices);
+	cudaDeviceSynchronize();
+
+#ifdef DEBUG
+	std::cout << "Rep array initially : \n";
+	cudaMemcpy(rep.data(), d_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);
+	// printArr(rep,vertices,10);
+#endif
+
+	int *d_flag;
+	cudaMalloc(&d_flag, sizeof(int));
+
+	int flag = 1;
+	int iter_number = 0;
+	// int numBlocks_e = (edges + numThreads - 1) / numThreads;
+
+	while (flag)
+	{
+		if(iter_number > 100)
+		{
+			std::ofstream errorfile("error.txt");
+			std::cout<<"Iterations exceeded > 100 : "<<iter_number<<"\n";
+			std::cout<<"------------------------------------------------------------\n";
+			std::cout<<"Info about the tree \n\n";
+			// errorfile<<n<<" "<<u_arr.size()<<std::endl;
+			// for(int i = 0; i < u_arr.size(); i++){
+			// 	errorfile<<u_arr[i]<<" "<<v_arr[i]<<std::endl;
+			// }
+			
+			// err = 1;
+			break;
+		}
+
+		#ifdef DEBUG
+			std::cout<<"\nIteration : "<<iter_number<<"\n";
+		#endif
+
+		#ifdef DEBUG
+			cudaMemcpy(rep.data(), d_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);
+			// std::cout<<"No of components intially : "<<numberOfComponents(rep)<<"\n";
+		#endif
+
+		flag = 0;
+		cudaMemcpy(d_flag, &flag, sizeof(int), cudaMemcpyHostToDevice);
+			
+		// long long size = n * 1LL * sizeof(int); // For n vertices
+		// cudaMemset(d_OnPath, 0, size);
+		// cudaMemset(d_index_ptr,0,size);
+		// cudaMemset(d_marked_parent,-1,size);
+		
+		// cudaMemset(d_winner_ptr, -1, n * sizeof(int));
+
+		int blockSize = 1024; // Block size, can be tuned for your specific GPU
+    	int numBlocks = (n + blockSize - 1) / blockSize; // Compute the number of blocks needed
+
+    	// Launch the kernel
+    	initializeArrays<<<numBlocks, blockSize>>>(d_OnPath, d_index_ptr, d_marked_parent, d_winner_ptr, n);
+    	cudaDeviceSynchronize();
+
+		//Step 2: Graft
+		Graft(vertices,edges,d_u_ptr,d_v_ptr,d_ptr,d_winner_ptr,d_marked_parent,d_OnPath,d_flag);
+	
+		// Step 3: ReRoot
+		ReRoot(vertices,edges,log_2_size,iter_number,d_OnPath,d_new_OnPath ,d_pr_arr,d_parent_ptr,d_new_parent_ptr,d_index_ptr,d_pr_size_ptr,d_marked_parent,d_ptr);
+
+		cudaMemcpy(d_next, d_parent_ptr, size, cudaMemcpyDeviceToDevice);
+		
+		// Step 4: Shortcutting
+		cudaMemset(d_pr_size_ptr, 0, size);
+		cudaMemset(d_pr_arr, -1, pr_size);
+
+		Shortcut(vertices,edges,log_2_size,d_next,d_new_next,d_pr_arr,d_ptr,d_pr_size_ptr);	
+		
+		iter_number++;
+		cudaMemcpy(&flag, d_flag, sizeof(int), cudaMemcpyDeviceToHost);
+	}
+
+	std::vector<int> h_parent(n);
+	
+	cudaMemcpy(h_parent.data(), d_parent_ptr, n*sizeof(int), cudaMemcpyDeviceToHost);
+
+	// #ifdef DEBUG
+		std::cout << "parent array : \n";
+
+		int j = 0;
+		for (auto i : h_parent)
+			std::cout << "parent[" << j++ << "] = " << i << std::endl;
+		std::cout << std::endl;
+	// #endif
+
+
+	cudaFree(d_OnPath);
+	return h_parent;
+}
