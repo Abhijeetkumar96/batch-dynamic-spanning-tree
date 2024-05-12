@@ -1,8 +1,0 @@
-nvcc -O2 -arch=sm_61    -c main.cu -o main.o
-nvcc -O2 -arch=sm_61    -c utility.cu -o utility.o
-nvcc -O2 -arch=sm_61    -c rootedSpanningTreePR.cu -o rootedSpanningTreePR.o
-nvcc -O2 -arch=sm_61    -c grafting.cu -o grafting.o
-nvcc -O2 -arch=sm_61    -c reRoot.cu -o reRoot.o
-nvcc -O2 -arch=sm_61    -c reversePaths.cu -o reversePaths.o
-nvcc -O2 -arch=sm_61    -c shortcutting.cu -o shortcutting.o
-nvcc -O2 -arch=sm_61   -o main main.o utility.o rootedSpanningTreePR.o grafting.o reRoot.o reversePaths.o shortcutting.o -lcudart

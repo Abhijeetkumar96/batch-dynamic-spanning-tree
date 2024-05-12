@@ -1,4 +1,0 @@
-TO DO:
-1. port the other list ranking from euler-meets-cuda.
-2. currently run for 3 baselines.
-3. allocate size of non-spanning-tree_u for replacement edges.
