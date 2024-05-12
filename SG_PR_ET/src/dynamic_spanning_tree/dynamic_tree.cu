@@ -41,6 +41,14 @@ void repair_spanning_tree(const std::vector<int>& roots, dynamic_tree_manager& t
 	// 1. find eulerian tour
 	cal_first_last(roots[0], tree_ds.d_org_parent, euler_tour);
 
+	// if num of components in the forest > 1, then call multi-component eulerian_tour
+	// else call normal eulerian_tour
+
+	// if(num_comps > 1)
+	// 	cal_first_last(roots[0], tree_ds.d_org_parent, euler_tour);
+	// else
+	// 	cal_first_last(roots[0], tree_ds.d_org_parent, euler_tour);
+
 	auto stop = std::chrono::high_resolution_clock::now();
     auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
