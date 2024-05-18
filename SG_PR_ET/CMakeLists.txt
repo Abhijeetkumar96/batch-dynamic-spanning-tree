@@ -16,6 +16,8 @@ include_directories(include)
 file(GLOB_RECURSE CUDA_SRC
     "src/common/*.cu"
     "src/dynamic_spanning_tree/*.cu"
+    "src/eulerian_tour/connected/*.cu"
+    "src/eulerian_tour/disconnected/*.cu"
     "src/PR-RST/*.cu"
     "src/hash_table/*.cu"
     "src/super_graph/*.cu"
