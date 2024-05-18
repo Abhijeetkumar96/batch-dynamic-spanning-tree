@@ -272,6 +272,7 @@ void update_edgelist(
     auto start = std::chrono::high_resolution_clock::now();
     
     // Launch kernel to mark batch edges for deletion in the actual edge_list
+    // std::cout << "numBlocks: " << numBlocks << " & numThreads: " << numThreads << " for mark_delete_edges_kernel \n";
     mark_delete_edges_kernel<<<numBlocks, numThreads>>>(
         d_parent, 
         d_edge_list, 
@@ -287,7 +288,7 @@ void update_edgelist(
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after mark_delete_edges_kernel");
 
     numBlocks = (num_vert + numThreads - 1) / numThreads;
-
+    // std::cout << "numBlocks: " << numBlocks << " & numThreads: " << numThreads << " for mark_tree_edges_kernel \n";
     mark_tree_edges_kernel<<<numThreads, numBlocks>>>(d_parent, d_flags, d_edge_list, num_edges, num_vert);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after mark_tree_edges_kernel");
 

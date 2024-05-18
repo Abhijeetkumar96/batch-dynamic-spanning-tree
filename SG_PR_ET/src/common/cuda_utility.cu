@@ -204,64 +204,60 @@ void remove_self_loops_duplicates(
     CUDA_CHECK(status, "Error in CUB Flagged");
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
-    // std::cout <<"NumEdges after cleaning up: " << *d_num_selected_out << "\n";
-    // std::cout <<"Cleaned edge stream:\n";
-    g_verbose = false;
+    // g_verbose = false;
     
-    if(g_verbose)
+    if(g_verbose) {
+        std::cout <<"NumEdges after cleaning up: " << *d_num_selected_out << "\n";
+        std::cout <<"Cleaned edge stream:\n";
         DisplayDeviceEdgeList(d_keys_out, d_values_out, *d_num_selected_out);
+    }
 }
 
+// Kernel to find roots and count components
+__global__ 
+void find_root(const int* d_parent, int* d_root, int* d_num_comp, int num_vert) {
+    int idx = blockIdx.x * blockDim.x + threadIdx.x;
+    if (idx < num_vert) {
+        if (d_parent[idx] == idx) {
+            atomicAdd(d_num_comp, 1);
+            if (*d_root == -1) {
+                *d_root = idx;
+            }
+        }
+    }
+}
 
-// old find unique code
-// void find_unique(
-//     int* d_in, 
-//     int* d_out,
-//     int num_items,
-//     int& h_num_selected_out) {
-    
-//     void* d_temp_storage = NULL;
-//     size_t temp_storage_bytes = 0;
+bool is_tree_or_forest(const int* d_parent, const int num_vert, int& root) {
+    int* d_num_comp = nullptr;
+    int* d_root = nullptr;
 
-    
-//     // Allocate device memory for storing the number of unique elements selected
-//     int* d_num_selected_out;
-//     CUDA_CHECK(cudaMalloc((void**)&d_num_selected_out, sizeof(int)), "Failed to allocate d_num_selected_out");
-    
-//     // Query temporary storage requirements for sorting and selecting unique keys
-//     cub::DeviceRadixSort::SortKeys(NULL, temp_storage_bytes, d_in, d_in, num_items);
-//     size_t max_temp_storage_bytes = temp_storage_bytes;
-//     cub::DeviceSelect::Unique(NULL, temp_storage_bytes, d_in, d_out, d_num_selected_out, num_items);
-//     max_temp_storage_bytes = std::max(max_temp_storage_bytes, temp_storage_bytes);
+    // Allocate unified memory
+    CUDA_CHECK(cudaMallocManaged(&d_num_comp, sizeof(int)), "Failed to allocate d_num_comp");
+    CUDA_CHECK(cudaMallocManaged(&d_root, sizeof(int)), "Failed to allocate d_root");
 
-//     // Allocate temporary storage
-//     CUDA_CHECK(cudaMalloc(&d_temp_storage, max_temp_storage_bytes), "Failed to allocate temporary storage");
+    // Initialize memory
+    *d_num_comp = 0;
+    *d_root = -1;
 
-//     // Run sorting operation
-//     cub::DeviceRadixSort::SortKeys(d_temp_storage, max_temp_storage_bytes, d_in, d_in, num_items);
+    int block_size = 1024;
+    int num_blocks = (num_vert + block_size - 1) / block_size;
 
-//     // Run unique selection operation
-//     cub::DeviceSelect::Unique(d_temp_storage, max_temp_storage_bytes, d_in, d_out, d_num_selected_out, num_items);
+    // Launch the kernel
+    find_root<<<num_blocks, block_size>>>(d_parent, d_root, d_num_comp, num_vert);
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize find_root kernel");
 
-//     // Copy the number of unique elements selected back to host
-//     CUDA_CHECK(cudaMemcpy(&h_num_selected_out, d_num_selected_out, sizeof(int), cudaMemcpyDeviceToHost), 
-//                "Failed to copy d_num_selected_out");
+    // Determine if the structure is a tree
+    bool is_tree = (*d_num_comp == 1);
+    if (is_tree) {
+        root = *d_root;
+    } else {
+        root = -1;  // Indicate that there is no single root
+    }
 
-//     // Debugging: Print sorted data and unique elements if DEBUG is defined
-//     #ifdef DEBUG
-//         std::vector<int> h_data(num_items);
-//         CUDA_CHECK(cudaMemcpy(h_data.data(), d_in, num_items * sizeof(int), cudaMemcpyDeviceToHost), 
-//                    "Failed to copy sorted data back to host");
+    // Free allocated memory
+    cudaFree(d_num_comp);
+    cudaFree(d_root);
 
-//         std::cout << "Sorted Data:\n";
-//         for(auto val : h_data) {
-//             std::cout << val << " ";
-//         }
-//         std::cout << std::endl;
-//     #endif
-
-//     // Cleanup
-//     if (d_temp_storage) cudaFree(d_temp_storage);
-//     if (d_num_selected_out) cudaFree(d_num_selected_out);
-// }
+    return is_tree;
+}
 

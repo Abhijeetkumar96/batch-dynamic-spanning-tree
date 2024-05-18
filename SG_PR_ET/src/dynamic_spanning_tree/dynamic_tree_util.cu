@@ -1,8 +1,6 @@
 #include "common/cuda_utility.cuh"
-#include "dynamic_spanning_tree/euler_tour.cuh"
-#include "dynamic_spanning_tree/dynamic_tree_util.cuh"
 #include "dynamic_spanning_tree/update_ds.cuh"
-
+#include "dynamic_spanning_tree/dynamic_tree_util.cuh"
 #include "hash_table/HashTable.cuh"
 
 // #define DEBUG
@@ -72,6 +70,14 @@ size_t AllocateTempStorage(void** d_temp_storage, long num_items) {
     return temp_storage_bytes;
 }
 
+void dynamic_tree_manager::create_hashtable_() {
+    pHashTable = create_hashtable();
+}
+
+void dynamic_tree_manager::destroy_hashtable_() {
+    destroy_hashtable(pHashTable);
+}
+
 void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::vector<uint64_t>& edge_list) {
 
     size_t size = parent.size() * sizeof(int);
@@ -91,6 +97,7 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     CUDA_CHECK(cudaMalloc(&d_unique_rep, size), "Failed to allocate memory for d_unique_rep");
     CUDA_CHECK(cudaMalloc(&d_rep_map, size), "Failed to allocate memory for d_rep_map");
     CUDA_CHECK(cudaMalloc(&d_edges_to_delete, delete_size), "Failed to allocate memory for edges to delete");
+    CUDA_CHECK(cudaMalloc(&d_edges_to_insert, delete_size), "Failed to allocate memory for edges to insert");
     
     // d_edge_list is the original edge_list
     CUDA_CHECK(cudaMalloc(&d_edge_list, edge_list_size), "Failed to allocate memory for input edge list");
@@ -98,13 +105,6 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     // d_updated_edge_list is the new edgelist after deleting the edges
     CUDA_CHECK(cudaMalloc(&d_updated_edge_list, edge_list_size), "Failed to allocate memory for input edge list");
 
-    // Copy data from host to device
-    CUDA_CHECK(cudaMemcpy(d_parent, parent.data(), size, cudaMemcpyHostToDevice), "Failed to copy d_parent to device");
-    CUDA_CHECK(cudaMemcpy(d_org_parent, d_parent, size,  cudaMemcpyDeviceToDevice), "Failed to copy d_parent to device");
-    CUDA_CHECK(cudaMemcpy(new_parent, d_parent, size,  cudaMemcpyDeviceToDevice), "Failed to copy d_parent to device");
-    CUDA_CHECK(cudaMemcpy(d_edges_to_delete, edges_to_delete.data(), delete_size, cudaMemcpyHostToDevice), "Failed to copy edges to delete to device");
-    CUDA_CHECK(cudaMemcpy(d_edge_list, edge_list.data(), edge_list_size, cudaMemcpyHostToDevice), "Failed to copy edge list to device");
-    
     CUDA_CHECK(cudaMalloc((void **)&d_super_graph_u, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_u");
     CUDA_CHECK(cudaMalloc((void **)&d_super_graph_v, num_edges * sizeof(int)), "Failed to allocate device memory for d_super_graph_v");
 
@@ -113,6 +113,13 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
 
     CUDA_CHECK(cudaMallocManaged((void**)&super_graph_edges, sizeof(int)),   "Failed to allocate d_num_selected_out");
     CUDA_CHECK(cudaMalloc((void**)&d_flags, num_edges * sizeof(unsigned char)), "Failed to allocate flag array");
+
+    // Copy data from host to device
+    CUDA_CHECK(cudaMemcpy(d_parent, parent.data(), size, cudaMemcpyHostToDevice), "Failed to copy d_parent to device");
+    CUDA_CHECK(cudaMemcpy(d_org_parent, d_parent, size,  cudaMemcpyDeviceToDevice), "Failed to copy d_parent to device");
+    CUDA_CHECK(cudaMemcpy(d_edges_to_delete, edges_to_delete.data(), delete_size, cudaMemcpyHostToDevice), "Failed to copy edges to delete to device");
+    CUDA_CHECK(cudaMemcpy(d_edges_to_insert, d_edges_to_delete, delete_size, cudaMemcpyDeviceToDevice), "Failed to copy edges to delete to device");
+    CUDA_CHECK(cudaMemcpy(d_edge_list, edge_list.data(), edge_list_size, cudaMemcpyHostToDevice), "Failed to copy edge list to device");
 }
 
 void dynamic_tree_manager::read_delete_batch(const std::string& delete_filename, std::vector<int>& parent) {
@@ -187,9 +194,6 @@ void dynamic_tree_manager::update_existing_ds() {
         root);                  // input -- 10
 
     // now num_edges contains nonTreeEdges - parent_size - delete_batch count.
-
-    CUDA_CHECK(cudaMemcpy(new_parent, d_parent, num_vert * sizeof(int), cudaMemcpyDeviceToDevice), 
-        "Failed to copy d_parent to device");
 }
 
 dynamic_tree_manager::~dynamic_tree_manager() {

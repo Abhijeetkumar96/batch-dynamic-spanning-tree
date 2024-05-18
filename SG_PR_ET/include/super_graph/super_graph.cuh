@@ -13,7 +13,12 @@
  * @param tree_ds Reference to the dynamic tree manager, holding the current state of the dynamic spanning tree.
  * @param resource_mag Reference to the resource manager, responsible for managing graph resources and properties.
  * @param unique_rep_count The count of unique representatives, used in calculating the replacement edges.
+ * @param is_deletion set to true for a deletion operation, false for an insertion operation.
  */
-void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& resource_mag, const int& unique_rep_count);
+void get_replacement_edges(
+	dynamic_tree_manager& tree_ds, 
+	PR_RST& resource_mag, 
+	const int& unique_rep_count,
+	bool is_deletion);
 
 #endif // SUPER_GRAPH_H

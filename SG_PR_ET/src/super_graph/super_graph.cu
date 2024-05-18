@@ -195,12 +195,17 @@ void gpu_hashtable_lookup(keyValues* hashtable, int* d_parent, int* d_unique_rep
     }
 }
 
-void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_mag, const int& unique_rep_count) {
+// is_deletion: Set to true for a deletion operation, false for an insertion operation.
+void get_replacement_edges(
+    dynamic_tree_manager& tree_ds, 
+    PR_RST& pr_resource_mag, 
+    const int& unique_rep_count,
+    bool is_deletion) {
 
     //-------------------------- Assign local pointers ----------------------------
     keyValues* pHashTable   =   tree_ds.pHashTable;
 
-    uint64_t* d_edge_list   =   tree_ds.d_updated_edge_list;
+    uint64_t* d_edge_list   =   nullptr;
     uint64_t* d_super_graph =   tree_ds.d_edge_list;
     
     int* d_rep              =   tree_ds.d_parent;                                                                              
@@ -220,6 +225,20 @@ void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_ma
     long num_edges = tree_ds.num_edges; 
     //------------------------------------------------------------------------------
     
+    if(is_deletion)
+        d_edge_list = tree_ds.d_updated_edge_list;
+    else {
+        d_edge_list = tree_ds.d_edges_to_insert;
+        num_edges = tree_ds.delete_batch_size;
+    }
+
+    // if(g_verbose) {
+    //     if(is_deletion) {
+    //         std::cout << "Deletion List:\n";
+    //         print_device_edge_list(d_edge_list, num_edges);
+    //     }
+    // }
+
     int* d_counter;
     cudaMallocHost(&d_counter, sizeof(int));
     *d_counter = 0;
@@ -228,6 +247,7 @@ void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_ma
     long numBlocks = (num_edges + numThreads - 1) / numThreads;
 
     auto start = std::chrono::high_resolution_clock::now();
+    
     // create superGraph
     superGraphKernel<<<numBlocks, numThreads>>>(
         pHashTable, 
@@ -252,7 +272,7 @@ void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_ma
     }
     
     // find unique edges
-    // d_edge_list contains the new set of edges now and unique_super_graph_edges is the count
+    // unique_super_graph_edges is the count of new set of edges
     // remove selfloops and duplicates
 
     remove_self_loops_duplicates(
@@ -290,7 +310,7 @@ void get_replacement_edges(dynamic_tree_manager& tree_ds, PR_RST& pr_resource_ma
     // h_size is super_graph parent array size
     int h_size = pr_resource_mag.num_vert;
     // std::cout << "h_size (a.k.a. num_vert from pr_resource_mag): " << h_size << std::endl;
-    g_verbose = true;
+    // g_verbose = true;
     
     if(g_verbose) {
         std::cout << "super_graph parent array:\n";

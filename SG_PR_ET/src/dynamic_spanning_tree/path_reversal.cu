@@ -1,9 +1,10 @@
 #include <cuda_runtime.h>
 
-#include "dynamic_spanning_tree/path_reversal.cuh"
-#include "dynamic_spanning_tree/euler_tour.cuh"
 #include "common/cuda_utility.cuh"
+
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
+#include "dynamic_spanning_tree/path_reversal.cuh"
+
 #include "PR-RST/pr_rst_util.cuh"
 
 __global__
@@ -96,14 +97,14 @@ void print_parent(int* new_parent, int p_size) {
 
 void path_reversal(
 	dynamic_tree_manager& tree_ds, 
-	EulerianTour& euler_tour, 
+	int* d_first, int* d_last,
 	PR_RST& pr_resource_mag, 
 	const int& unique_rep_count) {
 
     int* edge_u = pr_resource_mag.d_edge_u;
     int* parent_u = pr_resource_mag.d_parent_u;
 	
-	int* interval = pr_resource_mag.interval;
+	int* d_interval = pr_resource_mag.interval;
 	int* d_rep_map = tree_ds.d_rep_map;
 	int* d_rep = tree_ds.d_parent;
 	int root = 0;
@@ -115,9 +116,25 @@ void path_reversal(
 	int numThreads = 1024;
 	int numBlocks = (n + numThreads - 1) / numThreads;    
 
+	if(g_verbose) {
+		std::cout << "Printing from path_reversal function:\n";
+        int* h_first = new int[tree_ds.num_vert];
+        int* h_last = new int[tree_ds.num_vert];
+        
+        // Step 2: Copy data from device to host
+        cudaMemcpy(h_first, d_first, tree_ds.num_vert * sizeof(int), cudaMemcpyDeviceToHost);
+        cudaMemcpy(h_last, d_last, tree_ds.num_vert * sizeof(int), cudaMemcpyDeviceToHost);
+
+        std::cout << "Node\tFirst\tLast\n";
+        
+        for (int i = 0; i < tree_ds.num_vert; ++i) {
+            std::cout << "Node " << i << ": " << h_first[i] << "\t" << h_last[i] << "\n";
+        }    
+    }
+
 	generate_interval_kernel<<<numBlocks, numThreads>>>(
 				edge_u,
-        		interval,
+        		d_interval,
         		d_rep_map,
         		d_rep,
 				root,
@@ -126,47 +143,45 @@ void path_reversal(
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after generate_interval_kernel");
 	
 	if(g_verbose) {
-		print_interval<<<1,1>>>(interval, n);
+		print_interval<<<1,1>>>(d_interval, n);
 		cudaDeviceSynchronize();
 	}
 
-	int p_size = tree_ds.num_vert;
-	int* d_parent = tree_ds.d_org_parent;
-	int* new_parent = tree_ds.new_parent;
-	int* first = euler_tour.new_first;
-	int* last = euler_tour.new_last;
-	int* d_unique_rep = tree_ds.d_unique_rep;
+	int p_size        = tree_ds.num_vert;     // parent size or numVert in the original graph
+	int* d_parent     = tree_ds.d_org_parent; // original parent array before deleting any edges
+	int* new_parent   = tree_ds.new_parent;   // parent array after deleting edges
+	int* d_unique_rep = tree_ds.d_unique_rep; // all the unique representatives in the forest
+
 
 	numBlocks = (p_size + numThreads - 1) / numThreads;    
 
 	update_parent_kernel<<<numBlocks, numThreads>>>(
-		new_parent,
-		d_parent,
-		first,
-		last,
-		interval,
-		d_unique_rep,
-		d_rep,
-		d_rep_map,
-		edge_u,
-		parent_u,
-		p_size,
-		unique_rep_count);
+		new_parent,			// 1
+		d_parent,			// 2
+		d_first,			// 3
+		d_last,				// 4
+		d_interval,			// 5
+		d_unique_rep,		// 6
+		d_rep,				// 7
+		d_rep_map,			// 8
+		edge_u,				// 9
+		parent_u,			// 10
+		p_size,				// 11
+		unique_rep_count);	// 12
 
-	// h_size is super_graph parent array size
-    int h_size = pr_resource_mag.num_vert;
-    numBlocks = (h_size + numThreads - 1) / numThreads;
+	// sg_size is super_graph parent array size / numVert in superGraph
+    int sg_size = pr_resource_mag.num_vert;
+    numBlocks = (sg_size + numThreads - 1) / numThreads;
 
 	reverse_new_parents<<<numBlocks, numThreads>>>(
 		edge_u, 
         parent_u,
         new_parent, 
-        h_size);
+        sg_size);
 
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after update_parent_kernel");
-	
-	g_verbose = false;
 
+	// g_verbose = true;
 	if(g_verbose) {
 		std::cout << "New parent array:\n";
 		print_parent<<<1,1>>>(new_parent, p_size);

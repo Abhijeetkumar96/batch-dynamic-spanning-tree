@@ -67,6 +67,9 @@ inline void cuda_init(int device) {
     cudaFree(0);
 
     maxThreadsPerBlock = deviceProp.maxThreadsPerBlock;
+
+    // int maxBlocksPerGrid = deviceProp.maxGridSize[0]; // Maximum number of blocks per grid
+    // std::cout << "maxBlocksPerGrid: " << maxBlocksPerGrid << std::endl;
 }
 
 template <typename T>
@@ -440,5 +443,7 @@ inline int treeDepth(const std::vector<int> &parent)
     std::vector<int> depths = computeDepths(parent);
     return *std::max_element(depths.begin(), depths.end());
 }
+
+bool is_tree_or_forest(const int* d_parent, const int num_vert, int& root);
 
 #endif // CUDA_UTILITY_H

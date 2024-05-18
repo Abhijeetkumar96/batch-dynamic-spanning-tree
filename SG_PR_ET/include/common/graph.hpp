@@ -20,8 +20,8 @@ std::vector<std::pair<int, int>> inline selectRandomEdges(const std::vector<int>
     std::vector<std::pair<int, int>> edges;
     for (int i = 0; i < n; ++i) {
        if (i != parent[i] and degree[i] > avg_degree) {
-                edges.push_back({i, parent[i]});
-            }
+            edges.push_back({i, parent[i]});
+        }
     }
 
     // Randomly shuffle the edges

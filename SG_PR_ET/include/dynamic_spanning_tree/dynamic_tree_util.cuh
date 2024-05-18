@@ -50,6 +50,7 @@ public:
     int* super_graph_edges = NULL;
 
     uint64_t* d_edges_to_delete = nullptr;
+    uint64_t* d_edges_to_insert = nullptr;
 
     // d_edge_list is the original edge_list
     uint64_t* d_edge_list = nullptr;
@@ -67,6 +68,8 @@ public:
     void mem_alloc(const std::vector<int>& parent, const std::vector<uint64_t>& edge_list);
     void update_existing_ds();
     void read_delete_batch(const std::string& delete_filename, std::vector<int>& parent);
+    void create_hashtable_();
+    void destroy_hashtable_();
 
     ~dynamic_tree_manager();
 };

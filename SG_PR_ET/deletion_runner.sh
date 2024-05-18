@@ -7,7 +7,8 @@ base_dir="/raid/graphwork/datasets/new_graphs/csr_bin"
 target_base_dir="/raid/graphwork/spanning_tree_datasets/maybe_connected/"
 
 # Log directory (make sure this exists or create it)
-log_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main_variants/SG_PR_ET/updated_log_files_bfs"
+log_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main_variants/SG_PR_ET/only_insertion_log"
+err_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main_variants/SG_PR_ET/insertion_err_files"
 
 # Loop through all files in the base directory
 for file in "$base_dir"/*; do
@@ -25,10 +26,11 @@ for file in "$base_dir"/*; do
             # Define output log filename based on both the original file and txt file
             txt_basename=$(basename "$txt_file" .txt)
             file_out="${log_dir}/${base_filename}.log"
+            error_file="${err_dir}/${base_filename}_err.log"
 
-            echo "\nRunning command: build/dynamic_spanning_tree $file $txt_file >> $file_out"
+            echo "\nRunning command: build/dynamic_spanning_tree $file $txt_file >> $file_out 2> $error_file"
             # Uncomment the following line to actually run the command
-            build/dynamic_spanning_tree "$file" "$txt_file" >> "$file_out"
+            build/dynamic_spanning_tree "$file" "$txt_file" >> "$file_out" 2> "$error_file"
         done
     else
         echo "Directory $target_dir does not exist."

@@ -1,7 +1,8 @@
-#include <iostream>
 #include <vector>
-#include <fstream>
+#include <random>
 #include <chrono>
+#include <fstream>
+#include <iostream>
 
 #include "serial_rst/spanning_tree.hpp"
 
@@ -11,7 +12,6 @@
 
 #include "dynamic_spanning_tree/dynamic_tree_util.cuh"
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
-#include "dynamic_spanning_tree/euler_tour.cuh"
 
 #include "cuda_bfs/cuda_bfs.cuh"
 
@@ -49,12 +49,17 @@ int main(int argc, char* argv[]) {
     
     // std::cout << "numVertices : " << G.numVert << ", numEdges : " << G.numEdges << std::endl;
 
-    g_verbose = false;
+    // g_verbose = true;
     
     std::vector<int> parent(G.numVert);
     std::vector<int> roots;
-    
-    int root = 0;
+
+    std::random_device rd;  // Obtain a random number from hardware
+    std::mt19937 gen(rd()); // Seed the generator
+    std::uniform_int_distribution<> distr(0, G.numVert - 1); // Define the range
+    int root = distr(gen); // Generate a random number within the range
+
+    std::cout << "Root: " << root << std::endl;
     bool _flag = true;
 
     int numComp = -1;
@@ -69,21 +74,18 @@ int main(int argc, char* argv[]) {
     }
 
     // std::cout <<"Number of components in the input graph : " << numComp << std::endl;
-
+    g_verbose = true;
     if(g_verbose) {
         // G.print_CSR();
-        G.print_list();
-        std::cout << "\nParent array from main function:\n";
-        int j = 0;
-        for(auto i : parent) 
-            std::cout << "parent[" << j++ << "] = " << i << std::endl;
-        std::cout << std::endl;
+        // G.print_list();
+        // std::cout << "\nParent array from main function:\n";
+        // int j = 0;
+        // for(auto i : parent) 
+        //     std::cout << "parent[" << j++ << "] = " << i << std::endl;
+        // std::cout << std::endl;
     }
 
-    // g_verbose = false;
-    // calculate the eulerian tour
-    EulerianTour euler_tour(G.numVert);
-
+    g_verbose = false;
     dynamic_tree_manager tree_ds(parent, delete_filename, G.edge_list, root);
 
     if(g_verbose) {
@@ -93,12 +95,19 @@ int main(int argc, char* argv[]) {
         std::cout << "The edge list has been updated.\n";
     }
 
-    repair_spanning_tree(roots, tree_ds, euler_tour);
+    repair_spanning_tree(tree_ds);
 
-    print_total_function_time();
-
-    // validate the output
+    print_total_function_time("Deletion");
+    reset_function_times();
     int* new_parent = tree_ds.new_parent;
+    
+    tree_ds.destroy_hashtable_();
+    tree_ds.create_hashtable_();
+    
+    // validate the output
+    repair_spanning_tree(tree_ds, false);
+    std::cout << "After repairing:\n";
+    print_total_function_time("Insertion");
 
     int temp = validate(new_parent, G.numVert);
     std::cout << "numComp after edge deletion: " << temp << std::endl;
