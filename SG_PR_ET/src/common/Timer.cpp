@@ -32,12 +32,18 @@ void print_times() {
     }
 }
 
-void print_total_function_time() {
+// Function to reset the function times
+void reset_function_times() {
+    function_times.clear();
+}
+
+void print_total_function_time(const string& function_name) {
     double total_time = 0;
     for (const auto& pair : function_times) {
         total_time += pair.second;
     }
-    std::cout << "Total execution time of all functions: " << total_time << " ms.\n";
+    // std::cout << "Total execution time of all functions: " << total_time << " ms.\n";
+    std::cout << "Total execution time for: " << function_name << ": " << total_time << " ms.\n";
 
     print_times();
 }
