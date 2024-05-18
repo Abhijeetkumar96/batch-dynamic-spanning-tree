@@ -2,3 +2,4 @@
 datasets/*
 results.txt
 build/
+.vscode
