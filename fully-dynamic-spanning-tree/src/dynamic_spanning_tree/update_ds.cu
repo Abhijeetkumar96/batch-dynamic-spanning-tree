@@ -261,7 +261,7 @@ void update_edgelist(
     auto stop = std::chrono::high_resolution_clock::now();
     auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("update data structure", duration);
+    add_function_time("Update data structure", duration);
 
     CUDA_CHECK(cudaMemcpy(&unique_rep_count, d_deleted_count, sizeof(int), cudaMemcpyDeviceToHost), "Failed to copy back unique_rep_count");
     // std::cout << "Number of deleted tree edges from update_ds: " << unique_rep_count << std::endl;

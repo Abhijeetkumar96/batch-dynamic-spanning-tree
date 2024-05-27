@@ -88,9 +88,6 @@ public:
         // Initialize some arrays to specific values if necessary
         CUDA_CHECK(cudaMemset(d_first, -1, sizeof(int) * num_vertices), "Failed to memset d_first");
         CUDA_CHECK(cudaMemset(d_last, -1, sizeof(int) * num_vertices), "Failed to memset d_last");
-
-        int blockSize = 1024;
-        int numBlocks = (num_vertices + blockSize - 1) / blockSize;
         
         thrust::sequence(thrust::device, d_parent, d_parent + num_vertices);
     }

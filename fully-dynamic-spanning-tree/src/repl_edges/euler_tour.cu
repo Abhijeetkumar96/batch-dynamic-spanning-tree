@@ -7,7 +7,7 @@
 #include "eulerian_tour/disconnected/list_ranking.cuh"
 #include "repl_edges/euler_tour.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 __global__ 
 void create_dup_edges(
@@ -189,7 +189,6 @@ void cuda_euler_tour(uint64_t* d_edge_list, int N, int num_edges, int* d_roots, 
     cub::DeviceRadixSort::SortKeys(d_temp_storage, temp_storage_bytes, d_edge_list, d_sorted_keys, num_edges);
     CUDA_CHECK(cudaMalloc(&d_temp_storage, temp_storage_bytes), "Failed to allocate d_temp_storage");
 
-    auto start = std::chrono::high_resolution_clock::now();
     cub::DeviceRadixSort::SortKeys(d_temp_storage, temp_storage_bytes, d_edge_list, d_sorted_keys, num_edges);
 
     int blockSize = 1024;
@@ -313,9 +312,19 @@ void cuda_euler_tour(uint64_t* d_edge_list, int N, int num_edges, int* d_roots, 
     find_parent<<<numBlocks, blockSize>>>(E, devRank, d_edges_to, d_edges_from, d_parent);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize find_parent kernel");
 
-    #ifdef DEBUG
-        std::cout << "Parent array:\n";
-        print_device_array(d_parent, N);
-    #endif
+    // g_verbose = true;
 
+    if(g_verbose) {
+        std::cout << "Parent array from EulerianTour:" << std::endl;
+        int* h_parent = new int[N];
+        CUDA_CHECK(cudaMemcpy(h_parent, d_parent, sizeof(int) * N, cudaMemcpyDeviceToHost), 
+            "Failed to copy back parent array");
+
+        for(int i = 0; i < N; ++i) {
+            std::cout << "parent["<< i << "]= " << h_parent[i] << "\n";
+        }
+        std::cout << std::endl;
+
+        delete[] h_parent;
+    }
 }

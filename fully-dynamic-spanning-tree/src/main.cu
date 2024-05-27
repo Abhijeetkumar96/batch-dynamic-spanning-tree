@@ -46,7 +46,6 @@ int main(int argc, char* argv[]) {
 
     cuda_init(args.cudaDevice);
 
-    // Example of using other command line arguments
     if (args.verbose) {
         std::cout << "Verbose mode enabled." << std::endl;
         g_verbose = true;
@@ -108,7 +107,7 @@ int main(int argc, char* argv[]) {
     std::uniform_int_distribution<> distr(0, G.numVert - 1); // Define the range
     int root = distr(gen); // Generate a random number within the range
 
-    root = 3;
+    root = 12;
     std::cout << "Root: " << root << std::endl;
     bool _flag = true;
 
@@ -124,10 +123,10 @@ int main(int argc, char* argv[]) {
     }
 
     // std::cout <<"Number of components in the input graph : " << numComp << std::endl;
-    g_verbose = true;
+    g_verbose = false;
     if(g_verbose) {
         // G.print_CSR();
-        G.print_list();
+        // G.print_list();
         std::cout << "\nParent array from main function:\n";
         int j = 0;
         for(auto i : parent) 

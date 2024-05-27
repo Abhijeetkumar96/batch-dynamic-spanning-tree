@@ -273,7 +273,7 @@ void select_flagged(int* d_in, int* d_out, unsigned char* d_flags, int& num_item
     int *d_num_selected_out   = NULL;
     g_allocator_.DeviceAllocate((void**)&d_num_selected_out, sizeof(int));
 
-    g_verbose = true;
+    g_verbose = false;
 
     if(g_verbose) {
         DisplayDeviceintArray(d_in, d_flags, num_items);
@@ -323,15 +323,15 @@ void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lon
     // std::cout << "\nh_num: " <<  h_num << std::endl;
     num_items = h_num;
     
-    // if(g_verbose) {
-    //     // Copy output data back to host
-    //     uint64_t* h_out = new uint64_t[num_items];
-    //     cudaMemcpy(h_out, d_out, sizeof(uint64_t) * num_items, cudaMemcpyDeviceToHost);
+    if(g_verbose) {
+        // Copy output data back to host
+        uint64_t* h_out = new uint64_t[num_items];
+        cudaMemcpy(h_out, d_out, sizeof(uint64_t) * num_items, cudaMemcpyDeviceToHost);
 
-    //     // Print output data
-    //     printf("\nOutput Data (h_out):\n");
-    //     DisplayResults(h_out, h_num); // Print only the selected elements
-    // }
+        // Print output data
+        printf("\nOutput Data (h_out):\n");
+        DisplayResults(h_out, h_num); // Print only the selected elements
+    }
 
 }
 

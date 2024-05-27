@@ -96,8 +96,6 @@ void print_device_edge_list_kernel(T* edgeList, long numEdges) {
     }
 }
 
-
-
 void pointer_jumping(int* d_next, int n);
 
 template <typename T>
@@ -111,12 +109,14 @@ template <typename T>
 inline void print_device_array(const T* arr, long size) {
     print_device_array_kernel<<<1, 1>>>(arr, size);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_device_array_kernel");
+    std::cout << std::endl;
 }
 
 template <typename T>
 inline void print_device_edge_list(const T* arr, long size) {
     print_device_edge_list_kernel<<<1, 1>>>(arr, size);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_device_edge_list_kernel");
+    std::cout << std::endl;
 }
 
 inline void DisplayDeviceEdgeList(const int *device_u, const int *device_v, size_t num_edges) {
@@ -129,6 +129,7 @@ inline void DisplayDeviceEdgeList(const int *device_u, const int *device_v, size
     for (size_t i = 0; i < num_edges; ++i) {
         std::cout << " Edge[" << i << "]: (" << host_u[i] << ", " << host_v[i] << ")" << "\n";
     }
+    std::cout << std::endl;
     delete[] host_u;
     delete[] host_v;
 }
@@ -163,85 +164,6 @@ void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lon
 inline std::string extract_filename(const std::filesystem::path& filePath) {
     return filePath.filename().string();
 }
-
-/*
-    Scenario 1:
-    - num_items             <-- [8]
-    - d_in                  <-- [0, 2, 2, 9, 5, 5, 5, 8]
-    - d_out                 <-- [0, 2, 9, 5, 8]
-    - d_num_selected_out    <-- [5]    
-
-    Scenario 2:
-    - d_in                  <-- [0, 0, 0, 0, 0, 0, 0, 0, 1, 0]
-    - d_out                 <-- [0, 1, 0] 
-
-    So we need to have the array sorted
-    ** all indices marked as 1 get to stay
-*/
-// void find_unique(
-//     int* d_in, 
-//     int* d_out,
-//     int num_items,
-//     int& h_num_selected_out);
-
-// template <typename T1, typename T2>
-// inline void find_unique(
-//     T1* d_in, 
-//     T1* d_out,
-//     T2 num_items,
-//     T2& h_num_selected_out,
-//     bool print = false) {
-    
-//     size_t temp_storage_bytes   =   0;
-//     void* d_temp_storage        =   nullptr;
-//     T2* d_num_selected_out      =   nullptr;
-
-//     // Allocate device memory for storing the number of unique elements selected
-//     CUDA_CHECK(cudaMalloc((void**)&d_num_selected_out, sizeof(T2)), "Failed to allocate memory for d_num_selected_out");
-    
-//     // Query temporary storage requirements for sorting
-//     cub::DeviceRadixSort::SortKeys(d_temp_storage, temp_storage_bytes, d_in, d_in, num_items);
-//     // Allocate temporary storage
-//     CUDA_CHECK(cudaMalloc(&d_temp_storage, temp_storage_bytes), "Failed to allocate memory for d_num_selected_out");
-//     // Run sorting operation
-//     cub::DeviceRadixSort::SortKeys(d_temp_storage, temp_storage_bytes, d_in, d_in, num_items);
-
-//     CUDA_CHECK(cudaFree(d_temp_storage), "Failed to free d_temp_storage");
-
-//     print = false;
-    
-//     // print d_in values 
-//     if(print) {
-//         int* h_in = new int[num_items];
-//         CUDA_CHECK(cudaMemcpy(h_in, d_in, num_items * sizeof(int), cudaMemcpyDeviceToHost), "Failed to copy back sorted results");
-//         std::cout << "sorted array output:\n";
-//         for(int i = 0; i < num_items; ++i) {
-//             std::cout << h_in[i] << "\n";
-//         }
-//         std::cout << std::endl;
-
-//         if (std::is_sorted(h_in, h_in + num_items)) {
-//             std::cout << "Sorted in the range." << std::endl;
-//         } else {
-//             std::cout << "Not Sorted in the range. " << std::endl;
-//         }
-//     }
-
-//     temp_storage_bytes = 0;
-//     d_temp_storage = nullptr;
-//     cub::DeviceSelect::Unique(nullptr, temp_storage_bytes, d_in, d_out, d_num_selected_out, num_items);
-//     // Allocate temporary storage
-//     CUDA_CHECK(cudaMalloc(&d_temp_storage, temp_storage_bytes), "Failed to allocate memory for d_num_selected_out");
-//     // Run unique selection operation
-//     cub::DeviceSelect::Unique(d_temp_storage, temp_storage_bytes, d_in, d_out, d_num_selected_out, num_items);
-
-//     // Copy the number of unique elements selected back to host
-//     CUDA_CHECK(cudaMemcpy(&h_num_selected_out, d_num_selected_out, sizeof(T2), cudaMemcpyDeviceToHost), "Failed to allocate memory for d_num_selected_out");
-
-//     // Cleanup
-//     CUDA_CHECK(cudaFree(d_temp_storage), "Failed to free d_temp_storage");
-//     CUDA_CHECK(cudaFree(d_num_selected_out), "Failed to free d_temp_storage");
-// }
 
 template <typename T>
 inline void DisplayResults(T* arr, int num_items) {

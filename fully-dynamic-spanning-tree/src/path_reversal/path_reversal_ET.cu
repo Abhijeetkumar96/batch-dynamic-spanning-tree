@@ -179,10 +179,12 @@ void path_reversal_ET(
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after update_parent_kernel");
 
 	// g_verbose = true;
+	
 	if(g_verbose) {
 		std::cout << "New parent array:\n";
 		print_parent<<<1,1>>>(new_parent, p_size);
-		cudaDeviceSynchronize();
+		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_parent");
+		std::cout << std::endl;
 	}
 }
 

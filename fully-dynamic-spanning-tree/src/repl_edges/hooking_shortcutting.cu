@@ -1,6 +1,7 @@
 #include <cuda_runtime.h>
 
 #include "common/cuda_utility.cuh"
+#include "common/Timer.hpp"
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
 #include "repl_edges/euler_tour.cuh"
 #include "repl_edges/repl_edges.cuh"
@@ -131,7 +132,9 @@ void hooking(
     int* d_componentParent,         // componentParent[i] =rep of parent tree of the ith tree
     int* d_parentEdge,
     unsigned char* d_cross_edges,   // d_cross_edges[i] = 1 --> this is valid edge that connects 2 trees
-    unsigned char* d_roots) {       // is this node a root
+    unsigned char* d_roots,         // is this node a root
+    int* c_flag, 
+    int* c_shortcutFlag) {
 
     #ifdef DEBUG
         std::cout << "Printing from hooking function:" << std::endl;
@@ -149,12 +152,6 @@ void hooking(
 
     int num_blocks_edges = (edges + num_threads - 1) / num_threads;
     int num_blocks_vert = (nodes + num_threads - 1) / num_threads;
-
-    int *c_flag, *c_shortcutFlag;
-    CUDA_CHECK(cudaMallocHost((void **)&c_flag, sizeof(int)), 
-        "Failed to allocate memory for c_flag");
-    CUDA_CHECK(cudaMallocHost((void **)&c_shortcutFlag, sizeof(int)), 
-        "Failed to allocate memory for c_shortcutFlag");
 
     int flag = 1;
     int shortcutFlag = 1;
@@ -390,9 +387,25 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     CUDA_CHECK(cudaMalloc(&d_rep_hook, sizeof(int) * nodes), "Failed to allocate memory for d_rep_hook");
     CUDA_CHECK(cudaMemcpy(d_rep_hook, d_rep, sizeof(int) * nodes, cudaMemcpyDeviceToDevice), "Failed to copy d_rep_org to device");
 
-    hooking(nodes, edges, d_edge_list, d_rep_hook, d_componentParent, d_parentEdge, d_cross_edges_flag, d_roots_flag);
+    int *c_flag;
+    CUDA_CHECK(cudaMallocHost((void **)&c_flag, sizeof(int)), "Failed to allocate memory for c_flag");
+    int *c_shortcutFlag;
+    CUDA_CHECK(cudaMallocHost((void **)&c_shortcutFlag, sizeof(int)), "Failed to allocate memory for c_shortcutFlag");
+
+    auto start = std::chrono::high_resolution_clock::now();
+    hooking(
+        nodes, edges, 
+        d_edge_list, 
+        d_rep_hook, 
+        d_componentParent, 
+        d_parentEdge, 
+        d_cross_edges_flag, 
+        d_roots_flag,
+        c_flag,
+        c_shortcutFlag);
 
     long num_cross_edges = edges;
+
     // find actual cross_edges
     select_flagged(d_edge_list, d_super_tree, d_cross_edges_flag, num_cross_edges);
 
@@ -400,8 +413,24 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     // find actual roots
     select_flagged(d_actual_roots, d_super_tree_roots, d_roots_flag, num_roots);
 
+    int numThreads = 256;
+    long numBlocks = (num_roots + numThreads - 1) / numThreads;
+
+    update_roots_mapping<<<numBlocks, numThreads>>>(d_super_tree_roots, d_rep, d_rep_map, num_roots);
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_roots_mapping");
+
+    auto stop = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("HS: Find Repl edges", duration);
+
+    *tree_ds.super_graph_edges = static_cast<int>(num_cross_edges);
+
     std::cout << "Number of roots: " << num_roots << std::endl;
     std::cout << "Number of cross-edges: " << num_cross_edges << std::endl;
+
+    if(num_cross_edges < 1)
+        return;
 
     #ifdef DEBUG
         std::cout << "All cross-edges:" << std::endl;
@@ -411,15 +440,10 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
         print_device_array(d_super_tree_roots, num_roots);
     #endif
 
-    int numThreads = 256;
-    long numBlocks = (num_roots + numThreads - 1) / numThreads;
-
-    update_roots_mapping<<<numBlocks, numThreads>>>(d_super_tree_roots, d_rep, d_rep_map, num_roots);
-    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_roots_mapping");
-
     numThreads = 1024;
     numBlocks = (num_cross_edges + numThreads - 1) / numThreads;
 
+    start = std::chrono::high_resolution_clock::now();
     // add to hash_table
     insert_hashTable<<<numBlocks, numThreads>>>(
         pHashTable, 
@@ -430,13 +454,20 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     );
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
-    std::cout << "Insertion into hashtable over." << std::endl;
+    stop = std::chrono::high_resolution_clock::now();
+    duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("Hashtable insertion", duration);
+
+    // std::cout << "Insertion into hashtable over." << std::endl;
 
     int h_size = rep_edge_mag.num_vert;
-    std::cout << "num of superComponents: " << h_size << std::endl;
+    // std::cout << "num of superComponents: " << h_size << std::endl;
 
     Euler_Tour euler(h_size, num_cross_edges, num_roots);
 
+    start = std::chrono::high_resolution_clock::now();
+    
     // Apply eulerianTour algorithm to root an unrooted tree to get replacement edge.
     cuda_euler_tour(
         d_super_tree,       // edgelist
@@ -449,7 +480,7 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     int* super_parent = euler.d_parent;
 
     numBlocks = (h_size + numThreads - 1) / numThreads;
-    
+
     // retrieve actual edges from hashTable
     gpu_hashtable_lookup<<<numBlocks, numThreads>>>(
         pHashTable,
@@ -460,4 +491,14 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
         h_size
     );
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after gpu_hashtable_lookup");
+
+    stop = std::chrono::high_resolution_clock::now();
+    duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("ET: Orientation", duration);
+
+    #ifdef DEBUG
+        std::cout << "Replacement edges:" << std::endl;
+        DisplayDeviceEdgeList(edge_u, parent_u, h_size);
+    #endif
 }

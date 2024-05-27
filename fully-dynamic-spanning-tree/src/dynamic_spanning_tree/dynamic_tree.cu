@@ -84,6 +84,12 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 				cudaMemcpyDeviceToDevice), 
 			"Failed to copy d_parent to device"
 		);
+
+		CUDA_CHECK(cudaMemset(d_unique_rep, 0, sizeof(int) * num_vert), 
+			"Failed to memset d_unique_rep");
+
+		CUDA_CHECK(cudaMemset(d_rep_map, 0, sizeof(int) * num_vert), 
+			"Failed to memset d_unique_rep");
 	}
 
 	// We need to copy the current parent array (tree_ds.d_parent (updated parent array after deleting edges)) 
@@ -100,6 +106,11 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
     int root = -1;
 
 	is_connected = is_tree_or_forest(tree_ds.d_org_parent, num_vert, root);
+
+	if(is_connected and !is_deletion) {
+		std::cerr << "The input tree is already connected; no repair needed.\n";
+		return;
+	}
 	
 	// 1. find all unique representatives 
 	int* d_roots    = nullptr;
@@ -122,7 +133,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
     auto stop = std::chrono::high_resolution_clock::now();
     auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("finding unique comps", duration);
+    add_function_time("Finding unique comps", duration);
 
 	int num_comp = *d_num_comp;
 
@@ -170,7 +181,6 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
     
 	REP_EDGES rep_edge_mag(num_comp);
 
-	
 	// get_replacement_edges(tree_ds, rep_edge_mag, num_comp, is_deletion);
 	
 	// 5. Get the replacement edges
@@ -190,12 +200,13 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	int* unique_super_graph_edges = tree_ds.super_graph_edges;
 
 	if(*unique_super_graph_edges < 1) {
-        // std::cerr << "No cross edges found to connect the graphs.\n";
+        std::cerr << "No cross edges found to connect the graphs.\n";
         return;
     }
 
     // 6. reverse the path 
     if (path_rev_algo == "ET") {
+    	std::cout << "Reversing the paths using eulerian tour " << std::endl;
 	    int *d_first = nullptr;
     	int *d_last = nullptr;
 
@@ -233,7 +244,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	        auto stop = std::chrono::high_resolution_clock::now();
 	        auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-	        add_function_time("Eulerian Tour", duration);
+	        add_function_time("ET: First & Last", duration);
 	    }
 
 	    start = std::chrono::high_resolution_clock::now();
@@ -250,6 +261,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	    	delete sce_euler_mag;
 
 	} else if(path_rev_algo == "PR") {
+		std::cout << "Reversing the paths using PR module " << std::endl;
 		int log_2_size    =  std::ceil(std::log2(num_vert));
 	    long long pr_size =  std::ceil(num_vert * 1LL * log_2_size);
 	    
