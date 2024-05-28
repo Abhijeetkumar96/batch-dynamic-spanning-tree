@@ -5,7 +5,7 @@
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
 #include "path_reversal/path_reversal.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 __global__
 void generate_interval_kernel(
@@ -64,7 +64,7 @@ void update_parent_kernel(
         	(out_time[tid] <= out_time[x])) {
 
 			int p = d_parent[tid];
-			printf("for tid: %d, parent: %d, \n", tid, p);
+			// printf("for tid: %d, parent: %d, \n", tid, p);
 			d_new_parent[p] = tid;
 		}
 
@@ -80,7 +80,7 @@ void reverse_new_parents(
 
 	int tid = blockIdx.x * blockDim.x + threadIdx.x;
 	if(tid < h_size) {
-		printf("For tid:%d, edge_u: %d, parent_u:%d\n", tid, edge_u[tid], parent_u[tid]);
+		// printf("For tid:%d, edge_u: %d, parent_u:%d\n", tid, edge_u[tid], parent_u[tid]);
 		new_parent[edge_u[tid]] = parent_u[tid];
 	}	
 }
@@ -113,7 +113,7 @@ void path_reversal_ET(
 
 	// std::cout << "Executing path_reversal:\n";
 
-	g_verbose = true;
+	// g_verbose = true;
 
 	int numThreads = 1024;
 	int numBlocks = (n + numThreads - 1) / numThreads;    

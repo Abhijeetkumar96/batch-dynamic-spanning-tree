@@ -90,7 +90,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 		"Failed to memset d_unique_rep");
 
 	CUDA_CHECK(cudaMemset(d_rep_map, 0, sizeof(int) * num_vert), 
-		"Failed to memset d_unique_rep");
+		"Failed to memset d_rep_map");
 		
 	// We need to copy the current parent array (tree_ds.d_parent (updated parent array after deleting edges)) 
 	// to the new parent array (tree_ds.new_parent).
@@ -302,7 +302,6 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 		return;
 	}
 
-    CUDA_CHECK(cudaFree(d_roots), 	 "Failed to free d_roots");
     CUDA_CHECK(cudaFree(d_num_comp), "Failed to free d_num_comp");
 }
 

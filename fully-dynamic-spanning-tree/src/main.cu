@@ -107,7 +107,7 @@ int main(int argc, char* argv[]) {
     std::uniform_int_distribution<> distr(0, G.numVert - 1); // Define the range
     int root = distr(gen); // Generate a random number within the range
 
-    root = 12;
+    // root = 16;
     std::cout << "Root: " << root << std::endl;
     bool _flag = true;
 

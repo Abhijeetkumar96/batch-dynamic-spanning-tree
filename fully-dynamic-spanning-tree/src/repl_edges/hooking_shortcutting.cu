@@ -8,7 +8,7 @@
 #include "repl_edges/super_graph.cuh"
 #include "repl_edges/hooking_shortcutting.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 __global__ 
 void HOOKING(
@@ -108,8 +108,8 @@ void SHORTCUTTING(int nodes, int *rep, int *flag) {
 __global__
 void GET_CROSS_EDGES(int nodes, int *d_parentEdge, unsigned char *d_cross_edges) {
     int tid = blockIdx.x * blockDim.x + threadIdx.x;;
-    if(tid < nodes){
-        if(d_parentEdge[tid] != -1){
+    if(tid < nodes) {
+        if(d_parentEdge[tid] != -1) {
             d_cross_edges[d_parentEdge[tid]] = 1;
         }
     }
@@ -205,6 +205,10 @@ void hooking(
     #ifdef DEBUG
         std::cout << "Printing Final Rep array:" << std::endl;
         print_device_array(d_rep, nodes);
+        std::cout << std::endl;
+
+        std::cout << "Printing Final Rep array:" << std::endl;
+        print_device_array(d_parentEdge, nodes);
         std::cout << std::endl;
     #endif
 
@@ -376,7 +380,9 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
 
     // reset 
     CUDA_CHECK(cudaMemset(d_roots_flag,       0, nodes * sizeof(unsigned char)), "Failed to memset d_roots");
+    CUDA_CHECK(cudaMemset(d_parentEdge,      -1, nodes * sizeof(int)),           "Failed to memset d_parentEdge");
     CUDA_CHECK(cudaMemset(d_cross_edges_flag, 0, edges * sizeof(unsigned char)), "Failed to memset d_cross_edges");
+
 
     if(is_deletion)
         d_edge_list = tree_ds.d_updated_edge_list;
@@ -469,10 +475,10 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
 
     add_function_time("Hashtable insertion", duration);
 
-    // std::cout << "Insertion into hashtable over." << std::endl;
+    std::cout << "Insertion into hashtable over." << std::endl;
 
     int h_size = rep_edge_mag.num_vert;
-    // std::cout << "num of superComponents: " << h_size << std::endl;
+    std::cout << "num of superComponents: " << h_size << std::endl;
 
     Euler_Tour euler(h_size, num_cross_edges, num_roots);
 

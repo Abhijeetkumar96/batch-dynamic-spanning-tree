@@ -38,4 +38,4 @@ add_executable(${PROJECT_NAME}
 set_target_properties(${PROJECT_NAME} PROPERTIES
                       CXX_STANDARD 17)
 
-set(CMAKE_CUDA_ARCHITECTURES 61)
+set(CMAKE_CUDA_ARCHITECTURES 80)

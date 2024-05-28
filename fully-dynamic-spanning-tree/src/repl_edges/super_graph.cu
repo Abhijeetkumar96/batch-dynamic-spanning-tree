@@ -8,7 +8,7 @@
 #include "repl_edges/repl_edges.cuh"
 #include "repl_edges/super_graph.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 // 64 bit Murmur2 hash
 __device__ __forceinline__
