@@ -1,14 +1,18 @@
 #!/bin/bash
 
-# Base directory where the original files are located
+# Base directory where the original datasets are located
 base_dir="/raid/graphwork/datasets/new_graphs/csr_bin"
 
-# Target base directory for the connected directory contents
+# Target base directory for the insertion/deletion contents
+# maybe_connected is for deletion
 target_base_dir="/raid/graphwork/spanning_tree_datasets/maybe_connected/"
 
 # Log directory (make sure this exists or create it)
-log_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main_variants/SG_PR_ET/only_insertion_log"
-err_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main_variants/SG_PR_ET/insertion_err_files"
+log_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main_variants/Final_Version/deletion_log_files"
+err_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main_variants/Final_Version/deletion_err_files"
+
+mkdir -p "$log_dir"
+mkdir -p "$err_dir"
 
 # Loop through all files in the base directory
 for file in "$base_dir"/*; do
@@ -28,9 +32,9 @@ for file in "$base_dir"/*; do
             file_out="${log_dir}/${base_filename}.log"
             error_file="${err_dir}/${base_filename}_err.log"
 
-            echo "\nRunning command: build/dynamic_spanning_tree $file $txt_file >> $file_out 2> $error_file"
+            echo "\nRunning command: build/dynamic_spanning_tree -i $file -b $txt_file -r HS -p ET >> $file_out 2> $error_file"
             # Uncomment the following line to actually run the command
-            build/dynamic_spanning_tree "$file" "$txt_file" >> "$file_out" 2> "$error_file"
+            build/dynamic_spanning_tree -i "$file" -b "$txt_file" -r HS -p ET >> "$file_out" 2> "$error_file"
         done
     else
         echo "Directory $target_dir does not exist."
