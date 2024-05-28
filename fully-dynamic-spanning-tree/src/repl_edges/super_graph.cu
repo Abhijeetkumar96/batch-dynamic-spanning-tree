@@ -8,6 +8,8 @@
 #include "repl_edges/repl_edges.cuh"
 #include "repl_edges/super_graph.cuh"
 
+#define DEBUG
+
 // 64 bit Murmur2 hash
 __device__ __forceinline__
 uint64_t hash(const uint64_t key)
@@ -210,12 +212,18 @@ void super_graph(dynamic_tree_manager& tree_ds,
         num_edges = tree_ds.delete_batch_size;
     }
 
-    // if(g_verbose) {
-    //     if(is_deletion) {
-    //         std::cout << "Deletion List:\n";
-    //         print_device_edge_list(d_edge_list, num_edges);
-    //     }
-    // }
+    g_verbose = true;
+
+    if(g_verbose) {
+        if(is_deletion) {
+            std::cout << "Deletion List:\n";
+            print_device_edge_list(d_edge_list, num_edges);
+        }
+        else {
+            std::cout << "Deletion List:\n";
+            print_device_edge_list(d_edge_list, num_edges);
+        }
+    }
 
     int* d_counter;
     cudaMallocHost(&d_counter, sizeof(int));
@@ -242,7 +250,7 @@ void super_graph(dynamic_tree_manager& tree_ds,
 
     // std::cout << "Total number of cross-edges: " << *d_counter << std::endl;
     
-    // g_verbose = true;
+    g_verbose = true;
 
     if(g_verbose) {
         std::cout << "printing from get_replacement_edges func:\n";
@@ -273,8 +281,6 @@ void super_graph(dynamic_tree_manager& tree_ds,
         return;
     }
     
-    g_verbose = false;
-    
     #ifdef DEBUG
         std::cout << "Unique edges after removing self loops and dups: " << *unique_super_graph_edges << std::endl;
         DisplayDeviceEdgeList(d_new_super_graph_u, d_new_super_graph_v, *unique_super_graph_edges);
@@ -285,11 +291,11 @@ void super_graph(dynamic_tree_manager& tree_ds,
 
     // h_size is super_graph parent array size
     int h_size = rep_edge_mag.num_vert;
-    // std::cout << "h_size (a.k.a. num_vert from rep_edge_mag): " << h_size << std::endl;
+    std::cout << "h_size (a.k.a. num_vert from rep_edge_mag): " << h_size << std::endl;
     // g_verbose = true;
     
     if(g_verbose) {
-        std::cout << "super_graph parent array:\n";
+        std::cout << "super_graph parent array:" << std::endl;
         print_device_array(super_parent, h_size);
     }
 
@@ -315,10 +321,7 @@ void super_graph(dynamic_tree_manager& tree_ds,
     add_function_time("Hash Table look up", duration);
 
     if(g_verbose) {
-        std::cout << "edge_u:\n";
-        print_device_array(edge_u, h_size);
-
-        std::cout << "parent_u:\n";
-        print_device_array(parent_u, h_size);
+        std::cout << "Replacement edges:" << std::endl;
+        DisplayDeviceEdgeList(edge_u, parent_u, h_size);
     }
 }

@@ -123,10 +123,10 @@ int main(int argc, char* argv[]) {
     }
 
     // std::cout <<"Number of components in the input graph : " << numComp << std::endl;
-    g_verbose = false;
+    // g_verbose = false;
     if(g_verbose) {
         // G.print_CSR();
-        // G.print_list();
+        G.print_list();
         std::cout << "\nParent array from main function:\n";
         int j = 0;
         for(auto i : parent) 

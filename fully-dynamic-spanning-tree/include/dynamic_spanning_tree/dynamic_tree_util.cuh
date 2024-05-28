@@ -24,7 +24,6 @@ public:
     long num_edges = 0;
     int delete_batch_size = 0;
     int tree_edge_count = 0;
-    int unique_rep_count;
     int root = -1;
     int* parent_array; // Pointer to dynamically allocated array
     std::vector<uint64_t> edges_to_delete;

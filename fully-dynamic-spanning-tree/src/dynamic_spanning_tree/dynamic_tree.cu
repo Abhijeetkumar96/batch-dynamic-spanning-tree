@@ -84,14 +84,14 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 				cudaMemcpyDeviceToDevice), 
 			"Failed to copy d_parent to device"
 		);
-
-		CUDA_CHECK(cudaMemset(d_unique_rep, 0, sizeof(int) * num_vert), 
-			"Failed to memset d_unique_rep");
-
-		CUDA_CHECK(cudaMemset(d_rep_map, 0, sizeof(int) * num_vert), 
-			"Failed to memset d_unique_rep");
 	}
 
+	CUDA_CHECK(cudaMemset(d_unique_rep, 0, sizeof(int) * num_vert), 
+		"Failed to memset d_unique_rep");
+
+	CUDA_CHECK(cudaMemset(d_rep_map, 0, sizeof(int) * num_vert), 
+		"Failed to memset d_unique_rep");
+		
 	// We need to copy the current parent array (tree_ds.d_parent (updated parent array after deleting edges)) 
 	// to the new parent array (tree_ds.new_parent).
 	// This is necessary because tree_ds.d_parent will be used for pointer jumping operations,
@@ -105,6 +105,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
     bool is_connected = false;
     int root = -1;
 
+    // checking if the original parent array, before deleting the edges, was connected or not
 	is_connected = is_tree_or_forest(tree_ds.d_org_parent, num_vert, root);
 
 	if(is_connected and !is_deletion) {
@@ -113,11 +114,9 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	}
 	
 	// 1. find all unique representatives 
-	int* d_roots    = nullptr;
+	int* d_roots    = tree_ds.d_unique_rep;
 	int* d_num_comp = nullptr;
 
-    CUDA_CHECK(cudaMalloc((void**)&d_roots, num_vert * sizeof(int)), 
-    	"Failed to allocate d_roots");
     CUDA_CHECK(cudaMallocManaged((void**)&d_num_comp, sizeof(int)), 
     	"Failed to allocate d_num_comp");
 
@@ -128,6 +127,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 
     // 2. calculate num_components and identify the roots
     auto start = std::chrono::high_resolution_clock::now();
+    // d_parent is the updated parent array
     find_roots<<<num_blocks, block_size>>>(tree_ds.d_parent, d_roots, d_num_comp, num_vert);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize find_roots kernel");
     auto stop = std::chrono::high_resolution_clock::now();
@@ -146,6 +146,9 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 		std::cout << "num_comp: " << num_comp << std::endl;
 		std::cout << "d_unique_rep array:\n";
 		print_device_array(d_unique_rep, num_comp);
+
+		std::cout << "d_roots array:\n";
+		print_device_array(d_roots, num_comp);
 	#endif
 	
 	// 3. Do pointer jumping over parent array to update representative array.

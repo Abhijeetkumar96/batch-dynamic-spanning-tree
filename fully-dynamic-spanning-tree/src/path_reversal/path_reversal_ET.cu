@@ -5,6 +5,7 @@
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
 #include "path_reversal/path_reversal.cuh"
 
+#define DEBUG
 
 __global__
 void generate_interval_kernel(
@@ -30,7 +31,7 @@ void print_interval(int* d_interval, int count) {
 	int tid = blockIdx.x * blockDim.x + threadIdx.x;
 	if(tid == 0) {
 		for(int i = 0; i < count; ++i) {
-			// printf("interval[%d]: %d\n", i, d_interval[i]);
+			printf("interval[%d]: %d\n", i, d_interval[i]);
 		}
 	}
 }
@@ -63,7 +64,7 @@ void update_parent_kernel(
         	(out_time[tid] <= out_time[x])) {
 
 			int p = d_parent[tid];
-			// printf("for tid: %d, parent: %d, \n", tid, p);
+			printf("for tid: %d, parent: %d, \n", tid, p);
 			d_new_parent[p] = tid;
 		}
 
@@ -79,6 +80,7 @@ void reverse_new_parents(
 
 	int tid = blockIdx.x * blockDim.x + threadIdx.x;
 	if(tid < h_size) {
+		printf("For tid:%d, edge_u: %d, parent_u:%d\n", tid, edge_u[tid], parent_u[tid]);
 		new_parent[edge_u[tid]] = parent_u[tid];
 	}	
 }
@@ -111,13 +113,15 @@ void path_reversal_ET(
 
 	// std::cout << "Executing path_reversal:\n";
 
+	g_verbose = true;
+
 	int numThreads = 1024;
 	int numBlocks = (n + numThreads - 1) / numThreads;    
 
 	if(g_verbose) {
 		std::cout << "Printing from path_reversal function:\n";
         int* h_first = new int[tree_ds.num_vert];
-        int* h_last = new int[tree_ds.num_vert];
+        int* h_last =  new int[tree_ds.num_vert];
         
         // Step 2: Copy data from device to host
         cudaMemcpy(h_first, d_first, tree_ds.num_vert * sizeof(int), cudaMemcpyDeviceToHost);
@@ -140,8 +144,10 @@ void path_reversal_ET(
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after generate_interval_kernel");
 	
 	if(g_verbose) {
+		std::cout << "Intervals: " << std::endl;
 		print_interval<<<1,1>>>(d_interval, n);
 		cudaDeviceSynchronize();
+		std::cout << std::endl;
 	}
 
 	int p_size        = tree_ds.num_vert;     // parent size or numVert in the original graph
@@ -166,6 +172,14 @@ void path_reversal_ET(
 		p_size,				// 11
 		unique_rep_count);	// 12
 
+	#ifdef DEBUG
+		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_parent");
+		std::cout << "Parent array before final reversal:" << std::endl;
+		print_parent<<<1,1>>>(new_parent, p_size);
+		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_parent");
+		std::cout << std::endl;
+	#endif
+
 	// sg_size is super_graph parent array size / numVert in superGraph
     int sg_size = rep_edge_mag.num_vert;
     numBlocks = (sg_size + numThreads - 1) / numThreads;
@@ -177,11 +191,9 @@ void path_reversal_ET(
         sg_size);
 
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after update_parent_kernel");
-
-	// g_verbose = true;
 	
 	if(g_verbose) {
-		std::cout << "New parent array:\n";
+		std::cout << "New parent array:" << std::endl;
 		print_parent<<<1,1>>>(new_parent, p_size);
 		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_parent");
 		std::cout << std::endl;

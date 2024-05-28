@@ -85,9 +85,9 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     size_t delete_size = edges_to_delete.size() * sizeof(uint64_t);
     size_t edge_list_size = edge_list.size() * sizeof(uint64_t);
 
-    std::cout << "size: " << size << std::endl;
-    std::cout << "delete_size: " << delete_size << std::endl;
-    std::cout << "edge_list_size: " << edge_list_size << std::endl;
+    // std::cout << "size: " << size << std::endl;
+    // std::cout << "delete_size: " << delete_size << std::endl;
+    // std::cout << "edge_list_size: " << edge_list_size << std::endl;
 
     // Allocate device memory
 
@@ -209,10 +209,10 @@ void dynamic_tree_manager::read_delete_batch(const std::string& delete_filename,
         //     std::cout << i <<" ";
         // std::cout << std::endl;
 
-        // std::cout << "edges_to_delete array:\n";
-        // for(const auto &i : edges_to_delete)
-        //     std::cout << (i >> 32) << " " << (i & 0xFFFFFFFF) << "\n";
-        // std::cout << std::endl;
+        std::cout << "Deleted edges:" << std::endl;
+        for(const auto &i : edges_to_delete)
+            std::cout << (i >> 32) << ", " << (i & 0xFFFFFFFF) << "\n";
+        std::cout << std::endl;
     }
 }
 
@@ -226,7 +226,6 @@ void dynamic_tree_manager::update_existing_ds() {
         d_edges_to_delete,      // input -- 6
         delete_batch_size,      // input -- 7
         d_unique_rep,           // output -- 8
-        unique_rep_count,       // output -- 9
         root);                  // input -- 10
 
     // now num_edges contains nonTreeEdges - parent_size - delete_batch count.

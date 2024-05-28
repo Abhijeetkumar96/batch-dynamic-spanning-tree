@@ -53,9 +53,6 @@ void mark_delete_edges_kernel(
 
     int tid = blockIdx.x * blockDim.x + threadIdx.x;
     
-    if(tid == 0)
-        d_unique_rep[0] = root;
-    
     if (tid < delete_batch_size) {
 
         uint64_t t = d_edges_to_delete[tid];
@@ -65,13 +62,7 @@ void mark_delete_edges_kernel(
 
         // delete tree edges
         if(u == d_parent[v]) {
-            // update the unique_rep here only
-            #ifdef DEBUG
-                printf("u: %d, v: %d\n", u, v);
-            #endif
-            int old_count = atomicAdd(d_deleted_count, 1);
             d_parent[v] = v;
-            d_unique_rep[old_count + 1] = v;
 
             long pos = binary_search(d_edge_list, num_edges, t);
             if(pos != -1) {
@@ -80,14 +71,7 @@ void mark_delete_edges_kernel(
         }
 
         else if(v == d_parent[u]) {
-            // update the unique_rep here only
-            #ifdef DEBUG
-                printf("u: %d, v: %d\n", u, v);
-            #endif
-            int old_count = atomicAdd(d_deleted_count, 1);
-
             d_parent[u] = u;
-            d_unique_rep[old_count + 1] = u;
 
             long pos = binary_search(d_edge_list, num_edges, t);
             if(pos != -1) {
@@ -165,7 +149,6 @@ void update_edgelist(
     uint64_t* d_edges_to_delete,    // -- 6
     int delete_size,                // -- 7
     int* d_unique_rep,              // -- 8
-    int& unique_rep_count,          // -- 9
     int root) {                     // -- 10
 
     std::cout << "numVert: " << num_vert << ", num_edges: " << num_edges * 2 << " and delete batch size: " << delete_size << std::endl;
@@ -263,17 +246,6 @@ void update_edgelist(
 
     add_function_time("Update data structure", duration);
 
-    CUDA_CHECK(cudaMemcpy(&unique_rep_count, d_deleted_count, sizeof(int), cudaMemcpyDeviceToHost), "Failed to copy back unique_rep_count");
-    // std::cout << "Number of deleted tree edges from update_ds: " << unique_rep_count << std::endl;
-    unique_rep_count++;
-    // std::cout << "Number of unique_rep_count from update_ds: " << unique_rep_count << std::endl;
-
-    // std::cout << "printing updated edgelist:\n";
-    // std::cout << "numEdges after deleting tree edges and batch B of edges: " << num_edges << "\n";
-
-    if(g_verbose) {
-        print_device_edge_list(d_updated_ed_list, num_edges);
-    }
     // Clean up
     CUDA_CHECK(cudaFree(d_deleted_count), "Failed to free d_deleted_count");
     CUDA_CHECK(cudaFree(d_flags), "Failed to free d_flags");

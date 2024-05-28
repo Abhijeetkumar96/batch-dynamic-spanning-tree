@@ -105,10 +105,10 @@ void radix_sort_for_pairs(
     long threadsPerBlock = 1024;
     long blocksPerGrid = (num_items + threadsPerBlock - 1) / threadsPerBlock;
 
-    if(g_verbose) {
+    #ifdef DEBUG
         std::cout << "printing from radix_sort_for_pairs before sorting:\n";
         DisplayDeviceEdgeList(d_keys, d_values, num_items);
-    }
+    #endif
     
     packPairs<<<blocksPerGrid, threadsPerBlock>>>(d_keys, d_values, d_merged, num_items);
     CUDA_CHECK(cudaGetLastError(), "packPairs kernel launch failed");
@@ -134,10 +134,10 @@ void radix_sort_for_pairs(
     CUDA_CHECK(cudaGetLastError(), "unpackPairs kernel launch failed");
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
-    if(g_verbose) {
+    #ifdef DEBUG
         std::cout <<"Displaying sorted edgeList before edge_cleanup\n";
         DisplayDeviceEdgeList(d_keys, d_values, num_items);
-    }
+    #endif
 }
 
 /****************************** Sorting ends ****************************************/
@@ -211,13 +211,11 @@ void remove_self_loops_duplicates(
     CUDA_CHECK(status, "Error in CUB Flagged");
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
-    // g_verbose = false;
-    
-    if(g_verbose) {
+    #ifdef DEBUG
         std::cout <<"NumEdges after cleaning up: " << *d_num_selected_out << "\n";
         std::cout <<"Cleaned edge stream:\n";
         DisplayDeviceEdgeList(d_keys_out, d_values_out, *d_num_selected_out);
-    }
+    #endif
 }
 
 // Kernel to find roots and count components
@@ -262,8 +260,8 @@ bool is_tree_or_forest(const int* d_parent, const int num_vert, int& root) {
     }
 
     // Free allocated memory
-    cudaFree(d_num_comp);
-    cudaFree(d_root);
+    CUDA_CHECK(cudaFree(d_num_comp), "Failed to free d_num_comp");
+    CUDA_CHECK(cudaFree(d_root), "Failed to free d_root");
 
     return is_tree;
 }
@@ -273,12 +271,10 @@ void select_flagged(int* d_in, int* d_out, unsigned char* d_flags, int& num_item
     int *d_num_selected_out   = NULL;
     g_allocator_.DeviceAllocate((void**)&d_num_selected_out, sizeof(int));
 
-    g_verbose = false;
-
-    if(g_verbose) {
+    #ifdef DEBUG
         DisplayDeviceintArray(d_in, d_flags, num_items);
         DisplayDeviceUCharArray(d_flags, num_items);
-    }
+    #endif
 
     // Allocate temporary storage
     void *d_temp_storage = NULL;
@@ -293,16 +289,15 @@ void select_flagged(int* d_in, int* d_out, unsigned char* d_flags, int& num_item
     int h_num;
     CUDA_CHECK(cudaMemcpy(&h_num, d_num_selected_out, sizeof(int), cudaMemcpyDeviceToHost),
         "Failed to copy back d_num_selected_out");
-    // std::cout << "\nh_num: " <<  h_num << std::endl;
     num_items = h_num;
 }
 
 void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, long& num_items) {
 
-    if(g_verbose) {
+    #ifdef DEBUG
         DisplayDeviceUint64Array(d_in, d_flags, num_items);
         DisplayDeviceUCharArray(d_flags, num_items);
-    }
+    #endif
     
     long *d_num_selected_out   = NULL;
     g_allocator_.DeviceAllocate((void**)&d_num_selected_out, sizeof(long));
@@ -323,7 +318,7 @@ void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lon
     // std::cout << "\nh_num: " <<  h_num << std::endl;
     num_items = h_num;
     
-    if(g_verbose) {
+    #ifdef DEBUG
         // Copy output data back to host
         uint64_t* h_out = new uint64_t[num_items];
         cudaMemcpy(h_out, d_out, sizeof(uint64_t) * num_items, cudaMemcpyDeviceToHost);
@@ -331,7 +326,7 @@ void select_flagged(uint64_t* d_in, uint64_t* d_out, unsigned char* d_flags, lon
         // Print output data
         printf("\nOutput Data (h_out):\n");
         DisplayResults(h_out, h_num); // Print only the selected elements
-    }
+    #endif
 
 }
 

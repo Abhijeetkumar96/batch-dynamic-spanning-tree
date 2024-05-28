@@ -122,11 +122,11 @@ public:
     }
 
     void print_list() {
-        std::cout <<"Edge list:\n";
-        for(auto &i : edge_list)
-            std::cout << i <<" ";
-        std::cout << std::endl;
-        std::cout <<"Actual edges:\n";
+        // std::cout <<"Edge list:\n";
+        // for(auto &i : edge_list)
+        //     std::cout << i <<" ";
+        // std::cout << std::endl;
+        std::cout <<"Actual edges:" << std::endl;
         print_actual_edges();
     }
 

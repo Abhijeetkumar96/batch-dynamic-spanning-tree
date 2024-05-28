@@ -202,6 +202,12 @@ void hooking(
         }
     }
 
+    #ifdef DEBUG
+        std::cout << "Printing Final Rep array:" << std::endl;
+        print_device_array(d_rep, nodes);
+        std::cout << std::endl;
+    #endif
+
     GET_ROOTS<<<num_blocks_vert, num_threads>>>(
         nodes,
         d_rep,
@@ -365,8 +371,12 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     int* edge_u             =   rep_edge_mag.d_edge_u;      // output: the actual replacement_edges_v
     
     int nodes            =   tree_ds.num_vert;
-    long edges          =   tree_ds.num_edges; 
+    long edges           =   tree_ds.num_edges; 
     //------------------------------------------------------------------------------
+
+    // reset 
+    CUDA_CHECK(cudaMemset(d_roots_flag,       0, nodes * sizeof(unsigned char)), "Failed to memset d_roots");
+    CUDA_CHECK(cudaMemset(d_cross_edges_flag, 0, edges * sizeof(unsigned char)), "Failed to memset d_cross_edges");
 
     if(is_deletion)
         d_edge_list = tree_ds.d_updated_edge_list;
@@ -498,6 +508,7 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     add_function_time("ET: Orientation", duration);
 
     #ifdef DEBUG
+        std::cout << "num of Replacement edges: " << num_cross_edges << std::endl;
         std::cout << "Replacement edges:" << std::endl;
         DisplayDeviceEdgeList(edge_u, parent_u, h_size);
     #endif
