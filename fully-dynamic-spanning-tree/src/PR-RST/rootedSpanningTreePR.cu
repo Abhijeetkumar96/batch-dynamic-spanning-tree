@@ -66,7 +66,7 @@ int* RootedSpanningTree(int* d_u_arr, int* d_v_arr, const int numVert, const int
 	CUDA_CHECK(cudaMalloc((void **)&d_ptr, size), "Failed to allocate memory");
 	CUDA_CHECK(cudaMalloc((void **)&d_parent_ptr, size), "Failed to allocate memory");
 	CUDA_CHECK(cudaMalloc((void **)&d_new_parent_ptr,size), "Failed to allocate memory");
-	CUDA_CHECK(cudaMalloc((void **)&d_pr_arr, sizeof(int) * pr_size), "Failed to allocate memory");
+	CUDA_CHECK(cudaMalloc((void **)&d_pr_arr, sizeof(int) * 1LL * pr_size), "Failed to allocate memory");
 	CUDA_CHECK(cudaMalloc((void **)&d_label, size), "Failed to allocate memory");
 	CUDA_CHECK(cudaMalloc((void **)&d_rep, size), "Failed to allocate memory");
 	CUDA_CHECK(cudaMalloc((void **)&d_OnPath, size), "Failed to allocate memory");
@@ -81,12 +81,14 @@ int* RootedSpanningTree(int* d_u_arr, int* d_v_arr, const int numVert, const int
 		std::vector<int> rep(n),par(n),marked(n),pr_arr(pr_size),pr_arr_size(n);
 	#endif
 
-	int grafting_time = 0, shortcutting_time = 0 , reroot_time = 0;
 	int err = 0;
 	// Till here pointerJumping values set up
 
 	int numThreads = 1024;
 	int numBlocks_n = (vertices + numThreads - 1) / numThreads;
+
+	int *d_flag;
+	CUDA_CHECK(cudaMalloc(&d_flag, sizeof(int)), "Failed to allocate memory");
 
 	auto start = std::chrono::high_resolution_clock::now();
 
@@ -94,19 +96,8 @@ int* RootedSpanningTree(int* d_u_arr, int* d_v_arr, const int numVert, const int
 	init<<<numBlocks_n, numThreads>>>(d_ptr, d_parent_ptr, vertices);
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
-
-	#ifdef DEBUG
-		// std::cout << "Rep array initially : \n";
-		// cudaMemcpy(rep.data(), d_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);
-		// printArr(rep,vertices,10);
-	#endif
-
-	int *d_flag;
-	CUDA_CHECK(cudaMalloc(&d_flag, sizeof(int)), "Failed to allocate memory");
-
 	int flag = 1;
 	int iter_number = 0;
-	// int numBlocks_e = (edges + numThreads - 1) / numThreads;
 
 	while (flag) {
 		if(iter_number > 2*log_2_size)
@@ -135,20 +126,7 @@ int* RootedSpanningTree(int* d_u_arr, int* d_v_arr, const int numVert, const int
 		thrust::fill(d_winner.begin(),d_winner.end(), -1);
 
 		//Step 2: Graft
-
-		auto start_graft = std::chrono::high_resolution_clock::now();
-
 		Graft(vertices, edges, d_u_arr, d_v_arr, d_ptr, d_winner_ptr, d_marked_parent, d_OnPath, d_flag);
-		
-		auto end_graft = std::chrono::high_resolution_clock::now();
-		auto duration_graft = std::chrono::duration_cast<std::chrono::milliseconds>(end_graft - start_graft).count();
-	
-		grafting_time += duration_graft;
-	
-		#ifdef DEBUG
-			// cudaMemcpy(marked.data(), d_marked_parent, sizeof(int) * n, cudaMemcpyDeviceToHost);
-			// std::cout<<"No of marked components : "<<markedComponents(marked)<<"\n";
-		#endif
 		
 		#ifdef DEBUG
     		std::cout << "Marked parent array :\n";
@@ -160,71 +138,23 @@ int* RootedSpanningTree(int* d_u_arr, int* d_v_arr, const int numVert, const int
 		#endif
 
 		// Step 3: ReRoot
-		auto start_reroot = std::chrono::high_resolution_clock::now();
-
 		ReRoot(vertices, edges, log_2_size, iter_number, d_OnPath, d_new_OnPath , d_pr_arr, d_parent_ptr, d_new_parent_ptr, d_index_ptr, d_pr_size_ptr, d_marked_parent, d_ptr);
-
-		auto end_reroot = std::chrono::high_resolution_clock::now();
-		auto duration_reroot = std::chrono::duration_cast<std::chrono::milliseconds>(end_reroot - start_reroot).count();
-	
-		reroot_time += duration_reroot;
 		
-		// #ifdef DEBUG		
-		// 	cudaMemcpy(par.data(), d_parent_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);		
-		// 	std::cout<<"No of roots after rerooting : "<<rootedComponents(par)<<"\n";
-		// #endif
-		
-		cudaMemcpy(d_next, d_parent_ptr, size, cudaMemcpyDeviceToDevice);
-
-		#ifdef DEBUG
-    		// std::cout << "Parent array after rerooting : ";
-			// cudaMemcpy(par.data(), d_parent_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);
-			// printArr(par,vertices,10);
-		#endif
-
-		#ifdef DEBUG
-	    	// std::cout <<"Rep array before shortcutting: ";
-			// cudaMemcpy(rep.data(), d_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);
-			// printArr(rep,vertices,10);
-	    #endif
+		CUDA_CHECK(cudaMemcpy(d_next, d_parent_ptr, size, cudaMemcpyDeviceToDevice),
+			"Failed to copy d_next array");
 
 		// Step 4: Shortcutting
 		CUDA_CHECK(cudaMemset(d_pr_size_ptr,0,size), "Failed to memset");
-		CUDA_CHECK(cudaMemset(d_pr_arr, -1, pr_size), "Failed to memset");
-
-		auto start_shortcut = std::chrono::high_resolution_clock::now();
+		CUDA_CHECK(cudaMemset(d_pr_arr, -1, sizeof(int) * 1LL * pr_size), "Failed to memset");
 		
 		Shortcut(vertices, edges, log_2_size, d_next, d_new_next, d_pr_arr, d_ptr, d_pr_size_ptr);	
-		
-		auto end_shortcut = std::chrono::high_resolution_clock::now();
-		auto duration_shortcut = std::chrono::duration_cast<std::chrono::milliseconds>(end_shortcut - start_shortcut).count();
-	
-		shortcutting_time += duration_shortcut;
 
-		#ifdef DEBUG
-			// cudaMemcpy(rep.data(), d_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);		
-			// std::cout<<"No of roots after shortcutting: "<<numberOfComponents(rep)<<"\n";	
-		#endif
-
-		#ifdef DEBUG
-	    	// std::cout <<"Rep array after shortcutting: ";
-			// cudaMemcpy(rep.data(), d_ptr, sizeof(int) * n, cudaMemcpyDeviceToHost);
-			// printArr(rep,vertices,10);
-	    #endif
-
-		// #ifdef DEBUG
-	    // 	cudaMemcpy(pr_arr.data(), d_pr_arr, sizeof(int) * pr_size, cudaMemcpyDeviceToHost);
-		// 	cudaMemcpy(pr_arr_size.data(), d_pr_size_ptr, size, cudaMemcpyDeviceToHost);
-	    // 	printPR(pr_arr,pr_arr_size,vertices,log_2_size);
-	    // #endif
-		
 		iter_number++;
 		CUDA_CHECK(cudaMemcpy(&flag, d_flag, sizeof(int), cudaMemcpyDeviceToHost), "Failed to copy");
 		
 		#ifdef DEBUG
 			std::cout << "Flag = " << flag << std::endl;
 		#endif
-		// break;
 	}
 	
 	// cudaMemcpy(d_parent_ptr,d_next_ptr, size, cudaMemcpyDeviceToDevice);
@@ -243,12 +173,6 @@ int* RootedSpanningTree(int* d_u_arr, int* d_v_arr, const int numVert, const int
 			std::cout << "parent[" << j++ << "] = " << i << std::endl;
 		std::cout << std::endl;
 	#endif
-	
-	// std::cout << "Number of iterations taken: "<<iter_number <<"\n";
-	// std::cout << "Duration in milliseconds: " << duration << "ms\n";
-	// std::cout << "Duration in milliseconds for grafting: " << grafting_time << "ms\n";
-	// std::cout << "Duration in milliseconds for reroot: " << reroot_time << "ms\n";
-	// std::cout << "Duration in milliseconds for shortcutting: " << shortcutting_time << "ms\n";
 
 	cudaFree(d_OnPath);
 	

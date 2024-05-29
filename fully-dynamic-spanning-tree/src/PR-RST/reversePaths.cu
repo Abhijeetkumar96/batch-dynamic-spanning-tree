@@ -1,3 +1,4 @@
+#include "common/cuda_utility.cuh"
 #include "PR-RST/reversePaths.cuh"
 
 __global__
@@ -19,8 +20,8 @@ void MarkOnPath(int* onPath,int* newOnPath, int* pr_arr,int n, int log_n,int *it
 	int tid = blockDim.x * blockIdx.x + threadIdx.x;
 	if(tid < n) {
 		if(onPath[tid]) {
-            int j = log_n * tid + iter_no[tid];
-			if(j < log_n * (tid + 1) && j >= log_n*tid)
+            long long j = log_n * 1LL * tid + iter_no[tid];
+			if(j < (log_n * 1LL * (tid + 1)) && (j >= log_n * 1LL * tid))
 			{
 				if(pr_arr[j]!=-1)
 				{
@@ -51,72 +52,75 @@ void ReversePaths(
 	int *d_parent_ptr,
 	int *d_new_parent_ptr,
 	int *d_index_ptr,
-	int *d_pr_size_ptr
-)
-{
-		#ifdef DEBUG
-			std::vector<int> onPath(vertices),rnodes,prnodes,pr_arr(log_2_size*vertices),pr_size(vertices);
-		#endif
+	int *d_pr_size_ptr) {
+	
+	#ifdef DEBUG
+		std::vector<int> onPath(vertices),rnodes,prnodes,pr_arr(log_2_size*vertices),pr_size(vertices);
+	#endif
 
-		int numThreads = 1024;
-		int numBlocks_n = (vertices + numThreads - 1) / numThreads;
-		// int numBlocks_e = (edges + numThreads - 1) / numThreads;
+	int numThreads = 1024;
+	int numBlocks_n = (vertices + numThreads - 1) / numThreads;
+	// int numBlocks_e = (edges + numThreads - 1) / numThreads;
 
-		cudaMemcpy(d_new_OnPath,d_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
+	CUDA_CHECK(cudaMemcpy(d_new_OnPath,d_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToDevice),
+		"Failed to copy d_OnPath array");
 
-		#ifdef DEBUG
-			cudaMemcpy(onPath.data(), d_OnPath, vertices*sizeof(int), cudaMemcpyDeviceToHost);
-			std::cout << "OnPath nodes intially : \n";
-			for(int i=0;i< vertices;i++)
+	#ifdef DEBUG
+		cudaMemcpy(onPath.data(), d_OnPath, vertices*sizeof(int), cudaMemcpyDeviceToHost);
+		std::cout << "OnPath nodes intially : \n";
+		for(int i=0;i< vertices;i++)
+		{
+			if(onPath[i] == 1)
 			{
-				if(onPath[i] == 1)
-				{
-					rnodes.push_back(i);
-				}
+				rnodes.push_back(i);
 			}
-			printArr(rnodes,rnodes.size(),10);
-		#endif		
-
-		// Step 3.1: Mark OnPath array, OnPath[u...v] = {1,...,1} denotes path from u to v needs to be reversed
-		for (int j = 0; j < log_2_size ; ++j) {
-			
-			DecrementIter<<<numBlocks_n, numThreads>>> (vertices ,d_OnPath, d_pr_size_ptr);
-			cudaDeviceSynchronize();
-			
-			MarkOnPath<<<numBlocks_n, numThreads>>> (d_OnPath,d_new_OnPath, d_pr_arr, vertices, log_2_size,d_pr_size_ptr);
-			cudaDeviceSynchronize();
-			
-			#ifdef DEBUG
-				cudaMemcpy(onPath.data(),d_new_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToHost);
-				std::cout<<"Iteration Number : "<<j<<"\n";
-				printArr(onPath,vertices,10);
-			#endif
-
-			cudaMemcpy(d_OnPath,d_new_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
-
 		}
-		// cudaMemcpy(d_new_OnPath,d_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
+		printArr(rnodes,rnodes.size(),10);
+	#endif		
 
-		#ifdef DEBUG
-			cudaMemcpy(onPath.data(), d_OnPath, vertices*sizeof(int), cudaMemcpyDeviceToHost);
-			std::cout << "OnPath nodes after : \n";
-			rnodes.clear();
-			// print(h_onPath_arr);
-			for(int i=0;i < vertices;i++)
-			{
-				if(onPath[i] == 1)
-				{
-					rnodes.push_back(i);
-				}
-			}
-			printArr(rnodes,rnodes.size(),10);
-		#endif
-		// // Step 3.2: Reverse the marked paths
-
-		cudaMemcpy(d_new_parent_ptr,d_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
+	// Step 3.1: Mark OnPath array, OnPath[u...v] = {1,...,1} denotes path from u to v needs to be reversed
+	for (int j = 0; j < log_2_size ; ++j) {
 		
-		Reverse<<<numBlocks_n, numThreads>>> (d_OnPath,d_parent_ptr, d_new_parent_ptr,vertices);
-		cudaDeviceSynchronize();
+		DecrementIter<<<numBlocks_n, numThreads>>> (vertices ,d_OnPath, d_pr_size_ptr);
+		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize DecrementIter");
+		
+		MarkOnPath<<<numBlocks_n, numThreads>>> (d_OnPath,d_new_OnPath, d_pr_arr, vertices, log_2_size,d_pr_size_ptr);
+		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize MarkOnPath");
+		
+		#ifdef DEBUG
+			cudaMemcpy(onPath.data(),d_new_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToHost);
+			std::cout<<"Iteration Number : "<<j<<"\n";
+			printArr(onPath,vertices,10);
+		#endif
 
-		cudaMemcpy(d_parent_ptr,d_new_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
+		CUDA_CHECK(cudaMemcpy(d_OnPath, d_new_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToDevice),
+			"Failed to copy d_OnPath array");
+
+	}
+	// cudaMemcpy(d_new_OnPath,d_OnPath, sizeof(int) * vertices, cudaMemcpyDeviceToDevice);
+
+	#ifdef DEBUG
+		cudaMemcpy(onPath.data(), d_OnPath, vertices*sizeof(int), cudaMemcpyDeviceToHost);
+		std::cout << "OnPath nodes after : \n";
+		rnodes.clear();
+		// print(h_onPath_arr);
+		for(int i=0;i < vertices;i++)
+		{
+			if(onPath[i] == 1)
+			{
+				rnodes.push_back(i);
+			}
+		}
+		printArr(rnodes,rnodes.size(),10);
+	#endif
+	// // Step 3.2: Reverse the marked paths
+
+	CUDA_CHECK(cudaMemcpy(d_new_parent_ptr,d_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice),
+		"Failed to copy d_new_parent_ptr");
+	
+	Reverse<<<numBlocks_n, numThreads>>> (d_OnPath,d_parent_ptr, d_new_parent_ptr,vertices);
+	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize Reverse kernel");
+
+	CUDA_CHECK(cudaMemcpy(d_parent_ptr,d_new_parent_ptr, sizeof(int) * vertices, cudaMemcpyDeviceToDevice),
+		"Failed to copy d_parent_ptr");
 }
