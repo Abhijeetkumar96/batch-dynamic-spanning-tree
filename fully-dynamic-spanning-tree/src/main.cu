@@ -122,8 +122,6 @@ int main(int argc, char* argv[]) {
         numComp = dfs(G.vertices, G.edges, root, parent, roots);
     }
 
-    // std::cout <<"Number of components in the input graph : " << numComp << std::endl;
-    // g_verbose = false;
     if(g_verbose) {
         // G.print_CSR();
         G.print_list();
@@ -134,7 +132,6 @@ int main(int argc, char* argv[]) {
         std::cout << std::endl;
     }
 
-    // g_verbose = false;
     dynamic_tree_manager tree_ds(parent, delete_filename, G.edge_list, root);
 
     if(g_verbose) {

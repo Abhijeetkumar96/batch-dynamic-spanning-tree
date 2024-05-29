@@ -190,7 +190,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	std::cout << "Selected Algorithm: " << rep_edge_algo << "_" << path_rev_algo << std::endl;
 
 	if(rep_edge_algo == "SG_PR") {
-		std::cout << "Finding Replacement edges usind SG.\n";
+		std::cout << "Finding Replacement edges using SG.\n";
         super_graph(tree_ds, rep_edge_mag, is_deletion);
     } else if(rep_edge_algo == "HS_ET") {
     	std::cout << "Finding Replacement edges using HS.\n";
@@ -232,11 +232,8 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	        auto stop = std::chrono::high_resolution_clock::now();
 	        auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-	        add_function_time("Eulerian Tour", duration);
-	        // std::cout << "Multi-component eulerian Tour over without errors.\n";
-	    } 
-	    else {
-	        // sce::EulerianTour sce_euler_mag(num_vert);
+	        add_function_time("ET: First & Last", duration);
+	    } else {
 	        sce_euler_mag = new sce::EulerianTour(num_vert);
 	        // Find the Euler tour for the tree (sce is single-component eulerian tour)
 	        auto start = std::chrono::high_resolution_clock::now();
@@ -273,12 +270,6 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 
 		thrust::device_vector <int> pr_arr(pr_size);
 	    thrust::device_vector <int> tobe_rep(num_vert), pr_arr_size(num_vert);
-
-	    // std::cout << "parent array:\n";
-	    // for(auto i : parent_pr) {
-	    // 	std::cout << i << " ";
-	    // }
-	    // std::cout << std::endl;
 
 	    auto start = std::chrono::high_resolution_clock::now();
 	    
