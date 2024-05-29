@@ -212,8 +212,6 @@ void super_graph(dynamic_tree_manager& tree_ds,
         num_edges = tree_ds.delete_batch_size;
     }
 
-    g_verbose = true;
-
     if(g_verbose) {
         if(is_deletion) {
             std::cout << "Deletion List:\n";
@@ -249,8 +247,6 @@ void super_graph(dynamic_tree_manager& tree_ds,
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
     // std::cout << "Total number of cross-edges: " << *d_counter << std::endl;
-    
-    g_verbose = true;
 
     if(g_verbose) {
         std::cout << "printing from get_replacement_edges func:\n";
@@ -291,7 +287,7 @@ void super_graph(dynamic_tree_manager& tree_ds,
 
     // h_size is super_graph parent array size
     int h_size = rep_edge_mag.num_vert;
-    std::cout << "h_size (a.k.a. num_vert from rep_edge_mag): " << h_size << std::endl;
+    // std::cout << "h_size (a.k.a. num_vert from rep_edge_mag): " << h_size << std::endl;
     // g_verbose = true;
     
     if(g_verbose) {
