@@ -30,8 +30,6 @@ This repository contains a CUDA-based multicore solution designed to repair a sp
   ```bash
     mkdir build && cd build
     cmake ..
-  ```
-  ```bash
     make -j$(nproc)
   ```
 
