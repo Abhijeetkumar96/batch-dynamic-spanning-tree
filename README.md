@@ -26,7 +26,6 @@ This repository contains a CUDA-based many-core solution designed to repair a sp
    cd fully-dynamic-spanning-tree
    ```
 3. **Compile the code:**
-  - **Build without the `DEBUGFLAG`:**
   ```bash
     mkdir build && cd build
     cmake ..
