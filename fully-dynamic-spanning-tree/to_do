@@ -3,6 +3,17 @@ auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
 add_function_time("update datastr", duration);
 
+To do (May 31):
+  1. SG_PR_PR for deletion - done.
+  2. SG_PR_PR for insertion - done.
+  3. HS_ET_PR for deletion - done.
+  4. HS_ET_PR for insertion - done.
+  5. Run PR_RST min-max - done.
+  6. Write code for behaviourial analysis.
+
+Possible BUG:
+build/dynamic_spanning_tree -i datasets/connected_datasets/myforestfiregraph.txt -b datasets/delete_batch/myforestfiregraph.txt -r HS -p PR
+
 TO_DO:
   1. Integrate the new list ranking code to single component eulerian Tour
   2. 
@@ -24,4 +35,7 @@ Therefore, the actual edgelist that goes as input to euler becomes:
 
 - To hooking - shortcutting, the input is all edges even for insertion?
 Why? I dont need to give all edges as input, rather only the new batch of edges for insertion.
-is this optimization possible?
+is this optimization possible? - yes, done
+
+To find loc:
+find . \( -name '*.cpp' -o -name '*.cu' -o -name '*.cuh' -o -name '*.hpp' -o -name '*.sh' \) | xargs wc -l
