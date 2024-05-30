@@ -16,8 +16,16 @@ err_dir="/home/graphwork/cs22s501/spanning_tree/batch-dynamic-spanning-tree/main
 mkdir -p "$log_dir"
 mkdir -p "$err_dir"
 
+# List of specific files you want to process
+files=(
+    kmer_V1r.egr
+    kmer_V2a.egr
+)
+
 # Loop through all files in the base directory
-for file in "$base_dir"/*; do
+# for file in "$base_dir"/*; do
+for file_name in "${files[@]}"; do
+    file="$base_dir/$file_name"
     # Extract the basename of the file
     filename=$(basename "$file")
 
@@ -34,9 +42,9 @@ for file in "$base_dir"/*; do
             file_out="${log_dir}/${base_filename}.log"
             error_file="${err_dir}/${base_filename}_err.log"
 
-            echo "\nRunning command: build/dynamic_spanning_tree -i $file -b $txt_file -d 2 -r HS -p ET >> $file_out 2> $error_file"
+            echo "\nRunning command: build/dynamic_spanning_tree -i $file -b $txt_file -d 0 -r HS -p ET >> $file_out 2>> $error_file"
             # Uncomment the following line to actually run the command
-            build/dynamic_spanning_tree -i "$file" -b "$txt_file" -d 2 -r HS -p ET >> "$file_out" 2> "$error_file"
+            build/dynamic_spanning_tree -i "$file" -b "$txt_file" -d 0 -r HS -p ET >> "$file_out" 2>> "$error_file"
         done
     else
         echo "Directory $target_dir does not exist."

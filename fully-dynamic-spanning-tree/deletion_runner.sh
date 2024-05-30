@@ -34,7 +34,7 @@ for file in "$base_dir"/*; do
 
             echo "\nRunning command: build/dynamic_spanning_tree -i $file -b $txt_file -r HS -p ET >> $file_out 2> $error_file"
             # Uncomment the following line to actually run the command
-            build/dynamic_spanning_tree -i "$file" -b "$txt_file" -r HS -p ET >> "$file_out" 2> "$error_file"
+            build/dynamic_spanning_tree -i "$file" -b "$txt_file" -r HS -p ET >> "$file_out" 2>> "$error_file"
         done
     else
         echo "Directory $target_dir does not exist."
