@@ -44,7 +44,7 @@ This repository contains a CUDA-based multicore solution designed to repair a sp
 **Run the program**:
 
 ```bash
-  ./main -i graph.txt -b edges_to_delete.txt -r HS -p ET -d 0
+  build/dynamic_spanning_tree -i graph.txt -b edges_to_delete.txt -r HS -p ET -d 0
 ```
 ## Input Format
 
