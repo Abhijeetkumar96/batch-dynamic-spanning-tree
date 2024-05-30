@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains a CUDA-based multicore solution designed to repair a spanning tree after a batch of edges is deleted. Using parallel processing on a GPU, this algorithm ensures that the spanning tree remains connected even after certain edges have been removed.
+This repository contains a CUDA-based many-core solution designed to repair a spanning tree after a batch of edges is deleted or inserted. Using parallel processing on a GPU, this algorithm ensures that the spanning tree remains connected even after certain edges have been removed.
 
 ## Features
 
