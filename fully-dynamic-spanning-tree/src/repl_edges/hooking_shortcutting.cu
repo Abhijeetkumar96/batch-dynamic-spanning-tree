@@ -8,7 +8,7 @@
 #include "repl_edges/super_graph.cuh"
 #include "repl_edges/hooking_shortcutting.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 __global__ 
 void HOOKING(

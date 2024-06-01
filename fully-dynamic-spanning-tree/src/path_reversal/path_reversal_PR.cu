@@ -9,6 +9,28 @@
 #include "PR-RST/reversePaths.cuh"
 
 __global__
+void generate_interval_kernel(
+	int* d_edge_u, 
+	int* d_interval, 
+	int* d_repMap, 
+	int* d_rep_array, 
+	int* onPath,
+	int n) {
+    int tid = blockIdx.x * blockDim.x + threadIdx.x;
+
+    //n <-- SuperGraph size
+    if(tid < n) {
+    	int u = d_edge_u[tid];
+		int rep_u = d_rep_array[u];
+		int mapped_rep = d_repMap[rep_u];
+		// printf("u: %d, rep_u: %d, mapped_rep: %d\n", u, rep_u, mapped_rep);
+        d_interval[mapped_rep] = u;
+
+        onPath[u] = 1;
+    }
+}
+
+__global__
 void reverse_new_parents_(
 	int* edge_u, 
 	int* parent_u, 
@@ -28,12 +50,17 @@ void path_reversal_PR(
 	thrust::device_vector<int> &onPath,
 	thrust::device_vector<int> &pr_arr,
 	thrust::device_vector<int> &pr_arr_size,
-	int log_2_size) {
+	int log_2_size, const int& unique_rep_count) {
 
 	int num_vert  = tree_ds.num_vert;
 	int num_edges = tree_ds.num_edges;
+	int* d_rep 		= tree_ds.d_parent;
+	int* d_rep_map 	= tree_ds.d_rep_map;
     int* edge_u   = rep_edge_mag.d_edge_u;
     int* parent_u = rep_edge_mag.d_parent_u;
+    int* interval = rep_edge_mag.interval;
+	
+	int n = unique_rep_count;
 	
 	//n == uniqueRep array size
 
@@ -44,6 +71,17 @@ void path_reversal_PR(
 	thrust::device_vector <int> us1(num_vert);
 
 	int numThreads = 1024;
+	int numBlocks = (n + numThreads - 1) / numThreads;    
+
+	generate_interval_kernel<<<numBlocks, numThreads>>>(
+		edge_u,
+		interval,
+		d_rep_map,
+		d_rep,
+		thrust::raw_pointer_cast(onPath.data()),
+		n);
+	
+	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after generate_interval_kernel");
 
 	auto start = std::chrono::high_resolution_clock::now();
 
@@ -71,7 +109,7 @@ void path_reversal_PR(
 
 	// h_size is super_graph parent array size
     int h_size = rep_edge_mag.num_vert;
-    int numBlocks = (h_size + numThreads - 1) / numThreads;
+    numBlocks = (h_size + numThreads - 1) / numThreads;
 
 	reverse_new_parents_<<<numBlocks, numThreads>>>(
 		edge_u, 

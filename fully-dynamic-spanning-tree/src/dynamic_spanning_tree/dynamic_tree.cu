@@ -287,7 +287,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	    add_function_time("PR_Shortcut", duration);
 
 	    thrust::device_vector <int> onPath(num_vert);
-		path_reversal_PR(tree_ds, rep_edge_mag, onPath, pr_arr, pr_arr_size, log_2_size);
+		path_reversal_PR(tree_ds, rep_edge_mag, onPath, pr_arr, pr_arr_size, log_2_size, num_comp);
 	} else {
 		std::cerr << "Invalid selection.\n";
 		return;

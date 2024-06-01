@@ -5,7 +5,7 @@
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
 #include "path_reversal/path_reversal.cuh"
 
-#define DEBUG
+// #define DEBUG
 
 __global__
 void generate_interval_kernel(
