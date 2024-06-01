@@ -1,23 +1,5 @@
-auto stop = std::chrono::high_resolution_clock::now();
-auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
-
-add_function_time("update datastr", duration);
-
-To do (May 31):
-  1. SG_PR_PR for deletion - done.
-  2. SG_PR_PR for insertion - done.
-  3. HS_ET_PR for deletion - done.
-  4. HS_ET_PR for insertion - done.
-  5. Run PR_RST min-max - done.
-  6. Write code for behaviourial analysis.
-
 Possible BUG:
-build/dynamic_spanning_tree -i datasets/connected_datasets/myforestfiregraph.txt -b datasets/delete_batch/myforestfiregraph.txt -r HS -p PR
-
-TO_DO:
-  1. Integrate the new list ranking code to single component eulerian Tour
-  2. 
-
+build/dynamic_spanning_tree -i datasets/connected_datasets/myforestfiregraph.txt -b datasets/delete_batch/myforestfiregraph.txt -r HS -p PR -v
 
 - We need to sort the input to the eulerian Tour, becoz after creating the new edgelist after updating the edges as per the mapping array, they no longer may be sorted.
 
