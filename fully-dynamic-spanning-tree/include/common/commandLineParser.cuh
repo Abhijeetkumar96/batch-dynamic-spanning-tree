@@ -10,21 +10,19 @@ class CommandLineParser {
 public:
     enum Rep_Algorithm {
         SUPER_GRAPH,
-        HOOKING_SHORTCUTTING,
-        UNKNOWN_REP_ALGORITHM // Specific unknown enum for replacement algorithms
+        HOOKING_SHORTCUTTING
     };
 
     enum PR_Algorithm {
         EULERIAN_TOUR,
-        PATH_REVERSAL,
-        UNKNOWN_PR_ALGORITHM // Specific unknown enum for path reversal algorithms
+        PATH_REVERSAL
     };
 
     struct CommandLineArgs {
         std::string inputFile;
         std::string batchInputFile;
-        Rep_Algorithm rep_algorithm = UNKNOWN_REP_ALGORITHM;
-        PR_Algorithm pr_algorithm   = UNKNOWN_PR_ALGORITHM;
+        Rep_Algorithm rep_algorithm = HOOKING_SHORTCUTTING;
+        PR_Algorithm pr_algorithm   = EULERIAN_TOUR;
         int cudaDevice = 0;
         bool verbose = false;
         bool checkerMode = false;
@@ -121,9 +119,11 @@ const std::string CommandLineParser::help_msg =
     "  -r $algorithm        Select the algorithm for obtaining replacement edges:\n"
     "       SG              Use the 'SuperGraph' algorithm to compute replacement edges.\n"
     "       HS              Use the 'Hooking and Shortcutting' method for replacement edges.\n"
+    "                       (default: HS)\n"
     "  -p $path_reversal    Choose the path reversal algorithm to be applied:\n"
     "       ET              Employ the 'Eulerian Tour' method for path reversal.\n"
     "       PR              Apply the 'Path Reversal' method for path reversal.\n"
+    "                       (default: ET)\n"
     "  -d $device           Set the CUDA device to $device (default: 0).\n"
     "  -s                   Print stats of the input graph.\n"
     "  -v                   Enable verbose output.\n"

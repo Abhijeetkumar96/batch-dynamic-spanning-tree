@@ -72,6 +72,11 @@ public:
     
     int numVert = 0;
     long numEdges = 0;
+    int max_degree = 0;
+    int min_degree = 0;
+    double avg_degree = 0;
+    long double var = 0;
+    int depth = 0;
 
     graph(const std::string& filename, bool testgen = false) {
         original_filename = filename;
@@ -142,6 +147,15 @@ public:
 
     void print_stat() {
         std::cout << "Printing stats.\n";
+        vertex_degrees_var();
+        std::cout << "\n|V| = " << numVert;
+        std::cout << "\n|E| = " << numEdges;
+        std::cout << "\ndensity (p) = " << density();
+        std::cout << "\nvariance (v) = " << var;
+        std::cout << "\nd_min = " << min_degree;
+        std::cout << "\nd_avg = " << avg_degree;
+        std::cout << "\nd_max = " << max_degree;
+        std::cout << std::endl;
     }
 
 private:
@@ -226,6 +240,37 @@ private:
             return filename.substr(pos);
         }
         return "";
+    }
+
+    double density() { 
+        return (double)numEdges / (numVert * (numVert - 1.0) / 2.0); 
+    }
+
+    void vertex_degrees_var() {
+        int n = numVert;
+        degree.resize(n);
+
+        // initialize min and max to degree of first vertex
+        max_degree = min_degree = vertices[1] - vertices[0];
+        for (long long v = 0; v < n; ++v) {
+            degree[v] = vertices[v+1] - vertices[v];
+            if (max_degree < degree[v])  
+                max_degree = degree[v];
+            if (degree[v] < min_degree)  
+                min_degree = degree[v];
+        }
+        avg_degree = (double)numEdges/n;
+
+        var = 0;
+
+
+        
+        for(int i = 0; i < numVert; ++i){
+            var += (degree[i] - avg_degree) * 1.0 * (degree[i] - avg_degree);
+        }
+        var /= (n-1);
+
+        return;
     }
 };
 
