@@ -14,7 +14,7 @@
 #include "dynamic_spanning_tree/dynamic_tree_util.cuh"
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
 
-// #define DEBUG
+#define DEBUG
 
 //---------------------------------------------------------------------
 // Globals, constants and typedefs
@@ -97,7 +97,7 @@ int main(int argc, char* argv[]) {
 
     // std::cout << "numVertices: " << G.numVert << ", numEdges: " << G.numEdges << std::endl;
 
-    // g_verbose = true;
+    g_verbose = true;
     
     std::vector<int> parent(G.numVert);
     std::vector<int> roots;
@@ -107,7 +107,7 @@ int main(int argc, char* argv[]) {
     std::uniform_int_distribution<> distr(0, G.numVert - 1); // Define the range
     int root = distr(gen); // Generate a random number within the range
 
-    // root = 16;
+    root = 2;
     std::cout << "Root: " << root << std::endl;
     bool _flag = true;
 

@@ -5,7 +5,7 @@
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
 #include "path_reversal/path_reversal.cuh"
 
-// #define DEBUG
+#define DEBUG
 
 __global__
 void generate_interval_kernel(
@@ -192,11 +192,11 @@ void path_reversal_ET(
 
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after update_parent_kernel");
 	
-	if(g_verbose) {
+	#ifdef DEBUG
 		std::cout << "New parent array:" << std::endl;
 		print_parent<<<1,1>>>(new_parent, p_size);
 		CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after print_parent");
 		std::cout << std::endl;
-	}
+	#endif
 }
 

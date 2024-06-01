@@ -87,7 +87,7 @@ void path_reversal_PR(
 
     add_function_time("Path Reversal", duration);
 
-	g_verbose = false;
+	// g_verbose = false;
 
 	if(g_verbose) {
 		std::cout << "New parent array:\n";
