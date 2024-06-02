@@ -106,6 +106,21 @@ void mark_tree_edges_kernel(
 
     int tid = blockIdx.x * blockDim.x + threadIdx.x;
 
+    #ifdef DEBUG
+        if(tid == 0) {
+            printf("Printing from inside of mark_tree_edges_kernel:\n");
+            printf("num_vert: %d\n", num_vert);
+
+            for(int i = 0; i < 1000; ++i) {
+                printf("parent[%d] = %d\n", i, d_parent[i]);
+            }
+
+            for(int i = 0; i < 1000; ++i) {
+                printf("d_edge_list[%d] = %lld\n", i, d_edge_list[i]);
+            }
+        }
+    #endif
+
     if (tid < num_vert) {
         int u = tid;
         int v = d_parent[tid];
@@ -234,8 +249,8 @@ void update_edgelist(
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after mark_delete_edges_kernel");
 
     numBlocks = (num_vert + numThreads - 1) / numThreads;
-    // std::cout << "numBlocks: " << numBlocks << " & numThreads: " << numThreads << " for mark_tree_edges_kernel \n";
-    mark_tree_edges_kernel<<<numThreads, numBlocks>>>(d_parent, d_flags, d_edge_list, num_edges, num_vert);
+    
+    mark_tree_edges_kernel<<<numBlocks, numThreads>>>(d_parent, d_flags, d_edge_list, num_edges, num_vert);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after mark_tree_edges_kernel");
 
     // now delete the edges from the graph array
