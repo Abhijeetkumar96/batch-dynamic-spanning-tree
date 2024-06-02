@@ -1,0 +1,740 @@
+
+
+filename: soc-LiveJournal1.egr
+Root: 175154
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5409
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 175154
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5409
+Insertion into hashtable over.
+num of superComponents: 5410
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 47.4026 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 30.12 ms
+Time of ET: First & Last : 13.68 ms
+Time of ET: Orientation : 1.69 ms
+Time of Update data structure : 1.02 ms
+Time of Pointer Jumping : 0.63 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 529709
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5533
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 529709
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5533
+Insertion into hashtable over.
+num of superComponents: 5534
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 40.1898 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 22.47 ms
+Time of ET: First & Last : 14.07 ms
+Time of ET: Orientation : 1.70 ms
+Time of Update data structure : 1.05 ms
+Time of Pointer Jumping : 0.61 ms
+Time of Finding unique comps : 0.16 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 4306020
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5621
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 4306020
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5621
+Insertion into hashtable over.
+num of superComponents: 5622
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 33.4436 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 15.32 ms
+Time of ET: First & Last : 14.45 ms
+Time of ET: Orientation : 1.70 ms
+Time of Update data structure : 1.02 ms
+Time of Pointer Jumping : 0.61 ms
+Time of Finding unique comps : 0.21 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 4538879
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5554
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 4538879
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5554
+Insertion into hashtable over.
+num of superComponents: 5555
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 34.7484 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 16.95 ms
+Time of ET: First & Last : 14.14 ms
+Time of ET: Orientation : 1.71 ms
+Time of Update data structure : 1.01 ms
+Time of Pointer Jumping : 0.61 ms
+Time of Finding unique comps : 0.19 ms
+Time of Path Reversal : 0.10 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 2780596
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4979
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 2780596
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4979
+Insertion into hashtable over.
+num of superComponents: 4980
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 38.8072 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.89 ms
+Time of ET: First & Last : 13.98 ms
+Time of Update data structure : 2.38 ms
+Time of ET: Orientation : 1.69 ms
+Time of Pointer Jumping : 0.61 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3705405
+The input parent array is a BFS tree.
+Number of deleted tree edges: 542
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 3705405
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 542
+Insertion into hashtable over.
+num of superComponents: 543
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 22.5039 ms.
+
+Function execution times:
+Time of ET: First & Last : 13.72 ms
+Time of HS: Find Repl edges : 6.72 ms
+Time of Update data structure : 0.95 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.25 ms
+Time of Finding unique comps : 0.18 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 171900
+The input parent array is a BFS tree.
+Number of deleted tree edges: 580
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 171900
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 580
+Insertion into hashtable over.
+num of superComponents: 581
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 27.8562 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.20 ms
+Time of HS: Find Repl edges : 11.57 ms
+Time of Update data structure : 0.99 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.25 ms
+Time of Finding unique comps : 0.16 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 579086
+The input parent array is a BFS tree.
+Number of deleted tree edges: 612
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 579086
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 612
+Insertion into hashtable over.
+num of superComponents: 613
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 27.9743 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.34 ms
+Time of HS: Find Repl edges : 11.62 ms
+Time of Update data structure : 0.96 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.25 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3697156
+The input parent array is a BFS tree.
+Number of deleted tree edges: 511
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 3697156
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 511
+Insertion into hashtable over.
+num of superComponents: 512
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 23.4353 ms.
+
+Function execution times:
+Time of ET: First & Last : 13.83 ms
+Time of HS: Find Repl edges : 7.58 ms
+Time of Update data structure : 0.96 ms
+Time of Pointer Jumping : 0.58 ms
+Time of ET: Orientation : 0.25 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 1992457
+The input parent array is a BFS tree.
+Number of deleted tree edges: 543
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 1992457
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 543
+Insertion into hashtable over.
+num of superComponents: 544
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 30.5995 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 14.76 ms
+Time of ET: First & Last : 13.74 ms
+Time of Update data structure : 0.99 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.25 ms
+Time of Finding unique comps : 0.18 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 365126
+The input parent array is a BFS tree.
+Number of deleted tree edges: 8
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 365126
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 8
+Insertion into hashtable over.
+num of superComponents: 9
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 22.1729 ms.
+
+Function execution times:
+Time of ET: First & Last : 13.73 ms
+Time of HS: Find Repl edges : 6.50 ms
+Time of Update data structure : 0.95 ms
+Time of Pointer Jumping : 0.56 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 995711
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 995711
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3
+Insertion into hashtable over.
+num of superComponents: 4
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 19.5209 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.09 ms
+Time of HS: Find Repl edges : 3.47 ms
+Time of Update data structure : 0.99 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.10 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 1102041
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 1102041
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5
+Insertion into hashtable over.
+num of superComponents: 6
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 21.6089 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.09 ms
+Time of HS: Find Repl edges : 5.55 ms
+Time of Update data structure : 0.95 ms
+Time of Pointer Jumping : 0.56 ms
+Time of ET: Orientation : 0.21 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 2186317
+The input parent array is a BFS tree.
+Number of deleted tree edges: 9
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 2186317
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 9
+Insertion into hashtable over.
+num of superComponents: 10
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 21.4341 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.25 ms
+Time of HS: Find Repl edges : 5.18 ms
+Time of Update data structure : 0.95 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.23 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3641223
+The input parent array is a BFS tree.
+Number of deleted tree edges: 9
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 3641223
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 9
+Insertion into hashtable over.
+num of superComponents: 10
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 18.6517 ms.
+
+Function execution times:
+Time of ET: First & Last : 13.91 ms
+Time of HS: Find Repl edges : 2.80 ms
+Time of Update data structure : 0.97 ms
+Time of Pointer Jumping : 0.56 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.10 ms
+Time of Path Reversal : 0.06 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3731723
+The input parent array is a BFS tree.
+Number of deleted tree edges: 48
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 3731723
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 48
+Insertion into hashtable over.
+num of superComponents: 49
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 20.2571 ms.
+
+Function execution times:
+Time of ET: First & Last : 13.87 ms
+Time of HS: Find Repl edges : 4.41 ms
+Time of Update data structure : 0.98 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.23 ms
+Time of Finding unique comps : 0.10 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 2132013
+The input parent array is a BFS tree.
+Number of deleted tree edges: 49
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 2132013
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 49
+Insertion into hashtable over.
+num of superComponents: 50
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 26.4692 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.16 ms
+Time of HS: Find Repl edges : 10.35 ms
+Time of Update data structure : 0.97 ms
+Time of Pointer Jumping : 0.56 ms
+Time of ET: Orientation : 0.23 ms
+Time of Finding unique comps : 0.10 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3066374
+The input parent array is a BFS tree.
+Number of deleted tree edges: 51
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 3066374
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 51
+Insertion into hashtable over.
+num of superComponents: 52
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 25.3455 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.78 ms
+Time of HS: Find Repl edges : 8.57 ms
+Time of Update data structure : 1.00 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.11 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3122363
+The input parent array is a BFS tree.
+Number of deleted tree edges: 66
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 3122363
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 66
+Insertion into hashtable over.
+num of superComponents: 67
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 24.417 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.01 ms
+Time of HS: Find Repl edges : 8.43 ms
+Time of Update data structure : 0.98 ms
+Time of Pointer Jumping : 0.56 ms
+Time of ET: Orientation : 0.23 ms
+Time of Finding unique comps : 0.11 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 381356
+The input parent array is a BFS tree.
+Number of deleted tree edges: 50
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 381356
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 50
+Insertion into hashtable over.
+num of superComponents: 51
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 24.9704 ms.
+
+Function execution times:
+Time of ET: First & Last : 14.31 ms
+Time of HS: Find Repl edges : 8.70 ms
+Time of Update data structure : 0.96 ms
+Time of Pointer Jumping : 0.57 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.10 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1

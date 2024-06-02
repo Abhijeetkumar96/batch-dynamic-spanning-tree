@@ -1,0 +1,259 @@
+filename: arabic-2005.egr
+Delete batch Size: 100000
+Depth of graph: 529
+Total execution time of all functions: 1928.8 ms.
+
+Function execution times:
+Time of PR-RST module : 856.74 ms
+Time of simple BFS : 701.95 ms
+Time of Adam_BFS : 220.89 ms
+Time of CC : 137.75 ms
+Time of update datastr : 11.47 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100000
+Depth of graph: 529
+Total execution time of all functions: 1836.46 ms.
+
+Function execution times:
+Time of PR-RST module : 786.32 ms
+Time of simple BFS : 692.41 ms
+Time of Adam_BFS : 217.86 ms
+Time of CC : 127.26 ms
+Time of update datastr : 12.61 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100000
+Depth of graph: 529
+Total execution time of all functions: 1699.23 ms.
+
+Function execution times:
+Time of simple BFS : 687.96 ms
+Time of PR-RST module : 655.86 ms
+Time of Adam_BFS : 217.57 ms
+Time of CC : 125.53 ms
+Time of update datastr : 12.30 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100000
+Depth of graph: 529
+Total execution time of all functions: 1700.37 ms.
+
+Function execution times:
+Time of simple BFS : 688.53 ms
+Time of PR-RST module : 657.21 ms
+Time of Adam_BFS : 217.09 ms
+Time of CC : 125.19 ms
+Time of update datastr : 12.34 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100000
+Depth of graph: 529
+Total execution time of all functions: 1807.97 ms.
+
+Function execution times:
+Time of PR-RST module : 790.93 ms
+Time of simple BFS : 677.96 ms
+Time of Adam_BFS : 216.73 ms
+Time of CC : 110.99 ms
+Time of update datastr : 11.36 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 10000
+Depth of graph: 529
+Total execution time of all functions: 1751.3 ms.
+
+Function execution times:
+Time of PR-RST module : 728.41 ms
+Time of simple BFS : 664.69 ms
+Time of Adam_BFS : 220.54 ms
+Time of CC : 125.09 ms
+Time of update datastr : 12.57 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 10000
+Depth of graph: 529
+Total execution time of all functions: 1854.6 ms.
+
+Function execution times:
+Time of PR-RST module : 791.38 ms
+Time of simple BFS : 705.71 ms
+Time of Adam_BFS : 219.26 ms
+Time of CC : 125.68 ms
+Time of update datastr : 12.57 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 10000
+Depth of graph: 529
+Total execution time of all functions: 1713.99 ms.
+
+Function execution times:
+Time of simple BFS : 684.48 ms
+Time of PR-RST module : 666.83 ms
+Time of Adam_BFS : 220.08 ms
+Time of CC : 125.79 ms
+Time of update datastr : 16.81 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 10000
+Depth of graph: 529
+Total execution time of all functions: 1621.81 ms.
+
+Function execution times:
+Time of simple BFS : 668.14 ms
+Time of PR-RST module : 608.89 ms
+Time of Adam_BFS : 217.30 ms
+Time of CC : 112.01 ms
+Time of update datastr : 15.47 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 10000
+Depth of graph: 529
+Total execution time of all functions: 1763.78 ms.
+
+Function execution times:
+Time of PR-RST module : 723.61 ms
+Time of simple BFS : 693.73 ms
+Time of Adam_BFS : 218.36 ms
+Time of CC : 112.64 ms
+Time of update datastr : 15.44 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100
+Depth of graph: 529
+Total execution time of all functions: 1881.95 ms.
+
+Function execution times:
+Time of PR-RST module : 874.06 ms
+Time of simple BFS : 671.85 ms
+Time of Adam_BFS : 216.98 ms
+Time of CC : 104.75 ms
+Time of update datastr : 14.31 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100
+Depth of graph: 529
+Total execution time of all functions: 1873.79 ms.
+
+Function execution times:
+Time of PR-RST module : 798.66 ms
+Time of simple BFS : 681.07 ms
+Time of Adam_BFS : 218.83 ms
+Time of CC : 161.78 ms
+Time of update datastr : 13.45 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100
+Depth of graph: 529
+Total execution time of all functions: 1711.42 ms.
+
+Function execution times:
+Time of simple BFS : 685.13 ms
+Time of PR-RST module : 670.29 ms
+Time of Adam_BFS : 217.45 ms
+Time of CC : 124.65 ms
+Time of update datastr : 13.89 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100
+Depth of graph: 529
+Total execution time of all functions: 1836.02 ms.
+
+Function execution times:
+Time of PR-RST module : 793.15 ms
+Time of simple BFS : 687.27 ms
+Time of Adam_BFS : 218.29 ms
+Time of CC : 120.36 ms
+Time of update datastr : 16.95 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 100
+Depth of graph: 529
+Total execution time of all functions: 1884.87 ms.
+
+Function execution times:
+Time of PR-RST module : 864.16 ms
+Time of simple BFS : 678.32 ms
+Time of Adam_BFS : 219.15 ms
+Time of CC : 105.85 ms
+Time of update datastr : 17.39 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 1000
+Depth of graph: 529
+Total execution time of all functions: 1776.34 ms.
+
+Function execution times:
+Time of PR-RST module : 725.00 ms
+Time of simple BFS : 694.50 ms
+Time of Adam_BFS : 218.46 ms
+Time of CC : 125.89 ms
+Time of update datastr : 12.49 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 1000
+Depth of graph: 529
+Total execution time of all functions: 1750.19 ms.
+
+Function execution times:
+Time of PR-RST module : 731.77 ms
+Time of simple BFS : 663.84 ms
+Time of Adam_BFS : 216.14 ms
+Time of CC : 125.27 ms
+Time of update datastr : 13.18 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 1000
+Depth of graph: 529
+Total execution time of all functions: 1836.79 ms.
+
+Function execution times:
+Time of PR-RST module : 790.37 ms
+Time of simple BFS : 698.53 ms
+Time of Adam_BFS : 217.67 ms
+Time of CC : 117.54 ms
+Time of update datastr : 12.67 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 1000
+Depth of graph: 529
+Total execution time of all functions: 1831.33 ms.
+
+Function execution times:
+Time of PR-RST module : 786.95 ms
+Time of simple BFS : 683.23 ms
+Time of Adam_BFS : 216.37 ms
+Time of CC : 130.97 ms
+Time of update datastr : 13.81 ms
+----------------------------------------------------------------
+
+filename: arabic-2005.egr
+Delete batch Size: 1000
+Depth of graph: 529
+Total execution time of all functions: 1757.99 ms.
+
+Function execution times:
+Time of PR-RST module : 721.83 ms
+Time of simple BFS : 692.18 ms
+Time of Adam_BFS : 220.28 ms
+Time of CC : 111.25 ms
+Time of update datastr : 12.46 ms
+----------------------------------------------------------------

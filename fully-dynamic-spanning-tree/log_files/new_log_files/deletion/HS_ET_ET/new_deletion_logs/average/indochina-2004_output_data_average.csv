@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+indochina-2004.egr,7414866,301970226,100,0.8,27.91
+indochina-2004.egr,7414866,301970226,1000,6.6,42.17
+indochina-2004.egr,7414866,301970226,10000,54.4,47.23
+indochina-2004.egr,7414866,301970226,100000,637.8,55.56

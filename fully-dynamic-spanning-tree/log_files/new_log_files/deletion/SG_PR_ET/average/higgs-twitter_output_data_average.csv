@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+higgs-twitter.egr,456626,25017136,100,3.8,15.29
+higgs-twitter.egr,456626,25017136,1000,31.6,11.89
+higgs-twitter.egr,456626,25017136,10000,358.8,11.73
+higgs-twitter.egr,456626,25017136,100000,3422.0,11.82

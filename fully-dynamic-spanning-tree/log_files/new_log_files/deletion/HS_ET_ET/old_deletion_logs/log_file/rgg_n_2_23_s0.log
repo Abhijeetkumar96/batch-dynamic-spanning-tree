@@ -1,0 +1,720 @@
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 11691
+Non-tree edges deleted : 88309
+Time of (12)Hooking Shortcutting : 19.638000 ms 
+Time of (4)Multi component Euler tour internal  : 12.31700 ms 
+Time of (5)Retrieving back first and last times  : 7.57400 ms 
+Time of (1)Get key rem collections : 3.32000 ms 
+Time of (11)Shortcut rep : 3.05400 ms 
+Time of (6)Edge Deletion : 2.86900 ms 
+Time of (9)Get key rem collections : 2.09400 ms 
+Time of (8)Generate new edges : 1.62400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.49800 ms 
+Time of (2)Convert to collection : 1.33100 ms 
+Time of (23)List ranking : 1.30000 ms 
+Time of (10)Convert to collection : 1.10600 ms 
+Time of (7)Remove edges : 1.01000 ms 
+Time of (15)Transedges prefix : 0.88800 ms 
+Time of (3)Processing for multi component Euler tour : 0.70800 ms 
+Time of (21)CSR creation : 0.65000 ms 
+Time of (0)Extracting Roots : 0.61100 ms 
+Time of (19)Thrust Sorting : 0.20200 ms 
+Time of (13)Compress Graph : 0.16600 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 62.05100 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 11650
+Non-tree edges deleted : 88350
+Time of (12)Hooking Shortcutting : 22.721000 ms 
+Time of (4)Multi component Euler tour internal  : 12.34600 ms 
+Time of (5)Retrieving back first and last times  : 7.50500 ms 
+Time of (11)Shortcut rep : 3.85800 ms 
+Time of (1)Get key rem collections : 3.26300 ms 
+Time of (6)Edge Deletion : 2.71200 ms 
+Time of (9)Get key rem collections : 2.46300 ms 
+Time of (8)Generate new edges : 1.92800 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.44700 ms 
+Time of (10)Convert to collection : 1.32300 ms 
+Time of (2)Convert to collection : 1.31900 ms 
+Time of (23)List ranking : 1.23600 ms 
+Time of (7)Remove edges : 1.07200 ms 
+Time of (15)Transedges prefix : 0.72600 ms 
+Time of (3)Processing for multi component Euler tour : 0.70600 ms 
+Time of (21)CSR creation : 0.68600 ms 
+Time of (0)Extracting Roots : 0.59700 ms 
+Time of (19)Thrust Sorting : 0.16200 ms 
+Time of (13)Compress Graph : 0.13600 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 66.29100 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 11588
+Non-tree edges deleted : 88412
+Time of (12)Hooking Shortcutting : 26.894000 ms 
+Time of (4)Multi component Euler tour internal  : 12.30200 ms 
+Time of (5)Retrieving back first and last times  : 7.52300 ms 
+Time of (11)Shortcut rep : 3.86000 ms 
+Time of (1)Get key rem collections : 3.39400 ms 
+Time of (6)Edge Deletion : 2.92600 ms 
+Time of (9)Get key rem collections : 2.54900 ms 
+Time of (8)Generate new edges : 1.92700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.48300 ms 
+Time of (10)Convert to collection : 1.33000 ms 
+Time of (2)Convert to collection : 1.31600 ms 
+Time of (23)List ranking : 1.27500 ms 
+Time of (15)Transedges prefix : 1.09600 ms 
+Time of (7)Remove edges : 0.97900 ms 
+Time of (3)Processing for multi component Euler tour : 0.71000 ms 
+Time of (21)CSR creation : 0.66000 ms 
+Time of (0)Extracting Roots : 0.60900 ms 
+Time of (19)Thrust Sorting : 0.24700 ms 
+Time of (13)Compress Graph : 0.18900 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (18)Functor : 0.01700 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 71.36800 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 11689
+Non-tree edges deleted : 88311
+Time of (12)Hooking Shortcutting : 22.450000 ms 
+Time of (4)Multi component Euler tour internal  : 12.27600 ms 
+Time of (5)Retrieving back first and last times  : 6.79900 ms 
+Time of (11)Shortcut rep : 3.84500 ms 
+Time of (1)Get key rem collections : 3.40800 ms 
+Time of (6)Edge Deletion : 2.73900 ms 
+Time of (9)Get key rem collections : 2.41800 ms 
+Time of (8)Generate new edges : 1.92800 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.45800 ms 
+Time of (2)Convert to collection : 1.33200 ms 
+Time of (10)Convert to collection : 1.32100 ms 
+Time of (23)List ranking : 1.23900 ms 
+Time of (7)Remove edges : 1.03600 ms 
+Time of (15)Transedges prefix : 0.72800 ms 
+Time of (3)Processing for multi component Euler tour : 0.70900 ms 
+Time of (21)CSR creation : 0.64900 ms 
+Time of (0)Extracting Roots : 0.60700 ms 
+Time of (19)Thrust Sorting : 0.16400 ms 
+Time of (13)Compress Graph : 0.13400 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 65.32400 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 11717
+Non-tree edges deleted : 88283
+Time of (12)Hooking Shortcutting : 23.895000 ms 
+Time of (4)Multi component Euler tour internal  : 12.31400 ms 
+Time of (5)Retrieving back first and last times  : 6.83700 ms 
+Time of (11)Shortcut rep : 3.85800 ms 
+Time of (1)Get key rem collections : 3.36800 ms 
+Time of (6)Edge Deletion : 2.99500 ms 
+Time of (9)Get key rem collections : 2.54500 ms 
+Time of (8)Generate new edges : 1.92700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.36600 ms 
+Time of (10)Convert to collection : 1.33200 ms 
+Time of (2)Convert to collection : 1.32400 ms 
+Time of (23)List ranking : 1.24000 ms 
+Time of (7)Remove edges : 1.08300 ms 
+Time of (15)Transedges prefix : 1.06600 ms 
+Time of (0)Extracting Roots : 0.71900 ms 
+Time of (3)Processing for multi component Euler tour : 0.70600 ms 
+Time of (21)CSR creation : 0.64200 ms 
+Time of (19)Thrust Sorting : 0.25400 ms 
+Time of (13)Compress Graph : 0.18900 ms 
+Time of (20)Thrust gather : 0.05800 ms 
+Time of (18)Functor : 0.01800 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 67.76900 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 1157
+Non-tree edges deleted : 8843
+Time of (12)Hooking Shortcutting : 16.088000 ms 
+Time of (4)Multi component Euler tour internal  : 12.23300 ms 
+Time of (5)Retrieving back first and last times  : 7.58100 ms 
+Time of (11)Shortcut rep : 3.80000 ms 
+Time of (1)Get key rem collections : 3.25000 ms 
+Time of (6)Edge Deletion : 2.70400 ms 
+Time of (9)Get key rem collections : 2.60000 ms 
+Time of (8)Generate new edges : 1.92700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.38900 ms 
+Time of (10)Convert to collection : 1.32400 ms 
+Time of (2)Convert to collection : 1.31700 ms 
+Time of (15)Transedges prefix : 1.03200 ms 
+Time of (23)List ranking : 0.99200 ms 
+Time of (7)Remove edges : 0.95900 ms 
+Time of (3)Processing for multi component Euler tour : 0.70900 ms 
+Time of (21)CSR creation : 0.64400 ms 
+Time of (0)Extracting Roots : 0.59900 ms 
+Time of (13)Compress Graph : 0.25900 ms 
+Time of (19)Thrust Sorting : 0.12300 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 59.63000 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 1118
+Non-tree edges deleted : 8882
+Time of (12)Hooking Shortcutting : 14.052000 ms 
+Time of (4)Multi component Euler tour internal  : 12.26600 ms 
+Time of (5)Retrieving back first and last times  : 7.52300 ms 
+Time of (11)Shortcut rep : 3.79400 ms 
+Time of (1)Get key rem collections : 3.31400 ms 
+Time of (6)Edge Deletion : 2.45300 ms 
+Time of (9)Get key rem collections : 2.40500 ms 
+Time of (8)Generate new edges : 1.93100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.36200 ms 
+Time of (10)Convert to collection : 1.33200 ms 
+Time of (2)Convert to collection : 1.31700 ms 
+Time of (7)Remove edges : 1.13700 ms 
+Time of (15)Transedges prefix : 1.04100 ms 
+Time of (23)List ranking : 0.99000 ms 
+Time of (3)Processing for multi component Euler tour : 0.70800 ms 
+Time of (21)CSR creation : 0.64200 ms 
+Time of (0)Extracting Roots : 0.60400 ms 
+Time of (13)Compress Graph : 0.19200 ms 
+Time of (19)Thrust Sorting : 0.12300 ms 
+Time of (20)Thrust gather : 0.05600 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 57.28500 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 1173
+Non-tree edges deleted : 8827
+Time of (12)Hooking Shortcutting : 14.154000 ms 
+Time of (4)Multi component Euler tour internal  : 12.31500 ms 
+Time of (5)Retrieving back first and last times  : 6.62600 ms 
+Time of (13)Compress Graph : 4.49400 ms 
+Time of (11)Shortcut rep : 3.77600 ms 
+Time of (1)Get key rem collections : 3.36500 ms 
+Time of (9)Get key rem collections : 2.80300 ms 
+Time of (6)Edge Deletion : 2.49200 ms 
+Time of (8)Generate new edges : 1.93000 ms 
+Time of (2)Convert to collection : 1.39000 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.36100 ms 
+Time of (10)Convert to collection : 1.32600 ms 
+Time of (15)Transedges prefix : 1.00900 ms 
+Time of (23)List ranking : 0.99800 ms 
+Time of (7)Remove edges : 0.99800 ms 
+Time of (0)Extracting Roots : 0.74500 ms 
+Time of (3)Processing for multi component Euler tour : 0.70800 ms 
+Time of (21)CSR creation : 0.64600 ms 
+Time of (19)Thrust Sorting : 0.12700 ms 
+Time of (20)Thrust gather : 0.05800 ms 
+Time of (18)Functor : 0.02000 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time (total): 61.37500 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 1164
+Non-tree edges deleted : 8836
+Time of (12)Hooking Shortcutting : 14.324000 ms 
+Time of (4)Multi component Euler tour internal  : 12.31800 ms 
+Time of (5)Retrieving back first and last times  : 7.59400 ms 
+Time of (11)Shortcut rep : 3.82300 ms 
+Time of (1)Get key rem collections : 3.38600 ms 
+Time of (6)Edge Deletion : 2.96400 ms 
+Time of (9)Get key rem collections : 2.56500 ms 
+Time of (8)Generate new edges : 1.93100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.36000 ms 
+Time of (10)Convert to collection : 1.33000 ms 
+Time of (2)Convert to collection : 1.32900 ms 
+Time of (15)Transedges prefix : 1.02100 ms 
+Time of (23)List ranking : 0.99500 ms 
+Time of (7)Remove edges : 0.96000 ms 
+Time of (3)Processing for multi component Euler tour : 0.70700 ms 
+Time of (21)CSR creation : 0.65100 ms 
+Time of (0)Extracting Roots : 0.64400 ms 
+Time of (13)Compress Graph : 0.26000 ms 
+Time of (19)Thrust Sorting : 0.12900 ms 
+Time of (20)Thrust gather : 0.05700 ms 
+Time of (18)Functor : 0.01900 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 58.40200 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 1173
+Non-tree edges deleted : 8827
+Time of (12)Hooking Shortcutting : 14.120000 ms 
+Time of (4)Multi component Euler tour internal  : 12.31100 ms 
+Time of (5)Retrieving back first and last times  : 6.89200 ms 
+Time of (11)Shortcut rep : 3.80600 ms 
+Time of (1)Get key rem collections : 3.49600 ms 
+Time of (9)Get key rem collections : 2.54500 ms 
+Time of (6)Edge Deletion : 2.34600 ms 
+Time of (8)Generate new edges : 2.00400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.37700 ms 
+Time of (10)Convert to collection : 1.32800 ms 
+Time of (2)Convert to collection : 1.32800 ms 
+Time of (7)Remove edges : 1.13500 ms 
+Time of (23)List ranking : 0.99700 ms 
+Time of (15)Transedges prefix : 0.72300 ms 
+Time of (3)Processing for multi component Euler tour : 0.71500 ms 
+Time of (0)Extracting Roots : 0.71500 ms 
+Time of (21)CSR creation : 0.63700 ms 
+Time of (13)Compress Graph : 0.15500 ms 
+Time of (19)Thrust Sorting : 0.08500 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 56.80400 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 10
+Non-tree edges deleted : 90
+Time of (4)Multi component Euler tour internal  : 12.287000 ms 
+Time of (5)Retrieving back first and last times  : 7.25600 ms 
+Time of (12)Hooking Shortcutting : 6.53900 ms 
+Time of (1)Get key rem collections : 3.38200 ms 
+Time of (11)Shortcut rep : 2.84200 ms 
+Time of (9)Get key rem collections : 2.66600 ms 
+Time of (6)Edge Deletion : 2.32300 ms 
+Time of (8)Generate new edges : 1.92900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.41400 ms 
+Time of (2)Convert to collection : 1.32400 ms 
+Time of (10)Convert to collection : 1.06500 ms 
+Time of (7)Remove edges : 1.02900 ms 
+Time of (15)Transedges prefix : 0.84100 ms 
+Time of (3)Processing for multi component Euler tour : 0.71100 ms 
+Time of (0)Extracting Roots : 0.63400 ms 
+Time of (21)CSR creation : 0.62200 ms 
+Time of (23)List ranking : 0.44900 ms 
+Time of (13)Compress Graph : 0.16700 ms 
+Time of (19)Thrust Sorting : 0.08700 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 47.65900 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 11
+Non-tree edges deleted : 89
+Time of (4)Multi component Euler tour internal  : 12.260000 ms 
+Time of (12)Hooking Shortcutting : 8.28900 ms 
+Time of (5)Retrieving back first and last times  : 7.54000 ms 
+Time of (11)Shortcut rep : 3.79200 ms 
+Time of (1)Get key rem collections : 3.37600 ms 
+Time of (9)Get key rem collections : 2.62700 ms 
+Time of (6)Edge Deletion : 2.45900 ms 
+Time of (8)Generate new edges : 1.93000 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.35100 ms 
+Time of (10)Convert to collection : 1.33400 ms 
+Time of (2)Convert to collection : 1.32400 ms 
+Time of (7)Remove edges : 1.02200 ms 
+Time of (15)Transedges prefix : 1.01500 ms 
+Time of (3)Processing for multi component Euler tour : 0.70900 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (0)Extracting Roots : 0.59900 ms 
+Time of (23)List ranking : 0.52700 ms 
+Time of (13)Compress Graph : 0.20000 ms 
+Time of (19)Thrust Sorting : 0.10600 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 51.18700 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 11
+Non-tree edges deleted : 89
+Time of (4)Multi component Euler tour internal  : 12.413000 ms 
+Time of (12)Hooking Shortcutting : 8.29200 ms 
+Time of (5)Retrieving back first and last times  : 7.66300 ms 
+Time of (11)Shortcut rep : 3.77600 ms 
+Time of (1)Get key rem collections : 3.35100 ms 
+Time of (9)Get key rem collections : 2.46800 ms 
+Time of (6)Edge Deletion : 2.44000 ms 
+Time of (8)Generate new edges : 1.92800 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.51400 ms 
+Time of (2)Convert to collection : 1.33400 ms 
+Time of (10)Convert to collection : 1.33300 ms 
+Time of (7)Remove edges : 1.08400 ms 
+Time of (15)Transedges prefix : 1.05500 ms 
+Time of (3)Processing for multi component Euler tour : 0.71000 ms 
+Time of (21)CSR creation : 0.64100 ms 
+Time of (0)Extracting Roots : 0.60600 ms 
+Time of (23)List ranking : 0.52900 ms 
+Time of (13)Compress Graph : 0.19000 ms 
+Time of (19)Thrust Sorting : 0.10600 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 51.52500 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 13
+Non-tree edges deleted : 87
+Time of (4)Multi component Euler tour internal  : 12.288000 ms 
+Time of (12)Hooking Shortcutting : 8.29700 ms 
+Time of (5)Retrieving back first and last times  : 7.60000 ms 
+Time of (11)Shortcut rep : 3.77900 ms 
+Time of (1)Get key rem collections : 3.38900 ms 
+Time of (9)Get key rem collections : 2.55500 ms 
+Time of (6)Edge Deletion : 2.39100 ms 
+Time of (8)Generate new edges : 1.92700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.35000 ms 
+Time of (10)Convert to collection : 1.33000 ms 
+Time of (2)Convert to collection : 1.32500 ms 
+Time of (7)Remove edges : 1.16700 ms 
+Time of (15)Transedges prefix : 0.76600 ms 
+Time of (3)Processing for multi component Euler tour : 0.71000 ms 
+Time of (21)CSR creation : 0.63100 ms 
+Time of (0)Extracting Roots : 0.61000 ms 
+Time of (23)List ranking : 0.45600 ms 
+Time of (13)Compress Graph : 0.16700 ms 
+Time of (19)Thrust Sorting : 0.07500 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 50.89400 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 9
+Non-tree edges deleted : 91
+Time of (5)Retrieving back first and last times  : 13.402000 ms 
+Time of (4)Multi component Euler tour internal  : 12.34200 ms 
+Time of (12)Hooking Shortcutting : 8.29800 ms 
+Time of (11)Shortcut rep : 3.77600 ms 
+Time of (1)Get key rem collections : 3.33600 ms 
+Time of (6)Edge Deletion : 2.67900 ms 
+Time of (9)Get key rem collections : 2.47400 ms 
+Time of (8)Generate new edges : 1.93300 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.51100 ms 
+Time of (10)Convert to collection : 1.33400 ms 
+Time of (2)Convert to collection : 1.32700 ms 
+Time of (7)Remove edges : 1.16300 ms 
+Time of (15)Transedges prefix : 1.06600 ms 
+Time of (3)Processing for multi component Euler tour : 0.71000 ms 
+Time of (21)CSR creation : 0.64600 ms 
+Time of (0)Extracting Roots : 0.61500 ms 
+Time of (23)List ranking : 0.54400 ms 
+Time of (13)Compress Graph : 0.19200 ms 
+Time of (19)Thrust Sorting : 0.10600 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 57.55700 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 134
+Non-tree edges deleted : 866
+Time of (4)Multi component Euler tour internal  : 12.336000 ms 
+Time of (5)Retrieving back first and last times  : 7.52600 ms 
+Time of (12)Hooking Shortcutting : 7.37300 ms 
+Time of (1)Get key rem collections : 3.28400 ms 
+Time of (11)Shortcut rep : 3.25900 ms 
+Time of (6)Edge Deletion : 2.64100 ms 
+Time of (9)Get key rem collections : 2.17600 ms 
+Time of (8)Generate new edges : 1.71700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.45800 ms 
+Time of (2)Convert to collection : 1.32700 ms 
+Time of (10)Convert to collection : 1.18100 ms 
+Time of (15)Transedges prefix : 0.93300 ms 
+Time of (7)Remove edges : 0.91400 ms 
+Time of (23)List ranking : 0.83800 ms 
+Time of (3)Processing for multi component Euler tour : 0.70600 ms 
+Time of (21)CSR creation : 0.63900 ms 
+Time of (0)Extracting Roots : 0.59400 ms 
+Time of (13)Compress Graph : 0.16100 ms 
+Time of (19)Thrust Sorting : 0.10600 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 49.25400 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 108
+Non-tree edges deleted : 892
+Time of (4)Multi component Euler tour internal  : 12.254000 ms 
+Time of (12)Hooking Shortcutting : 8.31700 ms 
+Time of (5)Retrieving back first and last times  : 7.53800 ms 
+Time of (11)Shortcut rep : 3.77100 ms 
+Time of (1)Get key rem collections : 3.27500 ms 
+Time of (6)Edge Deletion : 2.66200 ms 
+Time of (9)Get key rem collections : 2.49100 ms 
+Time of (8)Generate new edges : 1.92900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.50500 ms 
+Time of (10)Convert to collection : 1.32800 ms 
+Time of (2)Convert to collection : 1.32600 ms 
+Time of (15)Transedges prefix : 1.06300 ms 
+Time of (7)Remove edges : 0.99200 ms 
+Time of (23)List ranking : 0.79700 ms 
+Time of (3)Processing for multi component Euler tour : 0.70800 ms 
+Time of (21)CSR creation : 0.64600 ms 
+Time of (0)Extracting Roots : 0.60900 ms 
+Time of (13)Compress Graph : 0.18800 ms 
+Time of (19)Thrust Sorting : 0.11800 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 51.60600 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 100
+Non-tree edges deleted : 900
+Time of (4)Multi component Euler tour internal  : 12.269000 ms 
+Time of (12)Hooking Shortcutting : 7.56200 ms 
+Time of (5)Retrieving back first and last times  : 7.53000 ms 
+Time of (1)Get key rem collections : 3.73300 ms 
+Time of (11)Shortcut rep : 3.36700 ms 
+Time of (6)Edge Deletion : 3.11700 ms 
+Time of (9)Get key rem collections : 2.20700 ms 
+Time of (8)Generate new edges : 1.75500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.46300 ms 
+Time of (2)Convert to collection : 1.31600 ms 
+Time of (10)Convert to collection : 1.20000 ms 
+Time of (7)Remove edges : 0.95700 ms 
+Time of (15)Transedges prefix : 0.92500 ms 
+Time of (23)List ranking : 0.75200 ms 
+Time of (3)Processing for multi component Euler tour : 0.70800 ms 
+Time of (21)CSR creation : 0.63800 ms 
+Time of (0)Extracting Roots : 0.61800 ms 
+Time of (13)Compress Graph : 0.17300 ms 
+Time of (19)Thrust Sorting : 0.10600 ms 
+Time of (20)Thrust gather : 0.04600 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 50.48100 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 123
+Non-tree edges deleted : 877
+Time of (4)Multi component Euler tour internal  : 12.275000 ms 
+Time of (12)Hooking Shortcutting : 8.62600 ms 
+Time of (5)Retrieving back first and last times  : 7.57500 ms 
+Time of (11)Shortcut rep : 3.80700 ms 
+Time of (1)Get key rem collections : 3.38800 ms 
+Time of (6)Edge Deletion : 2.69000 ms 
+Time of (9)Get key rem collections : 2.43300 ms 
+Time of (8)Generate new edges : 1.92900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.34500 ms 
+Time of (10)Convert to collection : 1.32700 ms 
+Time of (2)Convert to collection : 1.32000 ms 
+Time of (7)Remove edges : 1.16900 ms 
+Time of (15)Transedges prefix : 0.73100 ms 
+Time of (3)Processing for multi component Euler tour : 0.70700 ms 
+Time of (23)List ranking : 0.67400 ms 
+Time of (21)CSR creation : 0.64800 ms 
+Time of (0)Extracting Roots : 0.59900 ms 
+Time of (13)Compress Graph : 0.13400 ms 
+Time of (19)Thrust Sorting : 0.08100 ms 
+Time of (20)Thrust gather : 0.03900 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 51.53500 ms 
+--------------------------------------------------------
+filename: rgg_n_2_23_s0.txt
+Nodes : 8388608
+Edges : 63501397
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 104
+Non-tree edges deleted : 896
+Time of (4)Multi component Euler tour internal  : 12.262000 ms 
+Time of (12)Hooking Shortcutting : 8.33500 ms 
+Time of (5)Retrieving back first and last times  : 7.42600 ms 
+Time of (11)Shortcut rep : 3.78900 ms 
+Time of (1)Get key rem collections : 3.37700 ms 
+Time of (6)Edge Deletion : 2.72100 ms 
+Time of (9)Get key rem collections : 2.65900 ms 
+Time of (8)Generate new edges : 1.92900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.34600 ms 
+Time of (2)Convert to collection : 1.32700 ms 
+Time of (10)Convert to collection : 1.32400 ms 
+Time of (7)Remove edges : 1.02300 ms 
+Time of (15)Transedges prefix : 0.72500 ms 
+Time of (3)Processing for multi component Euler tour : 0.71100 ms 
+Time of (23)List ranking : 0.67200 ms 
+Time of (21)CSR creation : 0.63700 ms 
+Time of (0)Extracting Roots : 0.63200 ms 
+Time of (13)Compress Graph : 0.16700 ms 
+Time of (19)Thrust Sorting : 0.08400 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 51.23200 ms 
+--------------------------------------------------------

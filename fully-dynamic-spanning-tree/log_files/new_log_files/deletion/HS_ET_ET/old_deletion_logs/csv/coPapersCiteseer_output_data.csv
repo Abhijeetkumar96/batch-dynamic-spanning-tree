@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+coPapersCiteseer.txt,100,9.443
+coPapersCiteseer.txt,100,10.716
+coPapersCiteseer.txt,100,9.573
+coPapersCiteseer.txt,100,9.369
+coPapersCiteseer.txt,100,10.149
+coPapersCiteseer.txt,1000,10.835
+coPapersCiteseer.txt,1000,10.802
+coPapersCiteseer.txt,1000,10.678
+coPapersCiteseer.txt,1000,11.045
+coPapersCiteseer.txt,1000,11.572
+coPapersCiteseer.txt,10000,11.318
+coPapersCiteseer.txt,10000,13.6
+coPapersCiteseer.txt,10000,11.232
+coPapersCiteseer.txt,10000,11.647
+coPapersCiteseer.txt,10000,13.206
+coPapersCiteseer.txt,100000,16.322
+coPapersCiteseer.txt,100000,13.723
+coPapersCiteseer.txt,100000,14.8
+coPapersCiteseer.txt,100000,14.38
+coPapersCiteseer.txt,100000,13.675

@@ -1,0 +1,338 @@
+filename: germany_osm.egr
+Number of deleted tree edges: 86267
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 35.6699 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.61 ms
+Time of PR-RST module : 4.69 ms
+Time of Super graph Creation : 4.16 ms
+Time of Pointer Jumping : 2.46 ms
+Time of Path Reversal : 0.36 ms
+Time of update data structure : 0.34 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86232
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 33.4506 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.36 ms
+Time of PR-RST module : 4.72 ms
+Time of Super graph Creation : 4.17 ms
+Time of Pointer Jumping : 2.46 ms
+Time of Path Reversal : 0.36 ms
+Time of update data structure : 0.35 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86102
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 36.6131 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.84 ms
+Time of PR-RST module : 5.37 ms
+Time of Super graph Creation : 4.18 ms
+Time of Pointer Jumping : 2.45 ms
+Time of Path Reversal : 0.36 ms
+Time of update data structure : 0.36 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86006
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 34.2813 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.34 ms
+Time of PR-RST module : 5.58 ms
+Time of Super graph Creation : 4.15 ms
+Time of Pointer Jumping : 2.46 ms
+Time of Path Reversal : 0.36 ms
+Time of update data structure : 0.35 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86364
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Total execution time of all functions: 34.8771 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.76 ms
+Time of PR-RST module : 5.54 ms
+Time of Super graph Creation : 4.33 ms
+Time of Pointer Jumping : 2.44 ms
+Time of Path Reversal : 0.38 ms
+Time of update data structure : 0.35 ms
+Time of Update rep array : 0.04 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8580
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 31.7062 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.46 ms
+Time of Super graph Creation : 4.16 ms
+Time of PR-RST module : 3.16 ms
+Time of Pointer Jumping : 2.31 ms
+Time of update data structure : 0.32 ms
+Time of Path Reversal : 0.27 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8624
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 36.9469 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.35 ms
+Time of Pointer Jumping : 7.27 ms
+Time of Super graph Creation : 4.29 ms
+Time of PR-RST module : 3.37 ms
+Time of update data structure : 0.33 ms
+Time of Path Reversal : 0.28 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8601
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 31.6986 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.48 ms
+Time of Super graph Creation : 4.14 ms
+Time of PR-RST module : 3.16 ms
+Time of Pointer Jumping : 2.31 ms
+Time of update data structure : 0.31 ms
+Time of Path Reversal : 0.27 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8616
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 34.2718 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.86 ms
+Time of Super graph Creation : 4.18 ms
+Time of PR-RST module : 3.23 ms
+Time of Pointer Jumping : 2.31 ms
+Time of update data structure : 0.37 ms
+Time of Path Reversal : 0.28 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 8695
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Total execution time of all functions: 33.0806 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.61 ms
+Time of Super graph Creation : 4.09 ms
+Time of PR-RST module : 3.17 ms
+Time of Pointer Jumping : 2.31 ms
+Time of update data structure : 1.59 ms
+Time of Path Reversal : 0.27 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 95
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 29.1121 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.25 ms
+Time of Super graph Creation : 4.03 ms
+Time of Pointer Jumping : 2.24 ms
+Time of PR-RST module : 1.10 ms
+Time of update data structure : 0.29 ms
+Time of Path Reversal : 0.17 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 91
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 30.307 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.51 ms
+Time of Super graph Creation : 4.03 ms
+Time of Pointer Jumping : 2.19 ms
+Time of PR-RST module : 1.09 ms
+Time of update data structure : 0.29 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 84
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 28.7935 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.32 ms
+Time of Super graph Creation : 4.02 ms
+Time of Pointer Jumping : 2.19 ms
+Time of PR-RST module : 0.78 ms
+Time of update data structure : 0.29 ms
+Time of Path Reversal : 0.17 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 91
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 31.6031 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.24 ms
+Time of Super graph Creation : 6.85 ms
+Time of Pointer Jumping : 2.19 ms
+Time of PR-RST module : 0.80 ms
+Time of update data structure : 0.32 ms
+Time of Path Reversal : 0.17 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 86
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Total execution time of all functions: 28.9517 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.49 ms
+Time of Super graph Creation : 4.01 ms
+Time of Pointer Jumping : 2.19 ms
+Time of PR-RST module : 0.79 ms
+Time of update data structure : 0.29 ms
+Time of Path Reversal : 0.17 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 877
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 31.7106 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.94 ms
+Time of Super graph Creation : 4.06 ms
+Time of Pointer Jumping : 2.26 ms
+Time of PR-RST module : 1.88 ms
+Time of update data structure : 0.30 ms
+Time of Path Reversal : 0.23 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 850
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 31.4596 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.63 ms
+Time of Super graph Creation : 4.10 ms
+Time of Pointer Jumping : 2.26 ms
+Time of PR-RST module : 1.89 ms
+Time of update data structure : 0.31 ms
+Time of Path Reversal : 0.24 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 856
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 30.8175 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.65 ms
+Time of Super graph Creation : 4.03 ms
+Time of PR-RST module : 2.28 ms
+Time of Pointer Jumping : 2.26 ms
+Time of update data structure : 0.33 ms
+Time of Path Reversal : 0.24 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 861
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 30.0214 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.24 ms
+Time of Super graph Creation : 4.04 ms
+Time of Pointer Jumping : 2.27 ms
+Time of PR-RST module : 1.90 ms
+Time of update data structure : 0.30 ms
+Time of Path Reversal : 0.24 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: germany_osm.egr
+Number of deleted tree edges: 853
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Total execution time of all functions: 31.8805 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.10 ms
+Time of Super graph Creation : 4.03 ms
+Time of Pointer Jumping : 2.27 ms
+Time of PR-RST module : 1.91 ms
+Time of update data structure : 0.30 ms
+Time of Path Reversal : 0.24 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms

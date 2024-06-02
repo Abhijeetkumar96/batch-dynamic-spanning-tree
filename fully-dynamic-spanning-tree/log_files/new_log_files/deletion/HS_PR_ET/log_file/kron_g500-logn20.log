@@ -1,0 +1,575 @@
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 15.556000 ms 
+Time of (18)PR Loop : 3.52800 ms 
+Time of (1)Get key rem collections : 2.57900 ms 
+Time of (6)Edge Deletion : 2.43600 ms 
+Time of (4)Multi component Euler tour internal  : 2.05700 ms 
+Time of (9)Get key rem collections : 1.78500 ms 
+Time of (15)Transedges prefix : 1.69000 ms 
+Time of (8)Generate new edges : 1.37800 ms 
+Time of (2)Convert to collection : 0.93500 ms 
+Time of (10)Convert to collection : 0.93300 ms 
+Time of (11)Shortcut rep : 0.89300 ms 
+Time of (5)Retrieving back first and last times  : 0.82200 ms 
+Time of (7)Remove edges : 0.71900 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.59500 ms 
+Time of (0)Extracting Roots : 0.59400 ms 
+Time of (19)Component Parent, Reversals : 0.35700 ms 
+Time of (3)Processing for multi component Euler tour : 0.11400 ms 
+Time of (13)Compress Graph : 0.07300 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 37.07200 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 11.869000 ms 
+Time of (18)PR Loop : 2.90100 ms 
+Time of (6)Edge Deletion : 2.58900 ms 
+Time of (1)Get key rem collections : 2.58800 ms 
+Time of (4)Multi component Euler tour internal  : 2.04000 ms 
+Time of (9)Get key rem collections : 1.86300 ms 
+Time of (15)Transedges prefix : 1.70500 ms 
+Time of (8)Generate new edges : 1.37700 ms 
+Time of (10)Convert to collection : 0.93700 ms 
+Time of (2)Convert to collection : 0.93000 ms 
+Time of (5)Retrieving back first and last times  : 0.86900 ms 
+Time of (11)Shortcut rep : 0.73900 ms 
+Time of (7)Remove edges : 0.72600 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.68500 ms 
+Time of (0)Extracting Roots : 0.54900 ms 
+Time of (19)Component Parent, Reversals : 0.34900 ms 
+Time of (3)Processing for multi component Euler tour : 0.10900 ms 
+Time of (13)Compress Graph : 0.06600 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 32.91800 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 15.699000 ms 
+Time of (18)PR Loop : 2.95600 ms 
+Time of (6)Edge Deletion : 2.62900 ms 
+Time of (1)Get key rem collections : 2.59200 ms 
+Time of (4)Multi component Euler tour internal  : 2.03800 ms 
+Time of (15)Transedges prefix : 1.84600 ms 
+Time of (9)Get key rem collections : 1.77300 ms 
+Time of (8)Generate new edges : 1.37800 ms 
+Time of (5)Retrieving back first and last times  : 0.96100 ms 
+Time of (10)Convert to collection : 0.93500 ms 
+Time of (2)Convert to collection : 0.93000 ms 
+Time of (7)Remove edges : 0.78000 ms 
+Time of (11)Shortcut rep : 0.76900 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.60500 ms 
+Time of (0)Extracting Roots : 0.53300 ms 
+Time of (19)Component Parent, Reversals : 0.35300 ms 
+Time of (3)Processing for multi component Euler tour : 0.10800 ms 
+Time of (13)Compress Graph : 0.06500 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 36.97600 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 17.220000 ms 
+Time of (18)PR Loop : 3.51000 ms 
+Time of (1)Get key rem collections : 2.64400 ms 
+Time of (6)Edge Deletion : 2.61400 ms 
+Time of (4)Multi component Euler tour internal  : 2.06500 ms 
+Time of (9)Get key rem collections : 1.77300 ms 
+Time of (15)Transedges prefix : 1.66600 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.64000 ms 
+Time of (8)Generate new edges : 1.37900 ms 
+Time of (10)Convert to collection : 0.94000 ms 
+Time of (5)Retrieving back first and last times  : 0.93600 ms 
+Time of (2)Convert to collection : 0.93400 ms 
+Time of (11)Shortcut rep : 0.76700 ms 
+Time of (7)Remove edges : 0.76000 ms 
+Time of (0)Extracting Roots : 0.61200 ms 
+Time of (19)Component Parent, Reversals : 0.36500 ms 
+Time of (3)Processing for multi component Euler tour : 0.11300 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (17)PR init : 0.01800 ms 
+Time of (14)Get compressed list : 0.00900 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time (total): 40.04100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 12.525000 ms 
+Time of (18)PR Loop : 3.54400 ms 
+Time of (1)Get key rem collections : 2.64600 ms 
+Time of (6)Edge Deletion : 2.54300 ms 
+Time of (4)Multi component Euler tour internal  : 2.08200 ms 
+Time of (9)Get key rem collections : 1.81100 ms 
+Time of (15)Transedges prefix : 1.71800 ms 
+Time of (8)Generate new edges : 1.38100 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.12300 ms 
+Time of (10)Convert to collection : 1.02600 ms 
+Time of (2)Convert to collection : 0.94300 ms 
+Time of (5)Retrieving back first and last times  : 0.81000 ms 
+Time of (11)Shortcut rep : 0.77200 ms 
+Time of (7)Remove edges : 0.74400 ms 
+Time of (0)Extracting Roots : 0.61800 ms 
+Time of (19)Component Parent, Reversals : 0.25500 ms 
+Time of (3)Processing for multi component Euler tour : 0.11300 ms 
+Time of (13)Compress Graph : 0.07300 ms 
+Time of (17)PR init : 0.02100 ms 
+Time of (14)Get compressed list : 0.00900 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time (total): 34.76500 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 10.579000 ms 
+Time of (1)Get key rem collections : 2.71600 ms 
+Time of (6)Edge Deletion : 2.23900 ms 
+Time of (4)Multi component Euler tour internal  : 2.06800 ms 
+Time of (9)Get key rem collections : 1.75100 ms 
+Time of (15)Transedges prefix : 1.70300 ms 
+Time of (8)Generate new edges : 1.38300 ms 
+Time of (10)Convert to collection : 0.94300 ms 
+Time of (2)Convert to collection : 0.93900 ms 
+Time of (5)Retrieving back first and last times  : 0.91500 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.82200 ms 
+Time of (11)Shortcut rep : 0.76700 ms 
+Time of (7)Remove edges : 0.71400 ms 
+Time of (0)Extracting Roots : 0.60900 ms 
+Time of (18)PR Loop : 0.60500 ms 
+Time of (19)Component Parent, Reversals : 0.27200 ms 
+Time of (3)Processing for multi component Euler tour : 0.11300 ms 
+Time of (13)Compress Graph : 0.06900 ms 
+Time of (17)PR init : 0.01700 ms 
+Time of (16)Get edges : 0.01000 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time (total): 29.24200 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 6.996000 ms 
+Time of (1)Get key rem collections : 2.74300 ms 
+Time of (6)Edge Deletion : 2.41400 ms 
+Time of (4)Multi component Euler tour internal  : 2.06200 ms 
+Time of (9)Get key rem collections : 1.82700 ms 
+Time of (15)Transedges prefix : 1.82200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.48900 ms 
+Time of (8)Generate new edges : 1.38200 ms 
+Time of (18)PR Loop : 0.99800 ms 
+Time of (10)Convert to collection : 0.93800 ms 
+Time of (2)Convert to collection : 0.93800 ms 
+Time of (5)Retrieving back first and last times  : 0.82600 ms 
+Time of (11)Shortcut rep : 0.76700 ms 
+Time of (7)Remove edges : 0.69500 ms 
+Time of (0)Extracting Roots : 0.60700 ms 
+Time of (19)Component Parent, Reversals : 0.35900 ms 
+Time of (3)Processing for multi component Euler tour : 0.11500 ms 
+Time of (13)Compress Graph : 0.07200 ms 
+Time of (17)PR init : 0.01800 ms 
+Time of (14)Get compressed list : 0.01000 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time (total): 27.08600 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 7.001000 ms 
+Time of (1)Get key rem collections : 2.67200 ms 
+Time of (6)Edge Deletion : 2.32200 ms 
+Time of (4)Multi component Euler tour internal  : 2.11500 ms 
+Time of (15)Transedges prefix : 1.86000 ms 
+Time of (9)Get key rem collections : 1.75900 ms 
+Time of (8)Generate new edges : 1.38200 ms 
+Time of (2)Convert to collection : 0.94100 ms 
+Time of (10)Convert to collection : 0.94000 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.93900 ms 
+Time of (5)Retrieving back first and last times  : 0.92000 ms 
+Time of (11)Shortcut rep : 0.76300 ms 
+Time of (7)Remove edges : 0.70400 ms 
+Time of (0)Extracting Roots : 0.60900 ms 
+Time of (18)PR Loop : 0.60100 ms 
+Time of (19)Component Parent, Reversals : 0.25300 ms 
+Time of (3)Processing for multi component Euler tour : 0.11200 ms 
+Time of (13)Compress Graph : 0.07100 ms 
+Time of (17)PR init : 0.01900 ms 
+Time of (14)Get compressed list : 0.01000 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time (total): 26.00100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 10.599000 ms 
+Time of (1)Get key rem collections : 2.74800 ms 
+Time of (6)Edge Deletion : 2.42000 ms 
+Time of (4)Multi component Euler tour internal  : 2.06600 ms 
+Time of (9)Get key rem collections : 1.77500 ms 
+Time of (15)Transedges prefix : 1.70400 ms 
+Time of (8)Generate new edges : 1.38300 ms 
+Time of (10)Convert to collection : 0.94200 ms 
+Time of (2)Convert to collection : 0.93400 ms 
+Time of (5)Retrieving back first and last times  : 0.82600 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.79800 ms 
+Time of (11)Shortcut rep : 0.72900 ms 
+Time of (7)Remove edges : 0.71300 ms 
+Time of (18)PR Loop : 0.60400 ms 
+Time of (0)Extracting Roots : 0.60400 ms 
+Time of (19)Component Parent, Reversals : 0.36200 ms 
+Time of (3)Processing for multi component Euler tour : 0.11100 ms 
+Time of (13)Compress Graph : 0.08600 ms 
+Time of (17)PR init : 0.01900 ms 
+Time of (16)Get edges : 0.01000 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time (total): 29.44100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 7.049000 ms 
+Time of (1)Get key rem collections : 2.72200 ms 
+Time of (6)Edge Deletion : 2.33400 ms 
+Time of (4)Multi component Euler tour internal  : 1.97400 ms 
+Time of (9)Get key rem collections : 1.80800 ms 
+Time of (15)Transedges prefix : 1.68400 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.49500 ms 
+Time of (8)Generate new edges : 1.38300 ms 
+Time of (18)PR Loop : 1.00100 ms 
+Time of (5)Retrieving back first and last times  : 0.96200 ms 
+Time of (10)Convert to collection : 0.94300 ms 
+Time of (2)Convert to collection : 0.93300 ms 
+Time of (11)Shortcut rep : 0.76800 ms 
+Time of (7)Remove edges : 0.74900 ms 
+Time of (0)Extracting Roots : 0.60600 ms 
+Time of (19)Component Parent, Reversals : 0.35500 ms 
+Time of (3)Processing for multi component Euler tour : 0.11200 ms 
+Time of (13)Compress Graph : 0.07300 ms 
+Time of (17)PR init : 0.01700 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time (total): 26.98300 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100
+Time of (12)Hooking Shortcutting : 3.505000 ms 
+Time of (1)Get key rem collections : 2.59600 ms 
+Time of (6)Edge Deletion : 2.40900 ms 
+Time of (4)Multi component Euler tour internal  : 2.09400 ms 
+Time of (9)Get key rem collections : 1.91100 ms 
+Time of (15)Transedges prefix : 1.68200 ms 
+Time of (8)Generate new edges : 1.38100 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.09300 ms 
+Time of (2)Convert to collection : 0.94400 ms 
+Time of (10)Convert to collection : 0.93400 ms 
+Time of (5)Retrieving back first and last times  : 0.82100 ms 
+Time of (11)Shortcut rep : 0.76000 ms 
+Time of (7)Remove edges : 0.74000 ms 
+Time of (0)Extracting Roots : 0.61500 ms 
+Time of (19)Component Parent, Reversals : 0.37100 ms 
+Time of (18)PR Loop : 0.30200 ms 
+Time of (3)Processing for multi component Euler tour : 0.11300 ms 
+Time of (13)Compress Graph : 0.07000 ms 
+Time of (17)PR init : 0.01800 ms 
+Time of (16)Get edges : 0.00900 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time (total): 22.37600 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100
+Time of (12)Hooking Shortcutting : 3.484000 ms 
+Time of (1)Get key rem collections : 2.75100 ms 
+Time of (6)Edge Deletion : 2.31100 ms 
+Time of (4)Multi component Euler tour internal  : 2.04700 ms 
+Time of (9)Get key rem collections : 1.76900 ms 
+Time of (15)Transedges prefix : 1.68900 ms 
+Time of (8)Generate new edges : 1.37900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.21000 ms 
+Time of (10)Convert to collection : 0.94200 ms 
+Time of (2)Convert to collection : 0.93000 ms 
+Time of (5)Retrieving back first and last times  : 0.92800 ms 
+Time of (11)Shortcut rep : 0.76700 ms 
+Time of (7)Remove edges : 0.72800 ms 
+Time of (0)Extracting Roots : 0.55100 ms 
+Time of (19)Component Parent, Reversals : 0.34700 ms 
+Time of (18)PR Loop : 0.27900 ms 
+Time of (3)Processing for multi component Euler tour : 0.10900 ms 
+Time of (13)Compress Graph : 0.06600 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 22.31300 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100
+Time of (12)Hooking Shortcutting : 5.233000 ms 
+Time of (1)Get key rem collections : 2.57500 ms 
+Time of (6)Edge Deletion : 2.22600 ms 
+Time of (4)Multi component Euler tour internal  : 2.04800 ms 
+Time of (9)Get key rem collections : 1.87400 ms 
+Time of (15)Transedges prefix : 1.69400 ms 
+Time of (8)Generate new edges : 1.40900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.26200 ms 
+Time of (10)Convert to collection : 0.94000 ms 
+Time of (2)Convert to collection : 0.93200 ms 
+Time of (5)Retrieving back first and last times  : 0.81400 ms 
+Time of (11)Shortcut rep : 0.75500 ms 
+Time of (7)Remove edges : 0.72600 ms 
+Time of (0)Extracting Roots : 0.54100 ms 
+Time of (18)PR Loop : 0.33000 ms 
+Time of (19)Component Parent, Reversals : 0.24200 ms 
+Time of (3)Processing for multi component Euler tour : 0.10800 ms 
+Time of (13)Compress Graph : 0.06700 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 23.80100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100
+Time of (12)Hooking Shortcutting : 5.241000 ms 
+Time of (1)Get key rem collections : 2.56400 ms 
+Time of (6)Edge Deletion : 2.25100 ms 
+Time of (4)Multi component Euler tour internal  : 2.05200 ms 
+Time of (9)Get key rem collections : 1.82400 ms 
+Time of (15)Transedges prefix : 1.70900 ms 
+Time of (8)Generate new edges : 1.37600 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.28200 ms 
+Time of (10)Convert to collection : 0.94300 ms 
+Time of (2)Convert to collection : 0.93000 ms 
+Time of (5)Retrieving back first and last times  : 0.92700 ms 
+Time of (7)Remove edges : 0.77000 ms 
+Time of (11)Shortcut rep : 0.75700 ms 
+Time of (0)Extracting Roots : 0.57300 ms 
+Time of (18)PR Loop : 0.32600 ms 
+Time of (19)Component Parent, Reversals : 0.23800 ms 
+Time of (3)Processing for multi component Euler tour : 0.10900 ms 
+Time of (13)Compress Graph : 0.06700 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 23.96400 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 100
+Time of (15)Reverse Edges and Connect Parent : 3.989000 ms 
+Time of (1)Get key rem collections : 2.64500 ms 
+Time of (6)Edge Deletion : 2.15300 ms 
+Time of (4)Multi component Euler tour internal  : 1.96200 ms 
+Time of (9)Get key rem collections : 1.86100 ms 
+Time of (12)Hooking Shortcutting : 1.73500 ms 
+Time of (8)Generate new edges : 1.38100 ms 
+Time of (10)Convert to collection : 0.94000 ms 
+Time of (2)Convert to collection : 0.93900 ms 
+Time of (5)Retrieving back first and last times  : 0.80400 ms 
+Time of (11)Shortcut rep : 0.76300 ms 
+Time of (7)Remove edges : 0.74900 ms 
+Time of (0)Extracting Roots : 0.59900 ms 
+Time of (3)Processing for multi component Euler tour : 0.11100 ms 
+Time of (13)Compress Graph : 0.06600 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time (total): 20.70500 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 6.967000 ms 
+Time of (1)Get key rem collections : 2.67900 ms 
+Time of (6)Edge Deletion : 2.13500 ms 
+Time of (4)Multi component Euler tour internal  : 2.05500 ms 
+Time of (9)Get key rem collections : 1.87400 ms 
+Time of (15)Transedges prefix : 1.74900 ms 
+Time of (8)Generate new edges : 1.37900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.27800 ms 
+Time of (10)Convert to collection : 0.93700 ms 
+Time of (2)Convert to collection : 0.93100 ms 
+Time of (5)Retrieving back first and last times  : 0.81200 ms 
+Time of (11)Shortcut rep : 0.75400 ms 
+Time of (7)Remove edges : 0.74300 ms 
+Time of (0)Extracting Roots : 0.54300 ms 
+Time of (18)PR Loop : 0.31800 ms 
+Time of (19)Component Parent, Reversals : 0.24100 ms 
+Time of (3)Processing for multi component Euler tour : 0.11000 ms 
+Time of (13)Compress Graph : 0.06600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 25.59500 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 6.975000 ms 
+Time of (1)Get key rem collections : 2.57500 ms 
+Time of (6)Edge Deletion : 2.31900 ms 
+Time of (4)Multi component Euler tour internal  : 2.04900 ms 
+Time of (9)Get key rem collections : 1.77800 ms 
+Time of (15)Transedges prefix : 1.72300 ms 
+Time of (8)Generate new edges : 1.38300 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.18200 ms 
+Time of (10)Convert to collection : 0.94000 ms 
+Time of (2)Convert to collection : 0.93300 ms 
+Time of (5)Retrieving back first and last times  : 0.85400 ms 
+Time of (11)Shortcut rep : 0.75500 ms 
+Time of (7)Remove edges : 0.72900 ms 
+Time of (0)Extracting Roots : 0.53800 ms 
+Time of (18)PR Loop : 0.41500 ms 
+Time of (19)Component Parent, Reversals : 0.23900 ms 
+Time of (3)Processing for multi component Euler tour : 0.10700 ms 
+Time of (13)Compress Graph : 0.06700 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 25.58500 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 6.939000 ms 
+Time of (1)Get key rem collections : 2.58500 ms 
+Time of (6)Edge Deletion : 2.18900 ms 
+Time of (4)Multi component Euler tour internal  : 2.04400 ms 
+Time of (9)Get key rem collections : 1.84700 ms 
+Time of (15)Transedges prefix : 1.68900 ms 
+Time of (8)Generate new edges : 1.37800 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.16100 ms 
+Time of (10)Convert to collection : 0.94200 ms 
+Time of (2)Convert to collection : 0.93100 ms 
+Time of (5)Retrieving back first and last times  : 0.91600 ms 
+Time of (11)Shortcut rep : 0.76000 ms 
+Time of (7)Remove edges : 0.71100 ms 
+Time of (0)Extracting Roots : 0.57200 ms 
+Time of (18)PR Loop : 0.42300 ms 
+Time of (19)Component Parent, Reversals : 0.24100 ms 
+Time of (3)Processing for multi component Euler tour : 0.10900 ms 
+Time of (13)Compress Graph : 0.06700 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 25.52800 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 6.982000 ms 
+Time of (1)Get key rem collections : 2.58700 ms 
+Time of (6)Edge Deletion : 2.34300 ms 
+Time of (4)Multi component Euler tour internal  : 2.04300 ms 
+Time of (9)Get key rem collections : 1.88300 ms 
+Time of (15)Transedges prefix : 1.77400 ms 
+Time of (8)Generate new edges : 1.38200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.17100 ms 
+Time of (10)Convert to collection : 0.94100 ms 
+Time of (2)Convert to collection : 0.93100 ms 
+Time of (5)Retrieving back first and last times  : 0.81400 ms 
+Time of (11)Shortcut rep : 0.76500 ms 
+Time of (7)Remove edges : 0.72000 ms 
+Time of (0)Extracting Roots : 0.54100 ms 
+Time of (18)PR Loop : 0.41300 ms 
+Time of (19)Component Parent, Reversals : 0.24400 ms 
+Time of (3)Processing for multi component Euler tour : 0.10800 ms 
+Time of (13)Compress Graph : 0.06600 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 25.73400 ms 
+--------------------------------------------------------
+filename: kron_g500-logn20.txt
+Nodes : 1048576
+Edges : 44872781
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 6.951000 ms 
+Time of (1)Get key rem collections : 2.59000 ms 
+Time of (6)Edge Deletion : 2.33800 ms 
+Time of (4)Multi component Euler tour internal  : 2.13600 ms 
+Time of (9)Get key rem collections : 1.79200 ms 
+Time of (15)Transedges prefix : 1.72800 ms 
+Time of (8)Generate new edges : 1.37900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.06200 ms 
+Time of (2)Convert to collection : 0.93900 ms 
+Time of (10)Convert to collection : 0.93700 ms 
+Time of (5)Retrieving back first and last times  : 0.92500 ms 
+Time of (7)Remove edges : 0.82600 ms 
+Time of (11)Shortcut rep : 0.73000 ms 
+Time of (0)Extracting Roots : 0.60700 ms 
+Time of (18)PR Loop : 0.44500 ms 
+Time of (19)Component Parent, Reversals : 0.25300 ms 
+Time of (3)Processing for multi component Euler tour : 0.11100 ms 
+Time of (13)Compress Graph : 0.07400 ms 
+Time of (17)PR init : 0.01800 ms 
+Time of (14)Get compressed list : 0.00900 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time (total): 25.85800 ms 
+--------------------------------------------------------

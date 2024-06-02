@@ -1,0 +1,259 @@
+filename: uk-2002.egr
+Delete batch Size: 100000
+Depth of graph: 38359
+Total execution time of all functions: 8208.94 ms.
+
+Function execution times:
+Time of Adam_BFS : 4100.66 ms
+Time of simple BFS : 3462.00 ms
+Time of PR-RST module : 570.72 ms
+Time of CC : 66.16 ms
+Time of update datastr : 9.40 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100000
+Depth of graph: 38359
+Total execution time of all functions: 8237.96 ms.
+
+Function execution times:
+Time of Adam_BFS : 4089.02 ms
+Time of simple BFS : 3494.30 ms
+Time of PR-RST module : 568.77 ms
+Time of CC : 78.81 ms
+Time of update datastr : 7.06 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100000
+Depth of graph: 38359
+Total execution time of all functions: 8319.82 ms.
+
+Function execution times:
+Time of Adam_BFS : 4138.39 ms
+Time of simple BFS : 3489.52 ms
+Time of PR-RST module : 619.01 ms
+Time of CC : 65.79 ms
+Time of update datastr : 7.10 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100000
+Depth of graph: 38359
+Total execution time of all functions: 8585.2 ms.
+
+Function execution times:
+Time of Adam_BFS : 4389.12 ms
+Time of simple BFS : 3501.91 ms
+Time of PR-RST module : 616.86 ms
+Time of CC : 70.20 ms
+Time of update datastr : 7.11 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100000
+Depth of graph: 38359
+Total execution time of all functions: 8641.26 ms.
+
+Function execution times:
+Time of Adam_BFS : 4394.04 ms
+Time of simple BFS : 3491.22 ms
+Time of PR-RST module : 669.88 ms
+Time of CC : 79.06 ms
+Time of update datastr : 7.05 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 10000
+Depth of graph: 38359
+Total execution time of all functions: 8236.91 ms.
+
+Function execution times:
+Time of Adam_BFS : 4089.17 ms
+Time of simple BFS : 3492.69 ms
+Time of PR-RST module : 567.87 ms
+Time of CC : 80.10 ms
+Time of update datastr : 7.09 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 10000
+Depth of graph: 38359
+Total execution time of all functions: 8446.62 ms.
+
+Function execution times:
+Time of Adam_BFS : 4170.25 ms
+Time of simple BFS : 3532.46 ms
+Time of PR-RST module : 670.62 ms
+Time of CC : 66.21 ms
+Time of update datastr : 7.08 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 10000
+Depth of graph: 38359
+Total execution time of all functions: 8305.97 ms.
+
+Function execution times:
+Time of Adam_BFS : 4164.13 ms
+Time of simple BFS : 3493.15 ms
+Time of PR-RST module : 567.94 ms
+Time of CC : 73.73 ms
+Time of update datastr : 7.03 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 10000
+Depth of graph: 38359
+Total execution time of all functions: 8450.67 ms.
+
+Function execution times:
+Time of Adam_BFS : 4214.41 ms
+Time of simple BFS : 3487.99 ms
+Time of PR-RST module : 669.52 ms
+Time of CC : 70.67 ms
+Time of update datastr : 8.09 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 10000
+Depth of graph: 38359
+Total execution time of all functions: 8223.69 ms.
+
+Function execution times:
+Time of Adam_BFS : 4101.48 ms
+Time of simple BFS : 3465.28 ms
+Time of PR-RST module : 568.00 ms
+Time of CC : 80.79 ms
+Time of update datastr : 8.15 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100
+Depth of graph: 38359
+Total execution time of all functions: 8312.96 ms.
+
+Function execution times:
+Time of Adam_BFS : 4145.19 ms
+Time of simple BFS : 3508.53 ms
+Time of PR-RST module : 572.51 ms
+Time of CC : 79.65 ms
+Time of update datastr : 7.07 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100
+Depth of graph: 38359
+Total execution time of all functions: 8454.3 ms.
+
+Function execution times:
+Time of Adam_BFS : 4323.32 ms
+Time of simple BFS : 3481.05 ms
+Time of PR-RST module : 572.62 ms
+Time of CC : 69.22 ms
+Time of update datastr : 8.09 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100
+Depth of graph: 38359
+Total execution time of all functions: 8240.49 ms.
+
+Function execution times:
+Time of Adam_BFS : 4194.33 ms
+Time of simple BFS : 3502.47 ms
+Time of PR-RST module : 472.93 ms
+Time of CC : 62.64 ms
+Time of update datastr : 8.11 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100
+Depth of graph: 38359
+Total execution time of all functions: 8395.57 ms.
+
+Function execution times:
+Time of Adam_BFS : 4156.80 ms
+Time of simple BFS : 3478.97 ms
+Time of PR-RST module : 679.04 ms
+Time of CC : 71.04 ms
+Time of update datastr : 9.71 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 100
+Depth of graph: 38359
+Total execution time of all functions: 8329.58 ms.
+
+Function execution times:
+Time of Adam_BFS : 4138.01 ms
+Time of simple BFS : 3518.43 ms
+Time of PR-RST module : 582.35 ms
+Time of CC : 80.24 ms
+Time of update datastr : 10.55 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 1000
+Depth of graph: 38359
+Total execution time of all functions: 8418.73 ms.
+
+Function execution times:
+Time of Adam_BFS : 4252.95 ms
+Time of simple BFS : 3498.16 ms
+Time of PR-RST module : 571.89 ms
+Time of CC : 88.71 ms
+Time of update datastr : 7.01 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 1000
+Depth of graph: 38359
+Total execution time of all functions: 8368.94 ms.
+
+Function execution times:
+Time of Adam_BFS : 4262.66 ms
+Time of simple BFS : 3463.03 ms
+Time of PR-RST module : 569.48 ms
+Time of CC : 66.77 ms
+Time of update datastr : 7.00 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 1000
+Depth of graph: 38359
+Total execution time of all functions: 8359.94 ms.
+
+Function execution times:
+Time of Adam_BFS : 4242.50 ms
+Time of simple BFS : 3510.84 ms
+Time of PR-RST module : 519.41 ms
+Time of CC : 80.17 ms
+Time of update datastr : 7.02 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 1000
+Depth of graph: 38359
+Total execution time of all functions: 8351.43 ms.
+
+Function execution times:
+Time of Adam_BFS : 4199.76 ms
+Time of simple BFS : 3466.12 ms
+Time of PR-RST module : 616.46 ms
+Time of CC : 62.10 ms
+Time of update datastr : 7.00 ms
+----------------------------------------------------------------
+
+filename: uk-2002.egr
+Delete batch Size: 1000
+Depth of graph: 38359
+Total execution time of all functions: 8416.23 ms.
+
+Function execution times:
+Time of Adam_BFS : 4274.47 ms
+Time of simple BFS : 3483.64 ms
+Time of PR-RST module : 570.16 ms
+Time of CC : 79.80 ms
+Time of update datastr : 8.16 ms
+----------------------------------------------------------------

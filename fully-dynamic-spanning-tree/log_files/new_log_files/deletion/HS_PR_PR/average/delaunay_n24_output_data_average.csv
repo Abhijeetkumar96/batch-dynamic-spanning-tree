@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+delaunay_n24.txt,100,69.7
+delaunay_n24.txt,1000,74.28
+delaunay_n24.txt,10000,74.67
+delaunay_n24.txt,100000,92.27

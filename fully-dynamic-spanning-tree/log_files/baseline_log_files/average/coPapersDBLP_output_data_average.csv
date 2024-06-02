@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+coPapersDBLP.egr,15,100,16.59,10.89,11.06
+coPapersDBLP.egr,15,1000,16.47,10.53,11.53
+coPapersDBLP.egr,15,10000,16.82,10.87,10.49
+coPapersDBLP.egr,15,100000,16.86,11.14,11.75

@@ -1,0 +1,940 @@
+
+
+filename: kmer_V1r.egr
+Root: 31154874
+The input parent array is a BFS tree.
+Number of deleted tree edges: 77174
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100000
+
+Root: 31154874
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 790.788 ms.
+
+Function execution times:
+Time of PR_Shortcut : 559.32 ms
+Time of Path Reversal : 88.72 ms
+Time of Pointer Jumping : 71.21 ms
+Time of Super graph Creation : 59.95 ms
+Time of Update data structure : 5.68 ms
+Time of PR-RST module : 4.20 ms
+Time of Finding unique comps : 1.66 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+Input tree not connected. num_comp: 51669
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 727.16 ms.
+
+Function execution times:
+Time of PR_Shortcut : 564.95 ms
+Time of Path Reversal : 87.95 ms
+Time of Pointer Jumping : 63.41 ms
+Time of PR-RST module : 7.93 ms
+Time of Super graph Creation : 1.84 ms
+Time of Finding unique comps : 1.05 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 497
+
+
+filename: kmer_V1r.egr
+Root: 204681795
+The input parent array is a BFS tree.
+Number of deleted tree edges: 76092
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100000
+
+Root: 204681795
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 802.782 ms.
+
+Function execution times:
+Time of PR_Shortcut : 558.27 ms
+Time of Pointer Jumping : 88.72 ms
+Time of Path Reversal : 86.00 ms
+Time of Super graph Creation : 55.73 ms
+Time of Update data structure : 5.90 ms
+Time of PR-RST module : 5.86 ms
+Time of Finding unique comps : 2.24 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+Input tree not connected. num_comp: 49346
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 723.69 ms.
+
+Function execution times:
+Time of PR_Shortcut : 564.95 ms
+Time of Path Reversal : 87.99 ms
+Time of Pointer Jumping : 63.18 ms
+Time of PR-RST module : 5.46 ms
+Time of Finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.02 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 487
+
+
+filename: kmer_V1r.egr
+Root: 176526640
+The input parent array is a BFS tree.
+Number of deleted tree edges: 76078
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100000
+
+Root: 176526640
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 792.161 ms.
+
+Function execution times:
+Time of PR_Shortcut : 559.28 ms
+Time of Path Reversal : 86.00 ms
+Time of Pointer Jumping : 78.93 ms
+Time of Super graph Creation : 55.33 ms
+Time of Update data structure : 5.80 ms
+Time of PR-RST module : 4.51 ms
+Time of Finding unique comps : 2.27 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 49663
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 723.82 ms.
+
+Function execution times:
+Time of PR_Shortcut : 565.42 ms
+Time of Path Reversal : 87.96 ms
+Time of Pointer Jumping : 63.28 ms
+Time of PR-RST module : 4.11 ms
+Time of Super graph Creation : 1.97 ms
+Time of Finding unique comps : 1.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 554
+
+
+filename: kmer_V1r.egr
+Root: 180678435
+The input parent array is a BFS tree.
+Number of deleted tree edges: 77011
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100000
+
+Root: 180678435
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 817.434 ms.
+
+Function execution times:
+Time of PR_Shortcut : 558.55 ms
+Time of Path Reversal : 86.01 ms
+Time of Pointer Jumping : 85.52 ms
+Time of Super graph Creation : 75.45 ms
+Time of Update data structure : 5.81 ms
+Time of PR-RST module : 3.79 ms
+Time of Finding unique comps : 2.25 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+Input tree not connected. num_comp: 51373
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 724.32 ms.
+
+Function execution times:
+Time of PR_Shortcut : 564.96 ms
+Time of Path Reversal : 87.99 ms
+Time of Pointer Jumping : 63.11 ms
+Time of PR-RST module : 6.09 ms
+Time of Super graph Creation : 1.09 ms
+Time of Finding unique comps : 1.05 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 552
+
+
+filename: kmer_V1r.egr
+Root: 183059313
+The input parent array is a BFS tree.
+Number of deleted tree edges: 76290
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100000
+
+Root: 183059313
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 817.151 ms.
+
+Function execution times:
+Time of PR_Shortcut : 552.52 ms
+Time of Super graph Creation : 92.19 ms
+Time of Path Reversal : 85.97 ms
+Time of Pointer Jumping : 71.13 ms
+Time of PR-RST module : 7.36 ms
+Time of Update data structure : 5.66 ms
+Time of Finding unique comps : 2.27 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.03 ms
+
+Input tree not connected. num_comp: 49845
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 724.30 ms.
+
+Function execution times:
+Time of PR_Shortcut : 564.95 ms
+Time of Path Reversal : 87.99 ms
+Time of Pointer Jumping : 63.04 ms
+Time of PR-RST module : 6.08 ms
+Time of Super graph Creation : 1.16 ms
+Time of Finding unique comps : 1.05 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 568
+
+
+filename: kmer_V1r.egr
+Root: 24557285
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7702
+numVert: 214005017, num_edges: 465410920 and delete batch size: 10000
+
+Root: 24557285
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 805.555 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.91 ms
+Time of Path Reversal : 86.01 ms
+Time of Pointer Jumping : 77.76 ms
+Time of Super graph Creation : 69.88 ms
+Time of Update data structure : 5.56 ms
+Time of PR-RST module : 2.89 ms
+Time of Finding unique comps : 1.52 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 5117
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 722.83 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.77 ms
+Time of Path Reversal : 88.00 ms
+Time of Pointer Jumping : 58.28 ms
+Time of Super graph Creation : 3.89 ms
+Time of PR-RST module : 2.86 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 6
+
+
+filename: kmer_V1r.egr
+Root: 141770656
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7722
+numVert: 214005017, num_edges: 465410920 and delete batch size: 10000
+
+Root: 141770656
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 785.292 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.44 ms
+Time of Path Reversal : 89.64 ms
+Time of Pointer Jumping : 64.72 ms
+Time of Super graph Creation : 56.99 ms
+Time of Update data structure : 5.56 ms
+Time of PR-RST module : 4.77 ms
+Time of Finding unique comps : 2.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5059
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 727.63 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.51 ms
+Time of Path Reversal : 91.39 ms
+Time of Pointer Jumping : 57.96 ms
+Time of PR-RST module : 5.57 ms
+Time of Super graph Creation : 3.16 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 5
+
+
+filename: kmer_V1r.egr
+Root: 109336688
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7629
+numVert: 214005017, num_edges: 465410920 and delete batch size: 10000
+
+Root: 109336688
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 805.669 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.84 ms
+Time of Path Reversal : 86.02 ms
+Time of Pointer Jumping : 76.93 ms
+Time of Super graph Creation : 69.69 ms
+Time of Update data structure : 5.58 ms
+Time of PR-RST module : 3.43 ms
+Time of Finding unique comps : 2.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 4951
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 715.67 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.09 ms
+Time of Path Reversal : 87.97 ms
+Time of Pointer Jumping : 58.00 ms
+Time of PR-RST module : 4.46 ms
+Time of Super graph Creation : 3.12 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 11
+
+
+filename: kmer_V1r.egr
+Root: 104916002
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7692
+numVert: 214005017, num_edges: 465410920 and delete batch size: 10000
+
+Root: 104916002
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 787.918 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.33 ms
+Time of Path Reversal : 86.02 ms
+Time of Pointer Jumping : 74.36 ms
+Time of Super graph Creation : 54.88 ms
+Time of Update data structure : 5.64 ms
+Time of PR-RST module : 3.51 ms
+Time of Finding unique comps : 2.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5035
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 721.85 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.80 ms
+Time of Path Reversal : 87.98 ms
+Time of Pointer Jumping : 58.19 ms
+Time of PR-RST module : 2.93 ms
+Time of Super graph Creation : 2.92 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 8
+
+
+filename: kmer_V1r.egr
+Root: 99388017
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7652
+numVert: 214005017, num_edges: 465410920 and delete batch size: 10000
+
+Root: 99388017
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 807.451 ms.
+
+Function execution times:
+Time of PR_Shortcut : 560.50 ms
+Time of Path Reversal : 86.01 ms
+Time of Pointer Jumping : 77.28 ms
+Time of Super graph Creation : 71.89 ms
+Time of Update data structure : 5.66 ms
+Time of PR-RST module : 3.94 ms
+Time of Finding unique comps : 2.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 4997
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 717.61 ms.
+
+Function execution times:
+Time of PR_Shortcut : 565.69 ms
+Time of Path Reversal : 87.97 ms
+Time of Pointer Jumping : 58.03 ms
+Time of Super graph Creation : 3.10 ms
+Time of PR-RST module : 1.79 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 14
+
+
+filename: kmer_V1r.egr
+Root: 156398083
+The input parent array is a BFS tree.
+Number of deleted tree edges: 83
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100
+
+Root: 156398083
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 777.002 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.88 ms
+Time of Path Reversal : 85.99 ms
+Time of Pointer Jumping : 67.36 ms
+Time of Super graph Creation : 53.32 ms
+Time of Update data structure : 5.57 ms
+Time of Finding unique comps : 1.43 ms
+Time of PR-RST module : 1.41 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 57
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 716.37 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.86 ms
+Time of Path Reversal : 87.94 ms
+Time of Pointer Jumping : 56.60 ms
+Time of Finding unique comps : 1.02 ms
+Time of PR-RST module : 0.97 ms
+Time of Super graph Creation : 0.97 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 130298818
+The input parent array is a BFS tree.
+Number of deleted tree edges: 81
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100
+
+Root: 130298818
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 778.564 ms.
+
+Function execution times:
+Time of PR_Shortcut : 560.93 ms
+Time of Path Reversal : 89.69 ms
+Time of Pointer Jumping : 65.80 ms
+Time of Super graph Creation : 53.95 ms
+Time of Update data structure : 5.58 ms
+Time of Finding unique comps : 1.44 ms
+Time of PR-RST module : 1.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 52
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 715.89 ms.
+
+Function execution times:
+Time of PR_Shortcut : 569.35 ms
+Time of Path Reversal : 88.00 ms
+Time of Pointer Jumping : 56.26 ms
+Time of Finding unique comps : 1.02 ms
+Time of PR-RST module : 1.00 ms
+Time of Super graph Creation : 0.23 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 9558319
+The input parent array is a BFS tree.
+Number of deleted tree edges: 80
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100
+
+Root: 9558319
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 790.753 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.53 ms
+Time of Path Reversal : 85.97 ms
+Time of Pointer Jumping : 69.31 ms
+Time of Super graph Creation : 66.40 ms
+Time of Update data structure : 5.37 ms
+Time of Finding unique comps : 1.22 ms
+Time of PR-RST module : 0.93 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 58
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 715.03 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.87 ms
+Time of Path Reversal : 87.97 ms
+Time of Pointer Jumping : 56.23 ms
+Time of Finding unique comps : 1.03 ms
+Time of PR-RST module : 0.70 ms
+Time of Super graph Creation : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 62564379
+The input parent array is a BFS tree.
+Number of deleted tree edges: 72
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100
+
+Root: 62564379
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 783.181 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.81 ms
+Time of Path Reversal : 86.06 ms
+Time of Pointer Jumping : 72.67 ms
+Time of Super graph Creation : 55.13 ms
+Time of Update data structure : 5.48 ms
+Time of Finding unique comps : 1.18 ms
+Time of PR-RST module : 0.81 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 43
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 711.06 ms.
+
+Function execution times:
+Time of PR_Shortcut : 564.78 ms
+Time of Path Reversal : 87.97 ms
+Time of Pointer Jumping : 56.17 ms
+Time of Finding unique comps : 0.99 ms
+Time of PR-RST module : 0.73 ms
+Time of Super graph Creation : 0.40 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 67786159
+The input parent array is a BFS tree.
+Number of deleted tree edges: 76
+numVert: 214005017, num_edges: 465410920 and delete batch size: 100
+
+Root: 67786159
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 795.655 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.98 ms
+Time of Path Reversal : 85.99 ms
+Time of Pointer Jumping : 72.51 ms
+Time of Super graph Creation : 66.89 ms
+Time of Update data structure : 5.55 ms
+Time of Finding unique comps : 1.35 ms
+Time of PR-RST module : 1.35 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 49
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 715.18 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.88 ms
+Time of Path Reversal : 87.98 ms
+Time of Pointer Jumping : 55.96 ms
+Time of Finding unique comps : 0.99 ms
+Time of PR-RST module : 0.71 ms
+Time of Super graph Creation : 0.65 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 161220482
+The input parent array is a BFS tree.
+Number of deleted tree edges: 784
+numVert: 214005017, num_edges: 465410920 and delete batch size: 1000
+
+Root: 161220482
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 789.673 ms.
+
+Function execution times:
+Time of PR_Shortcut : 562.07 ms
+Time of Path Reversal : 85.99 ms
+Time of Pointer Jumping : 73.47 ms
+Time of Super graph Creation : 58.18 ms
+Time of Update data structure : 5.62 ms
+Time of PR-RST module : 2.30 ms
+Time of Finding unique comps : 2.01 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 539
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 715.97 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.91 ms
+Time of Path Reversal : 87.98 ms
+Time of Pointer Jumping : 56.50 ms
+Time of PR-RST module : 1.02 ms
+Time of Finding unique comps : 1.01 ms
+Time of Super graph Creation : 0.52 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 3
+
+
+filename: kmer_V1r.egr
+Root: 133749689
+The input parent array is a BFS tree.
+Number of deleted tree edges: 753
+numVert: 214005017, num_edges: 465410920 and delete batch size: 1000
+
+Root: 133749689
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 791.414 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.72 ms
+Time of Path Reversal : 85.99 ms
+Time of Pointer Jumping : 73.66 ms
+Time of Super graph Creation : 59.71 ms
+Time of Update data structure : 5.63 ms
+Time of PR-RST module : 2.67 ms
+Time of Finding unique comps : 2.00 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 488
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 716.96 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.88 ms
+Time of Path Reversal : 87.96 ms
+Time of Pointer Jumping : 56.50 ms
+Time of PR-RST module : 2.04 ms
+Time of Finding unique comps : 1.03 ms
+Time of Super graph Creation : 0.54 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 62101175
+The input parent array is a BFS tree.
+Number of deleted tree edges: 735
+numVert: 214005017, num_edges: 465410920 and delete batch size: 1000
+
+Root: 62101175
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 797.394 ms.
+
+Function execution times:
+Time of PR_Shortcut : 564.39 ms
+Time of Path Reversal : 86.01 ms
+Time of Pointer Jumping : 73.56 ms
+Time of Super graph Creation : 64.89 ms
+Time of Update data structure : 5.64 ms
+Time of PR-RST module : 1.50 ms
+Time of Finding unique comps : 1.37 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+Input tree not connected. num_comp: 466
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 716.78 ms.
+
+Function execution times:
+Time of PR_Shortcut : 568.57 ms
+Time of Path Reversal : 87.97 ms
+Time of Pointer Jumping : 56.49 ms
+Time of PR-RST module : 2.11 ms
+Time of Finding unique comps : 1.02 ms
+Time of Super graph Creation : 0.59 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 24835271
+The input parent array is a BFS tree.
+Number of deleted tree edges: 760
+numVert: 214005017, num_edges: 465410920 and delete batch size: 1000
+
+Root: 24835271
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 788.985 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.91 ms
+Time of Path Reversal : 86.00 ms
+Time of Pointer Jumping : 73.50 ms
+Time of Super graph Creation : 59.06 ms
+Time of Update data structure : 5.66 ms
+Time of PR-RST module : 1.44 ms
+Time of Finding unique comps : 1.39 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+Input tree not connected. num_comp: 513
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 717.03 ms.
+
+Function execution times:
+Time of PR_Shortcut : 569.56 ms
+Time of Path Reversal : 87.96 ms
+Time of Pointer Jumping : 56.46 ms
+Time of PR-RST module : 1.41 ms
+Time of Finding unique comps : 1.02 ms
+Time of Super graph Creation : 0.59 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: kmer_V1r.egr
+Root: 10142699
+The input parent array is a BFS tree.
+Number of deleted tree edges: 760
+numVert: 214005017, num_edges: 465410920 and delete batch size: 1000
+
+Root: 10142699
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 795.133 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.70 ms
+Time of Path Reversal : 86.01 ms
+Time of Pointer Jumping : 75.03 ms
+Time of Super graph Creation : 64.22 ms
+Time of Update data structure : 5.81 ms
+Time of Finding unique comps : 1.26 ms
+Time of PR-RST module : 1.07 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 507
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 708.28 ms.
+
+Function execution times:
+Time of PR_Shortcut : 561.24 ms
+Time of Path Reversal : 88.02 ms
+Time of Pointer Jumping : 56.36 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.95 ms
+Time of Super graph Creation : 0.69 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2

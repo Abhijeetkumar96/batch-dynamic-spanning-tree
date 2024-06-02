@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+hollywood-2009.egr,44508,100,729.62,4889.6,29.96
+hollywood-2009.egr,44508,1000,727.74,4855.21,30.27
+hollywood-2009.egr,44508,10000,726.85,4893.0,29.49
+hollywood-2009.egr,44508,100000,726.64,4824.77,30.37

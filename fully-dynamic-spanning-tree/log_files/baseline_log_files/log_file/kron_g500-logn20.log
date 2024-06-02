@@ -1,0 +1,259 @@
+filename: kron_g500-logn20.egr
+Delete batch Size: 100000
+Depth of graph: 253380
+Total execution time of all functions: 36886.8 ms.
+
+Function execution times:
+Time of Adam_BFS : 33026.29 ms
+Time of simple BFS : 3811.43 ms
+Time of PR-RST module : 32.04 ms
+Time of CC : 12.13 ms
+Time of update datastr : 4.95 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100000
+Depth of graph: 253380
+Total execution time of all functions: 36692.2 ms.
+
+Function execution times:
+Time of Adam_BFS : 32916.56 ms
+Time of simple BFS : 3732.15 ms
+Time of PR-RST module : 31.92 ms
+Time of CC : 6.72 ms
+Time of update datastr : 4.87 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100000
+Depth of graph: 253380
+Total execution time of all functions: 36485.6 ms.
+
+Function execution times:
+Time of Adam_BFS : 32687.45 ms
+Time of simple BFS : 3763.82 ms
+Time of PR-RST module : 22.21 ms
+Time of CC : 7.22 ms
+Time of update datastr : 4.89 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100000
+Depth of graph: 253380
+Total execution time of all functions: 35687.7 ms.
+
+Function execution times:
+Time of Adam_BFS : 31892.21 ms
+Time of simple BFS : 3745.83 ms
+Time of PR-RST module : 31.91 ms
+Time of CC : 12.88 ms
+Time of update datastr : 4.92 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100000
+Depth of graph: 253380
+Total execution time of all functions: 36541.3 ms.
+
+Function execution times:
+Time of Adam_BFS : 32752.24 ms
+Time of simple BFS : 3743.84 ms
+Time of PR-RST module : 29.50 ms
+Time of CC : 10.85 ms
+Time of update datastr : 4.91 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 10000
+Depth of graph: 253380
+Total execution time of all functions: 36504.2 ms.
+
+Function execution times:
+Time of Adam_BFS : 32727.46 ms
+Time of simple BFS : 3737.18 ms
+Time of PR-RST module : 23.02 ms
+Time of CC : 11.71 ms
+Time of update datastr : 4.87 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 10000
+Depth of graph: 253380
+Total execution time of all functions: 36413.4 ms.
+
+Function execution times:
+Time of Adam_BFS : 32611.06 ms
+Time of simple BFS : 3744.61 ms
+Time of PR-RST module : 39.51 ms
+Time of update datastr : 9.36 ms
+Time of CC : 8.83 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 10000
+Depth of graph: 253380
+Total execution time of all functions: 36791.5 ms.
+
+Function execution times:
+Time of Adam_BFS : 32982.61 ms
+Time of simple BFS : 3765.09 ms
+Time of PR-RST module : 29.59 ms
+Time of CC : 10.42 ms
+Time of update datastr : 3.81 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 10000
+Depth of graph: 253380
+Total execution time of all functions: 37002.1 ms.
+
+Function execution times:
+Time of Adam_BFS : 33195.81 ms
+Time of simple BFS : 3759.55 ms
+Time of PR-RST module : 31.93 ms
+Time of CC : 9.91 ms
+Time of update datastr : 4.86 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 10000
+Depth of graph: 253380
+Total execution time of all functions: 36818.8 ms.
+
+Function execution times:
+Time of Adam_BFS : 33042.43 ms
+Time of simple BFS : 3730.98 ms
+Time of PR-RST module : 28.58 ms
+Time of CC : 11.93 ms
+Time of update datastr : 4.87 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100
+Depth of graph: 253380
+Total execution time of all functions: 36306 ms.
+
+Function execution times:
+Time of Adam_BFS : 32518.87 ms
+Time of simple BFS : 3739.57 ms
+Time of PR-RST module : 31.99 ms
+Time of CC : 10.73 ms
+Time of update datastr : 4.86 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100
+Depth of graph: 253380
+Total execution time of all functions: 36465.2 ms.
+
+Function execution times:
+Time of Adam_BFS : 32649.94 ms
+Time of simple BFS : 3774.72 ms
+Time of PR-RST module : 28.58 ms
+Time of CC : 7.10 ms
+Time of update datastr : 4.87 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100
+Depth of graph: 253380
+Total execution time of all functions: 36411.1 ms.
+
+Function execution times:
+Time of Adam_BFS : 32628.56 ms
+Time of simple BFS : 3736.21 ms
+Time of PR-RST module : 32.30 ms
+Time of CC : 9.12 ms
+Time of update datastr : 4.88 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100
+Depth of graph: 253380
+Total execution time of all functions: 37113.1 ms.
+
+Function execution times:
+Time of Adam_BFS : 33317.54 ms
+Time of simple BFS : 3746.90 ms
+Time of PR-RST module : 31.45 ms
+Time of CC : 12.26 ms
+Time of update datastr : 4.91 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 100
+Depth of graph: 253380
+Total execution time of all functions: 36277.5 ms.
+
+Function execution times:
+Time of Adam_BFS : 32513.40 ms
+Time of simple BFS : 3719.24 ms
+Time of PR-RST module : 28.59 ms
+Time of CC : 12.47 ms
+Time of update datastr : 3.82 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 1000
+Depth of graph: 253380
+Total execution time of all functions: 36552.1 ms.
+
+Function execution times:
+Time of Adam_BFS : 32778.94 ms
+Time of simple BFS : 3735.38 ms
+Time of PR-RST module : 25.63 ms
+Time of CC : 7.13 ms
+Time of update datastr : 4.97 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 1000
+Depth of graph: 253380
+Total execution time of all functions: 35906.3 ms.
+
+Function execution times:
+Time of Adam_BFS : 32081.47 ms
+Time of simple BFS : 3785.02 ms
+Time of PR-RST module : 25.47 ms
+Time of CC : 10.51 ms
+Time of update datastr : 3.87 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 1000
+Depth of graph: 253380
+Total execution time of all functions: 37274.8 ms.
+
+Function execution times:
+Time of Adam_BFS : 33444.59 ms
+Time of simple BFS : 3781.12 ms
+Time of PR-RST module : 31.78 ms
+Time of CC : 8.88 ms
+Time of update datastr : 8.48 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 1000
+Depth of graph: 253380
+Total execution time of all functions: 36620.2 ms.
+
+Function execution times:
+Time of Adam_BFS : 32810.82 ms
+Time of simple BFS : 3766.35 ms
+Time of PR-RST module : 28.96 ms
+Time of CC : 9.22 ms
+Time of update datastr : 4.86 ms
+----------------------------------------------------------------
+
+filename: kron_g500-logn20.egr
+Delete batch Size: 1000
+Depth of graph: 253380
+Total execution time of all functions: 36917.1 ms.
+
+Function execution times:
+Time of Adam_BFS : 33133.01 ms
+Time of simple BFS : 3741.40 ms
+Time of PR-RST module : 28.84 ms
+Time of CC : 9.03 ms
+Time of update datastr : 4.86 ms
+----------------------------------------------------------------

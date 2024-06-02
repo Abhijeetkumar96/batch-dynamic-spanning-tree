@@ -1,0 +1,338 @@
+filename: delaunay_n24.egr
+Number of deleted tree edges: 35752
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Total execution time of all functions: 70.1288 ms.
+
+Function execution times:
+Time of Eulerian Tour : 39.26 ms
+Time of Super graph Creation : 17.77 ms
+Time of PR-RST module : 5.79 ms
+Time of Pointer Jumping : 4.88 ms
+Time of update data structure : 1.84 ms
+Time of Path Reversal : 0.55 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 35860
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Total execution time of all functions: 69.4407 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.63 ms
+Time of Super graph Creation : 17.75 ms
+Time of PR-RST module : 5.80 ms
+Time of Pointer Jumping : 4.89 ms
+Time of update data structure : 1.77 ms
+Time of Path Reversal : 0.55 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 35820
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Total execution time of all functions: 69.499 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.81 ms
+Time of Super graph Creation : 17.78 ms
+Time of PR-RST module : 5.72 ms
+Time of Pointer Jumping : 4.88 ms
+Time of update data structure : 1.72 ms
+Time of Path Reversal : 0.55 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 35542
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Total execution time of all functions: 71.3535 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.73 ms
+Time of Super graph Creation : 19.53 ms
+Time of PR-RST module : 5.79 ms
+Time of Pointer Jumping : 4.88 ms
+Time of update data structure : 1.84 ms
+Time of Path Reversal : 0.54 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 35770
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Total execution time of all functions: 70.0816 ms.
+
+Function execution times:
+Time of Eulerian Tour : 40.13 ms
+Time of Super graph Creation : 17.86 ms
+Time of PR-RST module : 4.92 ms
+Time of Pointer Jumping : 4.88 ms
+Time of update data structure : 1.70 ms
+Time of Path Reversal : 0.55 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 3630
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Total execution time of all functions: 66.918 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.96 ms
+Time of Super graph Creation : 17.43 ms
+Time of Pointer Jumping : 4.71 ms
+Time of PR-RST module : 3.70 ms
+Time of update data structure : 1.66 ms
+Time of Path Reversal : 0.43 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 3577
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Total execution time of all functions: 68.7431 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.86 ms
+Time of Super graph Creation : 19.41 ms
+Time of Pointer Jumping : 4.70 ms
+Time of PR-RST module : 3.72 ms
+Time of update data structure : 1.58 ms
+Time of Path Reversal : 0.43 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 3552
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Total execution time of all functions: 72.0685 ms.
+
+Function execution times:
+Time of Eulerian Tour : 39.47 ms
+Time of Super graph Creation : 19.93 ms
+Time of PR-RST module : 5.89 ms
+Time of Pointer Jumping : 4.71 ms
+Time of update data structure : 1.59 ms
+Time of Path Reversal : 0.43 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 3559
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Total execution time of all functions: 65.8761 ms.
+
+Function execution times:
+Time of Eulerian Tour : 39.03 ms
+Time of Super graph Creation : 17.09 ms
+Time of Pointer Jumping : 4.70 ms
+Time of PR-RST module : 3.00 ms
+Time of update data structure : 1.58 ms
+Time of Path Reversal : 0.43 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 3561
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Total execution time of all functions: 65.9317 ms.
+
+Function execution times:
+Time of Eulerian Tour : 39.02 ms
+Time of Super graph Creation : 17.15 ms
+Time of Pointer Jumping : 4.70 ms
+Time of PR-RST module : 3.00 ms
+Time of update data structure : 1.59 ms
+Time of Path Reversal : 0.43 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 33
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Total execution time of all functions: 62.4202 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.92 ms
+Time of Super graph Creation : 16.23 ms
+Time of Pointer Jumping : 4.55 ms
+Time of update data structure : 1.57 ms
+Time of PR-RST module : 0.88 ms
+Time of Path Reversal : 0.23 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 33
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Total execution time of all functions: 62.3423 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.52 ms
+Time of Super graph Creation : 16.17 ms
+Time of Pointer Jumping : 4.55 ms
+Time of update data structure : 1.57 ms
+Time of PR-RST module : 1.24 ms
+Time of Path Reversal : 0.26 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 33
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Total execution time of all functions: 62.4126 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.77 ms
+Time of Super graph Creation : 16.07 ms
+Time of Pointer Jumping : 4.55 ms
+Time of update data structure : 1.54 ms
+Time of PR-RST module : 1.23 ms
+Time of Path Reversal : 0.22 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 35
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Total execution time of all functions: 62.4486 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.96 ms
+Time of Super graph Creation : 15.81 ms
+Time of Pointer Jumping : 4.55 ms
+Time of update data structure : 1.68 ms
+Time of PR-RST module : 1.17 ms
+Time of Path Reversal : 0.24 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 39
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Total execution time of all functions: 62.4025 ms.
+
+Function execution times:
+Time of Eulerian Tour : 39.02 ms
+Time of Super graph Creation : 16.14 ms
+Time of Pointer Jumping : 4.55 ms
+Time of update data structure : 1.52 ms
+Time of PR-RST module : 0.89 ms
+Time of Path Reversal : 0.24 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 365
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Total execution time of all functions: 63.8718 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.69 ms
+Time of Super graph Creation : 16.98 ms
+Time of Pointer Jumping : 4.60 ms
+Time of PR-RST module : 1.65 ms
+Time of update data structure : 1.60 ms
+Time of Path Reversal : 0.31 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 334
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Total execution time of all functions: 64.4397 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.75 ms
+Time of Super graph Creation : 16.92 ms
+Time of Pointer Jumping : 4.60 ms
+Time of PR-RST module : 2.15 ms
+Time of update data structure : 1.67 ms
+Time of Path Reversal : 0.31 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 342
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Total execution time of all functions: 67.0376 ms.
+
+Function execution times:
+Time of Eulerian Tour : 40.91 ms
+Time of Super graph Creation : 17.00 ms
+Time of Pointer Jumping : 4.60 ms
+Time of PR-RST module : 2.64 ms
+Time of update data structure : 1.54 ms
+Time of Path Reversal : 0.32 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 375
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Total execution time of all functions: 63.7973 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.85 ms
+Time of Super graph Creation : 16.80 ms
+Time of Pointer Jumping : 4.60 ms
+Time of PR-RST module : 1.66 ms
+Time of update data structure : 1.55 ms
+Time of Path Reversal : 0.29 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: delaunay_n24.egr
+Number of deleted tree edges: 351
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Total execution time of all functions: 64.0195 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.92 ms
+Time of Super graph Creation : 16.89 ms
+Time of Pointer Jumping : 4.60 ms
+Time of PR-RST module : 1.66 ms
+Time of update data structure : 1.61 ms
+Time of Path Reversal : 0.31 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

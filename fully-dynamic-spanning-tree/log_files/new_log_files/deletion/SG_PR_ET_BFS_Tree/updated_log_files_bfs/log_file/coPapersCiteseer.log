@@ -1,0 +1,340 @@
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1474
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Total execution time of all functions: 9.69939 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.67 ms
+Time of Eulerian Tour : 3.18 ms
+Time of PR-RST module : 1.12 ms
+Time of update data structure : 0.47 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1519
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Total execution time of all functions: 9.27608 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.69 ms
+Time of Eulerian Tour : 3.17 ms
+Time of PR-RST module : 0.68 ms
+Time of update data structure : 0.47 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1538
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Total execution time of all functions: 10.1502 ms.
+
+Function execution times:
+Time of Super graph Creation : 5.04 ms
+Time of Eulerian Tour : 3.25 ms
+Time of PR-RST module : 1.13 ms
+Time of update data structure : 0.47 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1493
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Total execution time of all functions: 9.8761 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.72 ms
+Time of Eulerian Tour : 3.29 ms
+Time of PR-RST module : 1.13 ms
+Time of update data structure : 0.48 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1489
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Total execution time of all functions: 9.26797 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.66 ms
+Time of Eulerian Tour : 3.19 ms
+Time of PR-RST module : 0.67 ms
+Time of update data structure : 0.47 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 171
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Total execution time of all functions: 9.03228 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.67 ms
+Time of Eulerian Tour : 3.17 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.42 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 147
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Total execution time of all functions: 9.08224 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.69 ms
+Time of Eulerian Tour : 3.19 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.43 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 155
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Total execution time of all functions: 8.97103 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.66 ms
+Time of Eulerian Tour : 3.11 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.44 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 175
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Total execution time of all functions: 8.97561 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.66 ms
+Time of Eulerian Tour : 3.09 ms
+Time of PR-RST module : 0.52 ms
+Time of update data structure : 0.45 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 155
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Total execution time of all functions: 9.02553 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.66 ms
+Time of Eulerian Tour : 3.16 ms
+Time of PR-RST module : 0.51 ms
+Time of update data structure : 0.43 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Total execution time of all functions: 8.52021 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.47 ms
+Time of Eulerian Tour : 3.15 ms
+Time of update data structure : 0.41 ms
+Time of PR-RST module : 0.24 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Total execution time of all functions: 8.54178 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.46 ms
+Time of Eulerian Tour : 3.18 ms
+Time of update data structure : 0.41 ms
+Time of PR-RST module : 0.24 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Total execution time of all functions: 8.53311 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.46 ms
+Time of Eulerian Tour : 3.16 ms
+Time of update data structure : 0.42 ms
+Time of PR-RST module : 0.24 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 1
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Total execution time of all functions: 8.47561 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.45 ms
+Time of Eulerian Tour : 3.12 ms
+Time of update data structure : 0.41 ms
+Time of PR-RST module : 0.24 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 2
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Total execution time of all functions: 8.55769 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.47 ms
+Time of Eulerian Tour : 3.14 ms
+Time of update data structure : 0.41 ms
+Time of PR-RST module : 0.28 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 23
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Total execution time of all functions: 8.75607 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.57 ms
+Time of Eulerian Tour : 3.11 ms
+Time of update data structure : 0.43 ms
+Time of PR-RST module : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 17
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Total execution time of all functions: 8.79581 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.55 ms
+Time of Eulerian Tour : 3.17 ms
+Time of update data structure : 0.41 ms
+Time of PR-RST module : 0.39 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 15
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Total execution time of all functions: 8.68969 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.54 ms
+Time of Eulerian Tour : 3.12 ms
+Time of update data structure : 0.42 ms
+Time of PR-RST module : 0.35 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 16
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Total execution time of all functions: 8.73843 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.47 ms
+Time of Eulerian Tour : 3.18 ms
+Time of update data structure : 0.44 ms
+Time of PR-RST module : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: coPapersCiteseer.egr
+Number of deleted tree edges: 16
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Total execution time of all functions: 8.73453 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.47 ms
+Time of Eulerian Tour : 3.19 ms
+Time of update data structure : 0.42 ms
+Time of PR-RST module : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms

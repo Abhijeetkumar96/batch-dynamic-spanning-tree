@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+kron_g500-logn19.txt,100,11.192
+kron_g500-logn19.txt,100,11.213
+kron_g500-logn19.txt,100,11.704
+kron_g500-logn19.txt,100,11.648
+kron_g500-logn19.txt,100,11.035
+kron_g500-logn19.txt,1000,10.944
+kron_g500-logn19.txt,1000,11.03
+kron_g500-logn19.txt,1000,11.634
+kron_g500-logn19.txt,1000,12.012
+kron_g500-logn19.txt,1000,10.965
+kron_g500-logn19.txt,10000,11.179
+kron_g500-logn19.txt,10000,11.256
+kron_g500-logn19.txt,10000,12.32
+kron_g500-logn19.txt,10000,11.405
+kron_g500-logn19.txt,10000,11.208
+kron_g500-logn19.txt,100000,11.203
+kron_g500-logn19.txt,100000,11.406
+kron_g500-logn19.txt,100000,11.544
+kron_g500-logn19.txt,100000,11.157
+kron_g500-logn19.txt,100000,11.191

@@ -1,0 +1,340 @@
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1223
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Total execution time of all functions: 188.052 ms.
+
+Function execution times:
+Time of Super graph Creation : 129.53 ms
+Time of Eulerian Tour : 41.45 ms
+Time of update data structure : 11.90 ms
+Time of Pointer Jumping : 4.27 ms
+Time of PR-RST module : 0.70 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1300
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Total execution time of all functions: 186.536 ms.
+
+Function execution times:
+Time of Super graph Creation : 121.06 ms
+Time of Eulerian Tour : 46.88 ms
+Time of update data structure : 13.06 ms
+Time of Pointer Jumping : 4.63 ms
+Time of PR-RST module : 0.71 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1242
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Total execution time of all functions: 164.698 ms.
+
+Function execution times:
+Time of Super graph Creation : 119.92 ms
+Time of Eulerian Tour : 30.34 ms
+Time of update data structure : 10.17 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.71 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1243
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Total execution time of all functions: 164.872 ms.
+
+Function execution times:
+Time of Super graph Creation : 121.49 ms
+Time of Eulerian Tour : 30.22 ms
+Time of update data structure : 8.92 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.69 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1232
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Total execution time of all functions: 166.076 ms.
+
+Function execution times:
+Time of Super graph Creation : 119.86 ms
+Time of Eulerian Tour : 30.72 ms
+Time of update data structure : 11.23 ms
+Time of Pointer Jumping : 3.38 ms
+Time of PR-RST module : 0.71 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 126
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Total execution time of all functions: 177.381 ms.
+
+Function execution times:
+Time of Super graph Creation : 119.76 ms
+Time of Eulerian Tour : 40.67 ms
+Time of update data structure : 12.89 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.51 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 142
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Total execution time of all functions: 163.451 ms.
+
+Function execution times:
+Time of Super graph Creation : 119.99 ms
+Time of Eulerian Tour : 30.18 ms
+Time of update data structure : 9.17 ms
+Time of Pointer Jumping : 3.38 ms
+Time of PR-RST module : 0.55 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 120
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Total execution time of all functions: 174.086 ms.
+
+Function execution times:
+Time of Super graph Creation : 119.83 ms
+Time of Eulerian Tour : 37.18 ms
+Time of update data structure : 13.02 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.51 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 158
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Total execution time of all functions: 187.44 ms.
+
+Function execution times:
+Time of Super graph Creation : 122.65 ms
+Time of Eulerian Tour : 46.36 ms
+Time of update data structure : 13.07 ms
+Time of Pointer Jumping : 4.63 ms
+Time of PR-RST module : 0.54 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 142
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Total execution time of all functions: 192.632 ms.
+
+Function execution times:
+Time of Super graph Creation : 128.23 ms
+Time of Eulerian Tour : 45.90 ms
+Time of update data structure : 13.14 ms
+Time of Pointer Jumping : 4.63 ms
+Time of PR-RST module : 0.55 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Total execution time of all functions: 172.325 ms.
+
+Function execution times:
+Time of Super graph Creation : 114.26 ms
+Time of Eulerian Tour : 41.39 ms
+Time of update data structure : 12.88 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.26 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Total execution time of all functions: 163.109 ms.
+
+Function execution times:
+Time of Super graph Creation : 116.95 ms
+Time of Eulerian Tour : 32.61 ms
+Time of update data structure : 9.51 ms
+Time of Pointer Jumping : 3.58 ms
+Time of PR-RST module : 0.26 ms
+Time of Path Reversal : 0.16 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Total execution time of all functions: 159.22 ms.
+
+Function execution times:
+Time of Super graph Creation : 116.71 ms
+Time of Eulerian Tour : 29.88 ms
+Time of update data structure : 8.83 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.26 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 4
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Total execution time of all functions: 171.138 ms.
+
+Function execution times:
+Time of Super graph Creation : 114.26 ms
+Time of Eulerian Tour : 40.12 ms
+Time of update data structure : 12.88 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.33 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 1
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Total execution time of all functions: 168.315 ms.
+
+Function execution times:
+Time of Super graph Creation : 114.18 ms
+Time of Eulerian Tour : 37.66 ms
+Time of update data structure : 12.65 ms
+Time of Pointer Jumping : 3.38 ms
+Time of PR-RST module : 0.26 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 14
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Total execution time of all functions: 177.81 ms.
+
+Function execution times:
+Time of Super graph Creation : 116.88 ms
+Time of Eulerian Tour : 44.11 ms
+Time of update data structure : 12.89 ms
+Time of Pointer Jumping : 3.37 ms
+Time of PR-RST module : 0.38 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 13
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Total execution time of all functions: 183.57 ms.
+
+Function execution times:
+Time of Super graph Creation : 118.86 ms
+Time of Eulerian Tour : 46.56 ms
+Time of update data structure : 12.95 ms
+Time of Pointer Jumping : 4.63 ms
+Time of PR-RST module : 0.38 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 14
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Total execution time of all functions: 181.791 ms.
+
+Function execution times:
+Time of Super graph Creation : 116.89 ms
+Time of Eulerian Tour : 46.89 ms
+Time of update data structure : 12.84 ms
+Time of Pointer Jumping : 4.62 ms
+Time of PR-RST module : 0.38 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 17
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Total execution time of all functions: 171.197 ms.
+
+Function execution times:
+Time of Super graph Creation : 116.83 ms
+Time of Eulerian Tour : 37.46 ms
+Time of update data structure : 12.92 ms
+Time of Pointer Jumping : 3.38 ms
+Time of PR-RST module : 0.42 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: arabic-2005.egr
+Number of deleted tree edges: 14
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Total execution time of all functions: 178.504 ms.
+
+Function execution times:
+Time of Super graph Creation : 116.69 ms
+Time of Eulerian Tour : 45.14 ms
+Time of update data structure : 12.77 ms
+Time of Pointer Jumping : 3.36 ms
+Time of PR-RST module : 0.37 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms

@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+soc-LiveJournal1.egr,4847571,85706224,100,7.4,17.62
+soc-LiveJournal1.egr,4847571,85706224,1000,57.2,17.2
+soc-LiveJournal1.egr,4847571,85706224,10000,524.6,18.25
+soc-LiveJournal1.egr,4847571,85706224,100000,5392.8,18.71

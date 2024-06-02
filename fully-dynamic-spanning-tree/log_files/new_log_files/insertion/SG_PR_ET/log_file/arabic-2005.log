@@ -1,0 +1,420 @@
+
+
+filename: arabic-2005.egr
+Root: 4568838
+Number of deleted tree edges: 826
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Root: 4568838
+Root: 4568838
+After repairing:
+Total execution time of all functions: 36.9505 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.18 ms
+Time of Pointer Jumping : 3.30 ms
+Time of Super graph Creation : 1.39 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 16936196
+Number of deleted tree edges: 902
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Root: 16936196
+Root: 16936196
+After repairing:
+Total execution time of all functions: 37.9853 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.68 ms
+Time of Pointer Jumping : 3.29 ms
+Time of Super graph Creation : 1.94 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 8133466
+Number of deleted tree edges: 502
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Root: 8133466
+Root: 8133466
+After repairing:
+Total execution time of all functions: 36.94 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.85 ms
+Time of Pointer Jumping : 3.29 ms
+Time of Super graph Creation : 1.72 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 15363980
+Number of deleted tree edges: 976
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Root: 15363980
+Root: 15363980
+After repairing:
+Total execution time of all functions: 38.0058 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.84 ms
+Time of Pointer Jumping : 3.30 ms
+Time of Super graph Creation : 1.78 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 9886514
+Number of deleted tree edges: 914
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100000
+
+Root: 9886514
+Root: 9886514
+After repairing:
+Total execution time of all functions: 36.9471 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.06 ms
+Time of Pointer Jumping : 3.30 ms
+Time of Super graph Creation : 1.51 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 422058
+Number of deleted tree edges: 76
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Root: 422058
+Root: 422058
+After repairing:
+Total execution time of all functions: 34.8407 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.49 ms
+Time of Pointer Jumping : 3.30 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.97 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 11393228
+Number of deleted tree edges: 94
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Root: 11393228
+Root: 11393228
+After repairing:
+Total execution time of all functions: 38.2553 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.79 ms
+Time of Pointer Jumping : 3.30 ms
+Time of finding unique comps : 2.39 ms
+Time of Super graph Creation : 1.77 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 7377720
+Number of deleted tree edges: 80
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Root: 7377720
+Root: 7377720
+After repairing:
+Total execution time of all functions: 35.8819 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.76 ms
+Time of Pointer Jumping : 3.30 ms
+Time of Super graph Creation : 1.74 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 11737548
+Number of deleted tree edges: 94
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Root: 11737548
+Root: 11737548
+After repairing:
+Total execution time of all functions: 36.9408 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.18 ms
+Time of Pointer Jumping : 3.31 ms
+Time of Super graph Creation : 1.38 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 3189696
+Number of deleted tree edges: 116
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 10000
+
+Root: 3189696
+Root: 3189696
+After repairing:
+Total execution time of all functions: 35.89 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.64 ms
+Time of Pointer Jumping : 3.30 ms
+Time of Super graph Creation : 1.87 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 2767297
+Number of deleted tree edges: 0
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Root: 2767297
+Root: 2767297
+After repairing:
+Total execution time of all functions: 34.8307 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.23 ms
+Time of Pointer Jumping : 3.29 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 10372098
+Number of deleted tree edges: 1
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Root: 10372098
+Root: 10372098
+After repairing:
+Total execution time of all functions: 34.8312 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.03 ms
+Time of Pointer Jumping : 3.30 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.43 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 10255934
+Number of deleted tree edges: 0
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Root: 10255934
+Root: 10255934
+After repairing:
+Total execution time of all functions: 37.4414 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.88 ms
+Time of Pointer Jumping : 4.85 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.63 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 14960560
+Number of deleted tree edges: 3
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Root: 14960560
+Root: 14960560
+After repairing:
+Total execution time of all functions: 36.9339 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.43 ms
+Time of Pointer Jumping : 3.30 ms
+Time of Super graph Creation : 1.12 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 8256583
+Number of deleted tree edges: 1
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 100
+
+Root: 8256583
+Root: 8256583
+After repairing:
+Total execution time of all functions: 35.8806 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.85 ms
+Time of Pointer Jumping : 3.29 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.66 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 21914607
+Number of deleted tree edges: 9
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Root: 21914607
+Root: 21914607
+After repairing:
+Total execution time of all functions: 35.8756 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.51 ms
+Time of Pointer Jumping : 3.29 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.00 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 19313220
+Number of deleted tree edges: 11
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Root: 19313220
+Root: 19313220
+After repairing:
+Total execution time of all functions: 35.8861 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.88 ms
+Time of Pointer Jumping : 3.29 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.63 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 21410777
+Number of deleted tree edges: 8
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Root: 21410777
+Root: 21410777
+After repairing:
+Total execution time of all functions: 35.8802 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.69 ms
+Time of Pointer Jumping : 3.30 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.82 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 9924342
+Number of deleted tree edges: 7
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Root: 9924342
+Root: 9924342
+After repairing:
+Total execution time of all functions: 36.9258 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.74 ms
+Time of Pointer Jumping : 3.30 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.81 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: arabic-2005.egr
+Root: 16961842
+Number of deleted tree edges: 9
+numVert: 22744080, num_edges: 1107807202 and delete batch size: 1000
+
+Root: 16961842
+Root: 16961842
+After repairing:
+Total execution time of all functions: 35.8904 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.71 ms
+Time of Pointer Jumping : 3.30 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.80 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

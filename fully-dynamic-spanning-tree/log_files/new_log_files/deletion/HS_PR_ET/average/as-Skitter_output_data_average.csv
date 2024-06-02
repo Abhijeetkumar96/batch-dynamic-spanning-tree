@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+as-Skitter.txt,100,13.52
+as-Skitter.txt,1000,14.06
+as-Skitter.txt,10000,16.15
+as-Skitter.txt,100000,21.44

@@ -1,0 +1,259 @@
+filename: coPapersCiteseer.egr
+Delete batch Size: 100000
+Depth of graph: 26
+Total execution time of all functions: 33.8477 ms.
+
+Function execution times:
+Time of simple BFS : 13.74 ms
+Time of PR-RST module : 7.86 ms
+Time of Adam_BFS : 6.33 ms
+Time of CC : 3.46 ms
+Time of update datastr : 2.45 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100000
+Depth of graph: 26
+Total execution time of all functions: 37.4282 ms.
+
+Function execution times:
+Time of simple BFS : 14.62 ms
+Time of PR-RST module : 11.05 ms
+Time of Adam_BFS : 6.37 ms
+Time of CC : 2.93 ms
+Time of update datastr : 2.45 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100000
+Depth of graph: 26
+Total execution time of all functions: 35.6532 ms.
+
+Function execution times:
+Time of simple BFS : 13.80 ms
+Time of PR-RST module : 9.47 ms
+Time of Adam_BFS : 6.37 ms
+Time of CC : 3.56 ms
+Time of update datastr : 2.45 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100000
+Depth of graph: 26
+Total execution time of all functions: 36.0081 ms.
+
+Function execution times:
+Time of simple BFS : 14.26 ms
+Time of PR-RST module : 9.45 ms
+Time of Adam_BFS : 6.34 ms
+Time of CC : 3.34 ms
+Time of update datastr : 2.63 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100000
+Depth of graph: 26
+Total execution time of all functions: 37.5868 ms.
+
+Function execution times:
+Time of simple BFS : 15.23 ms
+Time of PR-RST module : 9.85 ms
+Time of Adam_BFS : 6.70 ms
+Time of CC : 3.34 ms
+Time of update datastr : 2.47 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 10000
+Depth of graph: 26
+Total execution time of all functions: 37.4978 ms.
+
+Function execution times:
+Time of simple BFS : 14.94 ms
+Time of PR-RST module : 8.43 ms
+Time of Adam_BFS : 6.83 ms
+Time of CC : 4.29 ms
+Time of update datastr : 3.01 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 10000
+Depth of graph: 26
+Total execution time of all functions: 38.3209 ms.
+
+Function execution times:
+Time of simple BFS : 15.06 ms
+Time of PR-RST module : 10.13 ms
+Time of Adam_BFS : 6.80 ms
+Time of CC : 3.89 ms
+Time of update datastr : 2.43 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 10000
+Depth of graph: 26
+Total execution time of all functions: 38.6246 ms.
+
+Function execution times:
+Time of simple BFS : 14.16 ms
+Time of PR-RST module : 10.19 ms
+Time of Adam_BFS : 6.89 ms
+Time of CC : 4.95 ms
+Time of update datastr : 2.43 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 10000
+Depth of graph: 26
+Total execution time of all functions: 40.4126 ms.
+
+Function execution times:
+Time of simple BFS : 15.57 ms
+Time of PR-RST module : 11.88 ms
+Time of Adam_BFS : 6.91 ms
+Time of CC : 3.64 ms
+Time of update datastr : 2.42 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 10000
+Depth of graph: 26
+Total execution time of all functions: 33.6695 ms.
+
+Function execution times:
+Time of simple BFS : 14.95 ms
+Time of Adam_BFS : 6.84 ms
+Time of PR-RST module : 6.55 ms
+Time of CC : 2.88 ms
+Time of update datastr : 2.44 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100
+Depth of graph: 26
+Total execution time of all functions: 37.8376 ms.
+
+Function execution times:
+Time of simple BFS : 15.01 ms
+Time of PR-RST module : 8.74 ms
+Time of Adam_BFS : 7.39 ms
+Time of CC : 4.26 ms
+Time of update datastr : 2.44 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100
+Depth of graph: 26
+Total execution time of all functions: 40.7171 ms.
+
+Function execution times:
+Time of simple BFS : 14.92 ms
+Time of PR-RST module : 12.46 ms
+Time of Adam_BFS : 7.33 ms
+Time of CC : 3.53 ms
+Time of update datastr : 2.48 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100
+Depth of graph: 26
+Total execution time of all functions: 41.0442 ms.
+
+Function execution times:
+Time of simple BFS : 15.26 ms
+Time of PR-RST module : 10.67 ms
+Time of Adam_BFS : 7.37 ms
+Time of CC : 5.25 ms
+Time of update datastr : 2.49 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100
+Depth of graph: 26
+Total execution time of all functions: 38.7457 ms.
+
+Function execution times:
+Time of simple BFS : 15.69 ms
+Time of PR-RST module : 8.83 ms
+Time of Adam_BFS : 7.27 ms
+Time of CC : 4.49 ms
+Time of update datastr : 2.45 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 100
+Depth of graph: 26
+Total execution time of all functions: 43.2242 ms.
+
+Function execution times:
+Time of simple BFS : 15.46 ms
+Time of PR-RST module : 12.68 ms
+Time of Adam_BFS : 7.42 ms
+Time of update datastr : 4.77 ms
+Time of CC : 2.89 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 1000
+Depth of graph: 26
+Total execution time of all functions: 41.4288 ms.
+
+Function execution times:
+Time of simple BFS : 16.18 ms
+Time of PR-RST module : 10.83 ms
+Time of Adam_BFS : 7.60 ms
+Time of CC : 4.36 ms
+Time of update datastr : 2.46 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 1000
+Depth of graph: 26
+Total execution time of all functions: 37.2131 ms.
+
+Function execution times:
+Time of simple BFS : 15.31 ms
+Time of PR-RST module : 9.39 ms
+Time of Adam_BFS : 6.31 ms
+Time of CC : 3.62 ms
+Time of update datastr : 2.59 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 1000
+Depth of graph: 26
+Total execution time of all functions: 36.3868 ms.
+
+Function execution times:
+Time of simple BFS : 14.52 ms
+Time of PR-RST module : 9.38 ms
+Time of Adam_BFS : 6.30 ms
+Time of CC : 3.46 ms
+Time of update datastr : 2.73 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 1000
+Depth of graph: 26
+Total execution time of all functions: 36.0004 ms.
+
+Function execution times:
+Time of simple BFS : 13.90 ms
+Time of PR-RST module : 9.42 ms
+Time of Adam_BFS : 6.34 ms
+Time of CC : 3.94 ms
+Time of update datastr : 2.40 ms
+----------------------------------------------------------------
+
+filename: coPapersCiteseer.egr
+Delete batch Size: 1000
+Depth of graph: 26
+Total execution time of all functions: 35.3062 ms.
+
+Function execution times:
+Time of simple BFS : 14.19 ms
+Time of PR-RST module : 9.43 ms
+Time of Adam_BFS : 6.30 ms
+Time of CC : 2.95 ms
+Time of update datastr : 2.43 ms
+----------------------------------------------------------------

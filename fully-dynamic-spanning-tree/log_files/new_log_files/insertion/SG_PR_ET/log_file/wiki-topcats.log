@@ -1,0 +1,420 @@
+
+
+filename: wiki-topcats.egr
+Root: 1379624
+Number of deleted tree edges: 4511
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 1379624
+Root: 1379624
+After repairing:
+Total execution time of all functions: 10.8638 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.29 ms
+Time of Super graph Creation : 2.19 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1548716
+Number of deleted tree edges: 3989
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 1548716
+Root: 1548716
+After repairing:
+Total execution time of all functions: 9.80427 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.09 ms
+Time of Super graph Creation : 1.32 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1334779
+Number of deleted tree edges: 3705
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 1334779
+Root: 1334779
+After repairing:
+Total execution time of all functions: 9.80767 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.32 ms
+Time of Super graph Creation : 1.10 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1277722
+Number of deleted tree edges: 4244
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 1277722
+Root: 1277722
+After repairing:
+Total execution time of all functions: 10.8537 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.55 ms
+Time of Super graph Creation : 1.91 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 46294
+Number of deleted tree edges: 3750
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 46294
+Root: 46294
+After repairing:
+Total execution time of all functions: 9.80837 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.15 ms
+Time of Super graph Creation : 1.27 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1377795
+Number of deleted tree edges: 464
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 1377795
+Root: 1377795
+After repairing:
+Total execution time of all functions: 9.7968 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.23 ms
+Time of Super graph Creation : 1.18 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 581548
+Number of deleted tree edges: 363
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 581548
+Root: 581548
+After repairing:
+Total execution time of all functions: 9.79915 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.11 ms
+Time of Super graph Creation : 1.31 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 735207
+Number of deleted tree edges: 431
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 735207
+Root: 735207
+After repairing:
+Total execution time of all functions: 9.8049 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.37 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.04 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 356335
+Number of deleted tree edges: 400
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 356335
+Root: 356335
+After repairing:
+Total execution time of all functions: 9.80515 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.12 ms
+Time of Super graph Creation : 1.29 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 745522
+Number of deleted tree edges: 420
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 745522
+Root: 745522
+After repairing:
+Total execution time of all functions: 9.80691 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.19 ms
+Time of Super graph Creation : 1.22 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1257702
+Number of deleted tree edges: 1
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 1257702
+Root: 1257702
+After repairing:
+Total execution time of all functions: 8.74712 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.05 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Super graph Creation : 0.30 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1790192
+Number of deleted tree edges: 2
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 1790192
+Root: 1790192
+After repairing:
+Total execution time of all functions: 9.80283 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.22 ms
+Time of Super graph Creation : 1.20 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 726495
+Number of deleted tree edges: 2
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 726495
+Root: 726495
+After repairing:
+Total execution time of all functions: 8.74476 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.14 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Super graph Creation : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1223658
+Number of deleted tree edges: 3
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 1223658
+Root: 1223658
+After repairing:
+Total execution time of all functions: 9.80086 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.27 ms
+Time of Super graph Creation : 1.14 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1089401
+Number of deleted tree edges: 8
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 1089401
+Root: 1089401
+After repairing:
+Total execution time of all functions: 8.75158 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.03 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.33 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1217946
+Number of deleted tree edges: 45
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 1217946
+Root: 1217946
+After repairing:
+Total execution time of all functions: 8.74871 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.11 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Super graph Creation : 0.26 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 1513419
+Number of deleted tree edges: 48
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 1513419
+Root: 1513419
+After repairing:
+Total execution time of all functions: 8.75622 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.13 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 654223
+Number of deleted tree edges: 37
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 654223
+Root: 654223
+After repairing:
+Total execution time of all functions: 8.75707 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.13 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 721723
+Number of deleted tree edges: 33
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 721723
+Root: 721723
+After repairing:
+Total execution time of all functions: 8.74904 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.14 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Super graph Creation : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: wiki-topcats.egr
+Root: 707746
+Number of deleted tree edges: 39
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 707746
+Root: 707746
+After repairing:
+Total execution time of all functions: 9.80579 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.17 ms
+Time of Super graph Creation : 1.24 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

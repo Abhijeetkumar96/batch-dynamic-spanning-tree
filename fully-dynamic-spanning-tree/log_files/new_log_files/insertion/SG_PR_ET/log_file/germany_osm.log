@@ -1,0 +1,420 @@
+
+
+filename: germany_osm.egr
+Root: 2364797
+Number of deleted tree edges: 32942
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 2364797
+Root: 2364797
+After repairing:
+Total execution time of all functions: 26.1982 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.14 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.97 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 1877234
+Number of deleted tree edges: 28491
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 1877234
+Root: 1877234
+After repairing:
+Total execution time of all functions: 26.2038 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.53 ms
+Time of Pointer Jumping : 2.02 ms
+Time of Super graph Creation : 1.59 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 2141070
+Number of deleted tree edges: 16728
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 2141070
+Root: 2141070
+After repairing:
+Total execution time of all functions: 26.1947 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.80 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.31 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 4727662
+Number of deleted tree edges: 36542
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 4727662
+Root: 4727662
+After repairing:
+Total execution time of all functions: 27.2702 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.89 ms
+Time of Super graph Creation : 2.28 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 4844639
+Number of deleted tree edges: 31370
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 4844639
+Root: 4844639
+After repairing:
+Total execution time of all functions: 27.2611 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.12 ms
+Time of Super graph Creation : 2.05 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 6434854
+Number of deleted tree edges: 2707
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 6434854
+Root: 6434854
+After repairing:
+Total execution time of all functions: 27.2604 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.10 ms
+Time of Super graph Creation : 2.06 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 4917704
+Number of deleted tree edges: 3206
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 4917704
+Root: 4917704
+After repairing:
+Total execution time of all functions: 26.2029 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.47 ms
+Time of Pointer Jumping : 2.02 ms
+Time of Super graph Creation : 1.64 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 2768233
+Number of deleted tree edges: 2822
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 2768233
+Root: 2768233
+After repairing:
+Total execution time of all functions: 28.2994 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.92 ms
+Time of Super graph Creation : 2.29 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 4756400
+Number of deleted tree edges: 1965
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 4756400
+Root: 4756400
+After repairing:
+Total execution time of all functions: 28.3047 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.93 ms
+Time of Pointer Jumping : 2.02 ms
+Time of Super graph Creation : 1.28 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 10056138
+Number of deleted tree edges: 1490
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 10056138
+Root: 10056138
+After repairing:
+Total execution time of all functions: 27.25 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.67 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.49 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 1569220
+Number of deleted tree edges: 17
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 1569220
+Root: 1569220
+After repairing:
+Total execution time of all functions: 27.2411 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.06 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.09 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 493691
+Number of deleted tree edges: 37
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 493691
+Root: 493691
+After repairing:
+Total execution time of all functions: 25.1469 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.73 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.33 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 10493819
+Number of deleted tree edges: 39
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 10493819
+Root: 10493819
+After repairing:
+Total execution time of all functions: 26.1937 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.36 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.74 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 7140371
+Number of deleted tree edges: 16
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 7140371
+Root: 7140371
+After repairing:
+Total execution time of all functions: 25.1436 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.72 ms
+Time of Pointer Jumping : 2.01 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.34 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 6845986
+Number of deleted tree edges: 23
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 6845986
+Root: 6845986
+After repairing:
+Total execution time of all functions: 26.1919 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.20 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.89 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 4147791
+Number of deleted tree edges: 246
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 4147791
+Root: 4147791
+After repairing:
+Total execution time of all functions: 25.1383 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.51 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.55 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 1576404
+Number of deleted tree edges: 127
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 1576404
+Root: 1576404
+After repairing:
+Total execution time of all functions: 25.1449 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.50 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.55 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 10568983
+Number of deleted tree edges: 28
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 10568983
+Root: 10568983
+After repairing:
+Total execution time of all functions: 27.2372 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.39 ms
+Time of Pointer Jumping : 2.01 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.76 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 3974570
+Number of deleted tree edges: 88
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 3974570
+Root: 3974570
+After repairing:
+Total execution time of all functions: 26.197 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.30 ms
+Time of Pointer Jumping : 2.01 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.80 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: germany_osm.egr
+Root: 1174686
+Number of deleted tree edges: 205
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 1174686
+Root: 1174686
+After repairing:
+Total execution time of all functions: 26.2018 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.52 ms
+Time of Pointer Jumping : 2.02 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

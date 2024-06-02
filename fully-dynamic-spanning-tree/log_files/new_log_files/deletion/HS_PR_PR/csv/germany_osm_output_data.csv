@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+germany_osm.txt,100,50.913
+germany_osm.txt,100,47.52
+germany_osm.txt,100,50.518
+germany_osm.txt,100,49.109
+germany_osm.txt,100,50.355
+germany_osm.txt,1000,52.882
+germany_osm.txt,1000,55.033
+germany_osm.txt,1000,51.623
+germany_osm.txt,1000,50.766
+germany_osm.txt,1000,52.883
+germany_osm.txt,10000,55.234
+germany_osm.txt,10000,51.882
+germany_osm.txt,10000,57.869
+germany_osm.txt,10000,56.626
+germany_osm.txt,10000,60.317
+germany_osm.txt,100000,76.304
+germany_osm.txt,100000,68.488
+germany_osm.txt,100000,69.239
+germany_osm.txt,100000,71.513
+germany_osm.txt,100000,70.32

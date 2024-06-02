@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+germany_osm.egr,11548845,24738362,100,,33.68
+germany_osm.egr,11548845,24738362,1000,,34.28
+germany_osm.egr,11548845,24738362,10000,,35.6
+germany_osm.egr,11548845,24738362,100000,,36.41

@@ -1,0 +1,740 @@
+
+
+filename: wiki-topcats.egr
+Root: 277787
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4035
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 277787
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4035
+Insertion into hashtable over.
+num of superComponents: 4036
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 24.1985 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 14.21 ms
+Time of ET: First & Last : 7.01 ms
+Time of ET: Orientation : 1.68 ms
+Time of Update data structure : 0.77 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1341113
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3886
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 1341113
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3886
+Insertion into hashtable over.
+num of superComponents: 3887
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 19.4824 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 9.83 ms
+Time of ET: First & Last : 6.70 ms
+Time of ET: Orientation : 1.67 ms
+Time of Update data structure : 0.75 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 696635
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3881
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 696635
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3881
+Insertion into hashtable over.
+num of superComponents: 3882
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 42.7859 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 33.00 ms
+Time of ET: First & Last : 6.76 ms
+Time of ET: Orientation : 1.68 ms
+Time of Update data structure : 0.76 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Finding unique comps : 0.19 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1506359
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4035
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 1506359
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4035
+Insertion into hashtable over.
+num of superComponents: 4036
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 19.5806 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 9.90 ms
+Time of ET: First & Last : 6.68 ms
+Time of ET: Orientation : 1.67 ms
+Time of Update data structure : 0.74 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Finding unique comps : 0.19 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 983384
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3958
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100000
+
+Root: 983384
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3958
+Insertion into hashtable over.
+num of superComponents: 3959
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 20.867 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 10.95 ms
+Time of ET: First & Last : 6.93 ms
+Time of ET: Orientation : 1.68 ms
+Time of Update data structure : 0.74 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Finding unique comps : 0.18 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1756792
+The input parent array is a BFS tree.
+Number of deleted tree edges: 400
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 1756792
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 400
+Insertion into hashtable over.
+num of superComponents: 401
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 14.6949 ms.
+
+Function execution times:
+Time of ET: First & Last : 7.16 ms
+Time of HS: Find Repl edges : 6.09 ms
+Time of Update data structure : 0.69 ms
+Time of Pointer Jumping : 0.32 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 712225
+The input parent array is a BFS tree.
+Number of deleted tree edges: 342
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 712225
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 342
+Insertion into hashtable over.
+num of superComponents: 343
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 11.3243 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.68 ms
+Time of HS: Find Repl edges : 3.24 ms
+Time of Update data structure : 0.68 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1436292
+The input parent array is a BFS tree.
+Number of deleted tree edges: 403
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 1436292
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 403
+Insertion into hashtable over.
+num of superComponents: 404
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 15.6788 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 7.41 ms
+Time of ET: First & Last : 6.76 ms
+Time of Update data structure : 0.73 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.23 ms
+Time of Finding unique comps : 0.16 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1226620
+The input parent array is a BFS tree.
+Number of deleted tree edges: 429
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 1226620
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 429
+Insertion into hashtable over.
+num of superComponents: 430
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 12.62 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.73 ms
+Time of HS: Find Repl edges : 4.41 ms
+Time of Update data structure : 0.69 ms
+Time of Pointer Jumping : 0.32 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.17 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 974985
+The input parent array is a BFS tree.
+Number of deleted tree edges: 355
+numVert: 1791489, num_edges: 50888414 and delete batch size: 10000
+
+Root: 974985
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 355
+Insertion into hashtable over.
+num of superComponents: 356
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 13.8333 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.84 ms
+Time of HS: Find Repl edges : 5.47 ms
+Time of Update data structure : 0.76 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.16 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1682246
+The input parent array is a BFS tree.
+Number of deleted tree edges: 1
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 1682246
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 2
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 12.9658 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.82 ms
+Time of Update data structure : 3.58 ms
+Time of HS: Find Repl edges : 1.87 ms
+Time of Pointer Jumping : 0.32 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 813578
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 813578
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2
+Insertion into hashtable over.
+num of superComponents: 3
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 9.94088 ms.
+
+Function execution times:
+Time of ET: First & Last : 7.01 ms
+Time of HS: Find Repl edges : 1.61 ms
+Time of Update data structure : 0.66 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.10 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1033611
+The input parent array is a BFS tree.
+Number of deleted tree edges: 1
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 1033611
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 2
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.0138 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.76 ms
+Time of HS: Find Repl edges : 1.89 ms
+Time of Update data structure : 0.69 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1698297
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 1698297
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3
+Insertion into hashtable over.
+num of superComponents: 4
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 9.62443 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.67 ms
+Time of HS: Find Repl edges : 1.59 ms
+Time of Update data structure : 0.68 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 182934
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5
+numVert: 1791489, num_edges: 50888414 and delete batch size: 100
+
+Root: 182934
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5
+Insertion into hashtable over.
+num of superComponents: 6
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 11.3237 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.79 ms
+Time of HS: Find Repl edges : 3.18 ms
+Time of Update data structure : 0.69 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 706637
+The input parent array is a BFS tree.
+Number of deleted tree edges: 59
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 706637
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 59
+Insertion into hashtable over.
+num of superComponents: 60
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 11.5197 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.82 ms
+Time of HS: Find Repl edges : 3.28 ms
+Time of Update data structure : 0.70 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 577906
+The input parent array is a BFS tree.
+Number of deleted tree edges: 39
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 577906
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 39
+Insertion into hashtable over.
+num of superComponents: 40
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 14.6482 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.94 ms
+Time of HS: Find Repl edges : 6.25 ms
+Time of Update data structure : 0.74 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 1760858
+The input parent array is a BFS tree.
+Number of deleted tree edges: 31
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 1760858
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 31
+Insertion into hashtable over.
+num of superComponents: 32
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.4106 ms.
+
+Function execution times:
+Time of ET: First & Last : 7.01 ms
+Time of HS: Find Repl edges : 1.97 ms
+Time of Update data structure : 0.70 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.21 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 114393
+The input parent array is a BFS tree.
+Number of deleted tree edges: 41
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 114393
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 41
+Insertion into hashtable over.
+num of superComponents: 42
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 11.4627 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.89 ms
+Time of HS: Find Repl edges : 3.14 ms
+Time of Update data structure : 0.72 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: wiki-topcats.egr
+Root: 550638
+The input parent array is a BFS tree.
+Number of deleted tree edges: 43
+numVert: 1791489, num_edges: 50888414 and delete batch size: 1000
+
+Root: 550638
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 43
+Insertion into hashtable over.
+num of superComponents: 44
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 12.6357 ms.
+
+Function execution times:
+Time of ET: First & Last : 7.11 ms
+Time of HS: Find Repl edges : 4.13 ms
+Time of Update data structure : 0.68 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1

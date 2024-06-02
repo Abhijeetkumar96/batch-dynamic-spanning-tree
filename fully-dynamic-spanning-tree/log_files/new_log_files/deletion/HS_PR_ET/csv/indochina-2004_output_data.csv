@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+indochina-2004.txt,100,53.011
+indochina-2004.txt,100,50.756
+indochina-2004.txt,100,57.457
+indochina-2004.txt,100,50.181
+indochina-2004.txt,100,58.208
+indochina-2004.txt,1000,59.043
+indochina-2004.txt,1000,65.317
+indochina-2004.txt,1000,65.41
+indochina-2004.txt,1000,62.844
+indochina-2004.txt,1000,64.878
+indochina-2004.txt,10000,58.288
+indochina-2004.txt,10000,65.416
+indochina-2004.txt,10000,66.167
+indochina-2004.txt,10000,66.623
+indochina-2004.txt,10000,62.596
+indochina-2004.txt,100000,65.617
+indochina-2004.txt,100000,61.313
+indochina-2004.txt,100000,64.912
+indochina-2004.txt,100000,59.08
+indochina-2004.txt,100000,66.456

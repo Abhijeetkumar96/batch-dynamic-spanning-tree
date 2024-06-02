@@ -1,0 +1,726 @@
+
+
+filename: higgs-twitter.egr
+Root: 378024
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2646
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 378024
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2646
+Insertion into hashtable over.
+num of superComponents: 2647
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 17.1951 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 11.33 ms
+Time of ET: First & Last : 3.24 ms
+Time of ET: Orientation : 1.70 ms
+Time of Update data structure : 0.44 ms
+Time of Finding unique comps : 0.21 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 369118
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2510
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 369118
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2510
+Insertion into hashtable over.
+num of superComponents: 2511
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 12.7791 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 6.85 ms
+Time of ET: First & Last : 3.33 ms
+Time of ET: Orientation : 1.68 ms
+Time of Update data structure : 0.44 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Finding unique comps : 0.20 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 395084
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2584
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 395084
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2584
+Insertion into hashtable over.
+num of superComponents: 2585
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 11.3847 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 5.53 ms
+Time of ET: First & Last : 3.27 ms
+Time of ET: Orientation : 1.67 ms
+Time of Update data structure : 0.44 ms
+Time of Finding unique comps : 0.21 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 232826
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2768
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 232826
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2768
+Insertion into hashtable over.
+num of superComponents: 2769
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 15.7999 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 9.85 ms
+Time of ET: First & Last : 3.33 ms
+Time of ET: Orientation : 1.68 ms
+Time of Update data structure : 0.45 ms
+Time of Finding unique comps : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 35045
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2350
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 35045
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2350
+Insertion into hashtable over.
+num of superComponents: 2351
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 18.2911 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 12.39 ms
+Time of ET: First & Last : 3.28 ms
+Time of ET: Orientation : 1.68 ms
+Time of Update data structure : 0.44 ms
+Time of Finding unique comps : 0.23 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 375669
+The input parent array is a BFS tree.
+Number of deleted tree edges: 263
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 375669
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 263
+Insertion into hashtable over.
+num of superComponents: 264
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 6.99228 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.24 ms
+Time of HS: Find Repl edges : 2.74 ms
+Time of Update data structure : 0.39 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 98885
+The input parent array is a BFS tree.
+Number of deleted tree edges: 265
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 98885
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 265
+Insertion into hashtable over.
+num of superComponents: 266
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 6.10873 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.23 ms
+Time of HS: Find Repl edges : 1.83 ms
+Time of Update data structure : 0.44 ms
+Time of ET: Orientation : 0.20 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 100930
+The input parent array is a BFS tree.
+Number of deleted tree edges: 259
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 100930
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 259
+Insertion into hashtable over.
+num of superComponents: 260
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 7.79401 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 3.46 ms
+Time of ET: First & Last : 3.30 ms
+Time of Update data structure : 0.40 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 257657
+The input parent array is a BFS tree.
+Number of deleted tree edges: 243
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 257657
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 243
+Insertion into hashtable over.
+num of superComponents: 244
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 7.58944 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.31 ms
+Time of HS: Find Repl edges : 3.25 ms
+Time of Update data structure : 0.40 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 236270
+The input parent array is a BFS tree.
+Number of deleted tree edges: 252
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 236270
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 252
+Insertion into hashtable over.
+num of superComponents: 253
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 7.44773 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.23 ms
+Time of HS: Find Repl edges : 3.20 ms
+Time of Update data structure : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 175382
+The input parent array is a BFS tree.
+Number of deleted tree edges: 0
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 175382
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 0
+
+Total execution time for Deletion: 1.22504 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 0.54 ms
+Time of Update data structure : 0.36 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 82281
+The input parent array is a BFS tree.
+Number of deleted tree edges: 0
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 82281
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 0
+
+Total execution time for Deletion: 1.21145 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 0.53 ms
+Time of Update data structure : 0.37 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Finding unique comps : 0.09 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 328137
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 328137
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4
+Insertion into hashtable over.
+num of superComponents: 5
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 5.3583 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.30 ms
+Time of HS: Find Repl edges : 1.12 ms
+Time of Update data structure : 0.39 ms
+Time of Pointer Jumping : 0.20 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 302536
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 302536
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4
+Insertion into hashtable over.
+num of superComponents: 5
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 5.09756 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.31 ms
+Time of HS: Find Repl edges : 0.86 ms
+Time of Update data structure : 0.37 ms
+Time of Pointer Jumping : 0.21 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 352177
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 352177
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2
+Insertion into hashtable over.
+num of superComponents: 3
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 4.94841 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.20 ms
+Time of HS: Find Repl edges : 0.82 ms
+Time of Update data structure : 0.37 ms
+Time of Pointer Jumping : 0.20 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 331989
+The input parent array is a BFS tree.
+Number of deleted tree edges: 29
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 331989
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 29
+Insertion into hashtable over.
+num of superComponents: 30
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 5.88452 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.34 ms
+Time of HS: Find Repl edges : 1.57 ms
+Time of Update data structure : 0.40 ms
+Time of Pointer Jumping : 0.21 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 53594
+The input parent array is a BFS tree.
+Number of deleted tree edges: 16
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 53594
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 16
+Insertion into hashtable over.
+num of superComponents: 17
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 6.81131 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.35 ms
+Time of HS: Find Repl edges : 2.50 ms
+Time of Update data structure : 0.38 ms
+Time of Pointer Jumping : 0.20 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 135814
+The input parent array is a BFS tree.
+Number of deleted tree edges: 22
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 135814
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 22
+Insertion into hashtable over.
+num of superComponents: 23
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 5.37923 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.16 ms
+Time of HS: Find Repl edges : 1.25 ms
+Time of Update data structure : 0.39 ms
+Time of Pointer Jumping : 0.20 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 223139
+The input parent array is a BFS tree.
+Number of deleted tree edges: 30
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 223139
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 30
+Insertion into hashtable over.
+num of superComponents: 31
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 5.85406 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.22 ms
+Time of HS: Find Repl edges : 1.63 ms
+Time of Update data structure : 0.43 ms
+Time of Pointer Jumping : 0.20 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 64895
+The input parent array is a BFS tree.
+Number of deleted tree edges: 21
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 64895
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 21
+Insertion into hashtable over.
+num of superComponents: 22
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 6.397 ms.
+
+Function execution times:
+Time of ET: First & Last : 3.30 ms
+Time of HS: Find Repl edges : 2.11 ms
+Time of Update data structure : 0.40 ms
+Time of ET: Orientation : 0.21 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1

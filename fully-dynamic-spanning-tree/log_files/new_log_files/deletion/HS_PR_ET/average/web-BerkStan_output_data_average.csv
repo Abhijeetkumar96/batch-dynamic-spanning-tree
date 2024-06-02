@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+web-BerkStan.txt,100,8.62
+web-BerkStan.txt,1000,9.77
+web-BerkStan.txt,10000,10.47
+web-BerkStan.txt,100000,13.26

@@ -1,0 +1,720 @@
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 1804
+Non-tree edges deleted : 98196
+Time of (12)Hooking Shortcutting : 21.833000 ms 
+Time of (4)Multi component Euler tour internal  : 18.08600 ms 
+Time of (5)Retrieving back first and last times  : 14.82600 ms 
+Time of (1)Get key rem collections : 10.04500 ms 
+Time of (9)Get key rem collections : 7.61300 ms 
+Time of (8)Generate new edges : 6.71000 ms 
+Time of (2)Convert to collection : 5.22100 ms 
+Time of (10)Convert to collection : 4.39000 ms 
+Time of (7)Remove edges : 3.34100 ms 
+Time of (15)Transedges prefix : 3.00700 ms 
+Time of (6)Edge Deletion : 2.86900 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.73800 ms 
+Time of (11)Shortcut rep : 2.66700 ms 
+Time of (23)List ranking : 1.00600 ms 
+Time of (0)Extracting Roots : 0.71800 ms 
+Time of (21)CSR creation : 0.63500 ms 
+Time of (3)Processing for multi component Euler tour : 0.54600 ms 
+Time of (13)Compress Graph : 0.24000 ms 
+Time of (19)Thrust Sorting : 0.08500 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 106.66100 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 1789
+Non-tree edges deleted : 98211
+Time of (4)Multi component Euler tour internal  : 19.999000 ms 
+Time of (12)Hooking Shortcutting : 19.04000 ms 
+Time of (5)Retrieving back first and last times  : 16.64700 ms 
+Time of (1)Get key rem collections : 8.72200 ms 
+Time of (9)Get key rem collections : 6.39500 ms 
+Time of (8)Generate new edges : 6.19500 ms 
+Time of (2)Convert to collection : 4.60600 ms 
+Time of (10)Convert to collection : 3.84300 ms 
+Time of (15)Transedges prefix : 3.02200 ms 
+Time of (6)Edge Deletion : 2.86300 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.72100 ms 
+Time of (7)Remove edges : 2.64100 ms 
+Time of (11)Shortcut rep : 2.27600 ms 
+Time of (23)List ranking : 1.00800 ms 
+Time of (0)Extracting Roots : 0.68800 ms 
+Time of (21)CSR creation : 0.64900 ms 
+Time of (3)Processing for multi component Euler tour : 0.47700 ms 
+Time of (13)Compress Graph : 0.24400 ms 
+Time of (19)Thrust Sorting : 0.08700 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 102.21000 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 1771
+Non-tree edges deleted : 98229
+Time of (4)Multi component Euler tour internal  : 22.435000 ms 
+Time of (12)Hooking Shortcutting : 19.25200 ms 
+Time of (5)Retrieving back first and last times  : 15.48200 ms 
+Time of (1)Get key rem collections : 9.38300 ms 
+Time of (9)Get key rem collections : 6.43100 ms 
+Time of (8)Generate new edges : 6.22000 ms 
+Time of (2)Convert to collection : 5.00700 ms 
+Time of (10)Convert to collection : 3.88300 ms 
+Time of (15)Transedges prefix : 2.99400 ms 
+Time of (6)Edge Deletion : 2.86600 ms 
+Time of (7)Remove edges : 2.71400 ms 
+Time of (11)Shortcut rep : 2.31300 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.69000 ms 
+Time of (23)List ranking : 0.99800 ms 
+Time of (0)Extracting Roots : 0.69100 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (3)Processing for multi component Euler tour : 0.51900 ms 
+Time of (13)Compress Graph : 0.24300 ms 
+Time of (19)Thrust Sorting : 0.08400 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00800 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time (total): 103.92600 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 1780
+Non-tree edges deleted : 98220
+Time of (12)Hooking Shortcutting : 19.168000 ms 
+Time of (4)Multi component Euler tour internal  : 17.96500 ms 
+Time of (5)Retrieving back first and last times  : 16.85500 ms 
+Time of (1)Get key rem collections : 8.17600 ms 
+Time of (9)Get key rem collections : 7.21900 ms 
+Time of (8)Generate new edges : 6.59200 ms 
+Time of (2)Convert to collection : 4.23200 ms 
+Time of (10)Convert to collection : 4.18200 ms 
+Time of (7)Remove edges : 3.50300 ms 
+Time of (15)Transedges prefix : 3.00800 ms 
+Time of (6)Edge Deletion : 2.84700 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.72100 ms 
+Time of (11)Shortcut rep : 2.29200 ms 
+Time of (23)List ranking : 0.99400 ms 
+Time of (0)Extracting Roots : 0.73000 ms 
+Time of (21)CSR creation : 0.64800 ms 
+Time of (3)Processing for multi component Euler tour : 0.43200 ms 
+Time of (13)Compress Graph : 0.30800 ms 
+Time of (19)Thrust Sorting : 0.08800 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 102.05200 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 1721
+Non-tree edges deleted : 98279
+Time of (4)Multi component Euler tour internal  : 22.475000 ms 
+Time of (12)Hooking Shortcutting : 19.19100 ms 
+Time of (5)Retrieving back first and last times  : 16.61500 ms 
+Time of (1)Get key rem collections : 10.33500 ms 
+Time of (9)Get key rem collections : 9.50200 ms 
+Time of (8)Generate new edges : 7.87500 ms 
+Time of (2)Convert to collection : 5.18800 ms 
+Time of (7)Remove edges : 4.26700 ms 
+Time of (6)Edge Deletion : 3.94800 ms 
+Time of (10)Convert to collection : 3.83800 ms 
+Time of (15)Transedges prefix : 2.94100 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.73000 ms 
+Time of (11)Shortcut rep : 2.27900 ms 
+Time of (23)List ranking : 0.99500 ms 
+Time of (0)Extracting Roots : 0.73300 ms 
+Time of (21)CSR creation : 0.64400 ms 
+Time of (3)Processing for multi component Euler tour : 0.54400 ms 
+Time of (13)Compress Graph : 0.23600 ms 
+Time of (19)Thrust Sorting : 0.09600 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (18)Functor : 0.01800 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 114.52900 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 176
+Non-tree edges deleted : 9824
+Time of (4)Multi component Euler tour internal  : 21.202000 ms 
+Time of (12)Hooking Shortcutting : 18.99700 ms 
+Time of (5)Retrieving back first and last times  : 15.39200 ms 
+Time of (1)Get key rem collections : 9.07500 ms 
+Time of (9)Get key rem collections : 6.39100 ms 
+Time of (8)Generate new edges : 6.19400 ms 
+Time of (2)Convert to collection : 4.84400 ms 
+Time of (10)Convert to collection : 3.84300 ms 
+Time of (15)Transedges prefix : 2.98900 ms 
+Time of (6)Edge Deletion : 2.87800 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.65700 ms 
+Time of (7)Remove edges : 2.64800 ms 
+Time of (11)Shortcut rep : 2.28100 ms 
+Time of (23)List ranking : 0.75400 ms 
+Time of (0)Extracting Roots : 0.73500 ms 
+Time of (21)CSR creation : 0.62700 ms 
+Time of (3)Processing for multi component Euler tour : 0.50300 ms 
+Time of (13)Compress Graph : 0.23500 ms 
+Time of (19)Thrust Sorting : 0.08300 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 102.41100 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 178
+Non-tree edges deleted : 9822
+Time of (12)Hooking Shortcutting : 20.644000 ms 
+Time of (4)Multi component Euler tour internal  : 20.04300 ms 
+Time of (5)Retrieving back first and last times  : 16.66700 ms 
+Time of (1)Get key rem collections : 8.73600 ms 
+Time of (9)Get key rem collections : 7.68800 ms 
+Time of (8)Generate new edges : 6.92500 ms 
+Time of (10)Convert to collection : 4.56500 ms 
+Time of (2)Convert to collection : 4.51600 ms 
+Time of (7)Remove edges : 3.41400 ms 
+Time of (15)Transedges prefix : 2.98400 ms 
+Time of (11)Shortcut rep : 2.75900 ms 
+Time of (6)Edge Deletion : 2.72500 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.37200 ms 
+Time of (23)List ranking : 0.75300 ms 
+Time of (0)Extracting Roots : 0.74100 ms 
+Time of (21)CSR creation : 0.63000 ms 
+Time of (3)Processing for multi component Euler tour : 0.46500 ms 
+Time of (13)Compress Graph : 0.23400 ms 
+Time of (19)Thrust Sorting : 0.08200 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 107.02100 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 161
+Non-tree edges deleted : 9839
+Time of (12)Hooking Shortcutting : 19.025000 ms 
+Time of (4)Multi component Euler tour internal  : 18.04300 ms 
+Time of (5)Retrieving back first and last times  : 16.39100 ms 
+Time of (1)Get key rem collections : 8.04300 ms 
+Time of (9)Get key rem collections : 7.14100 ms 
+Time of (8)Generate new edges : 6.51300 ms 
+Time of (10)Convert to collection : 4.19400 ms 
+Time of (2)Convert to collection : 4.15400 ms 
+Time of (7)Remove edges : 3.11600 ms 
+Time of (15)Transedges prefix : 2.98900 ms 
+Time of (6)Edge Deletion : 2.80400 ms 
+Time of (11)Shortcut rep : 2.53700 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.40600 ms 
+Time of (0)Extracting Roots : 0.76000 ms 
+Time of (23)List ranking : 0.75500 ms 
+Time of (21)CSR creation : 0.64300 ms 
+Time of (3)Processing for multi component Euler tour : 0.41600 ms 
+Time of (13)Compress Graph : 0.23900 ms 
+Time of (19)Thrust Sorting : 0.08300 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 100.33400 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 162
+Non-tree edges deleted : 9838
+Time of (4)Multi component Euler tour internal  : 21.421000 ms 
+Time of (12)Hooking Shortcutting : 19.21600 ms 
+Time of (5)Retrieving back first and last times  : 18.38900 ms 
+Time of (1)Get key rem collections : 9.50700 ms 
+Time of (9)Get key rem collections : 6.46700 ms 
+Time of (8)Generate new edges : 6.23100 ms 
+Time of (2)Convert to collection : 4.93700 ms 
+Time of (6)Edge Deletion : 3.92400 ms 
+Time of (10)Convert to collection : 3.88800 ms 
+Time of (15)Transedges prefix : 3.00500 ms 
+Time of (7)Remove edges : 2.72600 ms 
+Time of (11)Shortcut rep : 2.31400 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.14100 ms 
+Time of (0)Extracting Roots : 0.78200 ms 
+Time of (23)List ranking : 0.77100 ms 
+Time of (21)CSR creation : 0.64300 ms 
+Time of (3)Processing for multi component Euler tour : 0.51900 ms 
+Time of (13)Compress Graph : 0.24400 ms 
+Time of (19)Thrust Sorting : 0.08200 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 107.29700 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 162
+Non-tree edges deleted : 9838
+Time of (12)Hooking Shortcutting : 21.995000 ms 
+Time of (4)Multi component Euler tour internal  : 19.49000 ms 
+Time of (5)Retrieving back first and last times  : 15.08800 ms 
+Time of (1)Get key rem collections : 9.82800 ms 
+Time of (9)Get key rem collections : 7.61200 ms 
+Time of (8)Generate new edges : 6.82700 ms 
+Time of (10)Convert to collection : 4.48000 ms 
+Time of (2)Convert to collection : 4.42200 ms 
+Time of (7)Remove edges : 3.36100 ms 
+Time of (15)Transedges prefix : 3.02600 ms 
+Time of (6)Edge Deletion : 2.73800 ms 
+Time of (11)Shortcut rep : 2.71300 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.14400 ms 
+Time of (23)List ranking : 0.75100 ms 
+Time of (0)Extracting Roots : 0.69400 ms 
+Time of (21)CSR creation : 0.63000 ms 
+Time of (3)Processing for multi component Euler tour : 0.45600 ms 
+Time of (13)Compress Graph : 0.36800 ms 
+Time of (19)Thrust Sorting : 0.08400 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 106.78800 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 3
+Non-tree edges deleted : 97
+Time of (12)Hooking Shortcutting : 18.925000 ms 
+Time of (4)Multi component Euler tour internal  : 17.54000 ms 
+Time of (5)Retrieving back first and last times  : 16.27100 ms 
+Time of (1)Get key rem collections : 8.03100 ms 
+Time of (9)Get key rem collections : 6.49600 ms 
+Time of (8)Generate new edges : 6.39900 ms 
+Time of (2)Convert to collection : 4.04100 ms 
+Time of (10)Convert to collection : 3.83900 ms 
+Time of (6)Edge Deletion : 3.24600 ms 
+Time of (15)Transedges prefix : 3.07200 ms 
+Time of (7)Remove edges : 3.04600 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.64500 ms 
+Time of (11)Shortcut rep : 2.27700 ms 
+Time of (21)CSR creation : 0.76700 ms 
+Time of (0)Extracting Roots : 0.65700 ms 
+Time of (23)List ranking : 0.41900 ms 
+Time of (3)Processing for multi component Euler tour : 0.40100 ms 
+Time of (13)Compress Graph : 0.23800 ms 
+Time of (19)Thrust Sorting : 0.07200 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (24)Component Parent, Reversals : 0.01300 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (22)Get Successor : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 98.46900 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 4
+Non-tree edges deleted : 96
+Time of (12)Hooking Shortcutting : 24.163000 ms 
+Time of (4)Multi component Euler tour internal  : 21.66100 ms 
+Time of (5)Retrieving back first and last times  : 16.29600 ms 
+Time of (1)Get key rem collections : 9.30700 ms 
+Time of (9)Get key rem collections : 8.54200 ms 
+Time of (8)Generate new edges : 7.48400 ms 
+Time of (10)Convert to collection : 4.97200 ms 
+Time of (2)Convert to collection : 4.96200 ms 
+Time of (7)Remove edges : 3.72500 ms 
+Time of (15)Transedges prefix : 3.04000 ms 
+Time of (11)Shortcut rep : 3.01100 ms 
+Time of (6)Edge Deletion : 3.00500 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.57900 ms 
+Time of (0)Extracting Roots : 0.71400 ms 
+Time of (21)CSR creation : 0.69000 ms 
+Time of (3)Processing for multi component Euler tour : 0.51600 ms 
+Time of (23)List ranking : 0.30800 ms 
+Time of (13)Compress Graph : 0.23700 ms 
+Time of (19)Thrust Sorting : 0.07300 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 115.36500 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 5
+Non-tree edges deleted : 95
+Time of (12)Hooking Shortcutting : 20.637000 ms 
+Time of (4)Multi component Euler tour internal  : 19.92100 ms 
+Time of (5)Retrieving back first and last times  : 16.44100 ms 
+Time of (1)Get key rem collections : 9.99200 ms 
+Time of (9)Get key rem collections : 7.16100 ms 
+Time of (8)Generate new edges : 6.50000 ms 
+Time of (2)Convert to collection : 5.21800 ms 
+Time of (10)Convert to collection : 4.19700 ms 
+Time of (6)Edge Deletion : 3.14700 ms 
+Time of (7)Remove edges : 3.01100 ms 
+Time of (15)Transedges prefix : 3.00200 ms 
+Time of (11)Shortcut rep : 2.53700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.90300 ms 
+Time of (0)Extracting Roots : 0.69400 ms 
+Time of (21)CSR creation : 0.63900 ms 
+Time of (3)Processing for multi component Euler tour : 0.54700 ms 
+Time of (23)List ranking : 0.38100 ms 
+Time of (13)Compress Graph : 0.27100 ms 
+Time of (19)Thrust Sorting : 0.07500 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 106.35400 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 1
+Non-tree edges deleted : 99
+Time of (4)Multi component Euler tour internal  : 19.260000 ms 
+Time of (5)Retrieving back first and last times  : 15.63300 ms 
+Time of (12)Hooking Shortcutting : 9.46900 ms 
+Time of (1)Get key rem collections : 8.42200 ms 
+Time of (9)Get key rem collections : 6.35600 ms 
+Time of (8)Generate new edges : 6.19400 ms 
+Time of (2)Convert to collection : 4.36400 ms 
+Time of (10)Convert to collection : 3.83700 ms 
+Time of (7)Remove edges : 3.18500 ms 
+Time of (6)Edge Deletion : 3.13000 ms 
+Time of (15)Transedges prefix : 3.04500 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.55500 ms 
+Time of (11)Shortcut rep : 2.39400 ms 
+Time of (0)Extracting Roots : 0.77500 ms 
+Time of (21)CSR creation : 0.63500 ms 
+Time of (3)Processing for multi component Euler tour : 0.44400 ms 
+Time of (13)Compress Graph : 0.24500 ms 
+Time of (23)List ranking : 0.16200 ms 
+Time of (19)Thrust Sorting : 0.07300 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 90.25900 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 1
+Non-tree edges deleted : 99
+Time of (4)Multi component Euler tour internal  : 19.751000 ms 
+Time of (5)Retrieving back first and last times  : 16.45700 ms 
+Time of (12)Hooking Shortcutting : 11.01600 ms 
+Time of (1)Get key rem collections : 9.86800 ms 
+Time of (9)Get key rem collections : 7.66200 ms 
+Time of (8)Generate new edges : 6.83700 ms 
+Time of (2)Convert to collection : 5.22200 ms 
+Time of (10)Convert to collection : 4.49200 ms 
+Time of (7)Remove edges : 3.33300 ms 
+Time of (6)Edge Deletion : 3.10500 ms 
+Time of (15)Transedges prefix : 3.01200 ms 
+Time of (11)Shortcut rep : 2.72000 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.15100 ms 
+Time of (0)Extracting Roots : 0.67200 ms 
+Time of (21)CSR creation : 0.63600 ms 
+Time of (3)Processing for multi component Euler tour : 0.55000 ms 
+Time of (13)Compress Graph : 0.23500 ms 
+Time of (23)List ranking : 0.16100 ms 
+Time of (19)Thrust Sorting : 0.07300 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time (total): 98.03300 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 15
+Non-tree edges deleted : 985
+Time of (12)Hooking Shortcutting : 18.989000 ms 
+Time of (4)Multi component Euler tour internal  : 17.65900 ms 
+Time of (5)Retrieving back first and last times  : 16.43800 ms 
+Time of (1)Get key rem collections : 7.92100 ms 
+Time of (9)Get key rem collections : 7.17300 ms 
+Time of (8)Generate new edges : 6.51100 ms 
+Time of (10)Convert to collection : 4.20000 ms 
+Time of (2)Convert to collection : 4.14300 ms 
+Time of (7)Remove edges : 3.21900 ms 
+Time of (6)Edge Deletion : 3.07500 ms 
+Time of (15)Transedges prefix : 2.94500 ms 
+Time of (11)Shortcut rep : 2.53100 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.20800 ms 
+Time of (0)Extracting Roots : 0.71600 ms 
+Time of (21)CSR creation : 0.64800 ms 
+Time of (23)List ranking : 0.45400 ms 
+Time of (3)Processing for multi component Euler tour : 0.41500 ms 
+Time of (13)Compress Graph : 0.23800 ms 
+Time of (19)Thrust Sorting : 0.07700 ms 
+Time of (20)Thrust gather : 0.04000 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00700 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 99.63900 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 12
+Non-tree edges deleted : 988
+Time of (12)Hooking Shortcutting : 19.158000 ms 
+Time of (4)Multi component Euler tour internal  : 16.78700 ms 
+Time of (5)Retrieving back first and last times  : 15.89200 ms 
+Time of (1)Get key rem collections : 7.49300 ms 
+Time of (9)Get key rem collections : 6.70600 ms 
+Time of (8)Generate new edges : 6.33800 ms 
+Time of (10)Convert to collection : 4.01100 ms 
+Time of (2)Convert to collection : 3.95200 ms 
+Time of (6)Edge Deletion : 3.09400 ms 
+Time of (15)Transedges prefix : 3.00300 ms 
+Time of (7)Remove edges : 2.79200 ms 
+Time of (11)Shortcut rep : 2.41100 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.09800 ms 
+Time of (0)Extracting Roots : 0.71400 ms 
+Time of (21)CSR creation : 0.62700 ms 
+Time of (23)List ranking : 0.45100 ms 
+Time of (3)Processing for multi component Euler tour : 0.38600 ms 
+Time of (13)Compress Graph : 0.23400 ms 
+Time of (19)Thrust Sorting : 0.07700 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 96.30300 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 12
+Non-tree edges deleted : 988
+Time of (12)Hooking Shortcutting : 18.973000 ms 
+Time of (4)Multi component Euler tour internal  : 18.04400 ms 
+Time of (5)Retrieving back first and last times  : 16.14500 ms 
+Time of (1)Get key rem collections : 8.07000 ms 
+Time of (8)Generate new edges : 6.50800 ms 
+Time of (9)Get key rem collections : 6.40300 ms 
+Time of (2)Convert to collection : 4.15100 ms 
+Time of (10)Convert to collection : 3.84000 ms 
+Time of (7)Remove edges : 3.14700 ms 
+Time of (6)Edge Deletion : 3.00400 ms 
+Time of (15)Transedges prefix : 3.00000 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.56600 ms 
+Time of (11)Shortcut rep : 2.28100 ms 
+Time of (0)Extracting Roots : 0.64500 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (23)List ranking : 0.45400 ms 
+Time of (3)Processing for multi component Euler tour : 0.41500 ms 
+Time of (13)Compress Graph : 0.24300 ms 
+Time of (19)Thrust Sorting : 0.07600 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 98.68100 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 17
+Non-tree edges deleted : 983
+Time of (4)Multi component Euler tour internal  : 20.415000 ms 
+Time of (12)Hooking Shortcutting : 18.99500 ms 
+Time of (5)Retrieving back first and last times  : 16.27700 ms 
+Time of (1)Get key rem collections : 9.01700 ms 
+Time of (8)Generate new edges : 6.67700 ms 
+Time of (9)Get key rem collections : 6.31500 ms 
+Time of (2)Convert to collection : 4.72200 ms 
+Time of (10)Convert to collection : 3.84200 ms 
+Time of (7)Remove edges : 3.62000 ms 
+Time of (15)Transedges prefix : 2.97700 ms 
+Time of (6)Edge Deletion : 2.88000 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.30600 ms 
+Time of (11)Shortcut rep : 2.28000 ms 
+Time of (0)Extracting Roots : 0.66900 ms 
+Time of (21)CSR creation : 0.62800 ms 
+Time of (23)List ranking : 0.52500 ms 
+Time of (3)Processing for multi component Euler tour : 0.49600 ms 
+Time of (13)Compress Graph : 0.27200 ms 
+Time of (19)Thrust Sorting : 0.07800 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 103.07000 ms 
+--------------------------------------------------------
+filename: uk-2002.txt
+Nodes : 18520486
+Edges : 261825616
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 26
+Non-tree edges deleted : 974
+Time of (12)Hooking Shortcutting : 20.898000 ms 
+Time of (4)Multi component Euler tour internal  : 18.37500 ms 
+Time of (5)Retrieving back first and last times  : 15.80900 ms 
+Time of (1)Get key rem collections : 9.94700 ms 
+Time of (9)Get key rem collections : 7.25100 ms 
+Time of (8)Generate new edges : 6.55000 ms 
+Time of (2)Convert to collection : 5.22000 ms 
+Time of (10)Convert to collection : 4.22500 ms 
+Time of (15)Transedges prefix : 3.05200 ms 
+Time of (7)Remove edges : 3.05000 ms 
+Time of (6)Edge Deletion : 3.00000 ms 
+Time of (11)Shortcut rep : 2.54700 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.31700 ms 
+Time of (0)Extracting Roots : 0.77000 ms 
+Time of (21)CSR creation : 0.62200 ms 
+Time of (3)Processing for multi component Euler tour : 0.54900 ms 
+Time of (23)List ranking : 0.52000 ms 
+Time of (13)Compress Graph : 0.24100 ms 
+Time of (19)Thrust Sorting : 0.08100 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 105.10600 ms 
+--------------------------------------------------------

@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+web-BerkStan.txt,100,8.6
+web-BerkStan.txt,100,9.835
+web-BerkStan.txt,100,9.748
+web-BerkStan.txt,100,7.936
+web-BerkStan.txt,100,8.657
+web-BerkStan.txt,1000,10.679
+web-BerkStan.txt,1000,10.266
+web-BerkStan.txt,1000,9.991
+web-BerkStan.txt,1000,9.698
+web-BerkStan.txt,1000,10.044
+web-BerkStan.txt,10000,10.72
+web-BerkStan.txt,10000,11.083
+web-BerkStan.txt,10000,10.524
+web-BerkStan.txt,10000,11.185
+web-BerkStan.txt,10000,10.65
+web-BerkStan.txt,100000,11.386
+web-BerkStan.txt,100000,12.302
+web-BerkStan.txt,100000,11.572
+web-BerkStan.txt,100000,11.789
+web-BerkStan.txt,100000,12.034

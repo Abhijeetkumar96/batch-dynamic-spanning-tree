@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+sx-stackoverflow.txt,100,24.23
+sx-stackoverflow.txt,1000,30.17
+sx-stackoverflow.txt,10000,28.47
+sx-stackoverflow.txt,100000,39.59

@@ -1,0 +1,21 @@
+filename,delete_batch_size,depth_of_graph,simple BFS,Adam_BFS,PR-RST module,CC,update datastr
+higgs-twitter.egr,100,157,55.0,18.66,5.26,3.82,3.0
+higgs-twitter.egr,100,157,53.85,18.79,5.21,5.08,2.41
+higgs-twitter.egr,100,157,55.24,18.7,5.54,4.55,2.32
+higgs-twitter.egr,100,157,55.37,18.8,5.23,4.65,2.36
+higgs-twitter.egr,100,157,53.96,18.85,7.02,4.02,2.38
+higgs-twitter.egr,1000,157,55.14,18.86,6.96,4.16,2.47
+higgs-twitter.egr,1000,157,54.11,18.92,6.93,3.79,2.43
+higgs-twitter.egr,1000,157,53.97,18.82,5.29,3.62,2.36
+higgs-twitter.egr,1000,157,53.58,18.83,7.44,3.0,2.46
+higgs-twitter.egr,1000,157,53.95,18.84,6.94,3.15,2.38
+higgs-twitter.egr,10000,157,54.52,18.82,5.27,4.65,2.44
+higgs-twitter.egr,10000,157,55.84,18.83,5.33,4.39,2.34
+higgs-twitter.egr,10000,157,54.33,18.88,5.27,4.06,2.38
+higgs-twitter.egr,10000,157,54.06,18.77,5.25,5.19,2.34
+higgs-twitter.egr,10000,157,54.54,18.75,5.23,4.94,2.38
+higgs-twitter.egr,100000,157,54.91,18.98,6.92,3.54,2.48
+higgs-twitter.egr,100000,157,54.68,18.85,6.99,3.04,2.44
+higgs-twitter.egr,100000,157,54.39,18.84,5.26,3.89,2.45
+higgs-twitter.egr,100000,157,54.56,18.89,6.93,5.64,2.44
+higgs-twitter.egr,100000,157,54.21,18.78,6.93,4.81,2.44

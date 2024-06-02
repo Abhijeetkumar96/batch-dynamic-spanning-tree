@@ -1,0 +1,420 @@
+
+
+filename: sx-stackoverflow.egr
+Root: 1611989
+Number of deleted tree edges: 4085
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100000
+
+Root: 1611989
+Root: 1611989
+After repairing:
+Total execution time of all functions: 13.0549 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.37 ms
+Time of Super graph Creation : 1.20 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 59611
+Number of deleted tree edges: 3994
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100000
+
+Root: 59611
+Root: 59611
+After repairing:
+Total execution time of all functions: 13.0623 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.41 ms
+Time of Super graph Creation : 1.16 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 271370
+Number of deleted tree edges: 3880
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100000
+
+Root: 271370
+Root: 271370
+After repairing:
+Total execution time of all functions: 13.0504 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.53 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.03 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 934260
+Number of deleted tree edges: 3889
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100000
+
+Root: 934260
+Root: 934260
+After repairing:
+Total execution time of all functions: 13.0513 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.33 ms
+Time of Super graph Creation : 1.24 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 1990933
+Number of deleted tree edges: 4247
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100000
+
+Root: 1990933
+Root: 1990933
+After repairing:
+Total execution time of all functions: 14.1131 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.65 ms
+Time of Super graph Creation : 1.97 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 702858
+Number of deleted tree edges: 383
+numVert: 2601977, num_edges: 56414194 and delete batch size: 10000
+
+Root: 702858
+Root: 702858
+After repairing:
+Total execution time of all functions: 13.0455 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.44 ms
+Time of Super graph Creation : 1.12 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 1978015
+Number of deleted tree edges: 405
+numVert: 2601977, num_edges: 56414194 and delete batch size: 10000
+
+Root: 1978015
+Root: 1978015
+After repairing:
+Total execution time of all functions: 13.0523 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.34 ms
+Time of Super graph Creation : 1.22 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 2486546
+Number of deleted tree edges: 397
+numVert: 2601977, num_edges: 56414194 and delete batch size: 10000
+
+Root: 2486546
+Root: 2486546
+After repairing:
+Total execution time of all functions: 14.1025 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.87 ms
+Time of Super graph Creation : 1.74 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 1996424
+Number of deleted tree edges: 420
+numVert: 2601977, num_edges: 56414194 and delete batch size: 10000
+
+Root: 1996424
+Root: 1996424
+After repairing:
+Total execution time of all functions: 14.1 ms.
+
+Function execution times:
+Time of Eulerian Tour : 11.50 ms
+Time of Super graph Creation : 1.11 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 261616
+Number of deleted tree edges: 418
+numVert: 2601977, num_edges: 56414194 and delete batch size: 10000
+
+Root: 261616
+Root: 261616
+After repairing:
+Total execution time of all functions: 14.098 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.95 ms
+Time of Super graph Creation : 1.67 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 875138
+Number of deleted tree edges: 3
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100
+
+Root: 875138
+Root: 875138
+After repairing:
+Total execution time of all functions: 11.9911 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.18 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Super graph Creation : 0.33 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 1923247
+Number of deleted tree edges: 5
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100
+
+Root: 1923247
+Root: 1923247
+After repairing:
+Total execution time of all functions: 13.0473 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.49 ms
+Time of Super graph Creation : 1.07 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 1283144
+Number of deleted tree edges: 3
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100
+
+Root: 1283144
+Root: 1283144
+After repairing:
+Total execution time of all functions: 13.0402 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.32 ms
+Time of Super graph Creation : 1.23 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 2179169
+Number of deleted tree edges: 4
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100
+
+Root: 2179169
+Root: 2179169
+After repairing:
+Total execution time of all functions: 13.0433 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.82 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.73 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 57737
+Number of deleted tree edges: 3
+numVert: 2601977, num_edges: 56414194 and delete batch size: 100
+
+Root: 57737
+Root: 57737
+After repairing:
+Total execution time of all functions: 11.9959 ms.
+
+Function execution times:
+Time of Eulerian Tour : 9.54 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.97 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 1962725
+Number of deleted tree edges: 39
+numVert: 2601977, num_edges: 56414194 and delete batch size: 1000
+
+Root: 1962725
+Root: 1962725
+After repairing:
+Total execution time of all functions: 13.0353 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.55 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.01 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 2468067
+Number of deleted tree edges: 37
+numVert: 2601977, num_edges: 56414194 and delete batch size: 1000
+
+Root: 2468067
+Root: 2468067
+After repairing:
+Total execution time of all functions: 13.0524 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.50 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 1.06 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 851764
+Number of deleted tree edges: 35
+numVert: 2601977, num_edges: 56414194 and delete batch size: 1000
+
+Root: 851764
+Root: 851764
+After repairing:
+Total execution time of all functions: 13.0591 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.37 ms
+Time of Super graph Creation : 1.20 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 2272270
+Number of deleted tree edges: 42
+numVert: 2601977, num_edges: 56414194 and delete batch size: 1000
+
+Root: 2272270
+Root: 2272270
+After repairing:
+Total execution time of all functions: 13.0514 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.50 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 1.06 ms
+Time of Pointer Jumping : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: sx-stackoverflow.egr
+Root: 1145127
+Number of deleted tree edges: 50
+numVert: 2601977, num_edges: 56414194 and delete batch size: 1000
+
+Root: 1145127
+Root: 1145127
+After repairing:
+Total execution time of all functions: 13.0479 ms.
+
+Function execution times:
+Time of Eulerian Tour : 10.60 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.95 ms
+Time of Pointer Jumping : 0.42 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

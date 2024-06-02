@@ -1,0 +1,610 @@
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 53.769000 ms 
+Time of (17)PR Shortcut : 5.32200 ms 
+Time of (1)Get key rem collections : 5.28400 ms 
+Time of (6)Get key rem collections : 4.68700 ms 
+Time of (5)Generate new edges : 3.50400 ms 
+Time of (12)Transedges prefix : 2.86000 ms 
+Time of (3)Edge Deletion : 2.66800 ms 
+Time of (15)PR Loop : 2.58100 ms 
+Time of (7)Convert to collection : 2.33300 ms 
+Time of (2)Convert to collection : 2.31700 ms 
+Time of (4)Remove edges : 1.75200 ms 
+Time of (18)PR Reverse Paths : 1.65600 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.37200 ms 
+Time of (0)Extracting Roots : 0.55700 ms 
+Time of (16)Component Parent, Reversals : 0.55400 ms 
+Time of (8)Shortcut rep : 0.35100 ms 
+Time of (10)Compress Graph : 0.10300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 91.69400 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 27.214000 ms 
+Time of (17)PR Shortcut : 6.04800 ms 
+Time of (1)Get key rem collections : 5.45500 ms 
+Time of (6)Get key rem collections : 4.48900 ms 
+Time of (5)Generate new edges : 3.50300 ms 
+Time of (15)PR Loop : 3.20100 ms 
+Time of (12)Transedges prefix : 2.86500 ms 
+Time of (3)Edge Deletion : 2.56400 ms 
+Time of (7)Convert to collection : 2.33200 ms 
+Time of (2)Convert to collection : 2.33000 ms 
+Time of (18)PR Reverse Paths : 2.28200 ms 
+Time of (19)Reverse Edges and Connect Parent : 2.01700 ms 
+Time of (4)Remove edges : 1.76300 ms 
+Time of (0)Extracting Roots : 0.60000 ms 
+Time of (8)Shortcut rep : 0.35200 ms 
+Time of (16)Component Parent, Reversals : 0.27700 ms 
+Time of (10)Compress Graph : 0.10400 ms 
+Time of (14)PR init : 0.01900 ms 
+Time of (11)Get compressed list : 0.00900 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time (total): 67.43100 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 44.314000 ms 
+Time of (1)Get key rem collections : 5.43200 ms 
+Time of (15)PR Loop : 5.10500 ms 
+Time of (17)PR Shortcut : 5.04600 ms 
+Time of (6)Get key rem collections : 4.52500 ms 
+Time of (5)Generate new edges : 3.50800 ms 
+Time of (3)Edge Deletion : 2.67300 ms 
+Time of (12)Transedges prefix : 2.35200 ms 
+Time of (7)Convert to collection : 2.32900 ms 
+Time of (2)Convert to collection : 2.31700 ms 
+Time of (4)Remove edges : 1.80800 ms 
+Time of (18)PR Reverse Paths : 1.66300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.36800 ms 
+Time of (0)Extracting Roots : 0.57100 ms 
+Time of (8)Shortcut rep : 0.36400 ms 
+Time of (16)Component Parent, Reversals : 0.26700 ms 
+Time of (10)Compress Graph : 0.08400 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 83.75000 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 17.246000 ms 
+Time of (1)Get key rem collections : 5.69100 ms 
+Time of (17)PR Shortcut : 5.23900 ms 
+Time of (6)Get key rem collections : 4.66800 ms 
+Time of (5)Generate new edges : 3.50500 ms 
+Time of (3)Edge Deletion : 2.67800 ms 
+Time of (15)PR Loop : 2.65100 ms 
+Time of (12)Transedges prefix : 2.32400 ms 
+Time of (2)Convert to collection : 2.31600 ms 
+Time of (4)Remove edges : 2.13800 ms 
+Time of (7)Convert to collection : 2.12700 ms 
+Time of (18)PR Reverse Paths : 1.78400 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.29100 ms 
+Time of (0)Extracting Roots : 0.58400 ms 
+Time of (8)Shortcut rep : 0.27900 ms 
+Time of (16)Component Parent, Reversals : 0.27200 ms 
+Time of (10)Compress Graph : 0.09700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 54.91400 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 18.955000 ms 
+Time of (17)PR Shortcut : 5.88400 ms 
+Time of (1)Get key rem collections : 5.46600 ms 
+Time of (6)Get key rem collections : 4.84900 ms 
+Time of (5)Generate new edges : 3.45800 ms 
+Time of (15)PR Loop : 3.18400 ms 
+Time of (12)Transedges prefix : 2.81800 ms 
+Time of (3)Edge Deletion : 2.67500 ms 
+Time of (7)Convert to collection : 2.31500 ms 
+Time of (2)Convert to collection : 2.31500 ms 
+Time of (18)PR Reverse Paths : 2.30500 ms 
+Time of (19)Reverse Edges and Connect Parent : 2.01300 ms 
+Time of (4)Remove edges : 1.92200 ms 
+Time of (0)Extracting Roots : 0.57300 ms 
+Time of (8)Shortcut rep : 0.35600 ms 
+Time of (16)Component Parent, Reversals : 0.27700 ms 
+Time of (10)Compress Graph : 0.10700 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 59.49900 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 25.744000 ms 
+Time of (1)Get key rem collections : 5.48100 ms 
+Time of (17)PR Shortcut : 5.04600 ms 
+Time of (6)Get key rem collections : 4.56900 ms 
+Time of (5)Generate new edges : 3.50500 ms 
+Time of (3)Edge Deletion : 3.39500 ms 
+Time of (12)Transedges prefix : 2.61200 ms 
+Time of (7)Convert to collection : 2.31800 ms 
+Time of (2)Convert to collection : 2.31600 ms 
+Time of (4)Remove edges : 1.83400 ms 
+Time of (18)PR Reverse Paths : 1.54200 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.47400 ms 
+Time of (0)Extracting Roots : 0.58600 ms 
+Time of (15)PR Loop : 0.50900 ms 
+Time of (8)Shortcut rep : 0.35000 ms 
+Time of (16)Component Parent, Reversals : 0.26300 ms 
+Time of (10)Compress Graph : 0.08300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 61.65300 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 16.833000 ms 
+Time of (17)PR Shortcut : 5.54300 ms 
+Time of (1)Get key rem collections : 5.39900 ms 
+Time of (6)Get key rem collections : 4.64100 ms 
+Time of (5)Generate new edges : 3.50900 ms 
+Time of (3)Edge Deletion : 3.15800 ms 
+Time of (12)Transedges prefix : 2.56400 ms 
+Time of (2)Convert to collection : 2.31600 ms 
+Time of (7)Convert to collection : 2.30900 ms 
+Time of (18)PR Reverse Paths : 1.78400 ms 
+Time of (4)Remove edges : 1.73800 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.32300 ms 
+Time of (0)Extracting Roots : 0.56900 ms 
+Time of (15)PR Loop : 0.55300 ms 
+Time of (8)Shortcut rep : 0.29700 ms 
+Time of (16)Component Parent, Reversals : 0.27600 ms 
+Time of (10)Compress Graph : 0.09800 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 52.93600 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 25.754000 ms 
+Time of (1)Get key rem collections : 5.43200 ms 
+Time of (17)PR Shortcut : 4.96900 ms 
+Time of (6)Get key rem collections : 4.73000 ms 
+Time of (5)Generate new edges : 3.50600 ms 
+Time of (3)Edge Deletion : 3.42100 ms 
+Time of (12)Transedges prefix : 2.74300 ms 
+Time of (2)Convert to collection : 2.32400 ms 
+Time of (7)Convert to collection : 2.31700 ms 
+Time of (4)Remove edges : 1.77400 ms 
+Time of (18)PR Reverse Paths : 1.56300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.48800 ms 
+Time of (15)PR Loop : 1.46500 ms 
+Time of (0)Extracting Roots : 0.57400 ms 
+Time of (8)Shortcut rep : 0.34700 ms 
+Time of (16)Component Parent, Reversals : 0.27300 ms 
+Time of (10)Compress Graph : 0.10000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 62.80600 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 30.024000 ms 
+Time of (17)PR Shortcut : 5.73000 ms 
+Time of (1)Get key rem collections : 5.56900 ms 
+Time of (6)Get key rem collections : 4.67200 ms 
+Time of (5)Generate new edges : 3.50500 ms 
+Time of (3)Edge Deletion : 3.14600 ms 
+Time of (12)Transedges prefix : 2.78700 ms 
+Time of (7)Convert to collection : 2.33300 ms 
+Time of (2)Convert to collection : 2.31700 ms 
+Time of (18)PR Reverse Paths : 2.10800 ms 
+Time of (4)Remove edges : 1.79300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.12400 ms 
+Time of (15)PR Loop : 0.61600 ms 
+Time of (0)Extracting Roots : 0.57900 ms 
+Time of (8)Shortcut rep : 0.35500 ms 
+Time of (16)Component Parent, Reversals : 0.27200 ms 
+Time of (10)Compress Graph : 0.10100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 67.05800 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 21.484000 ms 
+Time of (17)PR Shortcut : 6.21200 ms 
+Time of (1)Get key rem collections : 5.49700 ms 
+Time of (6)Get key rem collections : 4.44800 ms 
+Time of (5)Generate new edges : 3.50900 ms 
+Time of (12)Transedges prefix : 2.85900 ms 
+Time of (7)Convert to collection : 2.33300 ms 
+Time of (2)Convert to collection : 2.31900 ms 
+Time of (3)Edge Deletion : 2.31100 ms 
+Time of (18)PR Reverse Paths : 2.10800 ms 
+Time of (4)Remove edges : 1.76300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.11200 ms 
+Time of (15)PR Loop : 0.61700 ms 
+Time of (0)Extracting Roots : 0.58100 ms 
+Time of (8)Shortcut rep : 0.35200 ms 
+Time of (16)Component Parent, Reversals : 0.28200 ms 
+Time of (10)Compress Graph : 0.10100 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 57.91500 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100
+Time of (1)Get key rem collections : 5.715000 ms 
+Time of (12)PR Shortcut : 5.66300 ms 
+Time of (6)Get key rem collections : 4.40400 ms 
+Time of (9)Hooking Shortcutting : 4.21700 ms 
+Time of (5)Generate new edges : 3.48200 ms 
+Time of (3)Edge Deletion : 2.57600 ms 
+Time of (2)Convert to collection : 2.31800 ms 
+Time of (7)Convert to collection : 2.30500 ms 
+Time of (13)PR Reverse Paths : 2.04100 ms 
+Time of (4)Remove edges : 1.78800 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.17000 ms 
+Time of (0)Extracting Roots : 0.58000 ms 
+Time of (8)Shortcut rep : 0.35100 ms 
+Time of (10)Compress Graph : 0.11000 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 36.72500 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100
+Time of (12)PR Shortcut : 6.128000 ms 
+Time of (1)Get key rem collections : 5.37900 ms 
+Time of (6)Get key rem collections : 4.42200 ms 
+Time of (9)Hooking Shortcutting : 4.25000 ms 
+Time of (5)Generate new edges : 3.50800 ms 
+Time of (3)Edge Deletion : 2.58600 ms 
+Time of (7)Convert to collection : 2.33200 ms 
+Time of (2)Convert to collection : 2.31700 ms 
+Time of (13)PR Reverse Paths : 2.07200 ms 
+Time of (4)Remove edges : 1.78100 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.14600 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (8)Shortcut rep : 0.35700 ms 
+Time of (10)Compress Graph : 0.10500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 36.94300 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100
+Time of (9)Hooking Shortcutting : 17.060000 ms 
+Time of (17)PR Shortcut : 5.76500 ms 
+Time of (1)Get key rem collections : 5.46300 ms 
+Time of (6)Get key rem collections : 4.54900 ms 
+Time of (5)Generate new edges : 3.50800 ms 
+Time of (12)Transedges prefix : 2.82800 ms 
+Time of (3)Edge Deletion : 2.57800 ms 
+Time of (7)Convert to collection : 2.33200 ms 
+Time of (2)Convert to collection : 2.31800 ms 
+Time of (19)Reverse Edges and Connect Parent : 2.19900 ms 
+Time of (18)PR Reverse Paths : 2.07100 ms 
+Time of (4)Remove edges : 1.82800 ms 
+Time of (0)Extracting Roots : 0.58100 ms 
+Time of (15)PR Loop : 0.37400 ms 
+Time of (8)Shortcut rep : 0.35000 ms 
+Time of (16)Component Parent, Reversals : 0.27800 ms 
+Time of (10)Compress Graph : 0.10500 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00800 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 54.21700 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100
+Time of (9)Hooking Shortcutting : 14.728000 ms 
+Time of (1)Get key rem collections : 5.54600 ms 
+Time of (17)PR Shortcut : 5.47700 ms 
+Time of (6)Get key rem collections : 4.01100 ms 
+Time of (5)Generate new edges : 3.50400 ms 
+Time of (3)Edge Deletion : 2.99400 ms 
+Time of (12)Transedges prefix : 2.90100 ms 
+Time of (2)Convert to collection : 2.32200 ms 
+Time of (19)Reverse Edges and Connect Parent : 2.15300 ms 
+Time of (7)Convert to collection : 2.08700 ms 
+Time of (18)PR Reverse Paths : 1.85400 ms 
+Time of (4)Remove edges : 1.85200 ms 
+Time of (0)Extracting Roots : 0.63500 ms 
+Time of (15)PR Loop : 0.35000 ms 
+Time of (8)Shortcut rep : 0.31000 ms 
+Time of (16)Component Parent, Reversals : 0.27000 ms 
+Time of (10)Compress Graph : 0.09300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 51.11500 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 100
+Time of (9)Hooking Shortcutting : 10.139000 ms 
+Time of (1)Get key rem collections : 5.62100 ms 
+Time of (17)PR Shortcut : 5.56600 ms 
+Time of (6)Get key rem collections : 4.42700 ms 
+Time of (5)Generate new edges : 3.50400 ms 
+Time of (3)Edge Deletion : 2.57700 ms 
+Time of (12)Transedges prefix : 2.52800 ms 
+Time of (7)Convert to collection : 2.33000 ms 
+Time of (2)Convert to collection : 2.30600 ms 
+Time of (4)Remove edges : 1.77600 ms 
+Time of (18)PR Reverse Paths : 1.73300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.36800 ms 
+Time of (0)Extracting Roots : 0.60600 ms 
+Time of (8)Shortcut rep : 0.36100 ms 
+Time of (15)PR Loop : 0.31100 ms 
+Time of (16)Component Parent, Reversals : 0.27200 ms 
+Time of (10)Compress Graph : 0.09600 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (11)Get compressed list : 0.00800 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 45.55300 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 25.644000 ms 
+Time of (1)Get key rem collections : 5.35800 ms 
+Time of (17)PR Shortcut : 5.04700 ms 
+Time of (6)Get key rem collections : 4.55500 ms 
+Time of (5)Generate new edges : 3.50300 ms 
+Time of (3)Edge Deletion : 2.99200 ms 
+Time of (7)Convert to collection : 2.33000 ms 
+Time of (2)Convert to collection : 2.30400 ms 
+Time of (12)Transedges prefix : 2.29000 ms 
+Time of (4)Remove edges : 1.81000 ms 
+Time of (18)PR Reverse Paths : 1.52800 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.48800 ms 
+Time of (0)Extracting Roots : 0.56100 ms 
+Time of (15)PR Loop : 0.39100 ms 
+Time of (8)Shortcut rep : 0.34600 ms 
+Time of (16)Component Parent, Reversals : 0.26500 ms 
+Time of (10)Compress Graph : 0.08300 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 60.51700 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 17.101000 ms 
+Time of (17)PR Shortcut : 5.85000 ms 
+Time of (1)Get key rem collections : 5.41400 ms 
+Time of (6)Get key rem collections : 4.51300 ms 
+Time of (5)Generate new edges : 3.50500 ms 
+Time of (12)Transedges prefix : 2.89200 ms 
+Time of (3)Edge Deletion : 2.46200 ms 
+Time of (2)Convert to collection : 2.34300 ms 
+Time of (7)Convert to collection : 2.33400 ms 
+Time of (18)PR Reverse Paths : 2.07300 ms 
+Time of (4)Remove edges : 1.77700 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.14500 ms 
+Time of (0)Extracting Roots : 0.56400 ms 
+Time of (15)PR Loop : 0.49700 ms 
+Time of (8)Shortcut rep : 0.35200 ms 
+Time of (16)Component Parent, Reversals : 0.29200 ms 
+Time of (10)Compress Graph : 0.11100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 53.25100 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 17.065000 ms 
+Time of (1)Get key rem collections : 5.58500 ms 
+Time of (17)PR Shortcut : 5.12000 ms 
+Time of (6)Get key rem collections : 4.71700 ms 
+Time of (5)Generate new edges : 3.50700 ms 
+Time of (3)Edge Deletion : 2.46000 ms 
+Time of (7)Convert to collection : 2.33300 ms 
+Time of (2)Convert to collection : 2.32000 ms 
+Time of (12)Transedges prefix : 2.27700 ms 
+Time of (4)Remove edges : 2.04000 ms 
+Time of (18)PR Reverse Paths : 1.55800 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.46800 ms 
+Time of (0)Extracting Roots : 0.59300 ms 
+Time of (15)PR Loop : 0.40000 ms 
+Time of (8)Shortcut rep : 0.35700 ms 
+Time of (16)Component Parent, Reversals : 0.27600 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 52.19200 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 17.102000 ms 
+Time of (1)Get key rem collections : 5.41500 ms 
+Time of (17)PR Shortcut : 5.05500 ms 
+Time of (6)Get key rem collections : 4.53100 ms 
+Time of (5)Generate new edges : 3.53700 ms 
+Time of (3)Edge Deletion : 2.43900 ms 
+Time of (12)Transedges prefix : 2.39700 ms 
+Time of (7)Convert to collection : 2.32900 ms 
+Time of (2)Convert to collection : 2.32400 ms 
+Time of (4)Remove edges : 1.84000 ms 
+Time of (18)PR Reverse Paths : 1.53100 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.42900 ms 
+Time of (0)Extracting Roots : 0.57300 ms 
+Time of (15)PR Loop : 0.38500 ms 
+Time of (8)Shortcut rep : 0.35500 ms 
+Time of (16)Component Parent, Reversals : 0.26900 ms 
+Time of (10)Compress Graph : 0.08800 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 51.62400 ms 
+--------------------------------------------------------
+filename: com-Orkut.txt
+Nodes : 3072441
+Edges : 117185083
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 117185083
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 18.818000 ms 
+Time of (17)PR Shortcut : 5.82700 ms 
+Time of (1)Get key rem collections : 5.35000 ms 
+Time of (6)Get key rem collections : 4.51700 ms 
+Time of (5)Generate new edges : 3.51000 ms 
+Time of (12)Transedges prefix : 2.73500 ms 
+Time of (3)Edge Deletion : 2.44000 ms 
+Time of (7)Convert to collection : 2.32900 ms 
+Time of (2)Convert to collection : 2.32300 ms 
+Time of (19)Reverse Edges and Connect Parent : 2.26600 ms 
+Time of (18)PR Reverse Paths : 2.07800 ms 
+Time of (4)Remove edges : 1.77800 ms 
+Time of (0)Extracting Roots : 0.58800 ms 
+Time of (15)PR Loop : 0.47700 ms 
+Time of (8)Shortcut rep : 0.34800 ms 
+Time of (16)Component Parent, Reversals : 0.28300 ms 
+Time of (10)Compress Graph : 0.11300 ms 
+Time of (14)PR init : 0.01900 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time (total): 55.81300 ms 
+--------------------------------------------------------

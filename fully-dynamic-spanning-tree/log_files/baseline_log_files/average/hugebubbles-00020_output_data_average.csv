@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+hugebubbles-00020.egr,4500,100,1203.91,654.46,467.33
+hugebubbles-00020.egr,4500,1000,1163.3,649.19,468.05
+hugebubbles-00020.egr,4500,10000,1132.29,649.8,468.49
+hugebubbles-00020.egr,4503,100000,1111.01,652.5,467.18

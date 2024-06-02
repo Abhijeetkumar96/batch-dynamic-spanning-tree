@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+delaunay_n24.egr,16777216,100663202,100,21.4,50.63
+delaunay_n24.egr,16777216,100663202,1000,198.8,47.57
+delaunay_n24.egr,16777216,100663202,10000,1951.8,49.01
+delaunay_n24.egr,16777216,100663202,100000,19545.2,53.56

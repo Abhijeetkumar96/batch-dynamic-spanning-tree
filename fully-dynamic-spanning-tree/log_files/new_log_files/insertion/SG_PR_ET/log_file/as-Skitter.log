@@ -1,0 +1,420 @@
+
+
+filename: as-Skitter.egr
+Root: 906841
+Number of deleted tree edges: 6413
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 906841
+Root: 906841
+After repairing:
+Total execution time of all functions: 9.81713 ms.
+
+Function execution times:
+Time of Eulerian Tour : 6.99 ms
+Time of Super graph Creation : 1.44 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 580780
+Number of deleted tree edges: 5796
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 580780
+Root: 580780
+After repairing:
+Total execution time of all functions: 10.8584 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.42 ms
+Time of Super graph Creation : 2.05 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1107620
+Number of deleted tree edges: 6320
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 1107620
+Root: 1107620
+After repairing:
+Total execution time of all functions: 10.8584 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.10 ms
+Time of Super graph Creation : 2.38 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 971051
+Number of deleted tree edges: 6341
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 971051
+Root: 971051
+After repairing:
+Total execution time of all functions: 10.8669 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.13 ms
+Time of Super graph Creation : 2.35 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1243635
+Number of deleted tree edges: 6688
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 1243635
+Root: 1243635
+After repairing:
+Total execution time of all functions: 10.8593 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.24 ms
+Time of Super graph Creation : 2.23 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 401859
+Number of deleted tree edges: 641
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 401859
+Root: 401859
+After repairing:
+Total execution time of all functions: 9.78874 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.05 ms
+Time of Super graph Creation : 1.36 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 709149
+Number of deleted tree edges: 668
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 709149
+Root: 709149
+After repairing:
+Total execution time of all functions: 9.79099 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.28 ms
+Time of Super graph Creation : 1.13 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1461239
+Number of deleted tree edges: 663
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 1461239
+Root: 1461239
+After repairing:
+Total execution time of all functions: 9.79123 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.12 ms
+Time of Super graph Creation : 1.29 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1645729
+Number of deleted tree edges: 637
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 1645729
+Root: 1645729
+After repairing:
+Total execution time of all functions: 9.79078 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.40 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.01 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 204338
+Number of deleted tree edges: 596
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 204338
+Root: 204338
+After repairing:
+Total execution time of all functions: 9.79562 ms.
+
+Function execution times:
+Time of Eulerian Tour : 6.92 ms
+Time of Super graph Creation : 1.49 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 368652
+Number of deleted tree edges: 6
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 368652
+Root: 368652
+After repairing:
+Total execution time of all functions: 8.74779 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.13 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 138692
+Number of deleted tree edges: 7
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 138692
+Root: 138692
+After repairing:
+Total execution time of all functions: 8.74201 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.01 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.35 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 132557
+Number of deleted tree edges: 2
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 132557
+Root: 132557
+After repairing:
+Total execution time of all functions: 9.79434 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.41 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.00 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 369072
+Number of deleted tree edges: 10
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 369072
+Root: 369072
+After repairing:
+Total execution time of all functions: 8.74952 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.07 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Super graph Creation : 0.29 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1546008
+Number of deleted tree edges: 5
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 1546008
+Root: 1546008
+After repairing:
+Total execution time of all functions: 9.79256 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.20 ms
+Time of Super graph Creation : 1.20 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 958459
+Number of deleted tree edges: 54
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 958459
+Root: 958459
+After repairing:
+Total execution time of all functions: 9.79381 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.30 ms
+Time of Super graph Creation : 1.11 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1300956
+Number of deleted tree edges: 79
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 1300956
+Root: 1300956
+After repairing:
+Total execution time of all functions: 9.79584 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.25 ms
+Time of Super graph Creation : 1.16 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1090712
+Number of deleted tree edges: 64
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 1090712
+Root: 1090712
+After repairing:
+Total execution time of all functions: 9.79927 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.27 ms
+Time of Super graph Creation : 1.15 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1388831
+Number of deleted tree edges: 58
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 1388831
+Root: 1388831
+After repairing:
+Total execution time of all functions: 9.79709 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.32 ms
+Time of Super graph Creation : 1.10 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: as-Skitter.egr
+Root: 1335080
+Number of deleted tree edges: 65
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 1335080
+Root: 1335080
+After repairing:
+Total execution time of all functions: 9.79342 ms.
+
+Function execution times:
+Time of Eulerian Tour : 7.31 ms
+Time of Super graph Creation : 1.10 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

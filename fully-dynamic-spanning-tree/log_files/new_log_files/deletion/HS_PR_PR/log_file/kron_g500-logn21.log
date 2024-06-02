@@ -1,0 +1,1210 @@
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 29.704000 ms 
+Time of (1)Get key rem collections : 4.36900 ms 
+Time of (6)Get key rem collections : 3.76100 ms 
+Time of (3)Edge Deletion : 3.71500 ms 
+Time of (17)PR Shortcut : 3.10600 ms 
+Time of (5)Generate new edges : 2.74200 ms 
+Time of (15)PR Loop : 2.25600 ms 
+Time of (12)Transedges prefix : 2.02100 ms 
+Time of (7)Convert to collection : 1.84200 ms 
+Time of (2)Convert to collection : 1.83800 ms 
+Time of (4)Remove edges : 1.51200 ms 
+Time of (8)Shortcut rep : 1.01500 ms 
+Time of (18)PR Reverse Paths : 0.95100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.91000 ms 
+Time of (0)Extracting Roots : 0.56700 ms 
+Time of (16)Component Parent, Reversals : 0.25600 ms 
+Time of (10)Compress Graph : 0.06300 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 60.65000 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 15.720000 ms 
+Time of (1)Get key rem collections : 4.35300 ms 
+Time of (6)Get key rem collections : 3.65900 ms 
+Time of (17)PR Shortcut : 3.13100 ms 
+Time of (5)Generate new edges : 2.74000 ms 
+Time of (3)Edge Deletion : 2.66500 ms 
+Time of (12)Transedges prefix : 2.09600 ms 
+Time of (7)Convert to collection : 1.84400 ms 
+Time of (2)Convert to collection : 1.82000 ms 
+Time of (4)Remove edges : 1.65100 ms 
+Time of (15)PR Loop : 1.52500 ms 
+Time of (18)PR Reverse Paths : 1.06600 ms 
+Time of (8)Shortcut rep : 1.02300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.84300 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (16)Component Parent, Reversals : 0.25100 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 45.01400 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 18.809000 ms 
+Time of (1)Get key rem collections : 6.50700 ms 
+Time of (6)Get key rem collections : 3.75400 ms 
+Time of (17)PR Shortcut : 3.19400 ms 
+Time of (3)Edge Deletion : 2.78700 ms 
+Time of (5)Generate new edges : 2.74000 ms 
+Time of (15)PR Loop : 2.37700 ms 
+Time of (12)Transedges prefix : 2.23700 ms 
+Time of (7)Convert to collection : 1.84100 ms 
+Time of (2)Convert to collection : 1.83400 ms 
+Time of (4)Remove edges : 1.53100 ms 
+Time of (8)Shortcut rep : 1.02700 ms 
+Time of (18)PR Reverse Paths : 0.96300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.89900 ms 
+Time of (0)Extracting Roots : 0.54700 ms 
+Time of (16)Component Parent, Reversals : 0.29200 ms 
+Time of (10)Compress Graph : 0.08200 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 51.44500 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 26.245000 ms 
+Time of (1)Get key rem collections : 4.36400 ms 
+Time of (6)Get key rem collections : 3.64400 ms 
+Time of (17)PR Shortcut : 3.36400 ms 
+Time of (15)PR Loop : 2.88400 ms 
+Time of (5)Generate new edges : 2.74200 ms 
+Time of (3)Edge Deletion : 2.66500 ms 
+Time of (12)Transedges prefix : 2.36600 ms 
+Time of (7)Convert to collection : 1.83900 ms 
+Time of (2)Convert to collection : 1.82000 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.70800 ms 
+Time of (4)Remove edges : 1.48500 ms 
+Time of (18)PR Reverse Paths : 1.38100 ms 
+Time of (8)Shortcut rep : 1.02100 ms 
+Time of (0)Extracting Roots : 0.53600 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.08200 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 58.42400 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 22.426000 ms 
+Time of (1)Get key rem collections : 4.38100 ms 
+Time of (17)PR Shortcut : 3.58800 ms 
+Time of (6)Get key rem collections : 3.56300 ms 
+Time of (15)PR Loop : 2.88600 ms 
+Time of (5)Generate new edges : 2.74100 ms 
+Time of (3)Edge Deletion : 2.66700 ms 
+Time of (12)Transedges prefix : 2.44700 ms 
+Time of (7)Convert to collection : 1.84400 ms 
+Time of (2)Convert to collection : 1.83100 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.69200 ms 
+Time of (4)Remove edges : 1.42500 ms 
+Time of (18)PR Reverse Paths : 1.38900 ms 
+Time of (8)Shortcut rep : 1.02100 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.08500 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 54.82400 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.233000 ms 
+Time of (1)Get key rem collections : 4.45900 ms 
+Time of (6)Get key rem collections : 3.59100 ms 
+Time of (17)PR Shortcut : 2.98800 ms 
+Time of (5)Generate new edges : 2.74200 ms 
+Time of (3)Edge Deletion : 2.34200 ms 
+Time of (12)Transedges prefix : 2.06300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.93200 ms 
+Time of (7)Convert to collection : 1.84500 ms 
+Time of (2)Convert to collection : 1.83100 ms 
+Time of (4)Remove edges : 1.44400 ms 
+Time of (18)PR Reverse Paths : 1.02400 ms 
+Time of (8)Shortcut rep : 1.02400 ms 
+Time of (15)PR Loop : 0.80500 ms 
+Time of (0)Extracting Roots : 0.54100 ms 
+Time of (16)Component Parent, Reversals : 0.47800 ms 
+Time of (10)Compress Graph : 0.07500 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 43.43900 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 21.510000 ms 
+Time of (1)Get key rem collections : 4.52300 ms 
+Time of (17)PR Shortcut : 3.54000 ms 
+Time of (6)Get key rem collections : 3.52100 ms 
+Time of (3)Edge Deletion : 3.39900 ms 
+Time of (5)Generate new edges : 2.75000 ms 
+Time of (12)Transedges prefix : 2.44500 ms 
+Time of (7)Convert to collection : 1.84500 ms 
+Time of (2)Convert to collection : 1.82300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.76400 ms 
+Time of (15)PR Loop : 1.70000 ms 
+Time of (4)Remove edges : 1.37600 ms 
+Time of (18)PR Reverse Paths : 1.31800 ms 
+Time of (8)Shortcut rep : 1.00500 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.08700 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00800 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 53.42700 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.344000 ms 
+Time of (1)Get key rem collections : 4.35600 ms 
+Time of (6)Get key rem collections : 3.58600 ms 
+Time of (17)PR Shortcut : 3.37600 ms 
+Time of (5)Generate new edges : 2.74900 ms 
+Time of (12)Transedges prefix : 2.38800 ms 
+Time of (3)Edge Deletion : 2.35600 ms 
+Time of (7)Convert to collection : 1.84600 ms 
+Time of (2)Convert to collection : 1.83100 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.75900 ms 
+Time of (4)Remove edges : 1.38300 ms 
+Time of (15)PR Loop : 1.33800 ms 
+Time of (18)PR Reverse Paths : 1.32700 ms 
+Time of (8)Shortcut rep : 1.00500 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.08300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 44.53700 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.303000 ms 
+Time of (1)Get key rem collections : 4.48600 ms 
+Time of (6)Get key rem collections : 3.63500 ms 
+Time of (3)Edge Deletion : 3.42300 ms 
+Time of (17)PR Shortcut : 3.20000 ms 
+Time of (5)Generate new edges : 2.74700 ms 
+Time of (12)Transedges prefix : 2.10900 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.91500 ms 
+Time of (7)Convert to collection : 1.84400 ms 
+Time of (2)Convert to collection : 1.84100 ms 
+Time of (4)Remove edges : 1.35600 ms 
+Time of (18)PR Reverse Paths : 1.04500 ms 
+Time of (8)Shortcut rep : 1.00900 ms 
+Time of (15)PR Loop : 0.81400 ms 
+Time of (0)Extracting Roots : 0.53700 ms 
+Time of (16)Component Parent, Reversals : 0.24900 ms 
+Time of (10)Compress Graph : 0.07100 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 44.60700 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.271000 ms 
+Time of (1)Get key rem collections : 4.45700 ms 
+Time of (6)Get key rem collections : 3.56700 ms 
+Time of (17)PR Shortcut : 3.43400 ms 
+Time of (5)Generate new edges : 2.74500 ms 
+Time of (12)Transedges prefix : 2.45600 ms 
+Time of (3)Edge Deletion : 2.33100 ms 
+Time of (7)Convert to collection : 1.84500 ms 
+Time of (2)Convert to collection : 1.83500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.75600 ms 
+Time of (4)Remove edges : 1.40000 ms 
+Time of (18)PR Reverse Paths : 1.31800 ms 
+Time of (8)Shortcut rep : 1.05400 ms 
+Time of (15)PR Loop : 0.95000 ms 
+Time of (0)Extracting Roots : 0.55400 ms 
+Time of (16)Component Parent, Reversals : 0.26900 ms 
+Time of (10)Compress Graph : 0.08500 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 44.35300 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (1)Get key rem collections : 4.433000 ms 
+Time of (6)Get key rem collections : 3.60400 ms 
+Time of (9)Hooking Shortcutting : 3.54000 ms 
+Time of (12)PR Shortcut : 3.22500 ms 
+Time of (5)Generate new edges : 2.74300 ms 
+Time of (3)Edge Deletion : 2.60000 ms 
+Time of (7)Convert to collection : 1.84500 ms 
+Time of (2)Convert to collection : 1.83300 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.78600 ms 
+Time of (4)Remove edges : 1.38400 ms 
+Time of (13)PR Reverse Paths : 1.29000 ms 
+Time of (8)Shortcut rep : 0.99800 ms 
+Time of (0)Extracting Roots : 0.55000 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 29.91700 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (9)Hooking Shortcutting : 10.660000 ms 
+Time of (1)Get key rem collections : 4.48300 ms 
+Time of (6)Get key rem collections : 3.53700 ms 
+Time of (17)PR Shortcut : 3.29200 ms 
+Time of (5)Generate new edges : 2.74000 ms 
+Time of (3)Edge Deletion : 2.59700 ms 
+Time of (12)Transedges prefix : 2.13000 ms 
+Time of (7)Convert to collection : 1.83500 ms 
+Time of (2)Convert to collection : 1.83100 ms 
+Time of (4)Remove edges : 1.39200 ms 
+Time of (18)PR Reverse Paths : 1.01800 ms 
+Time of (8)Shortcut rep : 0.99400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.89100 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (15)PR Loop : 0.28600 ms 
+Time of (16)Component Parent, Reversals : 0.25500 ms 
+Time of (10)Compress Graph : 0.07800 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 38.57900 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (9)Hooking Shortcutting : 7.136000 ms 
+Time of (1)Get key rem collections : 4.38600 ms 
+Time of (6)Get key rem collections : 3.65800 ms 
+Time of (17)PR Shortcut : 3.39200 ms 
+Time of (5)Generate new edges : 2.74000 ms 
+Time of (3)Edge Deletion : 2.59800 ms 
+Time of (12)Transedges prefix : 2.38900 ms 
+Time of (2)Convert to collection : 1.83900 ms 
+Time of (7)Convert to collection : 1.83500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.77800 ms 
+Time of (4)Remove edges : 1.39200 ms 
+Time of (18)PR Reverse Paths : 1.30000 ms 
+Time of (8)Shortcut rep : 0.99100 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (15)PR Loop : 0.27100 ms 
+Time of (16)Component Parent, Reversals : 0.24900 ms 
+Time of (10)Compress Graph : 0.09900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 36.61800 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (1)Get key rem collections : 4.442000 ms 
+Time of (6)Get key rem collections : 3.60700 ms 
+Time of (9)Hooking Shortcutting : 3.53700 ms 
+Time of (12)PR Shortcut : 3.43400 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (3)Edge Deletion : 2.59400 ms 
+Time of (7)Convert to collection : 1.83400 ms 
+Time of (2)Convert to collection : 1.83000 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.78600 ms 
+Time of (4)Remove edges : 1.50300 ms 
+Time of (13)PR Reverse Paths : 1.29100 ms 
+Time of (8)Shortcut rep : 1.01700 ms 
+Time of (0)Extracting Roots : 0.55000 ms 
+Time of (10)Compress Graph : 0.08300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 30.25800 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (1)Get key rem collections : 4.405000 ms 
+Time of (12)PR Shortcut : 3.58500 ms 
+Time of (9)Hooking Shortcutting : 3.56600 ms 
+Time of (6)Get key rem collections : 3.56400 ms 
+Time of (5)Generate new edges : 2.74000 ms 
+Time of (3)Edge Deletion : 2.59200 ms 
+Time of (7)Convert to collection : 1.83500 ms 
+Time of (2)Convert to collection : 1.83200 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.78400 ms 
+Time of (4)Remove edges : 1.43100 ms 
+Time of (13)PR Reverse Paths : 1.29000 ms 
+Time of (8)Shortcut rep : 1.01200 ms 
+Time of (0)Extracting Roots : 0.54700 ms 
+Time of (10)Compress Graph : 0.08200 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 30.27100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.206000 ms 
+Time of (1)Get key rem collections : 4.54500 ms 
+Time of (6)Get key rem collections : 3.62400 ms 
+Time of (17)PR Shortcut : 3.54400 ms 
+Time of (5)Generate new edges : 2.74100 ms 
+Time of (12)Transedges prefix : 2.53200 ms 
+Time of (3)Edge Deletion : 2.47000 ms 
+Time of (2)Convert to collection : 1.83900 ms 
+Time of (7)Convert to collection : 1.83500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.77500 ms 
+Time of (4)Remove edges : 1.37800 ms 
+Time of (18)PR Reverse Paths : 1.30300 ms 
+Time of (8)Shortcut rep : 1.01500 ms 
+Time of (0)Extracting Roots : 0.54300 ms 
+Time of (15)PR Loop : 0.41200 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 44.12000 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 13.234000 ms 
+Time of (1)Get key rem collections : 4.39000 ms 
+Time of (6)Get key rem collections : 3.56500 ms 
+Time of (17)PR Shortcut : 3.36100 ms 
+Time of (5)Generate new edges : 2.74100 ms 
+Time of (3)Edge Deletion : 2.47700 ms 
+Time of (12)Transedges prefix : 2.32600 ms 
+Time of (2)Convert to collection : 1.85600 ms 
+Time of (7)Convert to collection : 1.83500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.81100 ms 
+Time of (4)Remove edges : 1.45400 ms 
+Time of (18)PR Reverse Paths : 1.23200 ms 
+Time of (8)Shortcut rep : 1.00600 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (15)PR Loop : 0.34900 ms 
+Time of (16)Component Parent, Reversals : 0.25200 ms 
+Time of (10)Compress Graph : 0.08400 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 42.55300 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 13.334000 ms 
+Time of (1)Get key rem collections : 4.34900 ms 
+Time of (6)Get key rem collections : 3.67500 ms 
+Time of (17)PR Shortcut : 3.38300 ms 
+Time of (5)Generate new edges : 2.74500 ms 
+Time of (3)Edge Deletion : 2.47300 ms 
+Time of (12)Transedges prefix : 2.33000 ms 
+Time of (7)Convert to collection : 1.84500 ms 
+Time of (2)Convert to collection : 1.82600 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.80400 ms 
+Time of (4)Remove edges : 1.35800 ms 
+Time of (18)PR Reverse Paths : 1.24500 ms 
+Time of (8)Shortcut rep : 0.96400 ms 
+Time of (0)Extracting Roots : 0.54400 ms 
+Time of (15)PR Loop : 0.40200 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.07700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 42.62800 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.145000 ms 
+Time of (1)Get key rem collections : 4.45900 ms 
+Time of (6)Get key rem collections : 3.57800 ms 
+Time of (17)PR Shortcut : 3.35000 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (3)Edge Deletion : 2.47500 ms 
+Time of (12)Transedges prefix : 2.41800 ms 
+Time of (7)Convert to collection : 1.83400 ms 
+Time of (2)Convert to collection : 1.83400 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.79100 ms 
+Time of (4)Remove edges : 1.39300 ms 
+Time of (18)PR Reverse Paths : 1.28700 ms 
+Time of (8)Shortcut rep : 1.00900 ms 
+Time of (0)Extracting Roots : 0.54800 ms 
+Time of (15)PR Loop : 0.36100 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 43.58400 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.166000 ms 
+Time of (1)Get key rem collections : 4.47200 ms 
+Time of (6)Get key rem collections : 3.52200 ms 
+Time of (17)PR Shortcut : 3.21700 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (3)Edge Deletion : 2.47400 ms 
+Time of (12)Transedges prefix : 2.13000 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.92800 ms 
+Time of (7)Convert to collection : 1.84400 ms 
+Time of (2)Convert to collection : 1.82900 ms 
+Time of (4)Remove edges : 1.42800 ms 
+Time of (18)PR Reverse Paths : 1.04200 ms 
+Time of (8)Shortcut rep : 1.01400 ms 
+Time of (0)Extracting Roots : 0.54100 ms 
+Time of (15)PR Loop : 0.37200 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.06900 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 43.07000 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 17.841000 ms 
+Time of (1)Get key rem collections : 4.44100 ms 
+Time of (17)PR Shortcut : 3.58800 ms 
+Time of (6)Get key rem collections : 3.54600 ms 
+Time of (15)PR Loop : 2.76600 ms 
+Time of (5)Generate new edges : 2.70700 ms 
+Time of (3)Edge Deletion : 2.67200 ms 
+Time of (12)Transedges prefix : 2.26200 ms 
+Time of (2)Convert to collection : 1.83200 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.75500 ms 
+Time of (7)Convert to collection : 1.74100 ms 
+Time of (4)Remove edges : 1.58000 ms 
+Time of (18)PR Reverse Paths : 1.30600 ms 
+Time of (8)Shortcut rep : 0.97100 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (16)Component Parent, Reversals : 0.25200 ms 
+Time of (10)Compress Graph : 0.08300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 49.90600 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 30.639000 ms 
+Time of (1)Get key rem collections : 4.40100 ms 
+Time of (6)Get key rem collections : 3.59500 ms 
+Time of (17)PR Shortcut : 3.56400 ms 
+Time of (3)Edge Deletion : 3.09800 ms 
+Time of (5)Generate new edges : 2.74500 ms 
+Time of (12)Transedges prefix : 2.52900 ms 
+Time of (15)PR Loop : 2.38700 ms 
+Time of (2)Convert to collection : 1.83300 ms 
+Time of (7)Convert to collection : 1.82900 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.71400 ms 
+Time of (4)Remove edges : 1.42500 ms 
+Time of (18)PR Reverse Paths : 1.37600 ms 
+Time of (8)Shortcut rep : 1.02700 ms 
+Time of (0)Extracting Roots : 0.53700 ms 
+Time of (16)Component Parent, Reversals : 0.26300 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 63.07800 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 18.748000 ms 
+Time of (1)Get key rem collections : 4.44000 ms 
+Time of (6)Get key rem collections : 3.76600 ms 
+Time of (17)PR Shortcut : 3.16800 ms 
+Time of (15)PR Loop : 2.89000 ms 
+Time of (5)Generate new edges : 2.74300 ms 
+Time of (3)Edge Deletion : 2.66700 ms 
+Time of (12)Transedges prefix : 2.40100 ms 
+Time of (7)Convert to collection : 1.84600 ms 
+Time of (2)Convert to collection : 1.82300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.71400 ms 
+Time of (4)Remove edges : 1.50500 ms 
+Time of (18)PR Reverse Paths : 1.37800 ms 
+Time of (8)Shortcut rep : 1.01700 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (16)Component Parent, Reversals : 0.27000 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 51.03100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 30.290000 ms 
+Time of (6)Get key rem collections : 5.99000 ms 
+Time of (1)Get key rem collections : 4.32900 ms 
+Time of (17)PR Shortcut : 3.35700 ms 
+Time of (5)Generate new edges : 2.74800 ms 
+Time of (3)Edge Deletion : 2.66700 ms 
+Time of (15)PR Loop : 2.37400 ms 
+Time of (12)Transedges prefix : 2.36000 ms 
+Time of (7)Convert to collection : 1.84300 ms 
+Time of (2)Convert to collection : 1.83100 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.71400 ms 
+Time of (4)Remove edges : 1.43400 ms 
+Time of (18)PR Reverse Paths : 1.37500 ms 
+Time of (8)Shortcut rep : 1.04100 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (16)Component Parent, Reversals : 0.47600 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 64.47500 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 26.112000 ms 
+Time of (1)Get key rem collections : 4.47800 ms 
+Time of (6)Get key rem collections : 3.72600 ms 
+Time of (17)PR Shortcut : 3.17700 ms 
+Time of (5)Generate new edges : 2.74000 ms 
+Time of (3)Edge Deletion : 2.66300 ms 
+Time of (15)PR Loop : 2.26900 ms 
+Time of (12)Transedges prefix : 1.99100 ms 
+Time of (7)Convert to collection : 1.84300 ms 
+Time of (2)Convert to collection : 1.83300 ms 
+Time of (4)Remove edges : 1.48500 ms 
+Time of (8)Shortcut rep : 1.01300 ms 
+Time of (18)PR Reverse Paths : 0.95600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.91300 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (16)Component Parent, Reversals : 0.47000 ms 
+Time of (10)Compress Graph : 0.06500 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 56.29500 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.225000 ms 
+Time of (1)Get key rem collections : 4.49000 ms 
+Time of (6)Get key rem collections : 3.63000 ms 
+Time of (17)PR Shortcut : 3.48600 ms 
+Time of (5)Generate new edges : 2.77300 ms 
+Time of (12)Transedges prefix : 2.46000 ms 
+Time of (3)Edge Deletion : 2.33100 ms 
+Time of (2)Convert to collection : 1.83800 ms 
+Time of (7)Convert to collection : 1.83500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.76100 ms 
+Time of (4)Remove edges : 1.38800 ms 
+Time of (18)PR Reverse Paths : 1.32100 ms 
+Time of (8)Shortcut rep : 1.00200 ms 
+Time of (15)PR Loop : 0.95600 ms 
+Time of (0)Extracting Roots : 0.55300 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.08400 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 44.41000 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.313000 ms 
+Time of (1)Get key rem collections : 4.44500 ms 
+Time of (6)Get key rem collections : 3.72900 ms 
+Time of (3)Edge Deletion : 3.48400 ms 
+Time of (17)PR Shortcut : 3.34600 ms 
+Time of (5)Generate new edges : 2.74700 ms 
+Time of (12)Transedges prefix : 2.44200 ms 
+Time of (7)Convert to collection : 1.84700 ms 
+Time of (2)Convert to collection : 1.82500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.76400 ms 
+Time of (15)PR Loop : 1.69600 ms 
+Time of (4)Remove edges : 1.38100 ms 
+Time of (18)PR Reverse Paths : 1.32100 ms 
+Time of (8)Shortcut rep : 1.00400 ms 
+Time of (0)Extracting Roots : 0.55000 ms 
+Time of (16)Component Parent, Reversals : 0.47300 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 46.47200 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 13.257000 ms 
+Time of (1)Get key rem collections : 4.51100 ms 
+Time of (6)Get key rem collections : 3.66300 ms 
+Time of (17)PR Shortcut : 3.19500 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (3)Edge Deletion : 2.31200 ms 
+Time of (12)Transedges prefix : 2.20800 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.88500 ms 
+Time of (7)Convert to collection : 1.84300 ms 
+Time of (2)Convert to collection : 1.82000 ms 
+Time of (4)Remove edges : 1.39700 ms 
+Time of (15)PR Loop : 1.19100 ms 
+Time of (18)PR Reverse Paths : 1.11400 ms 
+Time of (8)Shortcut rep : 1.00300 ms 
+Time of (0)Extracting Roots : 0.53800 ms 
+Time of (16)Component Parent, Reversals : 0.46400 ms 
+Time of (10)Compress Graph : 0.07400 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 43.24200 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.258000 ms 
+Time of (1)Get key rem collections : 4.53600 ms 
+Time of (6)Get key rem collections : 3.56700 ms 
+Time of (17)PR Shortcut : 3.32100 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (12)Transedges prefix : 2.36900 ms 
+Time of (3)Edge Deletion : 2.36700 ms 
+Time of (2)Convert to collection : 1.85500 ms 
+Time of (7)Convert to collection : 1.84300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.76600 ms 
+Time of (4)Remove edges : 1.42200 ms 
+Time of (18)PR Reverse Paths : 1.31900 ms 
+Time of (8)Shortcut rep : 0.99600 ms 
+Time of (15)PR Loop : 0.94500 ms 
+Time of (0)Extracting Roots : 0.53800 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.07800 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 44.20200 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 14.223000 ms 
+Time of (1)Get key rem collections : 4.41300 ms 
+Time of (6)Get key rem collections : 3.78800 ms 
+Time of (17)PR Shortcut : 3.36000 ms 
+Time of (5)Generate new edges : 2.75000 ms 
+Time of (12)Transedges prefix : 2.39200 ms 
+Time of (3)Edge Deletion : 2.32300 ms 
+Time of (7)Convert to collection : 1.84400 ms 
+Time of (2)Convert to collection : 1.83500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.75100 ms 
+Time of (4)Remove edges : 1.40700 ms 
+Time of (18)PR Reverse Paths : 1.32100 ms 
+Time of (8)Shortcut rep : 1.01600 ms 
+Time of (15)PR Loop : 0.94900 ms 
+Time of (0)Extracting Roots : 0.61000 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.08600 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 44.35100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (14)Reverse Edges and Connect Parent : 5.284000 ms 
+Time of (1)Get key rem collections : 4.39500 ms 
+Time of (12)PR Shortcut : 3.57800 ms 
+Time of (6)Get key rem collections : 3.56200 ms 
+Time of (9)Hooking Shortcutting : 3.53700 ms 
+Time of (5)Generate new edges : 2.74700 ms 
+Time of (3)Edge Deletion : 2.59300 ms 
+Time of (7)Convert to collection : 1.84400 ms 
+Time of (2)Convert to collection : 1.83100 ms 
+Time of (4)Remove edges : 1.36300 ms 
+Time of (13)PR Reverse Paths : 1.29500 ms 
+Time of (8)Shortcut rep : 0.99800 ms 
+Time of (0)Extracting Roots : 0.53600 ms 
+Time of (10)Compress Graph : 0.08300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 33.65100 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (9)Hooking Shortcutting : 10.665000 ms 
+Time of (1)Get key rem collections : 4.43200 ms 
+Time of (6)Get key rem collections : 3.77600 ms 
+Time of (17)PR Shortcut : 3.34700 ms 
+Time of (5)Generate new edges : 2.73800 ms 
+Time of (3)Edge Deletion : 2.59600 ms 
+Time of (12)Transedges prefix : 2.40400 ms 
+Time of (7)Convert to collection : 1.84600 ms 
+Time of (2)Convert to collection : 1.84000 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.78000 ms 
+Time of (4)Remove edges : 1.47200 ms 
+Time of (18)PR Reverse Paths : 1.29500 ms 
+Time of (8)Shortcut rep : 1.00000 ms 
+Time of (0)Extracting Roots : 0.54800 ms 
+Time of (15)PR Loop : 0.31600 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.08500 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 40.41700 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (9)Hooking Shortcutting : 7.097000 ms 
+Time of (1)Get key rem collections : 4.60000 ms 
+Time of (6)Get key rem collections : 3.65800 ms 
+Time of (17)PR Shortcut : 2.93800 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (3)Edge Deletion : 2.59300 ms 
+Time of (12)Transedges prefix : 2.49400 ms 
+Time of (7)Convert to collection : 1.84900 ms 
+Time of (2)Convert to collection : 1.82700 ms 
+Time of (4)Remove edges : 1.37200 ms 
+Time of (8)Shortcut rep : 0.99500 ms 
+Time of (18)PR Reverse Paths : 0.98100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.90000 ms 
+Time of (0)Extracting Roots : 0.54900 ms 
+Time of (15)PR Loop : 0.26300 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.08200 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 35.22200 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (1)Get key rem collections : 4.487000 ms 
+Time of (12)PR Shortcut : 3.62200 ms 
+Time of (6)Get key rem collections : 3.53800 ms 
+Time of (9)Hooking Shortcutting : 3.53100 ms 
+Time of (5)Generate new edges : 2.75000 ms 
+Time of (3)Edge Deletion : 2.59200 ms 
+Time of (7)Convert to collection : 1.84700 ms 
+Time of (2)Convert to collection : 1.82400 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.78000 ms 
+Time of (4)Remove edges : 1.37900 ms 
+Time of (13)PR Reverse Paths : 1.29000 ms 
+Time of (8)Shortcut rep : 0.99900 ms 
+Time of (0)Extracting Roots : 0.54700 ms 
+Time of (10)Compress Graph : 0.16600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 30.35700 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 100
+Time of (1)Get key rem collections : 4.418000 ms 
+Time of (6)Get key rem collections : 3.69600 ms 
+Time of (9)Hooking Shortcutting : 3.53300 ms 
+Time of (12)PR Shortcut : 3.41200 ms 
+Time of (5)Generate new edges : 2.74300 ms 
+Time of (3)Edge Deletion : 2.59200 ms 
+Time of (7)Convert to collection : 1.84500 ms 
+Time of (2)Convert to collection : 1.82200 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.78100 ms 
+Time of (4)Remove edges : 1.42600 ms 
+Time of (13)PR Reverse Paths : 1.29700 ms 
+Time of (8)Shortcut rep : 1.00600 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (10)Compress Graph : 0.08200 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 30.19200 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.214000 ms 
+Time of (1)Get key rem collections : 4.45800 ms 
+Time of (6)Get key rem collections : 3.80000 ms 
+Time of (17)PR Shortcut : 3.25800 ms 
+Time of (5)Generate new edges : 2.74600 ms 
+Time of (3)Edge Deletion : 2.61200 ms 
+Time of (12)Transedges prefix : 2.39300 ms 
+Time of (2)Convert to collection : 1.83400 ms 
+Time of (7)Convert to collection : 1.83200 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.77200 ms 
+Time of (4)Remove edges : 1.36600 ms 
+Time of (18)PR Reverse Paths : 1.30900 ms 
+Time of (8)Shortcut rep : 1.02100 ms 
+Time of (0)Extracting Roots : 0.60200 ms 
+Time of (15)PR Loop : 0.42200 ms 
+Time of (16)Component Parent, Reversals : 0.25100 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 43.99300 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.167000 ms 
+Time of (1)Get key rem collections : 4.45100 ms 
+Time of (6)Get key rem collections : 3.56300 ms 
+Time of (17)PR Shortcut : 3.31000 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (3)Edge Deletion : 2.46700 ms 
+Time of (12)Transedges prefix : 2.39100 ms 
+Time of (7)Convert to collection : 1.84300 ms 
+Time of (2)Convert to collection : 1.83900 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.78500 ms 
+Time of (4)Remove edges : 1.35300 ms 
+Time of (18)PR Reverse Paths : 1.29100 ms 
+Time of (8)Shortcut rep : 1.01300 ms 
+Time of (0)Extracting Roots : 0.55000 ms 
+Time of (15)PR Loop : 0.36100 ms 
+Time of (16)Component Parent, Reversals : 0.25700 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 43.48800 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.206000 ms 
+Time of (1)Get key rem collections : 4.46700 ms 
+Time of (6)Get key rem collections : 3.88500 ms 
+Time of (17)PR Shortcut : 3.37000 ms 
+Time of (5)Generate new edges : 2.75100 ms 
+Time of (3)Edge Deletion : 2.47700 ms 
+Time of (12)Transedges prefix : 2.39100 ms 
+Time of (7)Convert to collection : 1.84600 ms 
+Time of (2)Convert to collection : 1.82600 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.77300 ms 
+Time of (4)Remove edges : 1.41200 ms 
+Time of (18)PR Reverse Paths : 1.30200 ms 
+Time of (8)Shortcut rep : 1.04500 ms 
+Time of (0)Extracting Roots : 0.54300 ms 
+Time of (15)PR Loop : 0.41900 ms 
+Time of (16)Component Parent, Reversals : 0.25700 ms 
+Time of (10)Compress Graph : 0.08200 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 44.07600 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.180000 ms 
+Time of (1)Get key rem collections : 4.37400 ms 
+Time of (6)Get key rem collections : 3.65000 ms 
+Time of (17)PR Shortcut : 3.37500 ms 
+Time of (5)Generate new edges : 2.77200 ms 
+Time of (3)Edge Deletion : 2.46500 ms 
+Time of (12)Transedges prefix : 2.37000 ms 
+Time of (7)Convert to collection : 1.84600 ms 
+Time of (2)Convert to collection : 1.83500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.76600 ms 
+Time of (4)Remove edges : 1.51700 ms 
+Time of (18)PR Reverse Paths : 1.30900 ms 
+Time of (8)Shortcut rep : 1.01600 ms 
+Time of (0)Extracting Roots : 0.55600 ms 
+Time of (15)PR Loop : 0.36800 ms 
+Time of (16)Component Parent, Reversals : 0.25500 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 43.75900 ms 
+--------------------------------------------------------
+filename: kron_g500-logn21.txt
+Nodes : 2097152
+Edges : 91594090
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 91594090
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 14.177000 ms 
+Time of (1)Get key rem collections : 4.58400 ms 
+Time of (6)Get key rem collections : 3.68700 ms 
+Time of (17)PR Shortcut : 3.16200 ms 
+Time of (5)Generate new edges : 2.74400 ms 
+Time of (12)Transedges prefix : 2.56100 ms 
+Time of (3)Edge Deletion : 2.47400 ms 
+Time of (7)Convert to collection : 1.83400 ms 
+Time of (2)Convert to collection : 1.83200 ms 
+Time of (4)Remove edges : 1.44500 ms 
+Time of (18)PR Reverse Paths : 1.14400 ms 
+Time of (8)Shortcut rep : 1.02500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.71500 ms 
+Time of (0)Extracting Roots : 0.54400 ms 
+Time of (15)PR Loop : 0.42800 ms 
+Time of (16)Component Parent, Reversals : 0.25100 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 42.71100 ms 
+--------------------------------------------------------

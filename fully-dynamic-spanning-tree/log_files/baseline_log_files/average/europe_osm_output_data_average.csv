@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+europe_osm.egr,17346,100,4303.61,2303.13,1134.35
+europe_osm.egr,17346,1000,4310.74,2305.55,1130.05
+europe_osm.egr,17346,10000,4348.97,2306.15,1131.79
+europe_osm.egr,17346,100000,4308.26,2318.93,1162.25

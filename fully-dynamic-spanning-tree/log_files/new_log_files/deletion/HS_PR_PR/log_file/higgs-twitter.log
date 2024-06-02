@@ -1,0 +1,615 @@
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100000
+Time of (15)PR Loop : 6.047000 ms 
+Time of (9)Hooking Shortcutting : 5.98900 ms 
+Time of (3)Edge Deletion : 2.98900 ms 
+Time of (17)PR Shortcut : 0.96300 ms 
+Time of (18)PR Reverse Paths : 0.83500 ms 
+Time of (12)Transedges prefix : 0.51100 ms 
+Time of (6)Get key rem collections : 0.50900 ms 
+Time of (1)Get key rem collections : 0.49900 ms 
+Time of (5)Generate new edges : 0.41300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35300 ms 
+Time of (8)Shortcut rep : 0.30500 ms 
+Time of (2)Convert to collection : 0.30400 ms 
+Time of (7)Convert to collection : 0.29400 ms 
+Time of (16)Component Parent, Reversals : 0.24300 ms 
+Time of (4)Remove edges : 0.24000 ms 
+Time of (0)Extracting Roots : 0.08400 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 20.66200 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 6.537000 ms 
+Time of (15)PR Loop : 4.16900 ms 
+Time of (3)Edge Deletion : 2.94600 ms 
+Time of (17)PR Shortcut : 0.96500 ms 
+Time of (18)PR Reverse Paths : 0.85400 ms 
+Time of (6)Get key rem collections : 0.52900 ms 
+Time of (1)Get key rem collections : 0.52300 ms 
+Time of (12)Transedges prefix : 0.51900 ms 
+Time of (5)Generate new edges : 0.41400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35300 ms 
+Time of (8)Shortcut rep : 0.31200 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (4)Remove edges : 0.24100 ms 
+Time of (16)Component Parent, Reversals : 0.24000 ms 
+Time of (0)Extracting Roots : 0.08100 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 19.36000 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100000
+Time of (15)PR Loop : 4.832000 ms 
+Time of (9)Hooking Shortcutting : 4.60800 ms 
+Time of (3)Edge Deletion : 2.98400 ms 
+Time of (17)PR Shortcut : 0.96100 ms 
+Time of (18)PR Reverse Paths : 0.84500 ms 
+Time of (6)Get key rem collections : 0.51900 ms 
+Time of (1)Get key rem collections : 0.50400 ms 
+Time of (12)Transedges prefix : 0.50000 ms 
+Time of (5)Generate new edges : 0.41100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36700 ms 
+Time of (8)Shortcut rep : 0.31500 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Convert to collection : 0.29500 ms 
+Time of (4)Remove edges : 0.24000 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (0)Extracting Roots : 0.09300 ms 
+Time of (10)Compress Graph : 0.06100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 18.09500 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 5.163000 ms 
+Time of (15)PR Loop : 4.96000 ms 
+Time of (3)Edge Deletion : 2.99500 ms 
+Time of (17)PR Shortcut : 0.96600 ms 
+Time of (18)PR Reverse Paths : 0.84700 ms 
+Time of (12)Transedges prefix : 0.52500 ms 
+Time of (6)Get key rem collections : 0.51700 ms 
+Time of (1)Get key rem collections : 0.51500 ms 
+Time of (5)Generate new edges : 0.41200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35000 ms 
+Time of (8)Shortcut rep : 0.30700 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29500 ms 
+Time of (4)Remove edges : 0.24400 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (0)Extracting Roots : 0.08000 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 18.79500 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 6.174000 ms 
+Time of (15)PR Loop : 3.52800 ms 
+Time of (3)Edge Deletion : 2.97500 ms 
+Time of (17)PR Shortcut : 0.96600 ms 
+Time of (18)PR Reverse Paths : 0.85100 ms 
+Time of (6)Get key rem collections : 0.50800 ms 
+Time of (12)Transedges prefix : 0.50100 ms 
+Time of (1)Get key rem collections : 0.49300 ms 
+Time of (5)Generate new edges : 0.41400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35200 ms 
+Time of (8)Shortcut rep : 0.30600 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (2)Convert to collection : 0.29500 ms 
+Time of (4)Remove edges : 0.23700 ms 
+Time of (16)Component Parent, Reversals : 0.23600 ms 
+Time of (0)Extracting Roots : 0.09100 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 18.30800 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 3.087000 ms 
+Time of (3)Edge Deletion : 2.88200 ms 
+Time of (15)PR Loop : 1.60600 ms 
+Time of (17)PR Shortcut : 0.99000 ms 
+Time of (18)PR Reverse Paths : 0.84700 ms 
+Time of (12)Transedges prefix : 0.55500 ms 
+Time of (1)Get key rem collections : 0.52300 ms 
+Time of (6)Get key rem collections : 0.51600 ms 
+Time of (5)Generate new edges : 0.41400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36100 ms 
+Time of (8)Shortcut rep : 0.30300 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (4)Remove edges : 0.23700 ms 
+Time of (0)Extracting Roots : 0.08000 ms 
+Time of (10)Compress Graph : 0.05700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 13.31200 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 3.139000 ms 
+Time of (3)Edge Deletion : 2.89200 ms 
+Time of (15)PR Loop : 2.07400 ms 
+Time of (17)PR Shortcut : 0.95600 ms 
+Time of (18)PR Reverse Paths : 0.82100 ms 
+Time of (12)Transedges prefix : 0.50600 ms 
+Time of (1)Get key rem collections : 0.50100 ms 
+Time of (6)Get key rem collections : 0.49900 ms 
+Time of (5)Generate new edges : 0.41300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34500 ms 
+Time of (8)Shortcut rep : 0.30900 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (7)Convert to collection : 0.29500 ms 
+Time of (16)Component Parent, Reversals : 0.24200 ms 
+Time of (4)Remove edges : 0.23100 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (10)Compress Graph : 0.05700 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 13.68000 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 4.670000 ms 
+Time of (3)Edge Deletion : 2.84100 ms 
+Time of (15)PR Loop : 1.87400 ms 
+Time of (17)PR Shortcut : 0.96100 ms 
+Time of (18)PR Reverse Paths : 0.83500 ms 
+Time of (12)Transedges prefix : 0.52500 ms 
+Time of (1)Get key rem collections : 0.50100 ms 
+Time of (6)Get key rem collections : 0.49900 ms 
+Time of (5)Generate new edges : 0.41300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34800 ms 
+Time of (8)Shortcut rep : 0.30700 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (4)Remove edges : 0.23200 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 14.99800 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 4.394000 ms 
+Time of (3)Edge Deletion : 2.89700 ms 
+Time of (15)PR Loop : 1.58300 ms 
+Time of (17)PR Shortcut : 0.95300 ms 
+Time of (18)PR Reverse Paths : 0.82000 ms 
+Time of (12)Transedges prefix : 0.50400 ms 
+Time of (1)Get key rem collections : 0.49700 ms 
+Time of (6)Get key rem collections : 0.49300 ms 
+Time of (5)Generate new edges : 0.41400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34700 ms 
+Time of (8)Shortcut rep : 0.30700 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (2)Convert to collection : 0.29600 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (4)Remove edges : 0.23300 ms 
+Time of (0)Extracting Roots : 0.08600 ms 
+Time of (10)Compress Graph : 0.05700 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 14.44400 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 3.642000 ms 
+Time of (3)Edge Deletion : 2.87000 ms 
+Time of (15)PR Loop : 1.46100 ms 
+Time of (17)PR Shortcut : 0.96400 ms 
+Time of (18)PR Reverse Paths : 0.83200 ms 
+Time of (12)Transedges prefix : 0.50800 ms 
+Time of (1)Get key rem collections : 0.49700 ms 
+Time of (6)Get key rem collections : 0.49400 ms 
+Time of (5)Generate new edges : 0.41500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34600 ms 
+Time of (8)Shortcut rep : 0.31700 ms 
+Time of (2)Convert to collection : 0.30400 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (16)Component Parent, Reversals : 0.24200 ms 
+Time of (4)Remove edges : 0.23600 ms 
+Time of (0)Extracting Roots : 0.08000 ms 
+Time of (10)Compress Graph : 0.05600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 13.58600 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100
+Time of (3)Edge Deletion : 2.820000 ms 
+Time of (12)PR Shortcut : 0.95600 ms 
+Time of (13)PR Reverse Paths : 0.81500 ms 
+Time of (1)Get key rem collections : 0.53200 ms 
+Time of (6)Get key rem collections : 0.51600 ms 
+Time of (9)Hooking Shortcutting : 0.50100 ms 
+Time of (5)Generate new edges : 0.41100 ms 
+Time of (14)Reverse Edges and Connect Parent : 0.34400 ms 
+Time of (8)Shortcut rep : 0.31600 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (4)Remove edges : 0.27500 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (10)Compress Graph : 0.05700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time (total): 8.22100 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100
+Time of (3)Edge Deletion : 2.873000 ms 
+Time of (9)Hooking Shortcutting : 1.48500 ms 
+Time of (17)PR Shortcut : 0.94900 ms 
+Time of (18)PR Reverse Paths : 0.80100 ms 
+Time of (6)Get key rem collections : 0.68700 ms 
+Time of (12)Transedges prefix : 0.51200 ms 
+Time of (1)Get key rem collections : 0.49800 ms 
+Time of (5)Generate new edges : 0.41300 ms 
+Time of (15)PR Loop : 0.36200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34200 ms 
+Time of (2)Convert to collection : 0.30500 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (8)Shortcut rep : 0.27500 ms 
+Time of (16)Component Parent, Reversals : 0.23900 ms 
+Time of (4)Remove edges : 0.23800 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 10.43700 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100
+Time of (3)Edge Deletion : 2.806000 ms 
+Time of (9)Hooking Shortcutting : 1.98500 ms 
+Time of (17)PR Shortcut : 0.95200 ms 
+Time of (18)PR Reverse Paths : 0.80700 ms 
+Time of (6)Get key rem collections : 0.56500 ms 
+Time of (12)Transedges prefix : 0.51100 ms 
+Time of (1)Get key rem collections : 0.49300 ms 
+Time of (5)Generate new edges : 0.41300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34600 ms 
+Time of (15)PR Loop : 0.31300 ms 
+Time of (8)Shortcut rep : 0.30500 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Convert to collection : 0.29800 ms 
+Time of (16)Component Parent, Reversals : 0.23500 ms 
+Time of (4)Remove edges : 0.23000 ms 
+Time of (0)Extracting Roots : 0.09200 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 10.73200 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100
+Time of (3)Edge Deletion : 2.860000 ms 
+Time of (9)Hooking Shortcutting : 1.46800 ms 
+Time of (17)PR Shortcut : 0.95400 ms 
+Time of (18)PR Reverse Paths : 0.81600 ms 
+Time of (12)Transedges prefix : 0.55400 ms 
+Time of (1)Get key rem collections : 0.50800 ms 
+Time of (6)Get key rem collections : 0.50100 ms 
+Time of (5)Generate new edges : 0.41600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37400 ms 
+Time of (15)PR Loop : 0.31500 ms 
+Time of (8)Shortcut rep : 0.31200 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (2)Convert to collection : 0.29500 ms 
+Time of (16)Component Parent, Reversals : 0.26100 ms 
+Time of (4)Remove edges : 0.23800 ms 
+Time of (0)Extracting Roots : 0.07700 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 10.32600 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 100
+Time of (3)Edge Deletion : 2.828000 ms 
+Time of (9)Hooking Shortcutting : 1.97400 ms 
+Time of (17)PR Shortcut : 0.95500 ms 
+Time of (18)PR Reverse Paths : 0.80800 ms 
+Time of (12)Transedges prefix : 0.50400 ms 
+Time of (6)Get key rem collections : 0.50300 ms 
+Time of (1)Get key rem collections : 0.50200 ms 
+Time of (5)Generate new edges : 0.41400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34200 ms 
+Time of (15)PR Loop : 0.31100 ms 
+Time of (8)Shortcut rep : 0.30500 ms 
+Time of (7)Convert to collection : 0.29800 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (16)Component Parent, Reversals : 0.23400 ms 
+Time of (4)Remove edges : 0.22800 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 10.66600 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 1000
+Time of (3)Edge Deletion : 2.873000 ms 
+Time of (9)Hooking Shortcutting : 2.00900 ms 
+Time of (17)PR Shortcut : 0.95900 ms 
+Time of (18)PR Reverse Paths : 0.81800 ms 
+Time of (1)Get key rem collections : 0.51800 ms 
+Time of (6)Get key rem collections : 0.51100 ms 
+Time of (12)Transedges prefix : 0.49700 ms 
+Time of (15)PR Loop : 0.46500 ms 
+Time of (5)Generate new edges : 0.41400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34200 ms 
+Time of (8)Shortcut rep : 0.31200 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (16)Component Parent, Reversals : 0.23800 ms 
+Time of (4)Remove edges : 0.23000 ms 
+Time of (0)Extracting Roots : 0.08400 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 10.94900 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 3.036000 ms 
+Time of (3)Edge Deletion : 2.84200 ms 
+Time of (17)PR Shortcut : 0.95600 ms 
+Time of (18)PR Reverse Paths : 0.80700 ms 
+Time of (12)Transedges prefix : 0.52300 ms 
+Time of (1)Get key rem collections : 0.50800 ms 
+Time of (6)Get key rem collections : 0.49900 ms 
+Time of (15)PR Loop : 0.45700 ms 
+Time of (5)Generate new edges : 0.41200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34500 ms 
+Time of (8)Shortcut rep : 0.30400 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (2)Convert to collection : 0.29500 ms 
+Time of (16)Component Parent, Reversals : 0.23600 ms 
+Time of (4)Remove edges : 0.22300 ms 
+Time of (0)Extracting Roots : 0.09300 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 11.91600 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 1000
+Time of (3)Edge Deletion : 2.870000 ms 
+Time of (9)Hooking Shortcutting : 2.03400 ms 
+Time of (17)PR Shortcut : 0.95300 ms 
+Time of (18)PR Reverse Paths : 0.81000 ms 
+Time of (6)Get key rem collections : 0.50500 ms 
+Time of (1)Get key rem collections : 0.50100 ms 
+Time of (12)Transedges prefix : 0.49800 ms 
+Time of (15)PR Loop : 0.46400 ms 
+Time of (5)Generate new edges : 0.41400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34400 ms 
+Time of (8)Shortcut rep : 0.30900 ms 
+Time of (7)Convert to collection : 0.29900 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (4)Remove edges : 0.26100 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (0)Extracting Roots : 0.08600 ms 
+Time of (10)Compress Graph : 0.05600 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 10.96300 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 1000
+Time of (3)Edge Deletion : 2.837000 ms 
+Time of (9)Hooking Shortcutting : 2.50400 ms 
+Time of (17)PR Shortcut : 0.98900 ms 
+Time of (18)PR Reverse Paths : 0.81800 ms 
+Time of (12)Transedges prefix : 0.60600 ms 
+Time of (1)Get key rem collections : 0.50500 ms 
+Time of (6)Get key rem collections : 0.49100 ms 
+Time of (15)PR Loop : 0.46400 ms 
+Time of (5)Generate new edges : 0.41600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34700 ms 
+Time of (8)Shortcut rep : 0.30900 ms 
+Time of (2)Convert to collection : 0.30500 ms 
+Time of (7)Convert to collection : 0.29800 ms 
+Time of (16)Component Parent, Reversals : 0.23300 ms 
+Time of (4)Remove edges : 0.22800 ms 
+Time of (0)Extracting Roots : 0.08100 ms 
+Time of (10)Compress Graph : 0.05500 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 11.51200 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12508568
+Deleted : 1000
+Time of (3)Edge Deletion : 2.857000 ms 
+Time of (9)Hooking Shortcutting : 2.05100 ms 
+Time of (17)PR Shortcut : 0.95200 ms 
+Time of (18)PR Reverse Paths : 0.83000 ms 
+Time of (6)Get key rem collections : 0.55400 ms 
+Time of (12)Transedges prefix : 0.50000 ms 
+Time of (1)Get key rem collections : 0.49800 ms 
+Time of (15)PR Loop : 0.47600 ms 
+Time of (5)Generate new edges : 0.41100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.34900 ms 
+Time of (8)Shortcut rep : 0.30600 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (4)Remove edges : 0.22800 ms 
+Time of (0)Extracting Roots : 0.08400 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 11.00900 ms 
+--------------------------------------------------------

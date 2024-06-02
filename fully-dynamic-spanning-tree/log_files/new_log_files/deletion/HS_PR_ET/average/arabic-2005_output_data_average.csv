@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+arabic-2005.txt,100,150.66
+arabic-2005.txt,1000,167.08
+arabic-2005.txt,10000,171.67
+arabic-2005.txt,100000,174.11

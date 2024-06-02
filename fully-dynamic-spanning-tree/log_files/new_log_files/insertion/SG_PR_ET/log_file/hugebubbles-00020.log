@@ -1,0 +1,420 @@
+
+
+filename: hugebubbles-00020.egr
+Root: 9566723
+Number of deleted tree edges: 31799
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 9566723
+Root: 9566723
+After repairing:
+Total execution time of all functions: 57.6832 ms.
+
+Function execution times:
+Time of Eulerian Tour : 48.51 ms
+Time of Pointer Jumping : 6.19 ms
+Time of Super graph Creation : 1.90 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 15211629
+Number of deleted tree edges: 38014
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 15211629
+Root: 15211629
+After repairing:
+Total execution time of all functions: 54.5542 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.52 ms
+Time of Pointer Jumping : 6.21 ms
+Time of Super graph Creation : 1.74 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 5351749
+Number of deleted tree edges: 39676
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 5351749
+Root: 5351749
+After repairing:
+Total execution time of all functions: 57.6936 ms.
+
+Function execution times:
+Time of Eulerian Tour : 47.76 ms
+Time of Pointer Jumping : 6.20 ms
+Time of Super graph Creation : 2.65 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 2879982
+Number of deleted tree edges: 55457
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 2879982
+Root: 2879982
+After repairing:
+Total execution time of all functions: 73.4959 ms.
+
+Function execution times:
+Time of Eulerian Tour : 63.38 ms
+Time of Pointer Jumping : 6.22 ms
+Time of Super graph Creation : 2.81 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 4600121
+Number of deleted tree edges: 25340
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 4600121
+Root: 4600121
+After repairing:
+Total execution time of all functions: 75.5548 ms.
+
+Function execution times:
+Time of Eulerian Tour : 65.38 ms
+Time of Pointer Jumping : 6.19 ms
+Time of Super graph Creation : 2.90 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 20781320
+Number of deleted tree edges: 6084
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 20781320
+Root: 20781320
+After repairing:
+Total execution time of all functions: 60.2406 ms.
+
+Function execution times:
+Time of Eulerian Tour : 49.34 ms
+Time of Pointer Jumping : 7.71 ms
+Time of Super graph Creation : 2.12 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 12515951
+Number of deleted tree edges: 4768
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 12515951
+Root: 12515951
+After repairing:
+Total execution time of all functions: 74.4732 ms.
+
+Function execution times:
+Time of Eulerian Tour : 64.32 ms
+Time of Pointer Jumping : 6.16 ms
+Time of Super graph Creation : 2.90 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 3925684
+Number of deleted tree edges: 638
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 3925684
+Root: 3925684
+After repairing:
+Total execution time of all functions: 71.6828 ms.
+
+Function execution times:
+Time of Eulerian Tour : 60.33 ms
+Time of Pointer Jumping : 8.64 ms
+Time of Super graph Creation : 1.63 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 17796013
+Number of deleted tree edges: 5488
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 17796013
+Root: 17796013
+After repairing:
+Total execution time of all functions: 63.0094 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.95 ms
+Time of Pointer Jumping : 6.16 ms
+Time of Super graph Creation : 1.71 ms
+Time of finding unique comps : 1.18 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 19068342
+Number of deleted tree edges: 5592
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 19068342
+Root: 19068342
+After repairing:
+Total execution time of all functions: 79.7109 ms.
+
+Function execution times:
+Time of Eulerian Tour : 69.17 ms
+Time of Pointer Jumping : 6.15 ms
+Time of Super graph Creation : 3.30 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 6909546
+Number of deleted tree edges: 59
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 6909546
+Root: 6909546
+After repairing:
+Total execution time of all functions: 54.4795 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.45 ms
+Time of Pointer Jumping : 6.15 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.80 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 1689078
+Number of deleted tree edges: 61
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 1689078
+Root: 1689078
+After repairing:
+Total execution time of all functions: 75.4956 ms.
+
+Function execution times:
+Time of Eulerian Tour : 67.11 ms
+Time of Pointer Jumping : 6.14 ms
+Time of Super graph Creation : 1.15 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 6991087
+Number of deleted tree edges: 42
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 6991087
+Root: 6991087
+After repairing:
+Total execution time of all functions: 59.696 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.23 ms
+Time of Pointer Jumping : 5.07 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.32 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 9291239
+Number of deleted tree edges: 50
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 9291239
+Root: 9291239
+After repairing:
+Total execution time of all functions: 76.5424 ms.
+
+Function execution times:
+Time of Eulerian Tour : 68.30 ms
+Time of Pointer Jumping : 6.15 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 1.00 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 20565176
+Number of deleted tree edges: 60
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 20565176
+Root: 20565176
+After repairing:
+Total execution time of all functions: 64.9772 ms.
+
+Function execution times:
+Time of Eulerian Tour : 57.19 ms
+Time of Pointer Jumping : 6.15 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.56 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 19720537
+Number of deleted tree edges: 510
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 19720537
+Root: 19720537
+After repairing:
+Total execution time of all functions: 76.5444 ms.
+
+Function execution times:
+Time of Eulerian Tour : 68.54 ms
+Time of Pointer Jumping : 6.15 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.76 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 2227910
+Number of deleted tree edges: 585
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 2227910
+Root: 2227910
+After repairing:
+Total execution time of all functions: 69.1936 ms.
+
+Function execution times:
+Time of Eulerian Tour : 60.96 ms
+Time of Pointer Jumping : 6.15 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.99 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 17803973
+Number of deleted tree edges: 510
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 17803973
+Root: 17803973
+After repairing:
+Total execution time of all functions: 66.7521 ms.
+
+Function execution times:
+Time of Eulerian Tour : 59.20 ms
+Time of Pointer Jumping : 5.81 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 9083583
+Number of deleted tree edges: 557
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 9083583
+Root: 9083583
+After repairing:
+Total execution time of all functions: 75.4966 ms.
+
+Function execution times:
+Time of Eulerian Tour : 67.14 ms
+Time of Pointer Jumping : 6.16 ms
+Time of Super graph Creation : 1.11 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 3353995
+Number of deleted tree edges: 465
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 3353995
+Root: 3353995
+After repairing:
+Total execution time of all functions: 62.0664 ms.
+
+Function execution times:
+Time of Eulerian Tour : 54.76 ms
+Time of Pointer Jumping : 5.32 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.90 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

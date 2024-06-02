@@ -1,0 +1,420 @@
+
+
+filename: indochina-2004.egr
+Root: 7369159
+Number of deleted tree edges: 414
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Root: 7369159
+Root: 7369159
+After repairing:
+Total execution time of all functions: 29.9127 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.84 ms
+Time of Super graph Creation : 3.50 ms
+Time of Pointer Jumping : 1.48 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 78148
+Number of deleted tree edges: 697
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Root: 78148
+Root: 78148
+After repairing:
+Total execution time of all functions: 23.5897 ms.
+
+Function execution times:
+Time of Eulerian Tour : 19.37 ms
+Time of Super graph Creation : 1.66 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 6980010
+Number of deleted tree edges: 668
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Root: 6980010
+Root: 6980010
+After repairing:
+Total execution time of all functions: 29.9141 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.99 ms
+Time of Super graph Creation : 3.36 ms
+Time of Pointer Jumping : 1.46 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 5105843
+Number of deleted tree edges: 603
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Root: 5105843
+Root: 5105843
+After repairing:
+Total execution time of all functions: 30.9463 ms.
+
+Function execution times:
+Time of Eulerian Tour : 25.75 ms
+Time of Super graph Creation : 2.64 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 4006156
+Number of deleted tree edges: 801
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Root: 4006156
+Root: 4006156
+After repairing:
+Total execution time of all functions: 20.0468 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.70 ms
+Time of Super graph Creation : 2.17 ms
+Time of Pointer Jumping : 1.09 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 6498397
+Number of deleted tree edges: 47
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Root: 6498397
+Root: 6498397
+After repairing:
+Total execution time of all functions: 27.7848 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.39 ms
+Time of Super graph Creation : 1.84 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 1640188
+Number of deleted tree edges: 85
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Root: 1640188
+Root: 1640188
+After repairing:
+Total execution time of all functions: 22.5253 ms.
+
+Function execution times:
+Time of Eulerian Tour : 18.23 ms
+Time of Super graph Creation : 1.74 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 1777063
+Number of deleted tree edges: 93
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Root: 1777063
+Root: 1777063
+After repairing:
+Total execution time of all functions: 20.0645 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.44 ms
+Time of Super graph Creation : 1.43 ms
+Time of Pointer Jumping : 1.12 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 5085090
+Number of deleted tree edges: 53
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Root: 5085090
+Root: 5085090
+After repairing:
+Total execution time of all functions: 27.7853 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.68 ms
+Time of Super graph Creation : 1.54 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 4873949
+Number of deleted tree edges: 69
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Root: 4873949
+Root: 4873949
+After repairing:
+Total execution time of all functions: 29.8908 ms.
+
+Function execution times:
+Time of Eulerian Tour : 25.09 ms
+Time of Super graph Creation : 2.24 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 1395536
+Number of deleted tree edges: 2
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Root: 1395536
+Root: 1395536
+After repairing:
+Total execution time of all functions: 20.33 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.71 ms
+Time of Pointer Jumping : 1.37 ms
+Time of Super graph Creation : 1.16 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 4076944
+Number of deleted tree edges: 2
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Root: 4076944
+Root: 4076944
+After repairing:
+Total execution time of all functions: 24.469 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.34 ms
+Time of Pointer Jumping : 1.31 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.74 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 6902709
+Number of deleted tree edges: 1
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Root: 6902709
+Root: 6902709
+After repairing:
+Total execution time of all functions: 27.7969 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.54 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.70 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 2127206
+Number of deleted tree edges: 0
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Root: 2127206
+Root: 2127206
+After repairing:
+Total execution time of all functions: 29.9022 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.93 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.41 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 2685426
+Number of deleted tree edges: 0
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Root: 2685426
+Root: 2685426
+After repairing:
+Total execution time of all functions: 23.3703 ms.
+
+Function execution times:
+Time of Eulerian Tour : 20.09 ms
+Time of Pointer Jumping : 1.25 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.95 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 2120304
+Number of deleted tree edges: 9
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Root: 2120304
+Root: 2120304
+After repairing:
+Total execution time of all functions: 26.7115 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.88 ms
+Time of Pointer Jumping : 1.45 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.29 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 1894989
+Number of deleted tree edges: 8
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Root: 1894989
+Root: 1894989
+After repairing:
+Total execution time of all functions: 26.7365 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.60 ms
+Time of Pointer Jumping : 1.47 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.57 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 1170348
+Number of deleted tree edges: 8
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Root: 1170348
+Root: 1170348
+After repairing:
+Total execution time of all functions: 20.4145 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.67 ms
+Time of Pointer Jumping : 1.46 ms
+Time of Super graph Creation : 1.19 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 3369001
+Number of deleted tree edges: 6
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Root: 3369001
+Root: 3369001
+After repairing:
+Total execution time of all functions: 21.2166 ms.
+
+Function execution times:
+Time of Eulerian Tour : 18.63 ms
+Time of Pointer Jumping : 1.21 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.29 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: indochina-2004.egr
+Root: 7020335
+Number of deleted tree edges: 14
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Root: 7020335
+Root: 7020335
+After repairing:
+Total execution time of all functions: 28.839 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.97 ms
+Time of Pointer Jumping : 1.47 ms
+Time of Super graph Creation : 1.31 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

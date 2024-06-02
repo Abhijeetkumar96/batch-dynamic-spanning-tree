@@ -1,0 +1,340 @@
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 11902
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100000
+
+Total execution time of all functions: 101.616 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.61 ms
+Time of Super graph Creation : 43.31 ms
+Time of Pointer Jumping : 4.61 ms
+Time of PR-RST module : 4.07 ms
+Time of update data structure : 3.55 ms
+Time of Path Reversal : 0.43 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 12068
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100000
+
+Total execution time of all functions: 97.7966 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.39 ms
+Time of Super graph Creation : 38.40 ms
+Time of Pointer Jumping : 4.61 ms
+Time of PR-RST module : 4.39 ms
+Time of update data structure : 3.64 ms
+Time of Path Reversal : 0.32 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 11749
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100000
+
+Total execution time of all functions: 95.4433 ms.
+
+Function execution times:
+Time of Eulerian Tour : 43.78 ms
+Time of Super graph Creation : 39.51 ms
+Time of Pointer Jumping : 4.24 ms
+Time of PR-RST module : 3.88 ms
+Time of update data structure : 3.60 ms
+Time of Path Reversal : 0.39 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 11977
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100000
+
+Total execution time of all functions: 99.4507 ms.
+
+Function execution times:
+Time of Eulerian Tour : 44.43 ms
+Time of Super graph Creation : 40.98 ms
+Time of update data structure : 4.71 ms
+Time of PR-RST module : 4.56 ms
+Time of Pointer Jumping : 4.33 ms
+Time of Path Reversal : 0.40 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 11723
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100000
+
+Total execution time of all functions: 96.436 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.14 ms
+Time of Super graph Creation : 38.69 ms
+Time of PR-RST module : 4.53 ms
+Time of Pointer Jumping : 4.13 ms
+Time of update data structure : 3.50 ms
+Time of Path Reversal : 0.39 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.03 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 1243
+numVert: 16777216, num_edges: 265114402 and delete batch size: 10000
+
+Total execution time of all functions: 94.9252 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.23 ms
+Time of Super graph Creation : 40.20 ms
+Time of Pointer Jumping : 4.26 ms
+Time of update data structure : 3.48 ms
+Time of PR-RST module : 1.47 ms
+Time of Path Reversal : 0.25 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 1216
+numVert: 16777216, num_edges: 265114402 and delete batch size: 10000
+
+Total execution time of all functions: 90.314 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.61 ms
+Time of Super graph Creation : 35.10 ms
+Time of Pointer Jumping : 4.26 ms
+Time of update data structure : 3.41 ms
+Time of PR-RST module : 1.69 ms
+Time of Path Reversal : 0.21 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 1196
+numVert: 16777216, num_edges: 265114402 and delete batch size: 10000
+
+Total execution time of all functions: 97.2035 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.36 ms
+Time of Super graph Creation : 40.74 ms
+Time of Pointer Jumping : 4.27 ms
+Time of update data structure : 3.37 ms
+Time of PR-RST module : 2.13 ms
+Time of Path Reversal : 0.28 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.03 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 1163
+numVert: 16777216, num_edges: 265114402 and delete batch size: 10000
+
+Total execution time of all functions: 95.7258 ms.
+
+Function execution times:
+Time of Eulerian Tour : 47.15 ms
+Time of Super graph Creation : 39.16 ms
+Time of Pointer Jumping : 4.25 ms
+Time of update data structure : 3.33 ms
+Time of PR-RST module : 1.59 ms
+Time of Path Reversal : 0.20 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 1117
+numVert: 16777216, num_edges: 265114402 and delete batch size: 10000
+
+Total execution time of all functions: 98.5837 ms.
+
+Function execution times:
+Time of Eulerian Tour : 48.55 ms
+Time of Super graph Creation : 40.08 ms
+Time of Pointer Jumping : 4.24 ms
+Time of update data structure : 3.35 ms
+Time of PR-RST module : 2.06 ms
+Time of Path Reversal : 0.25 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 7
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100
+
+Total execution time of all functions: 89.8029 ms.
+
+Function execution times:
+Time of Eulerian Tour : 49.82 ms
+Time of Super graph Creation : 32.00 ms
+Time of Pointer Jumping : 4.10 ms
+Time of update data structure : 3.36 ms
+Time of PR-RST module : 0.35 ms
+Time of Path Reversal : 0.13 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 14
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100
+
+Total execution time of all functions: 91.7689 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.22 ms
+Time of Super graph Creation : 37.42 ms
+Time of Pointer Jumping : 4.10 ms
+Time of update data structure : 3.37 ms
+Time of PR-RST module : 0.45 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 16
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100
+
+Total execution time of all functions: 93.45 ms.
+
+Function execution times:
+Time of Eulerian Tour : 47.42 ms
+Time of Super graph Creation : 37.78 ms
+Time of Pointer Jumping : 4.11 ms
+Time of update data structure : 3.57 ms
+Time of PR-RST module : 0.41 ms
+Time of Path Reversal : 0.12 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 11
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100
+
+Total execution time of all functions: 92.2791 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.71 ms
+Time of Super graph Creation : 37.46 ms
+Time of Pointer Jumping : 4.10 ms
+Time of update data structure : 3.35 ms
+Time of PR-RST module : 0.45 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 13
+numVert: 16777216, num_edges: 265114402 and delete batch size: 100
+
+Total execution time of all functions: 90.7004 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.40 ms
+Time of Super graph Creation : 37.14 ms
+Time of Pointer Jumping : 4.10 ms
+Time of update data structure : 3.42 ms
+Time of PR-RST module : 0.43 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 106
+numVert: 16777216, num_edges: 265114402 and delete batch size: 1000
+
+Total execution time of all functions: 90.6549 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.81 ms
+Time of Super graph Creation : 35.64 ms
+Time of Pointer Jumping : 4.12 ms
+Time of update data structure : 3.42 ms
+Time of PR-RST module : 0.51 ms
+Time of Path Reversal : 0.13 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 140
+numVert: 16777216, num_edges: 265114402 and delete batch size: 1000
+
+Total execution time of all functions: 88.2049 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.03 ms
+Time of Super graph Creation : 34.50 ms
+Time of Pointer Jumping : 3.49 ms
+Time of update data structure : 3.38 ms
+Time of PR-RST module : 0.61 ms
+Time of Path Reversal : 0.16 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 121
+numVert: 16777216, num_edges: 265114402 and delete batch size: 1000
+
+Total execution time of all functions: 89.0162 ms.
+
+Function execution times:
+Time of Eulerian Tour : 47.25 ms
+Time of Super graph Creation : 33.35 ms
+Time of Pointer Jumping : 4.12 ms
+Time of update data structure : 3.51 ms
+Time of PR-RST module : 0.59 ms
+Time of Path Reversal : 0.14 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 121
+numVert: 16777216, num_edges: 265114402 and delete batch size: 1000
+
+Total execution time of all functions: 95.1256 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.93 ms
+Time of Super graph Creation : 39.79 ms
+Time of Pointer Jumping : 4.12 ms
+Time of update data structure : 3.38 ms
+Time of PR-RST module : 0.66 ms
+Time of Path Reversal : 0.19 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: rgg_n_2_24_s0.egr
+Number of deleted tree edges: 129
+numVert: 16777216, num_edges: 265114402 and delete batch size: 1000
+
+Total execution time of all functions: 93.5319 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.37 ms
+Time of Super graph Creation : 39.81 ms
+Time of Pointer Jumping : 4.12 ms
+Time of update data structure : 3.34 ms
+Time of PR-RST module : 0.67 ms
+Time of Path Reversal : 0.18 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

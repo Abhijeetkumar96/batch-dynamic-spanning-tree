@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+germany_osm.txt,100,42.6
+germany_osm.txt,1000,43.48
+germany_osm.txt,10000,49.13
+germany_osm.txt,100000,53.47

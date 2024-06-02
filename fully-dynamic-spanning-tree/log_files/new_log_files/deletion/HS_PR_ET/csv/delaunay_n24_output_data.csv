@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+delaunay_n24.txt,100,60.25
+delaunay_n24.txt,100,65.469
+delaunay_n24.txt,100,63.367
+delaunay_n24.txt,100,63.203
+delaunay_n24.txt,100,60.431
+delaunay_n24.txt,1000,59.56
+delaunay_n24.txt,1000,66.529
+delaunay_n24.txt,1000,63.707
+delaunay_n24.txt,1000,62.794
+delaunay_n24.txt,1000,73.683
+delaunay_n24.txt,10000,64.047
+delaunay_n24.txt,10000,65.958
+delaunay_n24.txt,10000,70.717
+delaunay_n24.txt,10000,73.48
+delaunay_n24.txt,10000,69.326
+delaunay_n24.txt,100000,76.677
+delaunay_n24.txt,100000,77.881
+delaunay_n24.txt,100000,78.315
+delaunay_n24.txt,100000,71.098
+delaunay_n24.txt,100000,73.14

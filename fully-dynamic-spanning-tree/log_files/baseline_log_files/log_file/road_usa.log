@@ -1,0 +1,259 @@
+filename: road_usa.egr
+Delete batch Size: 100000
+Depth of graph: 6288
+Total execution time of all functions: 2418.83 ms.
+
+Function execution times:
+Time of simple BFS : 943.95 ms
+Time of Adam_BFS : 802.22 ms
+Time of PR-RST module : 579.22 ms
+Time of CC : 88.79 ms
+Time of update datastr : 4.65 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100000
+Depth of graph: 6270
+Total execution time of all functions: 2605.23 ms.
+
+Function execution times:
+Time of simple BFS : 1076.85 ms
+Time of Adam_BFS : 800.18 ms
+Time of PR-RST module : 638.05 ms
+Time of CC : 85.45 ms
+Time of update datastr : 4.69 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100000
+Depth of graph: 6269
+Total execution time of all functions: 2466.18 ms.
+
+Function execution times:
+Time of simple BFS : 937.94 ms
+Time of Adam_BFS : 796.72 ms
+Time of PR-RST module : 641.14 ms
+Time of CC : 85.72 ms
+Time of update datastr : 4.67 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100000
+Depth of graph: 6269
+Total execution time of all functions: 2445.01 ms.
+
+Function execution times:
+Time of simple BFS : 973.76 ms
+Time of Adam_BFS : 802.15 ms
+Time of PR-RST module : 575.76 ms
+Time of CC : 88.66 ms
+Time of update datastr : 4.69 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100000
+Depth of graph: 6279
+Total execution time of all functions: 2464.24 ms.
+
+Function execution times:
+Time of simple BFS : 990.90 ms
+Time of Adam_BFS : 801.81 ms
+Time of PR-RST module : 577.14 ms
+Time of CC : 89.73 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2506.59 ms.
+
+Function execution times:
+Time of simple BFS : 1035.34 ms
+Time of Adam_BFS : 805.24 ms
+Time of PR-RST module : 576.46 ms
+Time of CC : 84.91 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2399.52 ms.
+
+Function execution times:
+Time of simple BFS : 940.18 ms
+Time of Adam_BFS : 793.00 ms
+Time of PR-RST module : 577.68 ms
+Time of CC : 84.03 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2404.35 ms.
+
+Function execution times:
+Time of simple BFS : 947.88 ms
+Time of Adam_BFS : 792.51 ms
+Time of PR-RST module : 577.11 ms
+Time of CC : 82.22 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2458.46 ms.
+
+Function execution times:
+Time of simple BFS : 938.95 ms
+Time of Adam_BFS : 792.19 ms
+Time of PR-RST module : 640.63 ms
+Time of CC : 82.03 ms
+Time of update datastr : 4.67 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2473.05 ms.
+
+Function execution times:
+Time of simple BFS : 938.74 ms
+Time of Adam_BFS : 798.61 ms
+Time of PR-RST module : 637.58 ms
+Time of CC : 92.38 ms
+Time of update datastr : 5.74 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2397.65 ms.
+
+Function execution times:
+Time of simple BFS : 939.63 ms
+Time of Adam_BFS : 792.53 ms
+Time of PR-RST module : 576.42 ms
+Time of CC : 84.44 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2459.24 ms.
+
+Function execution times:
+Time of simple BFS : 937.18 ms
+Time of Adam_BFS : 796.25 ms
+Time of PR-RST module : 639.27 ms
+Time of CC : 81.91 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2467.84 ms.
+
+Function execution times:
+Time of simple BFS : 938.31 ms
+Time of Adam_BFS : 795.20 ms
+Time of PR-RST module : 640.89 ms
+Time of CC : 88.81 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2405.36 ms.
+
+Function execution times:
+Time of simple BFS : 941.05 ms
+Time of Adam_BFS : 798.52 ms
+Time of PR-RST module : 575.99 ms
+Time of CC : 85.18 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2465.7 ms.
+
+Function execution times:
+Time of simple BFS : 938.90 ms
+Time of Adam_BFS : 795.18 ms
+Time of PR-RST module : 639.71 ms
+Time of CC : 81.89 ms
+Time of update datastr : 10.02 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2465.18 ms.
+
+Function execution times:
+Time of simple BFS : 936.72 ms
+Time of Adam_BFS : 792.69 ms
+Time of PR-RST module : 638.70 ms
+Time of CC : 92.43 ms
+Time of update datastr : 4.64 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2468.63 ms.
+
+Function execution times:
+Time of simple BFS : 938.72 ms
+Time of Adam_BFS : 800.23 ms
+Time of PR-RST module : 639.37 ms
+Time of CC : 85.68 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2390.82 ms.
+
+Function execution times:
+Time of simple BFS : 936.44 ms
+Time of Adam_BFS : 789.26 ms
+Time of PR-RST module : 578.21 ms
+Time of CC : 82.29 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2460.23 ms.
+
+Function execution times:
+Time of simple BFS : 938.88 ms
+Time of Adam_BFS : 792.64 ms
+Time of PR-RST module : 638.48 ms
+Time of CC : 85.60 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: road_usa.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2443.31 ms.
+
+Function execution times:
+Time of simple BFS : 985.11 ms
+Time of Adam_BFS : 792.39 ms
+Time of PR-RST module : 576.61 ms
+Time of CC : 84.57 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------

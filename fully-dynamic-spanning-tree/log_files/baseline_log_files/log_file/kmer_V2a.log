@@ -1,0 +1,259 @@
+filename: kmer_V2a.egr
+Delete batch Size: 100000
+Depth of graph: 15373
+Total execution time of all functions: 7237.11 ms.
+
+Function execution times:
+Time of simple BFS : 3640.23 ms
+Time of Adam_BFS : 1689.16 ms
+Time of PR-RST module : 1517.35 ms
+Time of CC : 385.30 ms
+Time of update datastr : 5.07 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100000
+Depth of graph: 15373
+Total execution time of all functions: 7105 ms.
+
+Function execution times:
+Time of simple BFS : 3642.57 ms
+Time of Adam_BFS : 1628.42 ms
+Time of PR-RST module : 1517.09 ms
+Time of CC : 311.81 ms
+Time of update datastr : 5.11 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100000
+Depth of graph: 15373
+Total execution time of all functions: 7122.67 ms.
+
+Function execution times:
+Time of simple BFS : 3652.53 ms
+Time of Adam_BFS : 1637.98 ms
+Time of PR-RST module : 1518.56 ms
+Time of CC : 308.49 ms
+Time of update datastr : 5.10 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100000
+Depth of graph: 15373
+Total execution time of all functions: 7130.2 ms.
+
+Function execution times:
+Time of simple BFS : 3612.12 ms
+Time of Adam_BFS : 1639.56 ms
+Time of PR-RST module : 1519.05 ms
+Time of CC : 354.29 ms
+Time of update datastr : 5.18 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100000
+Depth of graph: 15373
+Total execution time of all functions: 7138.51 ms.
+
+Function execution times:
+Time of simple BFS : 3656.22 ms
+Time of Adam_BFS : 1651.72 ms
+Time of PR-RST module : 1517.31 ms
+Time of CC : 309.21 ms
+Time of update datastr : 4.04 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 10000
+Depth of graph: 15373
+Total execution time of all functions: 7225.18 ms.
+
+Function execution times:
+Time of simple BFS : 3613.61 ms
+Time of Adam_BFS : 1732.39 ms
+Time of PR-RST module : 1524.44 ms
+Time of CC : 349.66 ms
+Time of update datastr : 5.08 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 10000
+Depth of graph: 15373
+Total execution time of all functions: 7192.56 ms.
+
+Function execution times:
+Time of simple BFS : 3695.73 ms
+Time of Adam_BFS : 1654.94 ms
+Time of PR-RST module : 1521.30 ms
+Time of CC : 315.47 ms
+Time of update datastr : 5.12 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 10000
+Depth of graph: 15373
+Total execution time of all functions: 7271.82 ms.
+
+Function execution times:
+Time of simple BFS : 3653.29 ms
+Time of Adam_BFS : 1771.63 ms
+Time of PR-RST module : 1521.53 ms
+Time of CC : 320.29 ms
+Time of update datastr : 5.07 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 10000
+Depth of graph: 15373
+Total execution time of all functions: 7144.1 ms.
+
+Function execution times:
+Time of simple BFS : 3616.41 ms
+Time of Adam_BFS : 1662.72 ms
+Time of PR-RST module : 1522.43 ms
+Time of CC : 337.44 ms
+Time of update datastr : 5.10 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 10000
+Depth of graph: 15373
+Total execution time of all functions: 7138.82 ms.
+
+Function execution times:
+Time of simple BFS : 3635.19 ms
+Time of Adam_BFS : 1661.86 ms
+Time of PR-RST module : 1521.59 ms
+Time of CC : 315.05 ms
+Time of update datastr : 5.13 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100
+Depth of graph: 15373
+Total execution time of all functions: 7311.08 ms.
+
+Function execution times:
+Time of simple BFS : 3662.06 ms
+Time of Adam_BFS : 1740.18 ms
+Time of PR-RST module : 1520.74 ms
+Time of CC : 382.99 ms
+Time of update datastr : 5.11 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100
+Depth of graph: 15373
+Total execution time of all functions: 7168.04 ms.
+
+Function execution times:
+Time of simple BFS : 3632.38 ms
+Time of Adam_BFS : 1697.55 ms
+Time of PR-RST module : 1520.49 ms
+Time of CC : 312.52 ms
+Time of update datastr : 5.11 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100
+Depth of graph: 15373
+Total execution time of all functions: 7162.45 ms.
+
+Function execution times:
+Time of simple BFS : 3672.34 ms
+Time of Adam_BFS : 1649.82 ms
+Time of PR-RST module : 1520.13 ms
+Time of CC : 315.05 ms
+Time of update datastr : 5.11 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100
+Depth of graph: 15373
+Total execution time of all functions: 7191.08 ms.
+
+Function execution times:
+Time of simple BFS : 3655.23 ms
+Time of Adam_BFS : 1696.20 ms
+Time of PR-RST module : 1518.67 ms
+Time of CC : 315.90 ms
+Time of update datastr : 5.09 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 100
+Depth of graph: 15373
+Total execution time of all functions: 7161.12 ms.
+
+Function execution times:
+Time of simple BFS : 3634.40 ms
+Time of Adam_BFS : 1643.62 ms
+Time of PR-RST module : 1535.04 ms
+Time of CC : 342.95 ms
+Time of update datastr : 5.10 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 1000
+Depth of graph: 15373
+Total execution time of all functions: 7150.53 ms.
+
+Function execution times:
+Time of simple BFS : 3647.36 ms
+Time of Adam_BFS : 1656.86 ms
+Time of PR-RST module : 1520.85 ms
+Time of CC : 320.39 ms
+Time of update datastr : 5.08 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 1000
+Depth of graph: 15373
+Total execution time of all functions: 7120.39 ms.
+
+Function execution times:
+Time of simple BFS : 3636.23 ms
+Time of Adam_BFS : 1660.09 ms
+Time of PR-RST module : 1523.08 ms
+Time of CC : 295.92 ms
+Time of update datastr : 5.08 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 1000
+Depth of graph: 15373
+Total execution time of all functions: 7240.74 ms.
+
+Function execution times:
+Time of simple BFS : 3632.17 ms
+Time of Adam_BFS : 1748.08 ms
+Time of PR-RST module : 1519.27 ms
+Time of CC : 336.14 ms
+Time of update datastr : 5.09 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 1000
+Depth of graph: 15373
+Total execution time of all functions: 7164.76 ms.
+
+Function execution times:
+Time of simple BFS : 3641.05 ms
+Time of Adam_BFS : 1702.67 ms
+Time of PR-RST module : 1520.53 ms
+Time of CC : 295.42 ms
+Time of update datastr : 5.08 ms
+----------------------------------------------------------------
+
+filename: kmer_V2a.egr
+Delete batch Size: 1000
+Depth of graph: 15373
+Total execution time of all functions: 7184.28 ms.
+
+Function execution times:
+Time of simple BFS : 3670.18 ms
+Time of Adam_BFS : 1630.07 ms
+Time of PR-RST module : 1522.88 ms
+Time of CC : 356.07 ms
+Time of update datastr : 5.08 ms
+----------------------------------------------------------------

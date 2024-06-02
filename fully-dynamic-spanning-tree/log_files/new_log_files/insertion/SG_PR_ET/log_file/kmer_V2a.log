@@ -1,0 +1,420 @@
+
+
+filename: kmer_V2a.egr
+Root: 35784152
+Number of deleted tree edges: 41209
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100000
+
+Root: 35784152
+Root: 35784152
+After repairing:
+Total execution time of all functions: 124.914 ms.
+
+Function execution times:
+Time of Eulerian Tour : 104.21 ms
+Time of Pointer Jumping : 15.86 ms
+Time of Super graph Creation : 3.77 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 32478941
+Number of deleted tree edges: 42257
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100000
+
+Root: 32478941
+Root: 32478941
+After repairing:
+Total execution time of all functions: 122.806 ms.
+
+Function execution times:
+Time of Eulerian Tour : 102.11 ms
+Time of Pointer Jumping : 15.68 ms
+Time of Super graph Creation : 3.93 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 51736887
+Number of deleted tree edges: 17030
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100000
+
+Root: 51736887
+Root: 51736887
+After repairing:
+Total execution time of all functions: 131.688 ms.
+
+Function execution times:
+Time of Eulerian Tour : 105.85 ms
+Time of Pointer Jumping : 21.05 ms
+Time of Super graph Creation : 3.70 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 6991089
+Number of deleted tree edges: 25085
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100000
+
+Root: 6991089
+Root: 6991089
+After repairing:
+Total execution time of all functions: 129.9 ms.
+
+Function execution times:
+Time of Eulerian Tour : 111.73 ms
+Time of Pointer Jumping : 16.17 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.92 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 37362795
+Number of deleted tree edges: 16001
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100000
+
+Root: 37362795
+Root: 37362795
+After repairing:
+Total execution time of all functions: 127.328 ms.
+
+Function execution times:
+Time of Eulerian Tour : 105.20 ms
+Time of Pointer Jumping : 17.29 ms
+Time of Super graph Creation : 3.76 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 54521576
+Number of deleted tree edges: 2085
+numVert: 55042369, num_edges: 117248284 and delete batch size: 10000
+
+Root: 54521576
+Root: 54521576
+After repairing:
+Total execution time of all functions: 119.817 ms.
+
+Function execution times:
+Time of Eulerian Tour : 102.13 ms
+Time of Pointer Jumping : 15.72 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.88 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 50586003
+Number of deleted tree edges: 4462
+numVert: 55042369, num_edges: 117248284 and delete batch size: 10000
+
+Root: 50586003
+Root: 50586003
+After repairing:
+Total execution time of all functions: 127.865 ms.
+
+Function execution times:
+Time of Eulerian Tour : 109.01 ms
+Time of Pointer Jumping : 16.88 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.89 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 19876850
+Number of deleted tree edges: 4518
+numVert: 55042369, num_edges: 117248284 and delete batch size: 10000
+
+Root: 19876850
+Root: 19876850
+After repairing:
+Total execution time of all functions: 135.144 ms.
+
+Function execution times:
+Time of Eulerian Tour : 111.98 ms
+Time of Pointer Jumping : 21.18 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.89 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 40248087
+Number of deleted tree edges: 2519
+numVert: 55042369, num_edges: 117248284 and delete batch size: 10000
+
+Root: 40248087
+Root: 40248087
+After repairing:
+Total execution time of all functions: 122.115 ms.
+
+Function execution times:
+Time of Eulerian Tour : 102.91 ms
+Time of Pointer Jumping : 17.24 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.89 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 17658357
+Number of deleted tree edges: 4365
+numVert: 55042369, num_edges: 117248284 and delete batch size: 10000
+
+Root: 17658357
+Root: 17658357
+After repairing:
+Total execution time of all functions: 126.776 ms.
+
+Function execution times:
+Time of Eulerian Tour : 103.61 ms
+Time of Pointer Jumping : 21.18 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.89 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 10536030
+Number of deleted tree edges: 24
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100
+
+Root: 10536030
+Root: 10536030
+After repairing:
+Total execution time of all functions: 121.883 ms.
+
+Function execution times:
+Time of Eulerian Tour : 104.99 ms
+Time of Pointer Jumping : 15.59 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 14769509
+Number of deleted tree edges: 21
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100
+
+Root: 14769509
+Root: 14769509
+After repairing:
+Total execution time of all functions: 126.065 ms.
+
+Function execution times:
+Time of Eulerian Tour : 104.66 ms
+Time of Pointer Jumping : 20.09 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 10146134
+Number of deleted tree edges: 21
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100
+
+Root: 10146134
+Root: 10146134
+After repairing:
+Total execution time of all functions: 121.033 ms.
+
+Function execution times:
+Time of Eulerian Tour : 104.16 ms
+Time of Pointer Jumping : 15.57 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 7506221
+Number of deleted tree edges: 22
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100
+
+Root: 7506221
+Root: 7506221
+After repairing:
+Total execution time of all functions: 124.339 ms.
+
+Function execution times:
+Time of Eulerian Tour : 106.85 ms
+Time of Pointer Jumping : 16.18 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 15256166
+Number of deleted tree edges: 45
+numVert: 55042369, num_edges: 117248284 and delete batch size: 100
+
+Root: 15256166
+Root: 15256166
+After repairing:
+Total execution time of all functions: 123.08 ms.
+
+Function execution times:
+Time of Eulerian Tour : 106.18 ms
+Time of Pointer Jumping : 15.59 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 12612720
+Number of deleted tree edges: 322
+numVert: 55042369, num_edges: 117248284 and delete batch size: 1000
+
+Root: 12612720
+Root: 12612720
+After repairing:
+Total execution time of all functions: 124.557 ms.
+
+Function execution times:
+Time of Eulerian Tour : 107.51 ms
+Time of Pointer Jumping : 15.73 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 54634152
+Number of deleted tree edges: 380
+numVert: 55042369, num_edges: 117248284 and delete batch size: 1000
+
+Root: 54634152
+Root: 54634152
+After repairing:
+Total execution time of all functions: 125.741 ms.
+
+Function execution times:
+Time of Eulerian Tour : 108.86 ms
+Time of Pointer Jumping : 15.57 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 10177358
+Number of deleted tree edges: 300
+numVert: 55042369, num_edges: 117248284 and delete batch size: 1000
+
+Root: 10177358
+Root: 10177358
+After repairing:
+Total execution time of all functions: 130.444 ms.
+
+Function execution times:
+Time of Eulerian Tour : 109.17 ms
+Time of Pointer Jumping : 19.95 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 4451903
+Number of deleted tree edges: 300
+numVert: 55042369, num_edges: 117248284 and delete batch size: 1000
+
+Root: 4451903
+Root: 4451903
+After repairing:
+Total execution time of all functions: 129.338 ms.
+
+Function execution times:
+Time of Eulerian Tour : 107.06 ms
+Time of Pointer Jumping : 20.96 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kmer_V2a.egr
+Root: 7417784
+Number of deleted tree edges: 377
+numVert: 55042369, num_edges: 117248284 and delete batch size: 1000
+
+Root: 7417784
+Root: 7417784
+After repairing:
+Total execution time of all functions: 120.708 ms.
+
+Function execution times:
+Time of Eulerian Tour : 103.35 ms
+Time of Pointer Jumping : 16.04 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

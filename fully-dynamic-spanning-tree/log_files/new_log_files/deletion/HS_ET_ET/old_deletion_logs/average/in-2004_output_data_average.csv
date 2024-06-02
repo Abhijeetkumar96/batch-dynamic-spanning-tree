@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+in-2004.txt,100,13.48
+in-2004.txt,1000,14.7
+in-2004.txt,10000,14.85
+in-2004.txt,100000,16.98

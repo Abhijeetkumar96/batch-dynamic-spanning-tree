@@ -1,0 +1,1240 @@
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 57.909000 ms 
+Time of (9)Hooking Shortcutting : 16.57000 ms 
+Time of (18)PR Reverse Paths : 13.69400 ms 
+Time of (15)PR Loop : 8.77200 ms 
+Time of (8)Shortcut rep : 6.05700 ms 
+Time of (3)Edge Deletion : 2.73500 ms 
+Time of (1)Get key rem collections : 2.01600 ms 
+Time of (6)Get key rem collections : 1.20300 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.83800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.80900 ms 
+Time of (0)Extracting Roots : 0.75400 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (2)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.51800 ms 
+Time of (10)Compress Graph : 0.37800 ms 
+Time of (16)Component Parent, Reversals : 0.34100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 114.76400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.520000 ms 
+Time of (9)Hooking Shortcutting : 18.08700 ms 
+Time of (18)PR Reverse Paths : 13.73400 ms 
+Time of (15)PR Loop : 8.89600 ms 
+Time of (8)Shortcut rep : 6.08000 ms 
+Time of (3)Edge Deletion : 2.80100 ms 
+Time of (1)Get key rem collections : 2.07500 ms 
+Time of (6)Get key rem collections : 1.27000 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.89000 ms 
+Time of (0)Extracting Roots : 0.75600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72000 ms 
+Time of (2)Convert to collection : 0.62700 ms 
+Time of (7)Convert to collection : 0.62500 ms 
+Time of (4)Remove edges : 0.49700 ms 
+Time of (10)Compress Graph : 0.44400 ms 
+Time of (16)Component Parent, Reversals : 0.34200 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 122.28200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.298000 ms 
+Time of (18)PR Reverse Paths : 15.09400 ms 
+Time of (9)Hooking Shortcutting : 14.85800 ms 
+Time of (15)PR Loop : 9.66000 ms 
+Time of (8)Shortcut rep : 6.31600 ms 
+Time of (3)Edge Deletion : 2.80300 ms 
+Time of (1)Get key rem collections : 2.04900 ms 
+Time of (6)Get key rem collections : 1.15100 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.88600 ms 
+Time of (12)Transedges prefix : 0.86000 ms 
+Time of (0)Extracting Roots : 0.77400 ms 
+Time of (2)Convert to collection : 0.62500 ms 
+Time of (7)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.48400 ms 
+Time of (10)Compress Graph : 0.41900 ms 
+Time of (16)Component Parent, Reversals : 0.34600 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 121.16300 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.599000 ms 
+Time of (9)Hooking Shortcutting : 18.32200 ms 
+Time of (18)PR Reverse Paths : 12.26200 ms 
+Time of (15)PR Loop : 10.36700 ms 
+Time of (8)Shortcut rep : 6.35900 ms 
+Time of (3)Edge Deletion : 2.82500 ms 
+Time of (1)Get key rem collections : 2.27200 ms 
+Time of (6)Get key rem collections : 1.26600 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.89100 ms 
+Time of (0)Extracting Roots : 0.79100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72200 ms 
+Time of (2)Convert to collection : 0.62800 ms 
+Time of (7)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.50400 ms 
+Time of (10)Compress Graph : 0.48400 ms 
+Time of (16)Component Parent, Reversals : 0.34300 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 123.17700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 60.781000 ms 
+Time of (9)Hooking Shortcutting : 21.10400 ms 
+Time of (18)PR Reverse Paths : 15.10900 ms 
+Time of (15)PR Loop : 9.56900 ms 
+Time of (8)Shortcut rep : 6.33700 ms 
+Time of (3)Edge Deletion : 2.77800 ms 
+Time of (1)Get key rem collections : 2.11000 ms 
+Time of (6)Get key rem collections : 1.20200 ms 
+Time of (5)Generate new edges : 0.88900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.86500 ms 
+Time of (12)Transedges prefix : 0.84500 ms 
+Time of (0)Extracting Roots : 0.76100 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.47400 ms 
+Time of (10)Compress Graph : 0.45000 ms 
+Time of (16)Component Parent, Reversals : 0.34300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 124.89500 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 55.818000 ms 
+Time of (9)Hooking Shortcutting : 10.14200 ms 
+Time of (18)PR Reverse Paths : 10.13800 ms 
+Time of (8)Shortcut rep : 6.19400 ms 
+Time of (15)PR Loop : 4.61900 ms 
+Time of (3)Edge Deletion : 2.51800 ms 
+Time of (1)Get key rem collections : 1.99300 ms 
+Time of (6)Get key rem collections : 1.38000 ms 
+Time of (5)Generate new edges : 0.89400 ms 
+Time of (12)Transedges prefix : 0.83200 ms 
+Time of (0)Extracting Roots : 0.75900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.67900 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62800 ms 
+Time of (10)Compress Graph : 0.48800 ms 
+Time of (4)Remove edges : 0.46500 ms 
+Time of (16)Component Parent, Reversals : 0.33600 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 98.53700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 63.588000 ms 
+Time of (18)PR Reverse Paths : 12.89100 ms 
+Time of (9)Hooking Shortcutting : 11.55300 ms 
+Time of (8)Shortcut rep : 6.17100 ms 
+Time of (15)PR Loop : 5.21000 ms 
+Time of (3)Edge Deletion : 2.54600 ms 
+Time of (1)Get key rem collections : 2.10100 ms 
+Time of (6)Get key rem collections : 1.20600 ms 
+Time of (5)Generate new edges : 0.89300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.78600 ms 
+Time of (12)Transedges prefix : 0.78500 ms 
+Time of (0)Extracting Roots : 0.75200 ms 
+Time of (7)Convert to collection : 0.63000 ms 
+Time of (2)Convert to collection : 0.62200 ms 
+Time of (4)Remove edges : 0.47400 ms 
+Time of (10)Compress Graph : 0.40400 ms 
+Time of (16)Component Parent, Reversals : 0.33300 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 110.96800 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 56.665000 ms 
+Time of (18)PR Reverse Paths : 11.26500 ms 
+Time of (9)Hooking Shortcutting : 11.04200 ms 
+Time of (8)Shortcut rep : 6.17700 ms 
+Time of (15)PR Loop : 4.61700 ms 
+Time of (3)Edge Deletion : 2.51500 ms 
+Time of (1)Get key rem collections : 2.02200 ms 
+Time of (6)Get key rem collections : 1.22900 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.80800 ms 
+Time of (0)Extracting Roots : 0.76300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.71800 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.54500 ms 
+Time of (10)Compress Graph : 0.46200 ms 
+Time of (16)Component Parent, Reversals : 0.33000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 101.32800 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 59.565000 ms 
+Time of (18)PR Reverse Paths : 11.93200 ms 
+Time of (9)Hooking Shortcutting : 8.38400 ms 
+Time of (8)Shortcut rep : 6.23700 ms 
+Time of (15)PR Loop : 4.28400 ms 
+Time of (3)Edge Deletion : 2.54000 ms 
+Time of (1)Get key rem collections : 2.06300 ms 
+Time of (6)Get key rem collections : 1.23000 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (0)Extracting Roots : 0.80500 ms 
+Time of (12)Transedges prefix : 0.78300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.75200 ms 
+Time of (7)Convert to collection : 0.63000 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.56500 ms 
+Time of (10)Compress Graph : 0.39900 ms 
+Time of (16)Component Parent, Reversals : 0.32800 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 102.03300 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 53.892000 ms 
+Time of (9)Hooking Shortcutting : 17.05000 ms 
+Time of (18)PR Reverse Paths : 10.53200 ms 
+Time of (8)Shortcut rep : 6.21200 ms 
+Time of (15)PR Loop : 4.62300 ms 
+Time of (3)Edge Deletion : 2.59100 ms 
+Time of (1)Get key rem collections : 2.03800 ms 
+Time of (6)Get key rem collections : 1.18400 ms 
+Time of (5)Generate new edges : 0.89300 ms 
+Time of (12)Transedges prefix : 0.79300 ms 
+Time of (0)Extracting Roots : 0.75500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.69900 ms 
+Time of (7)Convert to collection : 0.63300 ms 
+Time of (2)Convert to collection : 0.62600 ms 
+Time of (4)Remove edges : 0.53400 ms 
+Time of (10)Compress Graph : 0.43500 ms 
+Time of (16)Component Parent, Reversals : 0.33400 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 103.84900 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 62.773000 ms 
+Time of (18)PR Reverse Paths : 12.05400 ms 
+Time of (8)Shortcut rep : 5.86600 ms 
+Time of (9)Hooking Shortcutting : 4.95200 ms 
+Time of (3)Edge Deletion : 2.49100 ms 
+Time of (1)Get key rem collections : 2.01400 ms 
+Time of (6)Get key rem collections : 1.11900 ms 
+Time of (5)Generate new edges : 0.89300 ms 
+Time of (12)Transedges prefix : 0.78100 ms 
+Time of (0)Extracting Roots : 0.78000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77000 ms 
+Time of (7)Convert to collection : 0.63000 ms 
+Time of (2)Convert to collection : 0.62200 ms 
+Time of (4)Remove edges : 0.52500 ms 
+Time of (15)PR Loop : 0.44100 ms 
+Time of (10)Compress Graph : 0.40400 ms 
+Time of (16)Component Parent, Reversals : 0.33900 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00300 ms 
+Time (total): 97.47500 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 63.712000 ms 
+Time of (18)PR Reverse Paths : 12.06400 ms 
+Time of (8)Shortcut rep : 5.87500 ms 
+Time of (9)Hooking Shortcutting : 4.77500 ms 
+Time of (3)Edge Deletion : 2.50200 ms 
+Time of (1)Get key rem collections : 2.05600 ms 
+Time of (6)Get key rem collections : 1.12400 ms 
+Time of (5)Generate new edges : 0.89300 ms 
+Time of (12)Transedges prefix : 0.82000 ms 
+Time of (0)Extracting Roots : 0.79700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77100 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (2)Convert to collection : 0.62500 ms 
+Time of (4)Remove edges : 0.45500 ms 
+Time of (15)PR Loop : 0.44600 ms 
+Time of (10)Compress Graph : 0.44000 ms 
+Time of (16)Component Parent, Reversals : 0.33400 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 98.34100 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 60.810000 ms 
+Time of (18)PR Reverse Paths : 11.35900 ms 
+Time of (8)Shortcut rep : 5.87500 ms 
+Time of (9)Hooking Shortcutting : 5.12200 ms 
+Time of (3)Edge Deletion : 2.50400 ms 
+Time of (1)Get key rem collections : 2.19900 ms 
+Time of (6)Get key rem collections : 1.15700 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.76800 ms 
+Time of (0)Extracting Roots : 0.75900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74100 ms 
+Time of (7)Convert to collection : 0.63200 ms 
+Time of (2)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.49400 ms 
+Time of (15)PR Loop : 0.43300 ms 
+Time of (10)Compress Graph : 0.38100 ms 
+Time of (16)Component Parent, Reversals : 0.32700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 95.10000 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 61.701000 ms 
+Time of (18)PR Reverse Paths : 11.70700 ms 
+Time of (8)Shortcut rep : 5.87500 ms 
+Time of (9)Hooking Shortcutting : 4.74300 ms 
+Time of (3)Edge Deletion : 2.50400 ms 
+Time of (1)Get key rem collections : 2.17300 ms 
+Time of (6)Get key rem collections : 1.12100 ms 
+Time of (5)Generate new edges : 0.89400 ms 
+Time of (12)Transedges prefix : 0.83600 ms 
+Time of (0)Extracting Roots : 0.76500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.66100 ms 
+Time of (7)Convert to collection : 0.62800 ms 
+Time of (2)Convert to collection : 0.62200 ms 
+Time of (4)Remove edges : 0.51100 ms 
+Time of (15)PR Loop : 0.43700 ms 
+Time of (10)Compress Graph : 0.40500 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 95.94100 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 60.080000 ms 
+Time of (18)PR Reverse Paths : 9.10100 ms 
+Time of (8)Shortcut rep : 5.85700 ms 
+Time of (9)Hooking Shortcutting : 4.75300 ms 
+Time of (3)Edge Deletion : 2.48000 ms 
+Time of (1)Get key rem collections : 2.12800 ms 
+Time of (6)Get key rem collections : 1.20500 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.81200 ms 
+Time of (0)Extracting Roots : 0.76800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.67000 ms 
+Time of (7)Convert to collection : 0.63000 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (4)Remove edges : 0.47300 ms 
+Time of (15)PR Loop : 0.45100 ms 
+Time of (10)Compress Graph : 0.40400 ms 
+Time of (16)Component Parent, Reversals : 0.33500 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 91.69200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 63.329000 ms 
+Time of (18)PR Reverse Paths : 12.21500 ms 
+Time of (9)Hooking Shortcutting : 8.72100 ms 
+Time of (8)Shortcut rep : 6.20400 ms 
+Time of (3)Edge Deletion : 2.54600 ms 
+Time of (1)Get key rem collections : 2.00400 ms 
+Time of (6)Get key rem collections : 1.16000 ms 
+Time of (15)PR Loop : 0.98100 ms 
+Time of (5)Generate new edges : 0.88800 ms 
+Time of (12)Transedges prefix : 0.80100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77700 ms 
+Time of (0)Extracting Roots : 0.76900 ms 
+Time of (2)Convert to collection : 0.63100 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.46400 ms 
+Time of (10)Compress Graph : 0.40900 ms 
+Time of (16)Component Parent, Reversals : 0.33300 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 102.87900 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 59.640000 ms 
+Time of (18)PR Reverse Paths : 9.16600 ms 
+Time of (8)Shortcut rep : 6.13600 ms 
+Time of (9)Hooking Shortcutting : 5.05700 ms 
+Time of (3)Edge Deletion : 2.51600 ms 
+Time of (1)Get key rem collections : 2.05900 ms 
+Time of (6)Get key rem collections : 1.12200 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.82300 ms 
+Time of (0)Extracting Roots : 0.75700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.67100 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (2)Convert to collection : 0.62500 ms 
+Time of (15)PR Loop : 0.57800 ms 
+Time of (4)Remove edges : 0.45800 ms 
+Time of (10)Compress Graph : 0.44900 ms 
+Time of (16)Component Parent, Reversals : 0.33700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 91.93400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 63.446000 ms 
+Time of (18)PR Reverse Paths : 12.21800 ms 
+Time of (9)Hooking Shortcutting : 7.97700 ms 
+Time of (8)Shortcut rep : 6.13500 ms 
+Time of (3)Edge Deletion : 2.52200 ms 
+Time of (1)Get key rem collections : 2.16700 ms 
+Time of (6)Get key rem collections : 1.13500 ms 
+Time of (15)PR Loop : 0.99500 ms 
+Time of (12)Transedges prefix : 0.89300 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77300 ms 
+Time of (0)Extracting Roots : 0.75400 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.46600 ms 
+Time of (10)Compress Graph : 0.44600 ms 
+Time of (16)Component Parent, Reversals : 0.33300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 102.42700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 60.558000 ms 
+Time of (18)PR Reverse Paths : 11.53500 ms 
+Time of (8)Shortcut rep : 6.13200 ms 
+Time of (9)Hooking Shortcutting : 5.44100 ms 
+Time of (3)Edge Deletion : 2.50300 ms 
+Time of (1)Get key rem collections : 2.01100 ms 
+Time of (15)PR Loop : 1.33100 ms 
+Time of (6)Get key rem collections : 1.17900 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (0)Extracting Roots : 0.82900 ms 
+Time of (12)Transedges prefix : 0.78100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74200 ms 
+Time of (2)Convert to collection : 0.62800 ms 
+Time of (7)Convert to collection : 0.62500 ms 
+Time of (10)Compress Graph : 0.47100 ms 
+Time of (4)Remove edges : 0.46000 ms 
+Time of (16)Component Parent, Reversals : 0.33400 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 96.47300 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 63.396000 ms 
+Time of (18)PR Reverse Paths : 12.18300 ms 
+Time of (9)Hooking Shortcutting : 6.81300 ms 
+Time of (8)Shortcut rep : 6.16800 ms 
+Time of (3)Edge Deletion : 2.59600 ms 
+Time of (1)Get key rem collections : 2.04200 ms 
+Time of (6)Get key rem collections : 1.18400 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.81700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77200 ms 
+Time of (0)Extracting Roots : 0.76100 ms 
+Time of (2)Convert to collection : 0.63000 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (15)PR Loop : 0.58700 ms 
+Time of (4)Remove edges : 0.50900 ms 
+Time of (10)Compress Graph : 0.46200 ms 
+Time of (16)Component Parent, Reversals : 0.33400 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 100.79600 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.420000 ms 
+Time of (9)Hooking Shortcutting : 19.88900 ms 
+Time of (18)PR Reverse Paths : 11.92200 ms 
+Time of (15)PR Loop : 9.65000 ms 
+Time of (8)Shortcut rep : 6.03100 ms 
+Time of (3)Edge Deletion : 2.96400 ms 
+Time of (1)Get key rem collections : 2.16100 ms 
+Time of (6)Get key rem collections : 1.19900 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.83700 ms 
+Time of (0)Extracting Roots : 0.74100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72700 ms 
+Time of (2)Convert to collection : 0.62800 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.47500 ms 
+Time of (10)Compress Graph : 0.45400 ms 
+Time of (16)Component Parent, Reversals : 0.33900 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 122.97900 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.363000 ms 
+Time of (9)Hooking Shortcutting : 19.21700 ms 
+Time of (18)PR Reverse Paths : 15.13100 ms 
+Time of (15)PR Loop : 8.02100 ms 
+Time of (8)Shortcut rep : 6.06900 ms 
+Time of (3)Edge Deletion : 2.58000 ms 
+Time of (1)Get key rem collections : 1.99400 ms 
+Time of (6)Get key rem collections : 1.19500 ms 
+Time of (12)Transedges prefix : 0.90600 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.86800 ms 
+Time of (0)Extracting Roots : 0.85200 ms 
+Time of (2)Convert to collection : 0.62600 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.47400 ms 
+Time of (10)Compress Graph : 0.41300 ms 
+Time of (16)Component Parent, Reversals : 0.34300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 123.59400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.672000 ms 
+Time of (9)Hooking Shortcutting : 17.58200 ms 
+Time of (18)PR Reverse Paths : 15.08600 ms 
+Time of (15)PR Loop : 8.84500 ms 
+Time of (8)Shortcut rep : 6.30800 ms 
+Time of (3)Edge Deletion : 2.66400 ms 
+Time of (1)Get key rem collections : 2.01900 ms 
+Time of (6)Get key rem collections : 1.34500 ms 
+Time of (5)Generate new edges : 0.88900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.87200 ms 
+Time of (12)Transedges prefix : 0.85000 ms 
+Time of (0)Extracting Roots : 0.80000 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (4)Remove edges : 0.57000 ms 
+Time of (10)Compress Graph : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.34400 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 123.53700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.519000 ms 
+Time of (9)Hooking Shortcutting : 17.64100 ms 
+Time of (18)PR Reverse Paths : 15.05300 ms 
+Time of (15)PR Loop : 8.14400 ms 
+Time of (8)Shortcut rep : 6.31900 ms 
+Time of (3)Edge Deletion : 2.71900 ms 
+Time of (1)Get key rem collections : 2.12100 ms 
+Time of (6)Get key rem collections : 1.18800 ms 
+Time of (12)Transedges prefix : 0.91900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.89300 ms 
+Time of (5)Generate new edges : 0.89300 ms 
+Time of (0)Extracting Roots : 0.80300 ms 
+Time of (2)Convert to collection : 0.63500 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.61700 ms 
+Time of (10)Compress Graph : 0.48300 ms 
+Time of (16)Component Parent, Reversals : 0.35200 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 122.94900 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.562000 ms 
+Time of (9)Hooking Shortcutting : 19.05500 ms 
+Time of (18)PR Reverse Paths : 15.11900 ms 
+Time of (15)PR Loop : 8.13000 ms 
+Time of (8)Shortcut rep : 6.38200 ms 
+Time of (3)Edge Deletion : 2.68500 ms 
+Time of (1)Get key rem collections : 2.06700 ms 
+Time of (6)Get key rem collections : 1.26500 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.88600 ms 
+Time of (12)Transedges prefix : 0.81500 ms 
+Time of (0)Extracting Roots : 0.77800 ms 
+Time of (2)Convert to collection : 0.62600 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.48400 ms 
+Time of (10)Compress Graph : 0.41500 ms 
+Time of (16)Component Parent, Reversals : 0.34300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 124.15400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 63.400000 ms 
+Time of (18)PR Reverse Paths : 11.51000 ms 
+Time of (9)Hooking Shortcutting : 8.73100 ms 
+Time of (8)Shortcut rep : 6.16000 ms 
+Time of (15)PR Loop : 4.62500 ms 
+Time of (3)Edge Deletion : 2.88900 ms 
+Time of (1)Get key rem collections : 2.02000 ms 
+Time of (6)Get key rem collections : 1.12500 ms 
+Time of (5)Generate new edges : 0.89000 ms 
+Time of (12)Transedges prefix : 0.78700 ms 
+Time of (0)Extracting Roots : 0.78400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.66400 ms 
+Time of (2)Convert to collection : 0.63600 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (4)Remove edges : 0.49300 ms 
+Time of (10)Compress Graph : 0.44100 ms 
+Time of (16)Component Parent, Reversals : 0.33500 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 106.14200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 63.219000 ms 
+Time of (18)PR Reverse Paths : 12.76500 ms 
+Time of (9)Hooking Shortcutting : 9.76000 ms 
+Time of (8)Shortcut rep : 6.17600 ms 
+Time of (15)PR Loop : 5.20400 ms 
+Time of (3)Edge Deletion : 2.37800 ms 
+Time of (1)Get key rem collections : 2.10000 ms 
+Time of (6)Get key rem collections : 1.28600 ms 
+Time of (5)Generate new edges : 0.88700 ms 
+Time of (12)Transedges prefix : 0.84500 ms 
+Time of (0)Extracting Roots : 0.76500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.66400 ms 
+Time of (2)Convert to collection : 0.62500 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.49600 ms 
+Time of (10)Compress Graph : 0.46200 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 108.61200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 56.085000 ms 
+Time of (18)PR Reverse Paths : 11.18300 ms 
+Time of (9)Hooking Shortcutting : 8.09500 ms 
+Time of (8)Shortcut rep : 6.20200 ms 
+Time of (15)PR Loop : 3.37200 ms 
+Time of (3)Edge Deletion : 2.35300 ms 
+Time of (1)Get key rem collections : 2.10200 ms 
+Time of (6)Get key rem collections : 1.31800 ms 
+Time of (5)Generate new edges : 0.89400 ms 
+Time of (12)Transedges prefix : 0.81600 ms 
+Time of (0)Extracting Roots : 0.74700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72300 ms 
+Time of (2)Convert to collection : 0.62700 ms 
+Time of (7)Convert to collection : 0.62500 ms 
+Time of (4)Remove edges : 0.47700 ms 
+Time of (10)Compress Graph : 0.40100 ms 
+Time of (16)Component Parent, Reversals : 0.33900 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00800 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 96.38900 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 57.873000 ms 
+Time of (18)PR Reverse Paths : 11.61700 ms 
+Time of (9)Hooking Shortcutting : 9.70500 ms 
+Time of (8)Shortcut rep : 6.18800 ms 
+Time of (15)PR Loop : 3.89800 ms 
+Time of (3)Edge Deletion : 2.39700 ms 
+Time of (1)Get key rem collections : 2.04100 ms 
+Time of (6)Get key rem collections : 1.23400 ms 
+Time of (5)Generate new edges : 0.88700 ms 
+Time of (12)Transedges prefix : 0.82500 ms 
+Time of (0)Extracting Roots : 0.77900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.73600 ms 
+Time of (4)Remove edges : 0.64000 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (7)Convert to collection : 0.62500 ms 
+Time of (10)Compress Graph : 0.43000 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 100.86000 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 62.386000 ms 
+Time of (9)Hooking Shortcutting : 21.22800 ms 
+Time of (8)Shortcut rep : 10.27400 ms 
+Time of (18)PR Reverse Paths : 9.58500 ms 
+Time of (15)PR Loop : 8.38100 ms 
+Time of (6)Get key rem collections : 5.13200 ms 
+Time of (3)Edge Deletion : 2.34900 ms 
+Time of (1)Get key rem collections : 1.99700 ms 
+Time of (10)Compress Graph : 1.58300 ms 
+Time of (12)Transedges prefix : 0.89900 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (0)Extracting Roots : 0.74700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.69700 ms 
+Time of (2)Convert to collection : 0.63300 ms 
+Time of (7)Convert to collection : 0.63100 ms 
+Time of (4)Remove edges : 0.49500 ms 
+Time of (16)Component Parent, Reversals : 0.37100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 128.30500 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 59.037000 ms 
+Time of (18)PR Reverse Paths : 10.98100 ms 
+Time of (8)Shortcut rep : 5.84700 ms 
+Time of (9)Hooking Shortcutting : 4.94800 ms 
+Time of (3)Edge Deletion : 2.57700 ms 
+Time of (1)Get key rem collections : 2.03800 ms 
+Time of (6)Get key rem collections : 1.29200 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.85700 ms 
+Time of (0)Extracting Roots : 0.76200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.75200 ms 
+Time of (2)Convert to collection : 0.63200 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (4)Remove edges : 0.45600 ms 
+Time of (15)PR Loop : 0.43600 ms 
+Time of (10)Compress Graph : 0.40500 ms 
+Time of (16)Component Parent, Reversals : 0.33900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 92.89800 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 57.993000 ms 
+Time of (18)PR Reverse Paths : 9.12900 ms 
+Time of (8)Shortcut rep : 5.87100 ms 
+Time of (9)Hooking Shortcutting : 4.76600 ms 
+Time of (3)Edge Deletion : 2.46000 ms 
+Time of (1)Get key rem collections : 2.06600 ms 
+Time of (6)Get key rem collections : 1.28400 ms 
+Time of (5)Generate new edges : 0.88900 ms 
+Time of (12)Transedges prefix : 0.77400 ms 
+Time of (0)Extracting Roots : 0.77000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.66100 ms 
+Time of (2)Convert to collection : 0.63300 ms 
+Time of (7)Convert to collection : 0.62800 ms 
+Time of (4)Remove edges : 0.46400 ms 
+Time of (15)PR Loop : 0.45300 ms 
+Time of (10)Compress Graph : 0.41300 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 89.61400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 63.517000 ms 
+Time of (18)PR Reverse Paths : 12.06000 ms 
+Time of (8)Shortcut rep : 5.87300 ms 
+Time of (9)Hooking Shortcutting : 5.11400 ms 
+Time of (3)Edge Deletion : 2.42400 ms 
+Time of (1)Get key rem collections : 2.07900 ms 
+Time of (6)Get key rem collections : 1.16500 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.78000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.76800 ms 
+Time of (0)Extracting Roots : 0.74700 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (10)Compress Graph : 0.48800 ms 
+Time of (4)Remove edges : 0.46600 ms 
+Time of (15)PR Loop : 0.43600 ms 
+Time of (16)Component Parent, Reversals : 0.33700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 98.42000 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 63.578000 ms 
+Time of (18)PR Reverse Paths : 12.06000 ms 
+Time of (8)Shortcut rep : 5.87500 ms 
+Time of (9)Hooking Shortcutting : 4.77000 ms 
+Time of (3)Edge Deletion : 2.36600 ms 
+Time of (1)Get key rem collections : 2.02000 ms 
+Time of (6)Get key rem collections : 1.14500 ms 
+Time of (5)Generate new edges : 0.89000 ms 
+Time of (12)Transedges prefix : 0.80200 ms 
+Time of (0)Extracting Roots : 0.79000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77800 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (2)Convert to collection : 0.62500 ms 
+Time of (4)Remove edges : 0.45800 ms 
+Time of (15)PR Loop : 0.43300 ms 
+Time of (10)Compress Graph : 0.41700 ms 
+Time of (16)Component Parent, Reversals : 0.33400 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 97.99000 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 56.624000 ms 
+Time of (18)PR Reverse Paths : 10.46400 ms 
+Time of (8)Shortcut rep : 5.88100 ms 
+Time of (9)Hooking Shortcutting : 4.75600 ms 
+Time of (3)Edge Deletion : 2.57800 ms 
+Time of (1)Get key rem collections : 1.99800 ms 
+Time of (6)Get key rem collections : 1.15900 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.81000 ms 
+Time of (0)Extracting Roots : 0.79000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.70700 ms 
+Time of (7)Convert to collection : 0.62800 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.46300 ms 
+Time of (15)PR Loop : 0.44000 ms 
+Time of (10)Compress Graph : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.32800 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 89.57100 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 59.252000 ms 
+Time of (18)PR Reverse Paths : 11.10400 ms 
+Time of (9)Hooking Shortcutting : 8.15200 ms 
+Time of (8)Shortcut rep : 6.16100 ms 
+Time of (3)Edge Deletion : 2.50900 ms 
+Time of (1)Get key rem collections : 2.12600 ms 
+Time of (6)Get key rem collections : 1.18400 ms 
+Time of (15)PR Loop : 0.91900 ms 
+Time of (5)Generate new edges : 0.89000 ms 
+Time of (12)Transedges prefix : 0.81200 ms 
+Time of (0)Extracting Roots : 0.75000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.73000 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (2)Convert to collection : 0.62200 ms 
+Time of (4)Remove edges : 0.45900 ms 
+Time of (10)Compress Graph : 0.45100 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 97.10200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 59.800000 ms 
+Time of (18)PR Reverse Paths : 9.25500 ms 
+Time of (9)Hooking Shortcutting : 7.97600 ms 
+Time of (8)Shortcut rep : 6.18000 ms 
+Time of (3)Edge Deletion : 3.00400 ms 
+Time of (1)Get key rem collections : 2.02700 ms 
+Time of (6)Get key rem collections : 1.23700 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.78700 ms 
+Time of (0)Extracting Roots : 0.76400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.67300 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (15)PR Loop : 0.58400 ms 
+Time of (4)Remove edges : 0.46100 ms 
+Time of (10)Compress Graph : 0.40500 ms 
+Time of (16)Component Parent, Reversals : 0.33400 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 95.65400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 60.709000 ms 
+Time of (18)PR Reverse Paths : 11.55200 ms 
+Time of (9)Hooking Shortcutting : 6.61200 ms 
+Time of (8)Shortcut rep : 6.13700 ms 
+Time of (3)Edge Deletion : 2.39300 ms 
+Time of (1)Get key rem collections : 2.05300 ms 
+Time of (6)Get key rem collections : 1.13900 ms 
+Time of (15)PR Loop : 0.97000 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (0)Extracting Roots : 0.79900 ms 
+Time of (12)Transedges prefix : 0.78500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74600 ms 
+Time of (7)Convert to collection : 0.63000 ms 
+Time of (2)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.45900 ms 
+Time of (10)Compress Graph : 0.38800 ms 
+Time of (16)Component Parent, Reversals : 0.33200 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 97.24500 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 59.487000 ms 
+Time of (18)PR Reverse Paths : 11.32000 ms 
+Time of (8)Shortcut rep : 6.14900 ms 
+Time of (9)Hooking Shortcutting : 5.04000 ms 
+Time of (3)Edge Deletion : 2.43300 ms 
+Time of (1)Get key rem collections : 2.06200 ms 
+Time of (15)PR Loop : 1.31300 ms 
+Time of (6)Get key rem collections : 1.27700 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.82200 ms 
+Time of (0)Extracting Roots : 0.75800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.73500 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (2)Convert to collection : 0.62500 ms 
+Time of (4)Remove edges : 0.58900 ms 
+Time of (10)Compress Graph : 0.36900 ms 
+Time of (16)Component Parent, Reversals : 0.33500 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 94.85400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 63.673000 ms 
+Time of (18)PR Reverse Paths : 12.20900 ms 
+Time of (9)Hooking Shortcutting : 6.81700 ms 
+Time of (8)Shortcut rep : 6.15900 ms 
+Time of (3)Edge Deletion : 2.52000 ms 
+Time of (1)Get key rem collections : 2.02600 ms 
+Time of (6)Get key rem collections : 1.16300 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.83800 ms 
+Time of (0)Extracting Roots : 0.80800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77400 ms 
+Time of (7)Convert to collection : 0.62800 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (15)PR Loop : 0.57800 ms 
+Time of (4)Remove edges : 0.48100 ms 
+Time of (10)Compress Graph : 0.41300 ms 
+Time of (16)Component Parent, Reversals : 0.33300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 100.95900 ms 
+--------------------------------------------------------

@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+sx-stackoverflow.egr,23580,100,482.87,2409.56,42.5
+sx-stackoverflow.egr,23580,1000,483.48,2383.41,41.33
+sx-stackoverflow.egr,23580,10000,485.56,2365.26,39.52
+sx-stackoverflow.egr,23580,100000,492.77,2458.65,40.8

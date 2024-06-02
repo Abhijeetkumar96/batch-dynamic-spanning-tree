@@ -1,0 +1,780 @@
+
+
+filename: road_usa.egr
+Root: 13719551
+The input parent array is a BFS tree.
+Number of deleted tree edges: 62071
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 13719551
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 40001
+Number of cross-edges: 22071
+Insertion into hashtable over.
+num of superComponents: 62072
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 40001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 40000
+Insertion into hashtable over.
+num of superComponents: 40001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 58.4934 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 30.41 ms
+Time of Eulerian Tour : 19.96 ms
+Time of Pointer Jumping : 4.03 ms
+Time of ET: Orientation : 2.82 ms
+Time of Finding unique comps : 1.02 ms
+Time of Path Reversal : 0.21 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 19583843
+The input parent array is a BFS tree.
+Number of deleted tree edges: 59917
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 19583843
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 49001
+Number of cross-edges: 10917
+Insertion into hashtable over.
+num of superComponents: 59918
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 49001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 49000
+Insertion into hashtable over.
+num of superComponents: 49001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 109.259 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 80.79 ms
+Time of Eulerian Tour : 19.63 ms
+Time of Pointer Jumping : 5.76 ms
+Time of ET: Orientation : 1.77 ms
+Time of Finding unique comps : 1.04 ms
+Time of Path Reversal : 0.23 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 1429135
+The input parent array is a BFS tree.
+Number of deleted tree edges: 66065
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 1429135
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 55001
+Number of cross-edges: 11065
+Insertion into hashtable over.
+num of superComponents: 66066
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 55001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 55000
+Insertion into hashtable over.
+num of superComponents: 55001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 70.7732 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 42.65 ms
+Time of Eulerian Tour : 19.90 ms
+Time of Pointer Jumping : 4.11 ms
+Time of ET: Orientation : 2.84 ms
+Time of Finding unique comps : 1.02 ms
+Time of Path Reversal : 0.22 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 18830968
+The input parent array is a BFS tree.
+Number of deleted tree edges: 71557
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 18830968
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 62001
+Number of cross-edges: 9557
+Insertion into hashtable over.
+num of superComponents: 71558
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 62001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 62000
+Insertion into hashtable over.
+num of superComponents: 62001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 76.8084 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 48.59 ms
+Time of Eulerian Tour : 19.94 ms
+Time of Pointer Jumping : 4.10 ms
+Time of ET: Orientation : 2.84 ms
+Time of Finding unique comps : 1.03 ms
+Time of Path Reversal : 0.26 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 13208304
+The input parent array is a BFS tree.
+Number of deleted tree edges: 59276
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 13208304
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 54001
+Number of cross-edges: 5276
+Insertion into hashtable over.
+num of superComponents: 59277
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 54001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 54000
+Insertion into hashtable over.
+num of superComponents: 54001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 63.255 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 27.98 ms
+Time of Eulerian Tour : 25.01 ms
+Time of Pointer Jumping : 4.85 ms
+Time of ET: Orientation : 4.09 ms
+Time of Finding unique comps : 1.02 ms
+Time of Path Reversal : 0.26 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 23199717
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5437
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 23199717
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 4501
+Number of cross-edges: 937
+Insertion into hashtable over.
+num of superComponents: 5438
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 4501
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4500
+Insertion into hashtable over.
+num of superComponents: 4501
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 41.2647 ms.
+
+Function execution times:
+Time of Eulerian Tour : 20.81 ms
+Time of HS: Find Repl edges : 10.98 ms
+Time of Pointer Jumping : 5.38 ms
+Time of ET: Orientation : 2.82 ms
+Time of Finding unique comps : 1.00 ms
+Time of Path Reversal : 0.23 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 20482391
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5809
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 20482391
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 4701
+Number of cross-edges: 1109
+Insertion into hashtable over.
+num of superComponents: 5810
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 4701
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4700
+Insertion into hashtable over.
+num of superComponents: 4701
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 63.5899 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 35.84 ms
+Time of Eulerian Tour : 20.41 ms
+Time of Pointer Jumping : 3.84 ms
+Time of ET: Orientation : 2.23 ms
+Time of Finding unique comps : 1.01 ms
+Time of Path Reversal : 0.24 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 16124549
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6858
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 16124549
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5700
+Number of cross-edges: 1159
+Insertion into hashtable over.
+num of superComponents: 6859
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5700
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5699
+Insertion into hashtable over.
+num of superComponents: 5700
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 52.2262 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 23.91 ms
+Time of Eulerian Tour : 20.45 ms
+Time of Pointer Jumping : 3.84 ms
+Time of ET: Orientation : 2.75 ms
+Time of Finding unique comps : 1.01 ms
+Time of Path Reversal : 0.24 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 770573
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4474
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 770573
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 4001
+Number of cross-edges: 474
+Insertion into hashtable over.
+num of superComponents: 4475
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 4001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4000
+Insertion into hashtable over.
+num of superComponents: 4001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 57.8325 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 30.17 ms
+Time of Eulerian Tour : 19.96 ms
+Time of Pointer Jumping : 3.84 ms
+Time of ET: Orientation : 2.65 ms
+Time of Finding unique comps : 1.01 ms
+Time of Path Reversal : 0.17 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 17249571
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6204
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 17249571
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5401
+Number of cross-edges: 804
+Insertion into hashtable over.
+num of superComponents: 6205
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5401
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5400
+Insertion into hashtable over.
+num of superComponents: 5401
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 63.538 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 35.77 ms
+Time of Eulerian Tour : 20.33 ms
+Time of Pointer Jumping : 3.84 ms
+Time of ET: Orientation : 2.32 ms
+Time of Finding unique comps : 1.01 ms
+Time of Path Reversal : 0.24 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 5023066
+The input parent array is a BFS tree.
+Number of deleted tree edges: 75
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 5023066
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 70
+Number of cross-edges: 6
+Insertion into hashtable over.
+num of superComponents: 76
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 70
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 69
+Insertion into hashtable over.
+num of superComponents: 70
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 48.9456 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 23.68 ms
+Time of Eulerian Tour : 20.07 ms
+Time of Pointer Jumping : 3.81 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.20 ms
+Time of Path Reversal : 0.16 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 2479099
+The input parent array is a BFS tree.
+Number of deleted tree edges: 44
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 2479099
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 42
+Number of cross-edges: 3
+Insertion into hashtable over.
+num of superComponents: 45
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 42
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 41
+Insertion into hashtable over.
+num of superComponents: 42
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 48.8141 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 24.03 ms
+Time of Eulerian Tour : 19.55 ms
+Time of Pointer Jumping : 3.81 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.20 ms
+Time of Path Reversal : 0.20 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 9328546
+The input parent array is a BFS tree.
+Number of deleted tree edges: 66
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 9328546
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 57
+Number of cross-edges: 10
+Insertion into hashtable over.
+num of superComponents: 67
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 57
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 56
+Insertion into hashtable over.
+num of superComponents: 57
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 52.1253 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.59 ms
+Time of HS: Find Repl edges : 15.61 ms
+Time of Pointer Jumping : 5.32 ms
+Time of Finding unique comps : 1.04 ms
+Time of Path Reversal : 0.27 ms
+Time of ET: Orientation : 0.26 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 5832242
+The input parent array is a BFS tree.
+Number of deleted tree edges: 65
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 5832242
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 53
+Number of cross-edges: 13
+Insertion into hashtable over.
+num of superComponents: 66
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 53
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 52
+Insertion into hashtable over.
+num of superComponents: 53
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 47.187 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.99 ms
+Time of HS: Find Repl edges : 11.30 ms
+Time of Pointer Jumping : 5.32 ms
+Time of Finding unique comps : 1.04 ms
+Time of ET: Orientation : 0.26 ms
+Time of Path Reversal : 0.23 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 13810199
+The input parent array is a BFS tree.
+Number of deleted tree edges: 70
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 13810199
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 45
+Number of cross-edges: 26
+Insertion into hashtable over.
+num of superComponents: 71
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 45
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 44
+Insertion into hashtable over.
+num of superComponents: 45
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 27.0275 ms.
+
+Function execution times:
+Time of Eulerian Tour : 20.55 ms
+Time of Pointer Jumping : 3.81 ms
+Time of HS: Find Repl edges : 1.27 ms
+Time of Finding unique comps : 1.01 ms
+Time of ET: Orientation : 0.20 ms
+Time of Path Reversal : 0.16 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 7035307
+The input parent array is a BFS tree.
+Number of deleted tree edges: 744
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 7035307
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 681
+Number of cross-edges: 64
+Insertion into hashtable over.
+num of superComponents: 745
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 681
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 680
+Insertion into hashtable over.
+num of superComponents: 681
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 38.7756 ms.
+
+Function execution times:
+Time of Eulerian Tour : 21.11 ms
+Time of HS: Find Repl edges : 10.85 ms
+Time of Pointer Jumping : 5.33 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.30 ms
+Time of Path Reversal : 0.16 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 13013106
+The input parent array is a BFS tree.
+Number of deleted tree edges: 801
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 13013106
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 701
+Number of cross-edges: 101
+Insertion into hashtable over.
+num of superComponents: 802
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 701
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 700
+Insertion into hashtable over.
+num of superComponents: 701
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 33.8647 ms.
+
+Function execution times:
+Time of Eulerian Tour : 20.27 ms
+Time of HS: Find Repl edges : 8.33 ms
+Time of Pointer Jumping : 3.81 ms
+Time of Finding unique comps : 1.01 ms
+Time of ET: Orientation : 0.23 ms
+Time of Path Reversal : 0.20 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 19885053
+The input parent array is a BFS tree.
+Number of deleted tree edges: 754
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 19885053
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 681
+Number of cross-edges: 74
+Insertion into hashtable over.
+num of superComponents: 755
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 681
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 680
+Insertion into hashtable over.
+num of superComponents: 681
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 61.3398 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.33 ms
+Time of HS: Find Repl edges : 25.18 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.30 ms
+Time of Path Reversal : 0.23 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 14726922
+The input parent array is a BFS tree.
+Number of deleted tree edges: 717
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 14726922
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 541
+Number of cross-edges: 177
+Insertion into hashtable over.
+num of superComponents: 718
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 541
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 540
+Insertion into hashtable over.
+num of superComponents: 541
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 26.4442 ms.
+
+Function execution times:
+Time of Eulerian Tour : 19.96 ms
+Time of Pointer Jumping : 3.81 ms
+Time of HS: Find Repl edges : 1.27 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.22 ms
+Time of Path Reversal : 0.16 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: road_usa.egr
+Root: 8053008
+The input parent array is a BFS tree.
+Number of deleted tree edges: 620
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 8053008
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 401
+Number of cross-edges: 220
+Insertion into hashtable over.
+num of superComponents: 621
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 401
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 400
+Insertion into hashtable over.
+num of superComponents: 401
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 70.2474 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 34.61 ms
+Time of Eulerian Tour : 28.72 ms
+Time of Pointer Jumping : 5.27 ms
+Time of Finding unique comps : 1.01 ms
+Time of Path Reversal : 0.31 ms
+Time of ET: Orientation : 0.29 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1

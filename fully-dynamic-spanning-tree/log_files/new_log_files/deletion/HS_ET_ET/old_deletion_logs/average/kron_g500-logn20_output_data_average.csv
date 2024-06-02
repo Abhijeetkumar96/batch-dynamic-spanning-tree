@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+kron_g500-logn20.txt,100,21.65
+kron_g500-logn20.txt,1000,31.05
+kron_g500-logn20.txt,10000,27.34
+kron_g500-logn20.txt,100000,29.95

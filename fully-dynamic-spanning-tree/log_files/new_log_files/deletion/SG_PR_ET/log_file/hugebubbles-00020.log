@@ -1,0 +1,338 @@
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 67986
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Total execution time of all functions: 89.5175 ms.
+
+Function execution times:
+Time of Eulerian Tour : 60.65 ms
+Time of Super graph Creation : 12.27 ms
+Time of Pointer Jumping : 8.05 ms
+Time of PR-RST module : 6.09 ms
+Time of update data structure : 1.23 ms
+Time of Path Reversal : 1.18 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 67873
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Total execution time of all functions: 90.9538 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.16 ms
+Time of Super graph Creation : 12.66 ms
+Time of Pointer Jumping : 8.37 ms
+Time of PR-RST module : 6.26 ms
+Time of update data structure : 1.24 ms
+Time of Path Reversal : 1.22 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.03 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 68007
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Total execution time of all functions: 92.7018 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.67 ms
+Time of Super graph Creation : 12.72 ms
+Time of Pointer Jumping : 8.37 ms
+Time of PR-RST module : 6.33 ms
+Time of update data structure : 1.31 ms
+Time of Path Reversal : 1.23 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.03 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 68009
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Total execution time of all functions: 91.8967 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.58 ms
+Time of Super graph Creation : 12.93 ms
+Time of Pointer Jumping : 8.37 ms
+Time of PR-RST module : 6.34 ms
+Time of update data structure : 1.38 ms
+Time of Path Reversal : 1.22 ms
+Time of Update rep array : 0.04 ms
+Time of Hash Table look up : 0.03 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 68076
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Total execution time of all functions: 91.1667 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.20 ms
+Time of Super graph Creation : 12.70 ms
+Time of Pointer Jumping : 8.39 ms
+Time of PR-RST module : 6.29 ms
+Time of update data structure : 1.32 ms
+Time of Path Reversal : 1.22 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.03 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 6753
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Total execution time of all functions: 87.6093 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.45 ms
+Time of Super graph Creation : 12.27 ms
+Time of Pointer Jumping : 7.44 ms
+Time of PR-RST module : 3.33 ms
+Time of update data structure : 1.22 ms
+Time of Path Reversal : 0.85 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 6752
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Total execution time of all functions: 88.9117 ms.
+
+Function execution times:
+Time of Eulerian Tour : 63.11 ms
+Time of Super graph Creation : 12.32 ms
+Time of Pointer Jumping : 7.44 ms
+Time of PR-RST module : 4.02 ms
+Time of update data structure : 1.14 ms
+Time of Path Reversal : 0.84 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 6700
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Total execution time of all functions: 86.78 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.01 ms
+Time of Super graph Creation : 12.26 ms
+Time of Pointer Jumping : 7.43 ms
+Time of PR-RST module : 3.99 ms
+Time of update data structure : 1.23 ms
+Time of Path Reversal : 0.83 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 6750
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Total execution time of all functions: 88.0949 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.09 ms
+Time of Super graph Creation : 12.33 ms
+Time of Pointer Jumping : 7.43 ms
+Time of PR-RST module : 4.12 ms
+Time of update data structure : 1.22 ms
+Time of Path Reversal : 0.85 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 6829
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Total execution time of all functions: 88.5106 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.83 ms
+Time of Super graph Creation : 12.25 ms
+Time of Pointer Jumping : 7.43 ms
+Time of PR-RST module : 3.98 ms
+Time of update data structure : 1.14 ms
+Time of Path Reversal : 0.85 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 74
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Total execution time of all functions: 81.7254 ms.
+
+Function execution times:
+Time of Eulerian Tour : 60.95 ms
+Time of Super graph Creation : 10.27 ms
+Time of Pointer Jumping : 6.96 ms
+Time of PR-RST module : 1.97 ms
+Time of update data structure : 1.10 ms
+Time of Path Reversal : 0.43 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 66
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Total execution time of all functions: 82.3638 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.27 ms
+Time of Super graph Creation : 10.23 ms
+Time of Pointer Jumping : 6.63 ms
+Time of update data structure : 2.15 ms
+Time of PR-RST module : 1.63 ms
+Time of Path Reversal : 0.42 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 68
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Total execution time of all functions: 83.91 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.51 ms
+Time of Super graph Creation : 11.43 ms
+Time of Pointer Jumping : 6.96 ms
+Time of PR-RST module : 1.37 ms
+Time of update data structure : 1.13 ms
+Time of Path Reversal : 0.46 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 68
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Total execution time of all functions: 81.8515 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.91 ms
+Time of Super graph Creation : 10.58 ms
+Time of Pointer Jumping : 6.42 ms
+Time of PR-RST module : 1.31 ms
+Time of update data structure : 1.15 ms
+Time of Path Reversal : 0.46 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 68
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Total execution time of all functions: 84.2044 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.75 ms
+Time of Super graph Creation : 11.44 ms
+Time of Pointer Jumping : 6.98 ms
+Time of PR-RST module : 1.36 ms
+Time of update data structure : 1.14 ms
+Time of Path Reversal : 0.50 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 699
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Total execution time of all functions: 83.8708 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.79 ms
+Time of Super graph Creation : 11.20 ms
+Time of Pointer Jumping : 6.98 ms
+Time of PR-RST module : 1.91 ms
+Time of update data structure : 1.27 ms
+Time of Path Reversal : 0.68 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.03 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 676
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Total execution time of all functions: 85.5203 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.67 ms
+Time of Super graph Creation : 11.40 ms
+Time of Pointer Jumping : 7.20 ms
+Time of PR-RST module : 2.39 ms
+Time of update data structure : 1.13 ms
+Time of Path Reversal : 0.70 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 679
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Total execution time of all functions: 82.8278 ms.
+
+Function execution times:
+Time of Eulerian Tour : 60.79 ms
+Time of Super graph Creation : 11.39 ms
+Time of Pointer Jumping : 7.21 ms
+Time of PR-RST module : 1.62 ms
+Time of update data structure : 1.18 ms
+Time of Path Reversal : 0.59 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 673
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Total execution time of all functions: 88.0463 ms.
+
+Function execution times:
+Time of Eulerian Tour : 62.27 ms
+Time of Super graph Creation : 13.99 ms
+Time of Pointer Jumping : 7.19 ms
+Time of PR-RST module : 2.53 ms
+Time of update data structure : 1.31 ms
+Time of Path Reversal : 0.71 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hugebubbles-00020.egr
+Number of deleted tree edges: 696
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Total execution time of all functions: 83.6443 ms.
+
+Function execution times:
+Time of Eulerian Tour : 61.15 ms
+Time of Super graph Creation : 11.54 ms
+Time of Pointer Jumping : 7.20 ms
+Time of PR-RST module : 1.88 ms
+Time of update data structure : 1.14 ms
+Time of Path Reversal : 0.69 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms

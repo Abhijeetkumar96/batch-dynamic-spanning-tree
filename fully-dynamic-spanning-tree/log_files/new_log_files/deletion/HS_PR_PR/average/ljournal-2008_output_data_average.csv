@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+ljournal-2008.txt,100,36.33
+ljournal-2008.txt,1000,37.37
+ljournal-2008.txt,10000,40.77
+ljournal-2008.txt,100000,50.64

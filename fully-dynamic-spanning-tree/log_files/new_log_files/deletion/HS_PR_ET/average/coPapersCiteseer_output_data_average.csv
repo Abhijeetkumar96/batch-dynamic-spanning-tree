@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+coPapersCiteseer.txt,100,9.18
+coPapersCiteseer.txt,1000,10.21
+coPapersCiteseer.txt,10000,11.8
+coPapersCiteseer.txt,100000,16.99

@@ -1,0 +1,610 @@
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100000
+Time of (15)PR Loop : 5.418000 ms 
+Time of (9)Hooking Shortcutting : 5.13900 ms 
+Time of (3)Edge Deletion : 2.49200 ms 
+Time of (1)Get key rem collections : 1.36000 ms 
+Time of (17)PR Shortcut : 1.00400 ms 
+Time of (18)PR Reverse Paths : 0.89800 ms 
+Time of (12)Transedges prefix : 0.57900 ms 
+Time of (6)Get key rem collections : 0.53700 ms 
+Time of (0)Extracting Roots : 0.52500 ms 
+Time of (5)Generate new edges : 0.49100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37400 ms 
+Time of (2)Convert to collection : 0.35000 ms 
+Time of (7)Convert to collection : 0.34800 ms 
+Time of (4)Remove edges : 0.27400 ms 
+Time of (16)Component Parent, Reversals : 0.24000 ms 
+Time of (8)Shortcut rep : 0.19400 ms 
+Time of (10)Compress Graph : 0.06100 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 20.30700 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 6.824000 ms 
+Time of (15)PR Loop : 3.49600 ms 
+Time of (3)Edge Deletion : 2.52500 ms 
+Time of (1)Get key rem collections : 1.34900 ms 
+Time of (17)PR Shortcut : 1.01900 ms 
+Time of (18)PR Reverse Paths : 0.91200 ms 
+Time of (12)Transedges prefix : 0.55700 ms 
+Time of (6)Get key rem collections : 0.54000 ms 
+Time of (0)Extracting Roots : 0.52500 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37400 ms 
+Time of (2)Convert to collection : 0.35700 ms 
+Time of (7)Convert to collection : 0.34900 ms 
+Time of (4)Remove edges : 0.28100 ms 
+Time of (16)Component Parent, Reversals : 0.23800 ms 
+Time of (8)Shortcut rep : 0.19600 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 20.11600 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 3.722000 ms 
+Time of (15)PR Loop : 2.88600 ms 
+Time of (3)Edge Deletion : 2.74600 ms 
+Time of (1)Get key rem collections : 1.34600 ms 
+Time of (17)PR Shortcut : 1.01200 ms 
+Time of (18)PR Reverse Paths : 0.91200 ms 
+Time of (12)Transedges prefix : 0.56300 ms 
+Time of (6)Get key rem collections : 0.56300 ms 
+Time of (0)Extracting Roots : 0.52900 ms 
+Time of (5)Generate new edges : 0.48900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37900 ms 
+Time of (2)Convert to collection : 0.34800 ms 
+Time of (7)Convert to collection : 0.34700 ms 
+Time of (4)Remove edges : 0.27400 ms 
+Time of (16)Component Parent, Reversals : 0.24600 ms 
+Time of (8)Shortcut rep : 0.19500 ms 
+Time of (10)Compress Graph : 0.06400 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 16.64400 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100000
+Time of (15)PR Loop : 5.553000 ms 
+Time of (9)Hooking Shortcutting : 4.28200 ms 
+Time of (3)Edge Deletion : 2.51300 ms 
+Time of (1)Get key rem collections : 1.33200 ms 
+Time of (17)PR Shortcut : 0.98800 ms 
+Time of (18)PR Reverse Paths : 0.91200 ms 
+Time of (12)Transedges prefix : 0.56500 ms 
+Time of (6)Get key rem collections : 0.53400 ms 
+Time of (0)Extracting Roots : 0.53200 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37100 ms 
+Time of (7)Convert to collection : 0.35000 ms 
+Time of (2)Convert to collection : 0.35000 ms 
+Time of (4)Remove edges : 0.27900 ms 
+Time of (16)Component Parent, Reversals : 0.24800 ms 
+Time of (8)Shortcut rep : 0.19600 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 19.58000 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 5.361000 ms 
+Time of (15)PR Loop : 3.50700 ms 
+Time of (3)Edge Deletion : 2.50900 ms 
+Time of (1)Get key rem collections : 1.40300 ms 
+Time of (17)PR Shortcut : 1.01000 ms 
+Time of (18)PR Reverse Paths : 0.91200 ms 
+Time of (12)Transedges prefix : 0.54700 ms 
+Time of (6)Get key rem collections : 0.53600 ms 
+Time of (0)Extracting Roots : 0.52600 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36800 ms 
+Time of (7)Convert to collection : 0.34700 ms 
+Time of (2)Convert to collection : 0.34700 ms 
+Time of (4)Remove edges : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.23600 ms 
+Time of (8)Shortcut rep : 0.19300 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 18.64600 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 2.905000 ms 
+Time of (3)Edge Deletion : 2.34300 ms 
+Time of (1)Get key rem collections : 1.37100 ms 
+Time of (15)PR Loop : 1.02600 ms 
+Time of (17)PR Shortcut : 1.00400 ms 
+Time of (18)PR Reverse Paths : 0.87400 ms 
+Time of (6)Get key rem collections : 0.57400 ms 
+Time of (12)Transedges prefix : 0.57200 ms 
+Time of (0)Extracting Roots : 0.54800 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35900 ms 
+Time of (2)Convert to collection : 0.35200 ms 
+Time of (7)Convert to collection : 0.35000 ms 
+Time of (4)Remove edges : 0.28500 ms 
+Time of (16)Component Parent, Reversals : 0.23300 ms 
+Time of (8)Shortcut rep : 0.19000 ms 
+Time of (10)Compress Graph : 0.05700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 13.55800 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 3.832000 ms 
+Time of (3)Edge Deletion : 2.16200 ms 
+Time of (15)PR Loop : 1.45200 ms 
+Time of (1)Get key rem collections : 1.35300 ms 
+Time of (17)PR Shortcut : 1.01000 ms 
+Time of (18)PR Reverse Paths : 0.88500 ms 
+Time of (12)Transedges prefix : 0.56200 ms 
+Time of (6)Get key rem collections : 0.55900 ms 
+Time of (0)Extracting Roots : 0.52100 ms 
+Time of (5)Generate new edges : 0.49100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36200 ms 
+Time of (2)Convert to collection : 0.35700 ms 
+Time of (7)Convert to collection : 0.35400 ms 
+Time of (4)Remove edges : 0.26800 ms 
+Time of (16)Component Parent, Reversals : 0.23600 ms 
+Time of (8)Shortcut rep : 0.19600 ms 
+Time of (10)Compress Graph : 0.06000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 14.68500 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 4.794000 ms 
+Time of (3)Edge Deletion : 2.23700 ms 
+Time of (15)PR Loop : 1.50900 ms 
+Time of (1)Get key rem collections : 1.39600 ms 
+Time of (17)PR Shortcut : 0.99200 ms 
+Time of (18)PR Reverse Paths : 0.89300 ms 
+Time of (0)Extracting Roots : 0.75500 ms 
+Time of (12)Transedges prefix : 0.59200 ms 
+Time of (6)Get key rem collections : 0.54600 ms 
+Time of (5)Generate new edges : 0.49900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.39000 ms 
+Time of (2)Convert to collection : 0.35300 ms 
+Time of (7)Convert to collection : 0.35000 ms 
+Time of (4)Remove edges : 0.27400 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (8)Shortcut rep : 0.19200 ms 
+Time of (10)Compress Graph : 0.06000 ms 
+Time of (14)PR init : 0.02000 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 16.12300 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 3.870000 ms 
+Time of (3)Edge Deletion : 2.67200 ms 
+Time of (15)PR Loop : 1.89800 ms 
+Time of (1)Get key rem collections : 1.34700 ms 
+Time of (17)PR Shortcut : 1.01100 ms 
+Time of (18)PR Reverse Paths : 0.88600 ms 
+Time of (12)Transedges prefix : 0.55400 ms 
+Time of (6)Get key rem collections : 0.55200 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (5)Generate new edges : 0.49800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35900 ms 
+Time of (7)Convert to collection : 0.35300 ms 
+Time of (2)Convert to collection : 0.34900 ms 
+Time of (4)Remove edges : 0.28800 ms 
+Time of (16)Component Parent, Reversals : 0.23500 ms 
+Time of (8)Shortcut rep : 0.19700 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 15.69300 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 10000
+Time of (3)Edge Deletion : 2.219000 ms 
+Time of (9)Hooking Shortcutting : 1.84600 ms 
+Time of (1)Get key rem collections : 1.51600 ms 
+Time of (15)PR Loop : 1.43600 ms 
+Time of (17)PR Shortcut : 1.04100 ms 
+Time of (18)PR Reverse Paths : 0.87600 ms 
+Time of (0)Extracting Roots : 0.58900 ms 
+Time of (12)Transedges prefix : 0.55700 ms 
+Time of (6)Get key rem collections : 0.54600 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35800 ms 
+Time of (2)Convert to collection : 0.35800 ms 
+Time of (7)Convert to collection : 0.34900 ms 
+Time of (4)Remove edges : 0.27300 ms 
+Time of (16)Component Parent, Reversals : 0.23500 ms 
+Time of (8)Shortcut rep : 0.23200 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 13.00600 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100
+Time of (3)Edge Deletion : 2.318000 ms 
+Time of (1)Get key rem collections : 1.34600 ms 
+Time of (17)PR Shortcut : 1.00500 ms 
+Time of (9)Hooking Shortcutting : 0.92300 ms 
+Time of (18)PR Reverse Paths : 0.86700 ms 
+Time of (12)Transedges prefix : 0.57000 ms 
+Time of (6)Get key rem collections : 0.55600 ms 
+Time of (0)Extracting Roots : 0.53800 ms 
+Time of (5)Generate new edges : 0.49400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36000 ms 
+Time of (7)Convert to collection : 0.34900 ms 
+Time of (2)Convert to collection : 0.34900 ms 
+Time of (15)PR Loop : 0.26700 ms 
+Time of (4)Remove edges : 0.26500 ms 
+Time of (16)Component Parent, Reversals : 0.23100 ms 
+Time of (8)Shortcut rep : 0.19500 ms 
+Time of (10)Compress Graph : 0.05700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 10.71100 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100
+Time of (3)Edge Deletion : 2.306000 ms 
+Time of (1)Get key rem collections : 1.34200 ms 
+Time of (12)PR Shortcut : 1.01800 ms 
+Time of (13)PR Reverse Paths : 0.85700 ms 
+Time of (6)Get key rem collections : 0.55100 ms 
+Time of (0)Extracting Roots : 0.51700 ms 
+Time of (5)Generate new edges : 0.49100 ms 
+Time of (9)Hooking Shortcutting : 0.46700 ms 
+Time of (2)Convert to collection : 0.35600 ms 
+Time of (14)Reverse Edges and Connect Parent : 0.35100 ms 
+Time of (7)Convert to collection : 0.34900 ms 
+Time of (4)Remove edges : 0.28200 ms 
+Time of (8)Shortcut rep : 0.19400 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 9.14300 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100
+Time of (3)Edge Deletion : 2.482000 ms 
+Time of (1)Get key rem collections : 1.41600 ms 
+Time of (9)Hooking Shortcutting : 1.35700 ms 
+Time of (17)PR Shortcut : 1.00500 ms 
+Time of (18)PR Reverse Paths : 0.85900 ms 
+Time of (12)Transedges prefix : 0.55800 ms 
+Time of (6)Get key rem collections : 0.54000 ms 
+Time of (0)Extracting Roots : 0.52200 ms 
+Time of (5)Generate new edges : 0.49000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35200 ms 
+Time of (2)Convert to collection : 0.35000 ms 
+Time of (7)Convert to collection : 0.34800 ms 
+Time of (15)PR Loop : 0.30700 ms 
+Time of (4)Remove edges : 0.26600 ms 
+Time of (16)Component Parent, Reversals : 0.23000 ms 
+Time of (8)Shortcut rep : 0.19100 ms 
+Time of (10)Compress Graph : 0.05700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 11.35300 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100
+Time of (3)Edge Deletion : 2.292000 ms 
+Time of (1)Get key rem collections : 1.35400 ms 
+Time of (12)PR Shortcut : 1.00800 ms 
+Time of (13)PR Reverse Paths : 0.85900 ms 
+Time of (6)Get key rem collections : 0.53900 ms 
+Time of (0)Extracting Roots : 0.52400 ms 
+Time of (5)Generate new edges : 0.49000 ms 
+Time of (9)Hooking Shortcutting : 0.45300 ms 
+Time of (14)Reverse Edges and Connect Parent : 0.35300 ms 
+Time of (7)Convert to collection : 0.35100 ms 
+Time of (2)Convert to collection : 0.34800 ms 
+Time of (4)Remove edges : 0.26300 ms 
+Time of (8)Shortcut rep : 0.19300 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 9.09000 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 100
+Time of (3)Edge Deletion : 2.318000 ms 
+Time of (9)Hooking Shortcutting : 1.83700 ms 
+Time of (1)Get key rem collections : 1.33700 ms 
+Time of (17)PR Shortcut : 1.00700 ms 
+Time of (18)PR Reverse Paths : 0.86800 ms 
+Time of (6)Get key rem collections : 0.67300 ms 
+Time of (12)Transedges prefix : 0.57400 ms 
+Time of (0)Extracting Roots : 0.53200 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (15)PR Loop : 0.36000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35500 ms 
+Time of (2)Convert to collection : 0.35300 ms 
+Time of (7)Convert to collection : 0.34900 ms 
+Time of (4)Remove edges : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.22600 ms 
+Time of (8)Shortcut rep : 0.19000 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 11.82400 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 1000
+Time of (3)Edge Deletion : 2.287000 ms 
+Time of (9)Hooking Shortcutting : 1.80600 ms 
+Time of (1)Get key rem collections : 1.33900 ms 
+Time of (17)PR Shortcut : 0.98600 ms 
+Time of (18)PR Reverse Paths : 0.86300 ms 
+Time of (12)Transedges prefix : 0.55200 ms 
+Time of (6)Get key rem collections : 0.54500 ms 
+Time of (0)Extracting Roots : 0.52400 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (15)PR Loop : 0.45700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36000 ms 
+Time of (7)Convert to collection : 0.35000 ms 
+Time of (2)Convert to collection : 0.35000 ms 
+Time of (4)Remove edges : 0.26700 ms 
+Time of (16)Component Parent, Reversals : 0.23200 ms 
+Time of (8)Shortcut rep : 0.19100 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 11.69000 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 1000
+Time of (3)Edge Deletion : 2.292000 ms 
+Time of (9)Hooking Shortcutting : 1.83700 ms 
+Time of (1)Get key rem collections : 1.45100 ms 
+Time of (17)PR Shortcut : 1.01500 ms 
+Time of (18)PR Reverse Paths : 0.87300 ms 
+Time of (6)Get key rem collections : 0.55500 ms 
+Time of (12)Transedges prefix : 0.54900 ms 
+Time of (0)Extracting Roots : 0.52200 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (15)PR Loop : 0.45900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35300 ms 
+Time of (7)Convert to collection : 0.35200 ms 
+Time of (2)Convert to collection : 0.34900 ms 
+Time of (4)Remove edges : 0.26700 ms 
+Time of (16)Component Parent, Reversals : 0.23100 ms 
+Time of (8)Shortcut rep : 0.19000 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 11.86700 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 1000
+Time of (3)Edge Deletion : 2.291000 ms 
+Time of (1)Get key rem collections : 1.46000 ms 
+Time of (9)Hooking Shortcutting : 1.41300 ms 
+Time of (17)PR Shortcut : 1.00900 ms 
+Time of (18)PR Reverse Paths : 0.87200 ms 
+Time of (12)Transedges prefix : 0.55100 ms 
+Time of (6)Get key rem collections : 0.54700 ms 
+Time of (0)Extracting Roots : 0.52400 ms 
+Time of (5)Generate new edges : 0.48900 ms 
+Time of (15)PR Loop : 0.45800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35600 ms 
+Time of (2)Convert to collection : 0.35500 ms 
+Time of (7)Convert to collection : 0.34900 ms 
+Time of (4)Remove edges : 0.26600 ms 
+Time of (16)Component Parent, Reversals : 0.23500 ms 
+Time of (8)Shortcut rep : 0.19100 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 11.44800 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 1000
+Time of (3)Edge Deletion : 2.311000 ms 
+Time of (9)Hooking Shortcutting : 1.40800 ms 
+Time of (1)Get key rem collections : 1.33900 ms 
+Time of (17)PR Shortcut : 1.00900 ms 
+Time of (18)PR Reverse Paths : 0.87200 ms 
+Time of (12)Transedges prefix : 0.55900 ms 
+Time of (6)Get key rem collections : 0.55200 ms 
+Time of (0)Extracting Roots : 0.52700 ms 
+Time of (5)Generate new edges : 0.49100 ms 
+Time of (15)PR Loop : 0.46000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35900 ms 
+Time of (7)Convert to collection : 0.35200 ms 
+Time of (2)Convert to collection : 0.35000 ms 
+Time of (4)Remove edges : 0.26500 ms 
+Time of (16)Component Parent, Reversals : 0.23500 ms 
+Time of (8)Shortcut rep : 0.18900 ms 
+Time of (10)Compress Graph : 0.05900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 11.36000 ms 
+--------------------------------------------------------
+filename: coPapersDBLP.txt
+Nodes : 540486
+Edges : 15245729
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 15245729
+Deleted : 1000
+Time of (3)Edge Deletion : 2.298000 ms 
+Time of (9)Hooking Shortcutting : 1.81000 ms 
+Time of (1)Get key rem collections : 1.38700 ms 
+Time of (17)PR Shortcut : 1.02300 ms 
+Time of (18)PR Reverse Paths : 0.86500 ms 
+Time of (12)Transedges prefix : 0.57700 ms 
+Time of (6)Get key rem collections : 0.57000 ms 
+Time of (0)Extracting Roots : 0.52300 ms 
+Time of (5)Generate new edges : 0.49200 ms 
+Time of (15)PR Loop : 0.46400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35800 ms 
+Time of (4)Remove edges : 0.35700 ms 
+Time of (2)Convert to collection : 0.35700 ms 
+Time of (7)Convert to collection : 0.35000 ms 
+Time of (16)Component Parent, Reversals : 0.23500 ms 
+Time of (8)Shortcut rep : 0.18900 ms 
+Time of (10)Compress Graph : 0.05800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 11.93500 ms 
+--------------------------------------------------------

@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+coPapersDBLP.txt,100,10.01
+coPapersDBLP.txt,1000,11.7
+coPapersDBLP.txt,10000,14.08
+coPapersDBLP.txt,100000,17.29

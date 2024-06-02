@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+kmer_V1r.txt,100,784.527
+kmer_V1r.txt,100,810.939
+kmer_V1r.txt,100,787.765
+kmer_V1r.txt,100,812.151
+kmer_V1r.txt,100,808.063
+kmer_V1r.txt,1000,800.158
+kmer_V1r.txt,1000,856.328
+kmer_V1r.txt,1000,822.573
+kmer_V1r.txt,1000,818.673
+kmer_V1r.txt,1000,836.424
+kmer_V1r.txt,10000,821.254
+kmer_V1r.txt,10000,835.821
+kmer_V1r.txt,10000,857.26
+kmer_V1r.txt,10000,847.398
+kmer_V1r.txt,10000,853.149
+kmer_V1r.txt,100000,898.02
+kmer_V1r.txt,100000,866.537
+kmer_V1r.txt,100000,891.668
+kmer_V1r.txt,100000,936.953
+kmer_V1r.txt,100000,856.579

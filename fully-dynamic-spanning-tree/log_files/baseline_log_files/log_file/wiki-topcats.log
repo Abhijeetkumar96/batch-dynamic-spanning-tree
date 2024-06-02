@@ -1,0 +1,259 @@
+filename: wiki-topcats.egr
+Delete batch Size: 100000
+Depth of graph: 10
+Total execution time of all functions: 136.504 ms.
+
+Function execution times:
+Time of simple BFS : 87.64 ms
+Time of PR-RST module : 30.48 ms
+Time of Adam_BFS : 8.28 ms
+Time of CC : 5.52 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100000
+Depth of graph: 10
+Total execution time of all functions: 144.09 ms.
+
+Function execution times:
+Time of simple BFS : 84.36 ms
+Time of PR-RST module : 42.87 ms
+Time of Adam_BFS : 8.22 ms
+Time of update datastr : 4.58 ms
+Time of CC : 4.06 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100000
+Depth of graph: 10
+Total execution time of all functions: 141.125 ms.
+
+Function execution times:
+Time of simple BFS : 85.51 ms
+Time of PR-RST module : 38.79 ms
+Time of Adam_BFS : 8.23 ms
+Time of update datastr : 4.58 ms
+Time of CC : 4.01 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100000
+Depth of graph: 10
+Total execution time of all functions: 140.916 ms.
+
+Function execution times:
+Time of simple BFS : 87.71 ms
+Time of PR-RST module : 34.76 ms
+Time of Adam_BFS : 8.34 ms
+Time of CC : 5.52 ms
+Time of update datastr : 4.59 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100000
+Depth of graph: 10
+Total execution time of all functions: 134.524 ms.
+
+Function execution times:
+Time of simple BFS : 86.38 ms
+Time of PR-RST module : 30.49 ms
+Time of Adam_BFS : 8.31 ms
+Time of CC : 4.68 ms
+Time of update datastr : 4.66 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 10000
+Depth of graph: 10
+Total execution time of all functions: 145.365 ms.
+
+Function execution times:
+Time of simple BFS : 88.87 ms
+Time of PR-RST module : 34.69 ms
+Time of CC : 9.01 ms
+Time of Adam_BFS : 8.22 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 10000
+Depth of graph: 10
+Total execution time of all functions: 152.292 ms.
+
+Function execution times:
+Time of simple BFS : 86.53 ms
+Time of PR-RST module : 47.30 ms
+Time of Adam_BFS : 8.22 ms
+Time of CC : 5.66 ms
+Time of update datastr : 4.59 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 10000
+Depth of graph: 10
+Total execution time of all functions: 152.572 ms.
+
+Function execution times:
+Time of simple BFS : 88.36 ms
+Time of PR-RST module : 47.33 ms
+Time of Adam_BFS : 8.23 ms
+Time of update datastr : 4.58 ms
+Time of CC : 4.07 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 10000
+Depth of graph: 10
+Total execution time of all functions: 132.893 ms.
+
+Function execution times:
+Time of simple BFS : 87.69 ms
+Time of PR-RST module : 26.35 ms
+Time of Adam_BFS : 8.23 ms
+Time of CC : 6.04 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 10000
+Depth of graph: 10
+Total execution time of all functions: 130.805 ms.
+
+Function execution times:
+Time of simple BFS : 87.18 ms
+Time of PR-RST module : 26.25 ms
+Time of Adam_BFS : 8.22 ms
+Time of update datastr : 4.62 ms
+Time of CC : 4.54 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100
+Depth of graph: 10
+Total execution time of all functions: 149.037 ms.
+
+Function execution times:
+Time of simple BFS : 87.19 ms
+Time of PR-RST module : 42.87 ms
+Time of Adam_BFS : 8.20 ms
+Time of CC : 6.20 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100
+Depth of graph: 10
+Total execution time of all functions: 141.677 ms.
+
+Function execution times:
+Time of simple BFS : 88.14 ms
+Time of PR-RST module : 34.96 ms
+Time of Adam_BFS : 8.29 ms
+Time of CC : 5.71 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100
+Depth of graph: 10
+Total execution time of all functions: 150.685 ms.
+
+Function execution times:
+Time of simple BFS : 88.39 ms
+Time of PR-RST module : 43.05 ms
+Time of Adam_BFS : 8.27 ms
+Time of CC : 6.39 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100
+Depth of graph: 10
+Total execution time of all functions: 138.422 ms.
+
+Function execution times:
+Time of simple BFS : 88.06 ms
+Time of PR-RST module : 30.52 ms
+Time of Adam_BFS : 8.23 ms
+Time of CC : 7.02 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 100
+Depth of graph: 10
+Total execution time of all functions: 145.836 ms.
+
+Function execution times:
+Time of simple BFS : 89.05 ms
+Time of PR-RST module : 39.07 ms
+Time of Adam_BFS : 8.32 ms
+Time of update datastr : 4.97 ms
+Time of CC : 4.43 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 1000
+Depth of graph: 10
+Total execution time of all functions: 151.302 ms.
+
+Function execution times:
+Time of simple BFS : 86.55 ms
+Time of PR-RST module : 47.16 ms
+Time of Adam_BFS : 8.19 ms
+Time of CC : 4.81 ms
+Time of update datastr : 4.58 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 1000
+Depth of graph: 10
+Total execution time of all functions: 146.329 ms.
+
+Function execution times:
+Time of simple BFS : 86.55 ms
+Time of PR-RST module : 42.94 ms
+Time of Adam_BFS : 8.29 ms
+Time of update datastr : 4.57 ms
+Time of CC : 3.98 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 1000
+Depth of graph: 10
+Total execution time of all functions: 141.432 ms.
+
+Function execution times:
+Time of simple BFS : 85.41 ms
+Time of PR-RST module : 38.87 ms
+Time of Adam_BFS : 8.28 ms
+Time of update datastr : 4.98 ms
+Time of CC : 3.88 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 1000
+Depth of graph: 10
+Total execution time of all functions: 151.472 ms.
+
+Function execution times:
+Time of simple BFS : 85.43 ms
+Time of PR-RST module : 47.08 ms
+Time of Adam_BFS : 8.33 ms
+Time of CC : 6.05 ms
+Time of update datastr : 4.57 ms
+----------------------------------------------------------------
+
+filename: wiki-topcats.egr
+Delete batch Size: 1000
+Depth of graph: 10
+Total execution time of all functions: 141.777 ms.
+
+Function execution times:
+Time of simple BFS : 85.52 ms
+Time of PR-RST module : 38.97 ms
+Time of Adam_BFS : 8.30 ms
+Time of update datastr : 4.58 ms
+Time of CC : 4.41 ms
+----------------------------------------------------------------

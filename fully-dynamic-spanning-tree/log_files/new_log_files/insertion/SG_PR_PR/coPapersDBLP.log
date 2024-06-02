@@ -1,0 +1,1092 @@
+
+
+filename: coPapersDBLP.egr
+Root: 398400
+The input parent array is a BFS tree.
+Number of deleted tree edges: 12223
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 398400
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 10244
+Number of cross-edges: 1980
+Insertion into hashtable over.
+num of superComponents: 12224
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 10.1595 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 6.73 ms
+Time of ET: Orientation : 1.01 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.69 ms
+Time of Update data structure : 0.44 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Finding unique comps : 0.21 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 10244
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 10243
+Insertion into hashtable over.
+num of superComponents: 10244
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 7.27 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.72 ms
+Time of HS: Find Repl edges : 1.79 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.83 ms
+Time of Path Reversal : 0.68 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 187645
+The input parent array is a BFS tree.
+Number of deleted tree edges: 12384
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 187645
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 10244
+Number of cross-edges: 2141
+Insertion into hashtable over.
+num of superComponents: 12385
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 12.6904 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 9.29 ms
+Time of ET: Orientation : 1.00 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.68 ms
+Time of Update data structure : 0.45 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Finding unique comps : 0.21 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 10244
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 10243
+Insertion into hashtable over.
+num of superComponents: 10244
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 6.23 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.27 ms
+Time of HS: Find Repl edges : 1.19 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.83 ms
+Time of Path Reversal : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 106486
+The input parent array is a BFS tree.
+Number of deleted tree edges: 12293
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 106486
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 10244
+Number of cross-edges: 2050
+Insertion into hashtable over.
+num of superComponents: 12294
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 13.5113 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 10.09 ms
+Time of ET: Orientation : 1.01 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.68 ms
+Time of Update data structure : 0.45 ms
+Time of Finding unique comps : 0.23 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 10244
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 10243
+Insertion into hashtable over.
+num of superComponents: 10244
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 7.24 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.32 ms
+Time of HS: Find Repl edges : 2.19 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 512260
+The input parent array is a BFS tree.
+Number of deleted tree edges: 12359
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 512260
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 10244
+Number of cross-edges: 2116
+Insertion into hashtable over.
+num of superComponents: 12360
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 11.7882 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 8.41 ms
+Time of ET: Orientation : 0.99 ms
+Time of PR_Shortcut : 0.79 ms
+Time of Path Reversal : 0.68 ms
+Time of Update data structure : 0.45 ms
+Time of Finding unique comps : 0.22 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 10244
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 10243
+Insertion into hashtable over.
+num of superComponents: 10244
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 8.31 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.85 ms
+Time of ET: Orientation : 2.69 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.83 ms
+Time of Path Reversal : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 97519
+The input parent array is a BFS tree.
+Number of deleted tree edges: 12067
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 97519
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 10244
+Number of cross-edges: 1824
+Insertion into hashtable over.
+num of superComponents: 12068
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 11.021 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 7.66 ms
+Time of ET: Orientation : 0.99 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.68 ms
+Time of Update data structure : 0.44 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Finding unique comps : 0.20 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 10244
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 10243
+Insertion into hashtable over.
+num of superComponents: 10244
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 7.27 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.78 ms
+Time of ET: Orientation : 1.73 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.83 ms
+Time of Path Reversal : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 19255
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5607
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 19255
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 5501
+Number of cross-edges: 107
+Insertion into hashtable over.
+num of superComponents: 5608
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 4.24951 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.77 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.64 ms
+Time of Update data structure : 0.42 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5501
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5500
+Insertion into hashtable over.
+num of superComponents: 5501
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.02 ms.
+
+Function execution times:
+Time of ET: Orientation : 1.45 ms
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.83 ms
+Time of PR_Shortcut : 0.82 ms
+Time of Path Reversal : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 285387
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4217
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 285387
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 4101
+Number of cross-edges: 117
+Insertion into hashtable over.
+num of superComponents: 4218
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 4.71534 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.26 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.63 ms
+Time of Update data structure : 0.41 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 4101
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4100
+Insertion into hashtable over.
+num of superComponents: 4101
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 7.23 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.64 ms
+Time of HS: Find Repl edges : 1.85 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.82 ms
+Time of Path Reversal : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 359946
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4138
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 359946
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 4001
+Number of cross-edges: 138
+Insertion into hashtable over.
+num of superComponents: 4139
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 4.27757 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.82 ms
+Time of PR_Shortcut : 0.79 ms
+Time of Path Reversal : 0.63 ms
+Time of Update data structure : 0.43 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 4001
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4000
+Insertion into hashtable over.
+num of superComponents: 4001
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 7.21 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.49 ms
+Time of HS: Find Repl edges : 1.99 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.66 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 466882
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4409
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 466882
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 4301
+Number of cross-edges: 109
+Insertion into hashtable over.
+num of superComponents: 4410
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.79831 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.29 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.67 ms
+Time of Update data structure : 0.42 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.21 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 4301
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4300
+Insertion into hashtable over.
+num of superComponents: 4301
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 7.35 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.57 ms
+Time of HS: Find Repl edges : 1.93 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.78 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 49801
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5184
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 49801
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 5101
+Number of cross-edges: 84
+Insertion into hashtable over.
+num of superComponents: 5185
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 4.74411 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.19 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.68 ms
+Time of Update data structure : 0.46 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5101
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5100
+Insertion into hashtable over.
+num of superComponents: 5101
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.89 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.68 ms
+Time of ET: Orientation : 1.45 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.82 ms
+Time of Path Reversal : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 430552
+The input parent array is a BFS tree.
+Number of deleted tree edges: 61
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 430552
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 61
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 62
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.20193 ms.
+
+Function execution times:
+Time of PR_Shortcut : 0.80 ms
+Time of HS: Find Repl edges : 0.79 ms
+Time of Path Reversal : 0.62 ms
+Time of Update data structure : 0.44 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 61
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 60
+Insertion into hashtable over.
+num of superComponents: 61
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 4.15 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.24 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.82 ms
+Time of Path Reversal : 0.65 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.19 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 430958
+The input parent array is a BFS tree.
+Number of deleted tree edges: 66
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 430958
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 65
+Number of cross-edges: 2
+Insertion into hashtable over.
+num of superComponents: 67
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.20783 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 0.82 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.62 ms
+Time of Update data structure : 0.42 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.17 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 65
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64
+Insertion into hashtable over.
+num of superComponents: 65
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.47 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.65 ms
+Time of HS: Find Repl edges : 0.58 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.20 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 213640
+The input parent array is a BFS tree.
+Number of deleted tree edges: 65
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 213640
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 65
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 66
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.22216 ms.
+
+Function execution times:
+Time of PR_Shortcut : 0.82 ms
+Time of HS: Find Repl edges : 0.80 ms
+Time of Path Reversal : 0.64 ms
+Time of Update data structure : 0.41 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 65
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64
+Insertion into hashtable over.
+num of superComponents: 65
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.49 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.64 ms
+Time of HS: Find Repl edges : 0.59 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.20 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 327193
+The input parent array is a BFS tree.
+Number of deleted tree edges: 46
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 327193
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 47
+Number of cross-edges: 0
+
+Total execution time for Deletion: 1.31939 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 0.56 ms
+Time of Update data structure : 0.42 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Finding unique comps : 0.12 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 47
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 46
+Insertion into hashtable over.
+num of superComponents: 47
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.89 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.00 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.79 ms
+Time of Path Reversal : 0.64 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.21 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 52105
+The input parent array is a BFS tree.
+Number of deleted tree edges: 43
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 52105
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 42
+Number of cross-edges: 2
+Insertion into hashtable over.
+num of superComponents: 44
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.57005 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.19 ms
+Time of PR_Shortcut : 0.78 ms
+Time of Path Reversal : 0.62 ms
+Time of Update data structure : 0.42 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 42
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 41
+Insertion into hashtable over.
+num of superComponents: 42
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.55 ms.
+
+Function execution times:
+Time of Finding unique comps : 0.99 ms
+Time of PR_Shortcut : 0.79 ms
+Time of HS: Find Repl edges : 0.67 ms
+Time of Path Reversal : 0.65 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.20 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 223942
+The input parent array is a BFS tree.
+Number of deleted tree edges: 670
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 223942
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 661
+Number of cross-edges: 10
+Insertion into hashtable over.
+num of superComponents: 671
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.96849 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.62 ms
+Time of PR_Shortcut : 0.79 ms
+Time of Path Reversal : 0.62 ms
+Time of Update data structure : 0.42 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.08 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 661
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 660
+Insertion into hashtable over.
+num of superComponents: 661
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 4.09 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.15 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.65 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 159921
+The input parent array is a BFS tree.
+Number of deleted tree edges: 659
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 159921
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 651
+Number of cross-edges: 9
+Insertion into hashtable over.
+num of superComponents: 660
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.70456 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.20 ms
+Time of PR_Shortcut : 0.78 ms
+Time of Path Reversal : 0.62 ms
+Time of Update data structure : 0.52 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.19 ms
+Time of Finding unique comps : 0.15 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 651
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 650
+Insertion into hashtable over.
+num of superComponents: 651
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 4.41 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.47 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.65 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 249812
+The input parent array is a BFS tree.
+Number of deleted tree edges: 621
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 249812
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 611
+Number of cross-edges: 11
+Insertion into hashtable over.
+num of superComponents: 622
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 5.14849 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.11 ms
+Time of Path Reversal : 0.88 ms
+Time of PR_Shortcut : 0.87 ms
+Time of Update data structure : 0.49 ms
+Time of ET: Orientation : 0.31 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Finding unique comps : 0.15 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 611
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 610
+Insertion into hashtable over.
+num of superComponents: 611
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.25 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.13 ms
+Time of Finding unique comps : 0.94 ms
+Time of PR_Shortcut : 0.86 ms
+Time of Path Reversal : 0.73 ms
+Time of ET: Orientation : 0.30 ms
+Time of Pointer Jumping : 0.26 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 130661
+The input parent array is a BFS tree.
+Number of deleted tree edges: 584
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 130661
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 571
+Number of cross-edges: 14
+Insertion into hashtable over.
+num of superComponents: 585
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.90758 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.46 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.62 ms
+Time of Update data structure : 0.44 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 571
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 570
+Insertion into hashtable over.
+num of superComponents: 571
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 4.42 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.46 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.82 ms
+Time of Path Reversal : 0.65 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.21 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersDBLP.egr
+Root: 529385
+The input parent array is a BFS tree.
+Number of deleted tree edges: 417
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 529385
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 401
+Number of cross-edges: 17
+Insertion into hashtable over.
+num of superComponents: 418
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 3.27446 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 0.83 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.63 ms
+Time of Update data structure : 0.43 ms
+Time of Pointer Jumping : 0.22 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 401
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 400
+Insertion into hashtable over.
+num of superComponents: 401
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.71 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.81 ms
+Time of HS: Find Repl edges : 0.76 ms
+Time of Path Reversal : 0.65 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1

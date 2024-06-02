@@ -1,0 +1,335 @@
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 1352
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100000
+
+Total execution time of all functions: 60.6778 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.32 ms
+Time of Eulerian Tour : 15.18 ms
+Time of update data structure : 2.74 ms
+Time of PR-RST module : 1.53 ms
+Time of Pointer Jumping : 0.74 ms
+Time of Path Reversal : 0.12 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 1390
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100000
+
+Total execution time of all functions: 61.7083 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.47 ms
+Time of Eulerian Tour : 15.48 ms
+Time of update data structure : 2.81 ms
+Time of PR-RST module : 2.05 ms
+Time of Pointer Jumping : 0.74 ms
+Time of Path Reversal : 0.12 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 1304
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100000
+
+Total execution time of all functions: 60.8966 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.70 ms
+Time of Eulerian Tour : 15.18 ms
+Time of update data structure : 2.64 ms
+Time of PR-RST module : 1.48 ms
+Time of Pointer Jumping : 0.74 ms
+Time of Path Reversal : 0.12 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 1399
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100000
+
+Total execution time of all functions: 61.4886 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.80 ms
+Time of Eulerian Tour : 15.14 ms
+Time of update data structure : 2.59 ms
+Time of PR-RST module : 2.06 ms
+Time of Pointer Jumping : 0.74 ms
+Time of Path Reversal : 0.12 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 1391
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100000
+
+Total execution time of all functions: 60.8527 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.36 ms
+Time of Eulerian Tour : 15.21 ms
+Time of update data structure : 2.81 ms
+Time of PR-RST module : 1.55 ms
+Time of Pointer Jumping : 0.74 ms
+Time of Path Reversal : 0.13 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.03 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 139
+numVert: 2097152, num_edges: 183188180 and delete batch size: 10000
+
+Total execution time of all functions: 64.1644 ms.
+
+Function execution times:
+Time of Super graph Creation : 44.47 ms
+Time of Eulerian Tour : 15.21 ms
+Time of update data structure : 2.55 ms
+Time of PR-RST module : 1.08 ms
+Time of Pointer Jumping : 0.72 ms
+Time of Path Reversal : 0.10 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 145
+numVert: 2097152, num_edges: 183188180 and delete batch size: 10000
+
+Total execution time of all functions: 57.6759 ms.
+
+Function execution times:
+Time of Super graph Creation : 38.00 ms
+Time of Eulerian Tour : 15.20 ms
+Time of update data structure : 2.50 ms
+Time of PR-RST module : 1.11 ms
+Time of Pointer Jumping : 0.72 ms
+Time of Path Reversal : 0.09 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 139
+numVert: 2097152, num_edges: 183188180 and delete batch size: 10000
+
+Total execution time of all functions: 63.267 ms.
+
+Function execution times:
+Time of Super graph Creation : 43.40 ms
+Time of Eulerian Tour : 15.22 ms
+Time of update data structure : 2.65 ms
+Time of PR-RST module : 1.13 ms
+Time of Pointer Jumping : 0.72 ms
+Time of Path Reversal : 0.10 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 127
+numVert: 2097152, num_edges: 183188180 and delete batch size: 10000
+
+Total execution time of all functions: 59.5479 ms.
+
+Function execution times:
+Time of Super graph Creation : 39.98 ms
+Time of Eulerian Tour : 15.17 ms
+Time of update data structure : 2.56 ms
+Time of PR-RST module : 0.99 ms
+Time of Pointer Jumping : 0.72 ms
+Time of Path Reversal : 0.09 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 126
+numVert: 2097152, num_edges: 183188180 and delete batch size: 10000
+
+Total execution time of all functions: 63.6369 ms.
+
+Function execution times:
+Time of Super graph Creation : 43.95 ms
+Time of Eulerian Tour : 15.23 ms
+Time of update data structure : 2.54 ms
+Time of PR-RST module : 1.05 ms
+Time of Pointer Jumping : 0.73 ms
+Time of Path Reversal : 0.10 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 2
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100
+
+Total execution time of all functions: 106.473 ms.
+
+Function execution times:
+Time of Super graph Creation : 87.54 ms
+Time of Eulerian Tour : 15.22 ms
+Time of update data structure : 2.62 ms
+Time of Pointer Jumping : 0.71 ms
+Time of PR-RST module : 0.30 ms
+Time of Path Reversal : 0.06 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 0
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100
+
+Total execution time of all functions: 42.841 ms.
+
+Function execution times:
+Time of Super graph Creation : 24.54 ms
+Time of Eulerian Tour : 15.13 ms
+Time of update data structure : 2.44 ms
+Time of Pointer Jumping : 0.71 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 2
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100
+
+Total execution time of all functions: 139.454 ms.
+
+Function execution times:
+Time of Super graph Creation : 120.41 ms
+Time of Eulerian Tour : 15.26 ms
+Time of update data structure : 2.54 ms
+Time of Pointer Jumping : 0.72 ms
+Time of PR-RST module : 0.41 ms
+Time of Path Reversal : 0.08 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 2
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100
+
+Total execution time of all functions: 114.734 ms.
+
+Function execution times:
+Time of Super graph Creation : 95.74 ms
+Time of Eulerian Tour : 15.24 ms
+Time of update data structure : 2.56 ms
+Time of Pointer Jumping : 0.71 ms
+Time of PR-RST module : 0.39 ms
+Time of Path Reversal : 0.06 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 2
+numVert: 2097152, num_edges: 183188180 and delete batch size: 100
+
+Total execution time of all functions: 83.403 ms.
+
+Function execution times:
+Time of Super graph Creation : 64.53 ms
+Time of Eulerian Tour : 15.17 ms
+Time of update data structure : 2.58 ms
+Time of Pointer Jumping : 0.71 ms
+Time of PR-RST module : 0.33 ms
+Time of Path Reversal : 0.07 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 12
+numVert: 2097152, num_edges: 183188180 and delete batch size: 1000
+
+Total execution time of all functions: 95.2025 ms.
+
+Function execution times:
+Time of Super graph Creation : 75.73 ms
+Time of Eulerian Tour : 15.29 ms
+Time of update data structure : 2.54 ms
+Time of PR-RST module : 0.79 ms
+Time of Pointer Jumping : 0.72 ms
+Time of Path Reversal : 0.09 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 12
+numVert: 2097152, num_edges: 183188180 and delete batch size: 1000
+
+Total execution time of all functions: 96.614 ms.
+
+Function execution times:
+Time of Super graph Creation : 77.53 ms
+Time of Eulerian Tour : 15.16 ms
+Time of update data structure : 2.65 ms
+Time of Pointer Jumping : 0.72 ms
+Time of PR-RST module : 0.46 ms
+Time of Path Reversal : 0.07 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 10
+numVert: 2097152, num_edges: 183188180 and delete batch size: 1000
+
+Total execution time of all functions: 82.6709 ms.
+
+Function execution times:
+Time of Super graph Creation : 64.60 ms
+Time of Eulerian Tour : 14.37 ms
+Time of update data structure : 2.48 ms
+Time of Pointer Jumping : 0.72 ms
+Time of PR-RST module : 0.40 ms
+Time of Path Reversal : 0.06 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 16
+numVert: 2097152, num_edges: 183188180 and delete batch size: 1000
+
+Total execution time of all functions: 110.23 ms.
+
+Function execution times:
+Time of Super graph Creation : 90.80 ms
+Time of Eulerian Tour : 15.24 ms
+Time of update data structure : 2.53 ms
+Time of PR-RST module : 0.82 ms
+Time of Pointer Jumping : 0.72 ms
+Time of Path Reversal : 0.08 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kron_g500-logn21.egr
+Number of deleted tree edges: 17
+numVert: 2097152, num_edges: 183188180 and delete batch size: 1000
+
+Total execution time of all functions: 106.988 ms.
+
+Function execution times:
+Time of Super graph Creation : 87.73 ms
+Time of Eulerian Tour : 15.22 ms
+Time of update data structure : 2.67 ms
+Time of Pointer Jumping : 0.73 ms
+Time of PR-RST module : 0.52 ms
+Time of Path Reversal : 0.08 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

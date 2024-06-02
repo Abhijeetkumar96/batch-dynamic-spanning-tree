@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+coPapersCiteseer.egr,434102,32073440,100,,6.39
+coPapersCiteseer.egr,434102,32073440,1000,,7.08
+coPapersCiteseer.egr,434102,32073440,10000,,7.5
+coPapersCiteseer.egr,434102,32073440,100000,,8.88

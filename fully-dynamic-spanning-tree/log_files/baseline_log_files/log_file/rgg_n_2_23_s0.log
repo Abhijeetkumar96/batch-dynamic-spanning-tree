@@ -1,0 +1,259 @@
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100000
+Depth of graph: 1873
+Total execution time of all functions: 993.024 ms.
+
+Function execution times:
+Time of simple BFS : 574.67 ms
+Time of Adam_BFS : 247.27 ms
+Time of PR-RST module : 140.94 ms
+Time of CC : 21.83 ms
+Time of update datastr : 8.31 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100000
+Depth of graph: 1873
+Total execution time of all functions: 946.174 ms.
+
+Function execution times:
+Time of simple BFS : 549.92 ms
+Time of Adam_BFS : 250.88 ms
+Time of PR-RST module : 121.49 ms
+Time of CC : 18.70 ms
+Time of update datastr : 5.19 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100000
+Depth of graph: 1873
+Total execution time of all functions: 963.405 ms.
+
+Function execution times:
+Time of simple BFS : 534.96 ms
+Time of Adam_BFS : 248.23 ms
+Time of PR-RST module : 151.78 ms
+Time of CC : 23.28 ms
+Time of update datastr : 5.15 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100000
+Depth of graph: 1873
+Total execution time of all functions: 958.295 ms.
+
+Function execution times:
+Time of simple BFS : 563.18 ms
+Time of Adam_BFS : 246.75 ms
+Time of PR-RST module : 121.51 ms
+Time of CC : 21.69 ms
+Time of update datastr : 5.17 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100000
+Depth of graph: 1873
+Total execution time of all functions: 1012.48 ms.
+
+Function execution times:
+Time of simple BFS : 615.24 ms
+Time of Adam_BFS : 249.23 ms
+Time of PR-RST module : 121.17 ms
+Time of CC : 21.69 ms
+Time of update datastr : 5.14 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 10000
+Depth of graph: 1872
+Total execution time of all functions: 948.846 ms.
+
+Function execution times:
+Time of simple BFS : 549.75 ms
+Time of Adam_BFS : 250.14 ms
+Time of PR-RST module : 125.31 ms
+Time of CC : 19.64 ms
+Time of update datastr : 4.00 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 10000
+Depth of graph: 1872
+Total execution time of all functions: 1009.05 ms.
+
+Function execution times:
+Time of simple BFS : 608.73 ms
+Time of Adam_BFS : 251.80 ms
+Time of PR-RST module : 124.83 ms
+Time of CC : 18.55 ms
+Time of update datastr : 5.15 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 10000
+Depth of graph: 1872
+Total execution time of all functions: 1014.03 ms.
+
+Function execution times:
+Time of simple BFS : 611.19 ms
+Time of Adam_BFS : 252.29 ms
+Time of PR-RST module : 125.29 ms
+Time of CC : 20.12 ms
+Time of update datastr : 5.14 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 10000
+Depth of graph: 1872
+Total execution time of all functions: 951.17 ms.
+
+Function execution times:
+Time of simple BFS : 551.51 ms
+Time of Adam_BFS : 250.74 ms
+Time of PR-RST module : 125.03 ms
+Time of CC : 18.73 ms
+Time of update datastr : 5.16 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 10000
+Depth of graph: 1872
+Total execution time of all functions: 1032.36 ms.
+
+Function execution times:
+Time of simple BFS : 620.28 ms
+Time of Adam_BFS : 247.72 ms
+Time of PR-RST module : 140.82 ms
+Time of CC : 18.39 ms
+Time of update datastr : 5.15 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100
+Depth of graph: 1872
+Total execution time of all functions: 1035.7 ms.
+
+Function execution times:
+Time of simple BFS : 621.59 ms
+Time of Adam_BFS : 246.61 ms
+Time of PR-RST module : 140.47 ms
+Time of CC : 21.86 ms
+Time of update datastr : 5.16 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100
+Depth of graph: 1872
+Total execution time of all functions: 1012.15 ms.
+
+Function execution times:
+Time of simple BFS : 615.00 ms
+Time of Adam_BFS : 248.88 ms
+Time of PR-RST module : 121.20 ms
+Time of CC : 21.91 ms
+Time of update datastr : 5.14 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100
+Depth of graph: 1872
+Total execution time of all functions: 953.885 ms.
+
+Function execution times:
+Time of simple BFS : 559.29 ms
+Time of Adam_BFS : 248.59 ms
+Time of PR-RST module : 120.79 ms
+Time of CC : 20.08 ms
+Time of update datastr : 5.14 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100
+Depth of graph: 1872
+Total execution time of all functions: 1015.04 ms.
+
+Function execution times:
+Time of simple BFS : 621.01 ms
+Time of Adam_BFS : 247.80 ms
+Time of PR-RST module : 121.01 ms
+Time of CC : 20.02 ms
+Time of update datastr : 5.21 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 100
+Depth of graph: 1872
+Total execution time of all functions: 1019.67 ms.
+
+Function execution times:
+Time of simple BFS : 621.54 ms
+Time of Adam_BFS : 252.32 ms
+Time of PR-RST module : 120.55 ms
+Time of CC : 20.12 ms
+Time of update datastr : 5.14 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 1000
+Depth of graph: 1872
+Total execution time of all functions: 1055.3 ms.
+
+Function execution times:
+Time of simple BFS : 661.63 ms
+Time of Adam_BFS : 249.37 ms
+Time of PR-RST module : 120.51 ms
+Time of CC : 18.65 ms
+Time of update datastr : 5.14 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 1000
+Depth of graph: 1872
+Total execution time of all functions: 959.361 ms.
+
+Function execution times:
+Time of simple BFS : 566.72 ms
+Time of Adam_BFS : 247.76 ms
+Time of PR-RST module : 121.20 ms
+Time of CC : 18.49 ms
+Time of update datastr : 5.18 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 1000
+Depth of graph: 1872
+Total execution time of all functions: 1020.9 ms.
+
+Function execution times:
+Time of simple BFS : 618.23 ms
+Time of Adam_BFS : 256.24 ms
+Time of PR-RST module : 120.79 ms
+Time of CC : 20.44 ms
+Time of update datastr : 5.19 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 1000
+Depth of graph: 1872
+Total execution time of all functions: 950.811 ms.
+
+Function execution times:
+Time of simple BFS : 558.08 ms
+Time of Adam_BFS : 248.03 ms
+Time of PR-RST module : 121.15 ms
+Time of CC : 18.39 ms
+Time of update datastr : 5.16 ms
+----------------------------------------------------------------
+
+filename: rgg_n_2_23_s0.egr
+Delete batch Size: 1000
+Depth of graph: 1872
+Total execution time of all functions: 945.737 ms.
+
+Function execution times:
+Time of simple BFS : 554.15 ms
+Time of Adam_BFS : 247.81 ms
+Time of PR-RST module : 119.98 ms
+Time of CC : 18.66 ms
+Time of update datastr : 5.15 ms
+----------------------------------------------------------------

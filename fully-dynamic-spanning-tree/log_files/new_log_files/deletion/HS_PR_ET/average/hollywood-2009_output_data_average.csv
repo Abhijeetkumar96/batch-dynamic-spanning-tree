@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+hollywood-2009.txt,100,24.15
+hollywood-2009.txt,1000,28.21
+hollywood-2009.txt,10000,28.92
+hollywood-2009.txt,100000,36.72

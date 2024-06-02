@@ -1,0 +1,1076 @@
+
+
+filename: uk-2005.egr
+Root: 2849262
+The input parent array is a BFS tree.
+Number of deleted tree edges: 56480
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100000
+
+Root: 2849262
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 56001
+Number of cross-edges: 480
+Insertion into hashtable over.
+num of superComponents: 56481
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 201.173 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.67 ms
+Time of HS: Find Repl edges : 73.29 ms
+Time of Path Reversal : 17.85 ms
+Time of Update data structure : 12.03 ms
+Time of Pointer Jumping : 5.87 ms
+Time of Finding unique comps : 1.18 ms
+Time of ET: Orientation : 0.25 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 56001
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 56000
+Insertion into hashtable over.
+num of superComponents: 56001
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 207.06 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.31 ms
+Time of HS: Find Repl edges : 86.50 ms
+Time of Path Reversal : 18.29 ms
+Time of Pointer Jumping : 5.83 ms
+Time of ET: Orientation : 4.07 ms
+Time of Finding unique comps : 1.02 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 22121648
+The input parent array is a BFS tree.
+Number of deleted tree edges: 64374
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100000
+
+Root: 22121648
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 64001
+Number of cross-edges: 374
+Insertion into hashtable over.
+num of superComponents: 64375
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 245.113 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 109.03 ms
+Time of PR_Shortcut : 90.05 ms
+Time of Update data structure : 18.61 ms
+Time of Path Reversal : 18.03 ms
+Time of Pointer Jumping : 7.86 ms
+Time of Finding unique comps : 1.24 ms
+Time of ET: Orientation : 0.25 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 64001
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64000
+Insertion into hashtable over.
+num of superComponents: 64001
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 217.97 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 100.33 ms
+Time of PR_Shortcut : 89.54 ms
+Time of Path Reversal : 18.36 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 2.84 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 511460
+The input parent array is a BFS tree.
+Number of deleted tree edges: 69417
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100000
+
+Root: 511460
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 69001
+Number of cross-edges: 417
+Insertion into hashtable over.
+num of superComponents: 69418
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 212.681 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.40 ms
+Time of HS: Find Repl edges : 77.84 ms
+Time of Path Reversal : 19.16 ms
+Time of Update data structure : 16.49 ms
+Time of Pointer Jumping : 7.28 ms
+Time of Finding unique comps : 1.22 ms
+Time of ET: Orientation : 0.25 ms
+Time of Update rep array : 0.02 ms
+Time of Hashtable insertion : 0.02 ms
+
+Input tree not connected. num_comp: 69001
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 69000
+Insertion into hashtable over.
+num of superComponents: 69001
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 196.41 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.20 ms
+Time of HS: Find Repl edges : 77.01 ms
+Time of Path Reversal : 18.44 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 2.84 ms
+Time of Finding unique comps : 1.02 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 39282343
+The input parent array is a BFS tree.
+Number of deleted tree edges: 70347
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100000
+
+Root: 39282343
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 70001
+Number of cross-edges: 347
+Insertion into hashtable over.
+num of superComponents: 70348
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 161.798 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.20 ms
+Time of HS: Find Repl edges : 33.64 ms
+Time of Path Reversal : 18.13 ms
+Time of Update data structure : 12.43 ms
+Time of Pointer Jumping : 5.95 ms
+Time of Finding unique comps : 1.16 ms
+Time of ET: Orientation : 0.25 ms
+Time of Update rep array : 0.02 ms
+Time of Hashtable insertion : 0.02 ms
+
+Input tree not connected. num_comp: 70001
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 70000
+Insertion into hashtable over.
+num of superComponents: 70001
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 233.13 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 113.92 ms
+Time of PR_Shortcut : 90.98 ms
+Time of Path Reversal : 18.47 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 2.85 ms
+Time of Finding unique comps : 1.02 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 27819834
+The input parent array is a BFS tree.
+Number of deleted tree edges: 70336
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100000
+
+Root: 27819834
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 70001
+Number of cross-edges: 336
+Insertion into hashtable over.
+num of superComponents: 70337
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 208.061 ms.
+
+Function execution times:
+Time of PR_Shortcut : 95.97 ms
+Time of HS: Find Repl edges : 72.82 ms
+Time of Path Reversal : 18.30 ms
+Time of Update data structure : 12.20 ms
+Time of Pointer Jumping : 7.33 ms
+Time of Finding unique comps : 1.17 ms
+Time of ET: Orientation : 0.25 ms
+Time of Update rep array : 0.02 ms
+Time of Hashtable insertion : 0.02 ms
+
+Input tree not connected. num_comp: 70001
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 70000
+Insertion into hashtable over.
+num of superComponents: 70001
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 238.35 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 119.49 ms
+Time of PR_Shortcut : 89.57 ms
+Time of Path Reversal : 18.46 ms
+Time of Pointer Jumping : 6.14 ms
+Time of ET: Orientation : 3.80 ms
+Time of Finding unique comps : 0.84 ms
+Time of Hashtable insertion : 0.04 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 15028519
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6930
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 10000
+
+Root: 15028519
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 6900
+Number of cross-edges: 31
+Insertion into hashtable over.
+num of superComponents: 6931
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 205.091 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.97 ms
+Time of HS: Find Repl edges : 72.60 ms
+Time of Update data structure : 18.32 ms
+Time of Path Reversal : 15.87 ms
+Time of Pointer Jumping : 5.94 ms
+Time of Finding unique comps : 1.14 ms
+Time of ET: Orientation : 0.22 ms
+Time of Update rep array : 0.01 ms
+Time of Hashtable insertion : 0.01 ms
+
+Input tree not connected. num_comp: 6900
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6899
+Insertion into hashtable over.
+num of superComponents: 6900
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 164.84 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.06 ms
+Time of HS: Find Repl edges : 48.73 ms
+Time of Path Reversal : 16.24 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 1.94 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 4577576
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7036
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 10000
+
+Root: 4577576
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 7001
+Number of cross-edges: 36
+Insertion into hashtable over.
+num of superComponents: 7037
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 197.566 ms.
+
+Function execution times:
+Time of PR_Shortcut : 89.03 ms
+Time of HS: Find Repl edges : 72.72 ms
+Time of Path Reversal : 15.89 ms
+Time of Update data structure : 12.56 ms
+Time of Pointer Jumping : 5.97 ms
+Time of Finding unique comps : 1.15 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 7001
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 7000
+Insertion into hashtable over.
+num of superComponents: 7001
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 183.38 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.72 ms
+Time of HS: Find Repl edges : 67.26 ms
+Time of Path Reversal : 16.24 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 2.30 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 33914177
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6534
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 10000
+
+Root: 33914177
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 6501
+Number of cross-edges: 34
+Insertion into hashtable over.
+num of superComponents: 6535
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 198.342 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.94 ms
+Time of HS: Find Repl edges : 72.29 ms
+Time of Path Reversal : 15.85 ms
+Time of Update data structure : 12.01 ms
+Time of Pointer Jumping : 5.86 ms
+Time of Finding unique comps : 1.14 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 6501
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6500
+Insertion into hashtable over.
+num of superComponents: 6501
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 220.56 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 103.87 ms
+Time of PR_Shortcut : 91.20 ms
+Time of Path Reversal : 16.19 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 2.42 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 174232
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6638
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 10000
+
+Root: 174232
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 6601
+Number of cross-edges: 38
+Insertion into hashtable over.
+num of superComponents: 6639
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 208.711 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.16 ms
+Time of HS: Find Repl edges : 73.95 ms
+Time of Update data structure : 18.11 ms
+Time of Path Reversal : 16.97 ms
+Time of Pointer Jumping : 8.05 ms
+Time of Finding unique comps : 1.22 ms
+Time of ET: Orientation : 0.23 ms
+Time of Update rep array : 0.02 ms
+Time of Hashtable insertion : 0.01 ms
+
+Input tree not connected. num_comp: 6601
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6600
+Insertion into hashtable over.
+num of superComponents: 6601
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 184.74 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.06 ms
+Time of HS: Find Repl edges : 67.88 ms
+Time of Path Reversal : 16.22 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 2.73 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 29546664
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5953
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 10000
+
+Root: 29546664
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 5901
+Number of cross-edges: 53
+Insertion into hashtable over.
+num of superComponents: 5954
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 199.099 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.07 ms
+Time of HS: Find Repl edges : 72.38 ms
+Time of Path Reversal : 15.79 ms
+Time of Update data structure : 13.62 ms
+Time of Pointer Jumping : 5.85 ms
+Time of Finding unique comps : 1.14 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5901
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5900
+Insertion into hashtable over.
+num of superComponents: 5901
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 183.76 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.16 ms
+Time of HS: Find Repl edges : 67.42 ms
+Time of Path Reversal : 16.16 ms
+Time of Pointer Jumping : 5.84 ms
+Time of ET: Orientation : 2.15 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 26702552
+The input parent array is a BFS tree.
+Number of deleted tree edges: 47
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100
+
+Root: 26702552
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 47
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 48
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 175.054 ms.
+
+Function execution times:
+Time of PR_Shortcut : 89.36 ms
+Time of HS: Find Repl edges : 42.94 ms
+Time of Update data structure : 18.25 ms
+Time of Path Reversal : 15.23 ms
+Time of Pointer Jumping : 8.06 ms
+Time of Finding unique comps : 0.99 ms
+Time of ET: Orientation : 0.20 ms
+Time of Update rep array : 0.01 ms
+Time of Hashtable insertion : 0.01 ms
+
+Input tree not connected. num_comp: 47
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 46
+Insertion into hashtable over.
+num of superComponents: 47
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 125.53 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.54 ms
+Time of Path Reversal : 15.58 ms
+Time of HS: Find Repl edges : 11.38 ms
+Time of Pointer Jumping : 5.83 ms
+Time of Finding unique comps : 0.98 ms
+Time of ET: Orientation : 0.20 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 16914913
+The input parent array is a BFS tree.
+Number of deleted tree edges: 41
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100
+
+Root: 16914913
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 41
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 42
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 178.834 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.52 ms
+Time of HS: Find Repl edges : 44.42 ms
+Time of Update data structure : 18.42 ms
+Time of Path Reversal : 16.21 ms
+Time of Pointer Jumping : 8.05 ms
+Time of Finding unique comps : 0.98 ms
+Time of ET: Orientation : 0.20 ms
+Time of Update rep array : 0.02 ms
+Time of Hashtable insertion : 0.01 ms
+
+Input tree not connected. num_comp: 41
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 40
+Insertion into hashtable over.
+num of superComponents: 41
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 134.97 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.29 ms
+Time of HS: Find Repl edges : 20.05 ms
+Time of Path Reversal : 16.57 ms
+Time of Pointer Jumping : 5.85 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.19 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 9960114
+The input parent array is a BFS tree.
+Number of deleted tree edges: 53
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100
+
+Root: 9960114
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 54
+Number of cross-edges: 0
+
+Total execution time for Deletion: 54.4712 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 29.46 ms
+Time of Update data structure : 16.64 ms
+Time of Pointer Jumping : 7.36 ms
+Time of Finding unique comps : 0.99 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 54
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 53
+Insertion into hashtable over.
+num of superComponents: 54
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 143.40 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.48 ms
+Time of HS: Find Repl edges : 29.55 ms
+Time of Path Reversal : 15.21 ms
+Time of Pointer Jumping : 6.79 ms
+Time of Finding unique comps : 1.03 ms
+Time of ET: Orientation : 0.31 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 35951200
+The input parent array is a BFS tree.
+Number of deleted tree edges: 57
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100
+
+Root: 35951200
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 58
+Number of cross-edges: 0
+
+Total execution time for Deletion: 55.4303 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 29.83 ms
+Time of Update data structure : 17.06 ms
+Time of Pointer Jumping : 7.55 ms
+Time of Finding unique comps : 0.99 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 58
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 57
+Insertion into hashtable over.
+num of superComponents: 58
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 150.05 ms.
+
+Function execution times:
+Time of PR_Shortcut : 89.44 ms
+Time of HS: Find Repl edges : 38.22 ms
+Time of Path Reversal : 15.23 ms
+Time of Pointer Jumping : 5.86 ms
+Time of Finding unique comps : 1.04 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 8793621
+The input parent array is a BFS tree.
+Number of deleted tree edges: 61
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 100
+
+Root: 8793621
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 62
+Number of cross-edges: 0
+
+Total execution time for Deletion: 55.1034 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 27.73 ms
+Time of Update data structure : 18.36 ms
+Time of Pointer Jumping : 8.02 ms
+Time of Finding unique comps : 0.98 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 62
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 61
+Insertion into hashtable over.
+num of superComponents: 62
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 188.44 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.13 ms
+Time of HS: Find Repl edges : 75.98 ms
+Time of Path Reversal : 15.20 ms
+Time of Pointer Jumping : 5.86 ms
+Time of Finding unique comps : 1.03 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 10830019
+The input parent array is a BFS tree.
+Number of deleted tree edges: 415
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 1000
+
+Root: 10830019
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 411
+Number of cross-edges: 5
+Insertion into hashtable over.
+num of superComponents: 416
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 197.299 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.15 ms
+Time of HS: Find Repl edges : 72.45 ms
+Time of Path Reversal : 15.29 ms
+Time of Update data structure : 12.18 ms
+Time of Pointer Jumping : 5.89 ms
+Time of Finding unique comps : 1.10 ms
+Time of ET: Orientation : 0.21 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 411
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 410
+Insertion into hashtable over.
+num of superComponents: 411
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 150.73 ms.
+
+Function execution times:
+Time of PR_Shortcut : 89.62 ms
+Time of HS: Find Repl edges : 38.35 ms
+Time of Path Reversal : 15.66 ms
+Time of Pointer Jumping : 5.84 ms
+Time of Finding unique comps : 1.01 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 24105618
+The input parent array is a BFS tree.
+Number of deleted tree edges: 672
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 1000
+
+Root: 24105618
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 671
+Number of cross-edges: 2
+Insertion into hashtable over.
+num of superComponents: 673
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 174.119 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.27 ms
+Time of HS: Find Repl edges : 43.20 ms
+Time of Update data structure : 16.53 ms
+Time of Path Reversal : 15.34 ms
+Time of Pointer Jumping : 7.36 ms
+Time of Finding unique comps : 1.15 ms
+Time of ET: Orientation : 0.24 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 671
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 670
+Insertion into hashtable over.
+num of superComponents: 671
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 143.54 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.31 ms
+Time of HS: Find Repl edges : 29.45 ms
+Time of Path Reversal : 15.70 ms
+Time of Pointer Jumping : 5.83 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 25188086
+The input parent array is a BFS tree.
+Number of deleted tree edges: 425
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 1000
+
+Root: 25188086
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 421
+Number of cross-edges: 5
+Insertion into hashtable over.
+num of superComponents: 426
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 166.214 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.06 ms
+Time of HS: Find Repl edges : 41.57 ms
+Time of Path Reversal : 15.29 ms
+Time of Update data structure : 12.11 ms
+Time of Pointer Jumping : 5.86 ms
+Time of Finding unique comps : 1.09 ms
+Time of ET: Orientation : 0.20 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 421
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 420
+Insertion into hashtable over.
+num of superComponents: 421
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 169.49 ms.
+
+Function execution times:
+Time of PR_Shortcut : 89.69 ms
+Time of HS: Find Repl edges : 57.08 ms
+Time of Path Reversal : 15.63 ms
+Time of Pointer Jumping : 5.84 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.21 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 19558631
+The input parent array is a BFS tree.
+Number of deleted tree edges: 627
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 1000
+
+Root: 19558631
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 621
+Number of cross-edges: 7
+Insertion into hashtable over.
+num of superComponents: 628
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 205.556 ms.
+
+Function execution times:
+Time of PR_Shortcut : 88.88 ms
+Time of HS: Find Repl edges : 72.62 ms
+Time of Update data structure : 18.17 ms
+Time of Path Reversal : 15.32 ms
+Time of Pointer Jumping : 9.17 ms
+Time of Finding unique comps : 1.17 ms
+Time of ET: Orientation : 0.21 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 621
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 620
+Insertion into hashtable over.
+num of superComponents: 621
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 152.04 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.31 ms
+Time of HS: Find Repl edges : 37.99 ms
+Time of Path Reversal : 15.67 ms
+Time of Pointer Jumping : 5.83 ms
+Time of Finding unique comps : 0.99 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: uk-2005.egr
+Root: 37728603
+The input parent array is a BFS tree.
+Number of deleted tree edges: 626
+numVert: 39459925, num_edges: 1566080060 and delete batch size: 1000
+
+Root: 37728603
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 621
+Number of cross-edges: 6
+Insertion into hashtable over.
+num of superComponents: 627
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 159.863 ms.
+
+Function execution times:
+Time of PR_Shortcut : 90.41 ms
+Time of HS: Find Repl edges : 33.50 ms
+Time of Path Reversal : 16.35 ms
+Time of Update data structure : 12.35 ms
+Time of Pointer Jumping : 5.91 ms
+Time of Finding unique comps : 1.11 ms
+Time of ET: Orientation : 0.20 ms
+Time of Update rep array : 0.01 ms
+Time of Hashtable insertion : 0.01 ms
+
+Input tree not connected. num_comp: 621
+Selected Algorithm: HS_ET_PR
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 620
+Insertion into hashtable over.
+num of superComponents: 621
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 161.35 ms.
+
+Function execution times:
+Time of PR_Shortcut : 91.27 ms
+Time of HS: Find Repl edges : 47.35 ms
+Time of Path Reversal : 15.65 ms
+Time of Pointer Jumping : 5.84 ms
+Time of Finding unique comps : 1.00 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1

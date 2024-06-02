@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+as-Skitter.txt,100,15.366
+as-Skitter.txt,100,13.588
+as-Skitter.txt,100,14.143
+as-Skitter.txt,100,14.849
+as-Skitter.txt,100,13.918
+as-Skitter.txt,1000,15.125
+as-Skitter.txt,1000,17.366
+as-Skitter.txt,1000,15.285
+as-Skitter.txt,1000,15.089
+as-Skitter.txt,1000,16.016
+as-Skitter.txt,10000,17.643
+as-Skitter.txt,10000,16.48
+as-Skitter.txt,10000,17.788
+as-Skitter.txt,10000,16.798
+as-Skitter.txt,10000,17.256
+as-Skitter.txt,100000,19.578
+as-Skitter.txt,100000,18.504
+as-Skitter.txt,100000,21.716
+as-Skitter.txt,100000,21.761
+as-Skitter.txt,100000,19.057

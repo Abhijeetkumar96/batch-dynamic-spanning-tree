@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+arabic-2005.txt,100,159.094
+arabic-2005.txt,100,165.814
+arabic-2005.txt,100,162.467
+arabic-2005.txt,100,178.91
+arabic-2005.txt,100,161.539
+arabic-2005.txt,1000,182.177
+arabic-2005.txt,1000,180.098
+arabic-2005.txt,1000,189.65
+arabic-2005.txt,1000,180.098
+arabic-2005.txt,1000,180.153
+arabic-2005.txt,10000,179.24
+arabic-2005.txt,10000,185.413
+arabic-2005.txt,10000,182.172
+arabic-2005.txt,10000,180.657
+arabic-2005.txt,10000,184.189
+arabic-2005.txt,100000,187.981
+arabic-2005.txt,100000,180.716
+arabic-2005.txt,100000,185.892
+arabic-2005.txt,100000,178.77
+arabic-2005.txt,100000,199.319

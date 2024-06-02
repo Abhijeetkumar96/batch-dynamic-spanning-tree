@@ -1,0 +1,661 @@
+Nodes : 23947347
+Edges : 28854312
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 61.303000 ms 
+Time of (9)Hooking Shortcutting : 15.56400 ms 
+Time of (18)PR Reverse Paths : 10.46900 ms 
+Time of (8)Shortcut rep : 6.21400 ms 
+Time of (15)PR Loop : 6.03900 ms 
+Time of (3)Edge Deletion : 2.74300 ms 
+Time of (1)Get key rem collections : 2.01000 ms 
+Time of (6)Get key rem collections : 1.44500 ms 
+Time of (5)Generate new edges : 0.89000 ms 
+Time of (12)Transedges prefix : 0.81400 ms 
+Time of (0)Extracting Roots : 0.76200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.69400 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.59700 ms 
+Time of (10)Compress Graph : 0.40300 ms 
+Time of (16)Component Parent, Reversals : 0.32600 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 111.54500 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 63.507000 ms 
+Time of (18)PR Reverse Paths : 13.49700 ms 
+Time of (9)Hooking Shortcutting : 12.23500 ms 
+Time of (15)PR Loop : 8.24900 ms 
+Time of (8)Shortcut rep : 6.25200 ms 
+Time of (3)Edge Deletion : 2.63200 ms 
+Time of (1)Get key rem collections : 2.10200 ms 
+Time of (6)Get key rem collections : 1.13000 ms 
+Time of (5)Generate new edges : 0.89000 ms 
+Time of (0)Extracting Roots : 0.81900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.80500 ms 
+Time of (12)Transedges prefix : 0.77000 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.47300 ms 
+Time of (10)Compress Graph : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.34200 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 115.38200 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 55.533000 ms 
+Time of (9)Hooking Shortcutting : 11.67100 ms 
+Time of (18)PR Reverse Paths : 10.95900 ms 
+Time of (15)PR Loop : 6.83500 ms 
+Time of (8)Shortcut rep : 6.26200 ms 
+Time of (3)Edge Deletion : 2.62200 ms 
+Time of (1)Get key rem collections : 2.04900 ms 
+Time of (6)Get key rem collections : 1.28100 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.86900 ms 
+Time of (0)Extracting Roots : 0.84100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.71100 ms 
+Time of (2)Convert to collection : 0.63300 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (4)Remove edges : 0.59800 ms 
+Time of (10)Compress Graph : 0.40300 ms 
+Time of (16)Component Parent, Reversals : 0.33700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 103.14600 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 56.427000 ms 
+Time of (18)PR Reverse Paths : 10.88100 ms 
+Time of (9)Hooking Shortcutting : 9.21000 ms 
+Time of (15)PR Loop : 6.74800 ms 
+Time of (8)Shortcut rep : 6.24600 ms 
+Time of (3)Edge Deletion : 2.53300 ms 
+Time of (1)Get key rem collections : 2.15900 ms 
+Time of (6)Get key rem collections : 1.18300 ms 
+Time of (12)Transedges prefix : 0.91500 ms 
+Time of (0)Extracting Roots : 0.89500 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.70900 ms 
+Time of (4)Remove edges : 0.63200 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (2)Convert to collection : 0.62200 ms 
+Time of (10)Compress Graph : 0.40100 ms 
+Time of (16)Component Parent, Reversals : 0.33500 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 101.43700 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100000
+Time of (17)PR Shortcut : 62.299000 ms 
+Time of (9)Hooking Shortcutting : 14.87000 ms 
+Time of (18)PR Reverse Paths : 10.05700 ms 
+Time of (8)Shortcut rep : 6.20400 ms 
+Time of (15)PR Loop : 6.14100 ms 
+Time of (3)Edge Deletion : 3.15000 ms 
+Time of (1)Get key rem collections : 2.02600 ms 
+Time of (6)Get key rem collections : 1.56700 ms 
+Time of (5)Generate new edges : 0.89300 ms 
+Time of (12)Transedges prefix : 0.79900 ms 
+Time of (0)Extracting Roots : 0.77600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.67800 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (4)Remove edges : 0.52800 ms 
+Time of (10)Compress Graph : 0.40400 ms 
+Time of (16)Component Parent, Reversals : 0.34400 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 112.01900 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 57.923000 ms 
+Time of (9)Hooking Shortcutting : 11.35000 ms 
+Time of (18)PR Reverse Paths : 11.12000 ms 
+Time of (8)Shortcut rep : 6.13300 ms 
+Time of (3)Edge Deletion : 2.50500 ms 
+Time of (15)PR Loop : 2.33000 ms 
+Time of (1)Get key rem collections : 2.08300 ms 
+Time of (6)Get key rem collections : 1.21800 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (12)Transedges prefix : 0.80000 ms 
+Time of (0)Extracting Roots : 0.75400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72300 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.54400 ms 
+Time of (10)Compress Graph : 0.47200 ms 
+Time of (16)Component Parent, Reversals : 0.33200 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 100.45400 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 65.465000 ms 
+Time of (18)PR Reverse Paths : 12.42200 ms 
+Time of (9)Hooking Shortcutting : 8.25900 ms 
+Time of (8)Shortcut rep : 6.16500 ms 
+Time of (15)PR Loop : 3.37000 ms 
+Time of (3)Edge Deletion : 2.39100 ms 
+Time of (1)Get key rem collections : 2.05300 ms 
+Time of (6)Get key rem collections : 1.45400 ms 
+Time of (5)Generate new edges : 1.01800 ms 
+Time of (0)Extracting Roots : 0.86300 ms 
+Time of (12)Transedges prefix : 0.85300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.80200 ms 
+Time of (2)Convert to collection : 0.64000 ms 
+Time of (7)Convert to collection : 0.62500 ms 
+Time of (10)Compress Graph : 0.51900 ms 
+Time of (4)Remove edges : 0.47700 ms 
+Time of (16)Component Parent, Reversals : 0.34300 ms 
+Time of (11)Get compressed list : 0.04200 ms 
+Time of (14)PR init : 0.02000 ms 
+Time of (13)Get edges : 0.01200 ms 
+Time (total): 107.79300 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 63.214000 ms 
+Time of (18)PR Reverse Paths : 12.43500 ms 
+Time of (9)Hooking Shortcutting : 8.90200 ms 
+Time of (8)Shortcut rep : 6.13500 ms 
+Time of (15)PR Loop : 2.77200 ms 
+Time of (3)Edge Deletion : 2.46900 ms 
+Time of (1)Get key rem collections : 2.13700 ms 
+Time of (6)Get key rem collections : 1.22000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.94000 ms 
+Time of (5)Generate new edges : 0.89400 ms 
+Time of (0)Extracting Roots : 0.83600 ms 
+Time of (12)Transedges prefix : 0.77900 ms 
+Time of (7)Convert to collection : 0.63000 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.54300 ms 
+Time of (10)Compress Graph : 0.51900 ms 
+Time of (16)Component Parent, Reversals : 0.33300 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 105.40400 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 55.727000 ms 
+Time of (18)PR Reverse Paths : 10.46100 ms 
+Time of (8)Shortcut rep : 6.12700 ms 
+Time of (9)Hooking Shortcutting : 5.50700 ms 
+Time of (3)Edge Deletion : 2.47300 ms 
+Time of (1)Get key rem collections : 2.16600 ms 
+Time of (15)PR Loop : 1.77200 ms 
+Time of (6)Get key rem collections : 1.21200 ms 
+Time of (5)Generate new edges : 0.89000 ms 
+Time of (12)Transedges prefix : 0.82300 ms 
+Time of (0)Extracting Roots : 0.78900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.69800 ms 
+Time of (2)Convert to collection : 0.63400 ms 
+Time of (7)Convert to collection : 0.62800 ms 
+Time of (4)Remove edges : 0.52400 ms 
+Time of (10)Compress Graph : 0.42400 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 91.21000 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 10000
+Time of (17)PR Shortcut : 63.469000 ms 
+Time of (18)PR Reverse Paths : 12.38800 ms 
+Time of (9)Hooking Shortcutting : 9.32400 ms 
+Time of (8)Shortcut rep : 6.16300 ms 
+Time of (3)Edge Deletion : 2.55100 ms 
+Time of (1)Get key rem collections : 2.05700 ms 
+Time of (15)PR Loop : 1.76400 ms 
+Time of (6)Get key rem collections : 1.18400 ms 
+Time of (5)Generate new edges : 0.88900 ms 
+Time of (12)Transedges prefix : 0.86700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77500 ms 
+Time of (0)Extracting Roots : 0.77500 ms 
+Time of (2)Convert to collection : 0.63000 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (10)Compress Graph : 0.52000 ms 
+Time of (4)Remove edges : 0.46600 ms 
+Time of (16)Component Parent, Reversals : 0.33700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 104.81000 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 62.867000 ms 
+Time of (18)PR Reverse Paths : 12.06900 ms 
+Time of (9)Hooking Shortcutting : 6.69400 ms 
+Time of (8)Shortcut rep : 5.89200 ms 
+Time of (3)Edge Deletion : 2.54500 ms 
+Time of (1)Get key rem collections : 2.02500 ms 
+Time of (6)Get key rem collections : 1.18800 ms 
+Time of (0)Extracting Roots : 0.90200 ms 
+Time of (5)Generate new edges : 0.90000 ms 
+Time of (12)Transedges prefix : 0.82800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.78600 ms 
+Time of (2)Convert to collection : 0.63400 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (4)Remove edges : 0.46900 ms 
+Time of (15)PR Loop : 0.46500 ms 
+Time of (10)Compress Graph : 0.41900 ms 
+Time of (16)Component Parent, Reversals : 0.34900 ms 
+Time of (14)PR init : 0.02900 ms 
+Time of (11)Get compressed list : 0.01500 ms 
+Time of (13)Get edges : 0.01200 ms 
+Time (total): 99.71700 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 63.403000 ms 
+Time of (18)PR Reverse Paths : 12.07500 ms 
+Time of (8)Shortcut rep : 5.90100 ms 
+Time of (9)Hooking Shortcutting : 4.74500 ms 
+Time of (3)Edge Deletion : 2.59100 ms 
+Time of (1)Get key rem collections : 2.00000 ms 
+Time of (6)Get key rem collections : 1.11300 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.77600 ms 
+Time of (0)Extracting Roots : 0.77300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77000 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (2)Convert to collection : 0.62600 ms 
+Time of (4)Remove edges : 0.45900 ms 
+Time of (10)Compress Graph : 0.43000 ms 
+Time of (15)PR Loop : 0.39300 ms 
+Time of (16)Component Parent, Reversals : 0.33500 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 97.93100 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 60.714000 ms 
+Time of (18)PR Reverse Paths : 11.45900 ms 
+Time of (8)Shortcut rep : 5.86500 ms 
+Time of (9)Hooking Shortcutting : 4.76000 ms 
+Time of (3)Edge Deletion : 2.57800 ms 
+Time of (1)Get key rem collections : 2.08300 ms 
+Time of (6)Get key rem collections : 1.21600 ms 
+Time of (5)Generate new edges : 0.89400 ms 
+Time of (0)Extracting Roots : 0.85100 ms 
+Time of (12)Transedges prefix : 0.76300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74600 ms 
+Time of (2)Convert to collection : 0.63200 ms 
+Time of (7)Convert to collection : 0.62800 ms 
+Time of (4)Remove edges : 0.48200 ms 
+Time of (10)Compress Graph : 0.38900 ms 
+Time of (16)Component Parent, Reversals : 0.35700 ms 
+Time of (15)PR Loop : 0.34900 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time (total): 94.79700 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 55.786000 ms 
+Time of (18)PR Reverse Paths : 10.23500 ms 
+Time of (8)Shortcut rep : 5.88100 ms 
+Time of (9)Hooking Shortcutting : 4.74800 ms 
+Time of (3)Edge Deletion : 2.59600 ms 
+Time of (1)Get key rem collections : 2.01300 ms 
+Time of (6)Get key rem collections : 1.20500 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (12)Transedges prefix : 0.84000 ms 
+Time of (0)Extracting Roots : 0.80500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.69600 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.46000 ms 
+Time of (10)Compress Graph : 0.43300 ms 
+Time of (15)PR Loop : 0.40000 ms 
+Time of (16)Component Parent, Reversals : 0.33700 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 88.60400 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 100
+Time of (17)PR Shortcut : 57.727000 ms 
+Time of (18)PR Reverse Paths : 10.62500 ms 
+Time of (8)Shortcut rep : 5.89300 ms 
+Time of (9)Hooking Shortcutting : 4.74800 ms 
+Time of (0)Extracting Roots : 2.78800 ms 
+Time of (3)Edge Deletion : 2.40700 ms 
+Time of (1)Get key rem collections : 1.99300 ms 
+Time of (6)Get key rem collections : 1.14400 ms 
+Time of (5)Generate new edges : 0.88900 ms 
+Time of (12)Transedges prefix : 0.77100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.71100 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62400 ms 
+Time of (4)Remove edges : 0.45800 ms 
+Time of (10)Compress Graph : 0.41600 ms 
+Time of (15)PR Loop : 0.39800 ms 
+Time of (16)Component Parent, Reversals : 0.33000 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 92.57500 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 63.626000 ms 
+Time of (18)PR Reverse Paths : 12.09300 ms 
+Time of (9)Hooking Shortcutting : 8.16800 ms 
+Time of (8)Shortcut rep : 6.18600 ms 
+Time of (3)Edge Deletion : 2.85300 ms 
+Time of (1)Get key rem collections : 2.09400 ms 
+Time of (6)Get key rem collections : 1.12800 ms 
+Time of (5)Generate new edges : 0.89200 ms 
+Time of (0)Extracting Roots : 0.83600 ms 
+Time of (12)Transedges prefix : 0.79500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77600 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (7)Convert to collection : 0.62700 ms 
+Time of (15)PR Loop : 0.53200 ms 
+Time of (4)Remove edges : 0.46200 ms 
+Time of (10)Compress Graph : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 102.46000 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 58.560000 ms 
+Time of (18)PR Reverse Paths : 10.89500 ms 
+Time of (8)Shortcut rep : 6.15500 ms 
+Time of (9)Hooking Shortcutting : 4.84700 ms 
+Time of (3)Edge Deletion : 2.44800 ms 
+Time of (1)Get key rem collections : 2.09800 ms 
+Time of (6)Get key rem collections : 1.16300 ms 
+Time of (5)Generate new edges : 0.88700 ms 
+Time of (12)Transedges prefix : 0.79900 ms 
+Time of (0)Extracting Roots : 0.75500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72100 ms 
+Time of (2)Convert to collection : 0.66600 ms 
+Time of (7)Convert to collection : 0.62400 ms 
+Time of (15)PR Loop : 0.54100 ms 
+Time of (10)Compress Graph : 0.46800 ms 
+Time of (4)Remove edges : 0.46000 ms 
+Time of (16)Component Parent, Reversals : 0.34000 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 92.44900 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 63.428000 ms 
+Time of (18)PR Reverse Paths : 9.54600 ms 
+Time of (8)Shortcut rep : 6.18600 ms 
+Time of (9)Hooking Shortcutting : 5.04200 ms 
+Time of (3)Edge Deletion : 2.42000 ms 
+Time of (1)Get key rem collections : 2.06300 ms 
+Time of (6)Get key rem collections : 1.11900 ms 
+Time of (5)Generate new edges : 0.89100 ms 
+Time of (0)Extracting Roots : 0.80600 ms 
+Time of (12)Transedges prefix : 0.78400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.65500 ms 
+Time of (7)Convert to collection : 0.62600 ms 
+Time of (2)Convert to collection : 0.62500 ms 
+Time of (15)PR Loop : 0.53600 ms 
+Time of (4)Remove edges : 0.49800 ms 
+Time of (10)Compress Graph : 0.47500 ms 
+Time of (16)Component Parent, Reversals : 0.33800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 96.06200 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 63.213000 ms 
+Time of (18)PR Reverse Paths : 12.19200 ms 
+Time of (8)Shortcut rep : 6.19600 ms 
+Time of (9)Hooking Shortcutting : 5.05600 ms 
+Time of (3)Edge Deletion : 2.46700 ms 
+Time of (1)Get key rem collections : 2.01500 ms 
+Time of (15)PR Loop : 1.61900 ms 
+Time of (6)Get key rem collections : 1.11800 ms 
+Time of (0)Extracting Roots : 0.93900 ms 
+Time of (5)Generate new edges : 0.89300 ms 
+Time of (12)Transedges prefix : 0.87900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.76800 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62300 ms 
+Time of (4)Remove edges : 0.53100 ms 
+Time of (10)Compress Graph : 0.45000 ms 
+Time of (16)Component Parent, Reversals : 0.32700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 99.93700 ms 
+--------------------------------------------------------
+filename: GAP-road.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28854312
+Deleted : 1000
+Time of (17)PR Shortcut : 62.947000 ms 
+Time of (18)PR Reverse Paths : 12.07500 ms 
+Time of (9)Hooking Shortcutting : 7.88600 ms 
+Time of (8)Shortcut rep : 6.14400 ms 
+Time of (3)Edge Deletion : 2.46300 ms 
+Time of (1)Get key rem collections : 2.00300 ms 
+Time of (6)Get key rem collections : 1.17300 ms 
+Time of (5)Generate new edges : 0.88900 ms 
+Time of (12)Transedges prefix : 0.78800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.78700 ms 
+Time of (0)Extracting Roots : 0.74700 ms 
+Time of (7)Convert to collection : 0.62900 ms 
+Time of (2)Convert to collection : 0.62000 ms 
+Time of (15)PR Loop : 0.53600 ms 
+Time of (10)Compress Graph : 0.46400 ms 
+Time of (4)Remove edges : 0.45500 ms 
+Time of (16)Component Parent, Reversals : 0.34800 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 100.97600 ms 
+--------------------------------------------------------

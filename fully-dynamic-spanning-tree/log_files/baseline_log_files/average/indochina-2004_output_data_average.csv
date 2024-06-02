@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+indochina-2004.egr,297,100,267.53,116.41,196.71
+indochina-2004.egr,297,1000,266.54,119.51,204.52
+indochina-2004.egr,297,10000,267.1,116.96,220.25
+indochina-2004.egr,297,100000,265.45,118.84,228.39

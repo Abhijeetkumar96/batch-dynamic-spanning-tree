@@ -1,0 +1,338 @@
+filename: GAP-road.egr
+Number of deleted tree edges: 70585
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 80.1293 ms.
+
+Function execution times:
+Time of Eulerian Tour : 54.50 ms
+Time of Super graph Creation : 11.00 ms
+Time of Pointer Jumping : 6.51 ms
+Time of PR-RST module : 6.15 ms
+Time of update data structure : 1.13 ms
+Time of Path Reversal : 0.79 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 71009
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 78.722 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.98 ms
+Time of Super graph Creation : 11.17 ms
+Time of Pointer Jumping : 6.51 ms
+Time of PR-RST module : 6.12 ms
+Time of update data structure : 1.10 ms
+Time of Path Reversal : 0.78 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 70693
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 78.2225 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.50 ms
+Time of Super graph Creation : 11.08 ms
+Time of Pointer Jumping : 6.51 ms
+Time of PR-RST module : 6.14 ms
+Time of update data structure : 1.16 ms
+Time of Path Reversal : 0.79 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 70873
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 79.2689 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.46 ms
+Time of Super graph Creation : 10.99 ms
+Time of PR-RST module : 7.15 ms
+Time of Pointer Jumping : 6.51 ms
+Time of update data structure : 1.31 ms
+Time of Path Reversal : 0.80 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 70738
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Total execution time of all functions: 81.8473 ms.
+
+Function execution times:
+Time of Eulerian Tour : 56.06 ms
+Time of Super graph Creation : 10.63 ms
+Time of PR-RST module : 6.69 ms
+Time of Pointer Jumping : 6.51 ms
+Time of update data structure : 1.16 ms
+Time of Path Reversal : 0.75 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.03 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 7073
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 76.1928 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.83 ms
+Time of Super graph Creation : 10.72 ms
+Time of Pointer Jumping : 6.17 ms
+Time of PR-RST module : 4.63 ms
+Time of update data structure : 1.11 ms
+Time of Path Reversal : 0.67 ms
+Time of Update rep array : 0.04 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 7000
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 74.4611 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.00 ms
+Time of Super graph Creation : 10.71 ms
+Time of Pointer Jumping : 6.17 ms
+Time of PR-RST module : 3.86 ms
+Time of update data structure : 1.03 ms
+Time of Path Reversal : 0.64 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 7090
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 74.7741 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.20 ms
+Time of Super graph Creation : 10.73 ms
+Time of Pointer Jumping : 6.18 ms
+Time of PR-RST module : 3.91 ms
+Time of update data structure : 1.07 ms
+Time of Path Reversal : 0.64 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 7122
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 79.0814 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.11 ms
+Time of Super graph Creation : 10.67 ms
+Time of PR-RST module : 8.41 ms
+Time of Pointer Jumping : 6.17 ms
+Time of update data structure : 1.05 ms
+Time of Path Reversal : 0.64 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 7091
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Total execution time of all functions: 74.4673 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.03 ms
+Time of Super graph Creation : 10.65 ms
+Time of Pointer Jumping : 6.18 ms
+Time of PR-RST module : 3.88 ms
+Time of update data structure : 1.05 ms
+Time of Path Reversal : 0.64 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 72
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 93.2216 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.28 ms
+Time of Super graph Creation : 30.90 ms
+Time of Pointer Jumping : 5.73 ms
+Time of PR-RST module : 1.79 ms
+Time of update data structure : 1.10 ms
+Time of Path Reversal : 0.39 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 66
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 72.8485 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.39 ms
+Time of Super graph Creation : 11.94 ms
+Time of Pointer Jumping : 5.74 ms
+Time of PR-RST module : 1.37 ms
+Time of update data structure : 1.05 ms
+Time of Path Reversal : 0.32 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 66
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 71.4764 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.40 ms
+Time of Super graph Creation : 10.10 ms
+Time of Pointer Jumping : 5.73 ms
+Time of PR-RST module : 1.78 ms
+Time of update data structure : 1.04 ms
+Time of Path Reversal : 0.38 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 71
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 73.602 ms.
+
+Function execution times:
+Time of Eulerian Tour : 54.64 ms
+Time of Super graph Creation : 10.05 ms
+Time of Pointer Jumping : 5.73 ms
+Time of PR-RST module : 1.72 ms
+Time of update data structure : 1.02 ms
+Time of Path Reversal : 0.41 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 75
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Total execution time of all functions: 72.0437 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.50 ms
+Time of Super graph Creation : 10.05 ms
+Time of Pointer Jumping : 5.73 ms
+Time of PR-RST module : 1.37 ms
+Time of update data structure : 1.01 ms
+Time of Path Reversal : 0.35 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 687
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 76.3457 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.21 ms
+Time of Super graph Creation : 10.10 ms
+Time of Pointer Jumping : 5.88 ms
+Time of update data structure : 4.72 ms
+Time of PR-RST module : 2.90 ms
+Time of Path Reversal : 0.49 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 715
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 73.064 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.23 ms
+Time of Super graph Creation : 10.03 ms
+Time of Pointer Jumping : 5.88 ms
+Time of PR-RST module : 2.35 ms
+Time of update data structure : 1.04 ms
+Time of Path Reversal : 0.50 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 689
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 72.8648 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.80 ms
+Time of Super graph Creation : 10.20 ms
+Time of Pointer Jumping : 5.88 ms
+Time of PR-RST module : 2.41 ms
+Time of update data structure : 1.03 ms
+Time of Path Reversal : 0.50 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 727
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 73.2776 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.33 ms
+Time of Super graph Creation : 10.05 ms
+Time of Pointer Jumping : 5.89 ms
+Time of PR-RST module : 2.34 ms
+Time of update data structure : 1.11 ms
+Time of Path Reversal : 0.51 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: GAP-road.egr
+Number of deleted tree edges: 716
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Total execution time of all functions: 72.5371 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.60 ms
+Time of Super graph Creation : 10.05 ms
+Time of Pointer Jumping : 5.87 ms
+Time of PR-RST module : 2.39 ms
+Time of update data structure : 1.09 ms
+Time of Path Reversal : 0.50 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms

@@ -1,0 +1,771 @@
+
+
+filename: kron_g500-logn18.egr
+Root: 115721
+The input parent array is a BFS tree.
+Number of deleted tree edges: 44707
+numVert: 262144, num_edges: 21269364 and delete batch size: 100000
+
+Root: 115721
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 44001
+Number of cross-edges: 707
+Insertion into hashtable over.
+num of superComponents: 44708
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 44001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 44000
+Insertion into hashtable over.
+num of superComponents: 44001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 6.70224 ms.
+
+Function execution times:
+Time of ET: Orientation : 3.27 ms
+Time of HS: Find Repl edges : 1.52 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.59 ms
+Time of Pointer Jumping : 0.25 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 38349
+The input parent array is a BFS tree.
+Number of deleted tree edges: 64457
+numVert: 262144, num_edges: 21269364 and delete batch size: 100000
+
+Root: 38349
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 64001
+Number of cross-edges: 457
+Insertion into hashtable over.
+num of superComponents: 64458
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 64001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64000
+Insertion into hashtable over.
+num of superComponents: 64001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 6.14155 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.87 ms
+Time of HS: Find Repl edges : 1.61 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.41 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 37717
+The input parent array is a BFS tree.
+Number of deleted tree edges: 45634
+numVert: 262144, num_edges: 21269364 and delete batch size: 100000
+
+Root: 37717
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 45001
+Number of cross-edges: 634
+Insertion into hashtable over.
+num of superComponents: 45635
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 45001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 45000
+Insertion into hashtable over.
+num of superComponents: 45001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.318 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.87 ms
+Time of ET: Orientation : 1.80 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.39 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 30329
+The input parent array is a BFS tree.
+Number of deleted tree edges: 58499
+numVert: 262144, num_edges: 21269364 and delete batch size: 100000
+
+Root: 30329
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 58000
+Number of cross-edges: 500
+Insertion into hashtable over.
+num of superComponents: 58500
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 58000
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 57999
+Insertion into hashtable over.
+num of superComponents: 58000
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.92944 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.86 ms
+Time of HS: Find Repl edges : 1.44 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.38 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 85737
+The input parent array is a BFS tree.
+Number of deleted tree edges: 44592
+numVert: 262144, num_edges: 21269364 and delete batch size: 100000
+
+Root: 85737
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 44001
+Number of cross-edges: 592
+Insertion into hashtable over.
+num of superComponents: 44593
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 44001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 44000
+Insertion into hashtable over.
+num of superComponents: 44001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 4.75802 ms.
+
+Function execution times:
+Time of ET: Orientation : 1.78 ms
+Time of HS: Find Repl edges : 1.35 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.38 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 88237
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5662
+numVert: 262144, num_edges: 21269364 and delete batch size: 10000
+
+Root: 88237
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5601
+Number of cross-edges: 62
+Insertion into hashtable over.
+num of superComponents: 5663
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5601
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5600
+Insertion into hashtable over.
+num of superComponents: 5601
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.43654 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.60 ms
+Time of HS: Find Repl edges : 1.17 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.42 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 247874
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5859
+numVert: 262144, num_edges: 21269364 and delete batch size: 10000
+
+Root: 247874
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5801
+Number of cross-edges: 59
+Insertion into hashtable over.
+num of superComponents: 5860
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5801
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5800
+Insertion into hashtable over.
+num of superComponents: 5801
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.42942 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.55 ms
+Time of HS: Find Repl edges : 1.22 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.41 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 4014
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5071
+numVert: 262144, num_edges: 21269364 and delete batch size: 10000
+
+Root: 4014
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5001
+Number of cross-edges: 71
+Insertion into hashtable over.
+num of superComponents: 5072
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5000
+Insertion into hashtable over.
+num of superComponents: 5001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.42412 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.52 ms
+Time of HS: Find Repl edges : 1.25 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.41 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 123326
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6139
+numVert: 262144, num_edges: 21269364 and delete batch size: 10000
+
+Root: 123326
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6101
+Number of cross-edges: 39
+Insertion into hashtable over.
+num of superComponents: 6140
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6101
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6100
+Insertion into hashtable over.
+num of superComponents: 6101
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.41313 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.45 ms
+Time of HS: Find Repl edges : 1.31 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.40 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 155749
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6149
+numVert: 262144, num_edges: 21269364 and delete batch size: 10000
+
+Root: 155749
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6101
+Number of cross-edges: 49
+Insertion into hashtable over.
+num of superComponents: 6150
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6101
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6100
+Insertion into hashtable over.
+num of superComponents: 6101
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 4.37899 ms.
+
+Function execution times:
+Time of ET: Orientation : 1.76 ms
+Time of Finding unique comps : 1.01 ms
+Time of HS: Find Repl edges : 0.95 ms
+Time of Eulerian Tour : 0.41 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 119795
+The input parent array is a BFS tree.
+Number of deleted tree edges: 69
+numVert: 262144, num_edges: 21269364 and delete batch size: 100
+
+Root: 119795
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 69
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 70
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 69
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 68
+Insertion into hashtable over.
+num of superComponents: 69
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.49161 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.65 ms
+Time of Eulerian Tour : 0.40 ms
+Time of ET: Orientation : 0.20 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 69290
+The input parent array is a BFS tree.
+Number of deleted tree edges: 49
+numVert: 262144, num_edges: 21269364 and delete batch size: 100
+
+Root: 69290
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 50
+Number of cross-edges: 0
+Input tree not connected. num_comp: 50
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 49
+Insertion into hashtable over.
+num of superComponents: 50
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.49209 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.63 ms
+Time of Eulerian Tour : 0.41 ms
+Time of ET: Orientation : 0.21 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 254559
+The input parent array is a BFS tree.
+Number of deleted tree edges: 50
+numVert: 262144, num_edges: 21269364 and delete batch size: 100
+
+Root: 254559
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 51
+Number of cross-edges: 0
+Input tree not connected. num_comp: 51
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 50
+Insertion into hashtable over.
+num of superComponents: 51
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.55553 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of HS: Find Repl edges : 0.69 ms
+Time of Eulerian Tour : 0.41 ms
+Time of ET: Orientation : 0.21 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 26506
+The input parent array is a BFS tree.
+Number of deleted tree edges: 52
+numVert: 262144, num_edges: 21269364 and delete batch size: 100
+
+Root: 26506
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 52
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 53
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 52
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 51
+Insertion into hashtable over.
+num of superComponents: 52
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.36795 ms.
+
+Function execution times:
+Time of Finding unique comps : 0.99 ms
+Time of HS: Find Repl edges : 0.53 ms
+Time of Eulerian Tour : 0.41 ms
+Time of ET: Orientation : 0.20 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 51999
+The input parent array is a BFS tree.
+Number of deleted tree edges: 42
+numVert: 262144, num_edges: 21269364 and delete batch size: 100
+
+Root: 51999
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 43
+Number of cross-edges: 0
+Input tree not connected. num_comp: 43
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 42
+Insertion into hashtable over.
+num of superComponents: 43
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.78063 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of HS: Find Repl edges : 0.92 ms
+Time of Eulerian Tour : 0.40 ms
+Time of ET: Orientation : 0.21 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 30794
+The input parent array is a BFS tree.
+Number of deleted tree edges: 544
+numVert: 262144, num_edges: 21269364 and delete batch size: 1000
+
+Root: 30794
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 541
+Number of cross-edges: 4
+Insertion into hashtable over.
+num of superComponents: 545
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 541
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 540
+Insertion into hashtable over.
+num of superComponents: 541
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.74318 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.88 ms
+Time of Eulerian Tour : 0.40 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 235244
+The input parent array is a BFS tree.
+Number of deleted tree edges: 655
+numVert: 262144, num_edges: 21269364 and delete batch size: 1000
+
+Root: 235244
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 651
+Number of cross-edges: 5
+Insertion into hashtable over.
+num of superComponents: 656
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 651
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 650
+Insertion into hashtable over.
+num of superComponents: 651
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.81829 ms.
+
+Function execution times:
+Time of Finding unique comps : 0.99 ms
+Time of HS: Find Repl edges : 0.93 ms
+Time of Eulerian Tour : 0.42 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 66834
+The input parent array is a BFS tree.
+Number of deleted tree edges: 577
+numVert: 262144, num_edges: 21269364 and delete batch size: 1000
+
+Root: 66834
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 571
+Number of cross-edges: 7
+Insertion into hashtable over.
+num of superComponents: 578
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 571
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 570
+Insertion into hashtable over.
+num of superComponents: 571
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.64787 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.77 ms
+Time of Eulerian Tour : 0.41 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 81230
+The input parent array is a BFS tree.
+Number of deleted tree edges: 623
+numVert: 262144, num_edges: 21269364 and delete batch size: 1000
+
+Root: 81230
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 621
+Number of cross-edges: 3
+Insertion into hashtable over.
+num of superComponents: 624
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 621
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 620
+Insertion into hashtable over.
+num of superComponents: 621
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.06156 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.19 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.40 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kron_g500-logn18.egr
+Root: 109592
+The input parent array is a BFS tree.
+Number of deleted tree edges: 493
+numVert: 262144, num_edges: 21269364 and delete batch size: 1000
+
+Root: 109592
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 491
+Number of cross-edges: 3
+Insertion into hashtable over.
+num of superComponents: 494
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 491
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 490
+Insertion into hashtable over.
+num of superComponents: 491
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.61482 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.75 ms
+Time of Eulerian Tour : 0.40 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1

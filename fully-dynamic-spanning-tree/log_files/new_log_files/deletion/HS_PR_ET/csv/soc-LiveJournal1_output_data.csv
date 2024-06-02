@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+soc-LiveJournal1.txt,100,33.662
+soc-LiveJournal1.txt,100,32.407
+soc-LiveJournal1.txt,100,33.19
+soc-LiveJournal1.txt,100,32.359
+soc-LiveJournal1.txt,100,31.913
+soc-LiveJournal1.txt,1000,36.56
+soc-LiveJournal1.txt,1000,32.893
+soc-LiveJournal1.txt,1000,43.856
+soc-LiveJournal1.txt,1000,36.121
+soc-LiveJournal1.txt,1000,38.601
+soc-LiveJournal1.txt,10000,37.282
+soc-LiveJournal1.txt,10000,46.821
+soc-LiveJournal1.txt,10000,37.907
+soc-LiveJournal1.txt,10000,40.306
+soc-LiveJournal1.txt,10000,33.668
+soc-LiveJournal1.txt,100000,52.3
+soc-LiveJournal1.txt,100000,40.968
+soc-LiveJournal1.txt,100000,58.124
+soc-LiveJournal1.txt,100000,54.466
+soc-LiveJournal1.txt,100000,56.334

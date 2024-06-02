@@ -1,0 +1,420 @@
+
+
+filename: coPapersCiteseer.egr
+Root: 190970
+Number of deleted tree edges: 1549
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 190970
+Root: 190970
+After repairing:
+Total execution time of all functions: 6.56811 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.84 ms
+Time of Super graph Creation : 1.44 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 320911
+Number of deleted tree edges: 1535
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 320911
+Root: 320911
+After repairing:
+Total execution time of all functions: 6.56772 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.86 ms
+Time of Super graph Creation : 1.42 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 369354
+Number of deleted tree edges: 1333
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 369354
+Root: 369354
+After repairing:
+Total execution time of all functions: 7.60977 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.95 ms
+Time of Super graph Creation : 2.38 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 30685
+Number of deleted tree edges: 1297
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 30685
+Root: 30685
+After repairing:
+Total execution time of all functions: 7.6093 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.02 ms
+Time of Super graph Creation : 2.31 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 62496
+Number of deleted tree edges: 1446
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 62496
+Root: 62496
+After repairing:
+Total execution time of all functions: 7.6018 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.88 ms
+Time of Super graph Creation : 2.45 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 193876
+Number of deleted tree edges: 151
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 193876
+Root: 193876
+After repairing:
+Total execution time of all functions: 11.8129 ms.
+
+Function execution times:
+Time of Super graph Creation : 6.61 ms
+Time of Eulerian Tour : 3.92 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 266907
+Number of deleted tree edges: 140
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 266907
+Root: 266907
+After repairing:
+Total execution time of all functions: 7.607 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.06 ms
+Time of Super graph Creation : 2.26 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 124697
+Number of deleted tree edges: 153
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 124697
+Root: 124697
+After repairing:
+Total execution time of all functions: 6.55219 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.86 ms
+Time of Super graph Creation : 1.41 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 205780
+Number of deleted tree edges: 130
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 205780
+Root: 205780
+After repairing:
+Total execution time of all functions: 7.61055 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.90 ms
+Time of Super graph Creation : 2.42 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 324414
+Number of deleted tree edges: 126
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 324414
+Root: 324414
+After repairing:
+Total execution time of all functions: 7.60827 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.00 ms
+Time of Super graph Creation : 2.32 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 95710
+Number of deleted tree edges: 0
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 95710
+Root: 95710
+After repairing:
+Total execution time of all functions: 5.49548 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.86 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.35 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 294953
+Number of deleted tree edges: 0
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 294953
+Root: 294953
+After repairing:
+Total execution time of all functions: 5.49196 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.82 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.39 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 29645
+Number of deleted tree edges: 2
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 29645
+Root: 29645
+After repairing:
+Total execution time of all functions: 5.49593 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.95 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.26 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 253279
+Number of deleted tree edges: 5
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 253279
+Root: 253279
+After repairing:
+Total execution time of all functions: 5.49679 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.91 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.30 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 377153
+Number of deleted tree edges: 1
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 377153
+Root: 377153
+After repairing:
+Total execution time of all functions: 5.49385 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.88 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.33 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 385578
+Number of deleted tree edges: 17
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 385578
+Root: 385578
+After repairing:
+Total execution time of all functions: 5.49291 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.85 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.36 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 405669
+Number of deleted tree edges: 15
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 405669
+Root: 405669
+After repairing:
+Total execution time of all functions: 6.54453 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.04 ms
+Time of Super graph Creation : 1.22 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 419161
+Number of deleted tree edges: 13
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 419161
+Root: 419161
+After repairing:
+Total execution time of all functions: 5.49149 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.94 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.27 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 406375
+Number of deleted tree edges: 14
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 406375
+Root: 406375
+After repairing:
+Total execution time of all functions: 5.49139 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.87 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.34 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 193354
+Number of deleted tree edges: 12
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 193354
+Root: 193354
+After repairing:
+Total execution time of all functions: 5.49463 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.82 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.39 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

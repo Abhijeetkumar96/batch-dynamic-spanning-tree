@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+hugebubbles-00020.egr,21198119,63580358,100,68.8,82.81
+hugebubbles-00020.egr,21198119,63580358,1000,684.6,84.78
+hugebubbles-00020.egr,21198119,63580358,10000,6756.8,87.98
+hugebubbles-00020.egr,21198119,63580358,100000,67990.2,91.25

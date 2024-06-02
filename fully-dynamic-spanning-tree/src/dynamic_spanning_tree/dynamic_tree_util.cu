@@ -1,8 +1,16 @@
+#include <set>
+#include <vector>
+#include <numeric> // For std::accumulate
+#include <iostream>
+
+#include <cuda_runtime.h>
+#include <thrust/sequence.h>
+
 #include "common/cuda_utility.cuh"
 #include "dynamic_spanning_tree/update_ds.cuh"
 #include "dynamic_spanning_tree/dynamic_tree_util.cuh"
+#include "eulerian_tour/disconnected/list_ranking.cuh"
 #include "hash_table/HashTable.cuh"
-#include <thrust/sequence.h>
 
 // #define DEBUG
 
@@ -134,21 +142,9 @@ void dynamic_tree_manager::mem_alloc(const std::vector<int>& parent, const std::
     CUDA_CHECK(cudaMemset(d_parentEdge, -1, size), "Failed to memset d_parentEdge");
     CUDA_CHECK(cudaMemset(d_roots_flag,       0, num_vert * sizeof(unsigned char)), "Failed to memset d_roots");
     CUDA_CHECK(cudaMemset(d_cross_edges_flag, 0, num_edges * sizeof(unsigned char)), "Failed to memset d_cross_edges");
+    
     // Fill the array with increasing values starting from 0
     thrust::sequence(thrust::device, d_actual_roots, d_actual_roots + num_vert);
-
-    #ifdef DEBUG
-        int* h_actual_roots = new int[num_vert];
-        CUDA_CHECK(cudaMemcpy(h_actual_roots, d_actual_roots, num_vert * sizeof(int), cudaMemcpyDeviceToHost), 
-            "Failed to copy h_actual_roots");
-
-        std::cout << "h_actual_roots:\n";
-        for(int i = 0; i < num_vert; ++i) {
-            std::cout << h_actual_roots[i] << " ";
-        }
-        std::cout << std::endl;
-
-    #endif
 
     // Copy data from host to device
     CUDA_CHECK(cudaMemcpy(d_parent, parent.data(), size, cudaMemcpyHostToDevice), "Failed to copy d_parent to device");
@@ -229,6 +225,181 @@ void dynamic_tree_manager::update_existing_ds() {
         root);                  // input -- 10
 
     // now num_edges contains nonTreeEdges - parent_size - delete_batch count.
+}
+
+__global__
+void list_ranking_kernel(int* next, int* dist, int* new_next, int* new_dist, int n)
+{
+    int tid = blockIdx.x * blockDim.x + threadIdx.x;    
+    if(tid < n)
+    {
+        // printf("\nNext array for %d iteration : %d", itr_no, next[tid]);
+        // printf("\nDist array : %d", dist[tid]);
+        if(next[tid] != tid)
+        {
+            new_dist[tid] = dist[tid] + dist[next[tid]];
+            new_next[tid] = next[next[tid]];
+        } else {
+          new_dist[tid] = 0;
+          new_next[tid] = tid;
+        }
+    }
+}
+
+void listRanking(int* d_next, std::vector<int>& new_dist, int n) {
+    std::vector<int> dist(n, 1);  // Initialize distance array with 1
+    int size = n * sizeof(int);
+
+    int* d_dist = nullptr;
+    CUDA_CHECK(cudaMalloc((void **)&d_dist, sizeof(int) * n), "Failed to allocate d_dist");
+
+    int *d_new_dist, *d_new_next;
+    CUDA_CHECK(cudaMalloc((void**)&d_new_dist, size), "Failed to allocate d_new_dist");
+    CUDA_CHECK(cudaMalloc((void**)&d_new_next, size), "Failed to allocate d_new_next");
+
+    // Copy data from CPU to GPU
+    CUDA_CHECK(cudaMemcpy(d_dist, dist.data(), size, cudaMemcpyHostToDevice), "Failed to copy dist array");
+
+    // Calculate the optimal number of threads and blocks
+    int threadsPerBlock = 1024;
+    int blocksPerGrid = (n + threadsPerBlock - 1) / threadsPerBlock;
+
+    for (int j = 0; j < std::ceil(std::log2(n)); ++j) {
+        list_ranking_kernel<<<blocksPerGrid, threadsPerBlock>>>(d_next, d_dist, d_new_next, d_new_dist, n);
+        CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize list_ranking_kernel");
+
+        // Swap pointers
+        int* temp = d_new_next;
+        d_new_next = d_next;
+        d_next = temp;
+
+        temp = d_new_dist;
+        d_new_dist = d_dist;
+        d_dist = temp;
+    }
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after list_ranking_kernel");
+
+    new_dist.resize(n);
+    CUDA_CHECK(cudaMemcpy(new_dist.data(), d_dist, size, cudaMemcpyDeviceToHost), "Failed to copy back");
+    
+    // #ifdef DEBUG
+    //     std::cout << "Printing final distance array:\n";
+    //     for (int j = 0; j < n; ++j) {
+    //         std::cout << "dist[" << j << "] = " << new_dist[j] << std::endl;
+    //     }
+    //     std::cout << std::endl;
+    // #endif
+
+    CUDA_CHECK(cudaFree(d_new_dist), "Failed to free");
+    CUDA_CHECK(cudaFree(d_new_next), "Failed to free");
+}
+
+void find_path_length(int* d_parent, int num_vert, int& min_rank, int& max_rank, double& avg_rank, double& median_rank) {
+
+    std::vector<int> host_Rank;
+    // Call the CUDA function for list ranking
+    listRanking(d_parent, host_Rank, num_vert);
+
+    // Extract unique ranks
+    std::set<int> unique_ranks(host_Rank.begin(), host_Rank.end());
+
+    std::sort(host_Rank.begin(), host_Rank.end());
+    if (num_vert % 2 == 0) {
+        median_rank = (host_Rank[num_vert / 2 - 1] + host_Rank[num_vert / 2]) / 2.0;
+    } else {
+        median_rank = host_Rank[num_vert / 2];
+    }
+
+    // Find min, max, and average values
+    min_rank = *unique_ranks.begin();
+    max_rank = *unique_ranks.rbegin();
+    avg_rank = std::accumulate(unique_ranks.begin(), unique_ranks.end(), 0.0) / unique_ranks.size();
+
+    return;
+}
+
+__global__
+void cross_edges_kernel(
+    const uint64_t* d_edge_list,
+    int* rep_array, 
+    long num_edges,
+    int* d_counter) {
+
+    int tid = blockIdx.x * blockDim.x + threadIdx.x;
+    if(tid < num_edges) {
+
+        // get the actual edges from d_edge_list
+        uint64_t edge = d_edge_list[tid];
+        
+        uint32_t d_nst_u = edge >> 32;
+        uint32_t d_nst_v = edge & 0xFFFFFFFF;
+
+        #ifdef DEBUG
+            printf("d_u: %d, d_v: %d, rep[u]: %d, rep[v]: %d\n", d_nst_u, d_nst_v, rep_array[d_nst_u], rep_array[d_nst_v]);
+        #endif
+
+        if(rep_array[d_nst_u] == rep_array[d_nst_v]) {
+            return;
+        }
+
+        atomicAdd(d_counter, 1);
+    }
+}
+
+int cal_cross_edges(int* updated_parent, int num_vert, const uint64_t* d_updated_edge_list, long num_edges) {
+    int* d_rep;
+    CUDA_CHECK(cudaMalloc(&d_rep, sizeof(int) * num_vert), "Failed to allocate memory for d_rep");
+    CUDA_CHECK(cudaMemcpy(d_rep, updated_parent, sizeof(int) * num_vert,  cudaMemcpyDeviceToDevice), "Failed to copy d_parent to device");
+    pointer_jumping(d_rep, num_vert);
+
+    #ifdef DEBUG
+        std::cout << "After doing pointer_jumping Rep Array:\n";
+        print_device_array(d_rep, num_vert);
+    #endif
+
+    // find number of cross_edges
+    int* d_counter;
+    CUDA_CHECK(cudaMallocHost(&d_counter, sizeof(int)), "Failed to allocate d_counter");
+    *d_counter = 0;
+
+    long numThreads = 1024;
+    long numBlocks = (num_edges + numThreads - 1) / numThreads;
+
+    // create superGraph
+    cross_edges_kernel<<<numBlocks, numThreads>>>(
+        d_updated_edge_list, 
+        d_rep, 
+        num_edges,
+        d_counter
+    );
+
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
+
+    int h_counter = *d_counter;
+
+    cudaFree(d_rep);
+    cudaFreeHost(d_counter);
+
+    return h_counter;
+}
+
+void dynamic_tree_manager::print_stats() {
+    int size = sizeof(int) * num_vert;
+    int* updated_parent;
+    CUDA_CHECK(cudaMalloc(&updated_parent, size), "Failed to allocate memory for d_parent");
+    CUDA_CHECK(cudaMemcpy(updated_parent, d_parent, size,  cudaMemcpyDeviceToDevice), "Failed to copy d_parent to device");
+
+    int min_length, max_length;
+    double avg_length, median_length;
+    int cross_edges_count = cal_cross_edges(updated_parent, num_vert, d_updated_edge_list, num_edges);
+    find_path_length(updated_parent, num_vert, min_length, max_length, avg_length, median_length);
+
+    std::cout << "\nUpdated edge_list size = " << num_edges;
+    std::cout << "\nmax path length = " << max_length;
+    std::cout << "\navg path length = " << avg_length;
+    std::cout << "\nmedian path length = " << median_length;
+    std::cout << "\nnum cross edges = " << cross_edges_count;
+    std::cout << "\n----------------------------------------" << std::endl;
 }
 
 dynamic_tree_manager::~dynamic_tree_manager() {

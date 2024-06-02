@@ -1,0 +1,338 @@
+filename: com-Orkut.egr
+Number of deleted tree edges: 2531
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Total execution time of all functions: 80.4482 ms.
+
+Function execution times:
+Time of Super graph Creation : 53.23 ms
+Time of Eulerian Tour : 20.01 ms
+Time of update data structure : 3.43 ms
+Time of PR-RST module : 2.46 ms
+Time of Pointer Jumping : 1.07 ms
+Time of Path Reversal : 0.20 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 2470
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Total execution time of all functions: 75.2726 ms.
+
+Function execution times:
+Time of Super graph Creation : 49.35 ms
+Time of Eulerian Tour : 19.74 ms
+Time of update data structure : 3.33 ms
+Time of PR-RST module : 1.66 ms
+Time of Pointer Jumping : 0.97 ms
+Time of Path Reversal : 0.18 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 2516
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Total execution time of all functions: 79.594 ms.
+
+Function execution times:
+Time of Super graph Creation : 53.13 ms
+Time of Eulerian Tour : 20.02 ms
+Time of update data structure : 3.37 ms
+Time of PR-RST module : 1.76 ms
+Time of Pointer Jumping : 1.07 ms
+Time of Path Reversal : 0.20 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 2476
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Total execution time of all functions: 82.686 ms.
+
+Function execution times:
+Time of Super graph Creation : 53.19 ms
+Time of Eulerian Tour : 20.01 ms
+Time of update data structure : 6.33 ms
+Time of PR-RST module : 1.83 ms
+Time of Pointer Jumping : 1.07 ms
+Time of Path Reversal : 0.21 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 2521
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Total execution time of all functions: 73.7501 ms.
+
+Function execution times:
+Time of Super graph Creation : 47.49 ms
+Time of Eulerian Tour : 20.04 ms
+Time of update data structure : 3.30 ms
+Time of PR-RST module : 1.64 ms
+Time of Pointer Jumping : 1.07 ms
+Time of Path Reversal : 0.18 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 240
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Total execution time of all functions: 74.7401 ms.
+
+Function execution times:
+Time of Super graph Creation : 49.76 ms
+Time of Eulerian Tour : 19.79 ms
+Time of update data structure : 3.29 ms
+Time of Pointer Jumping : 1.04 ms
+Time of PR-RST module : 0.67 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 254
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Total execution time of all functions: 79.4338 ms.
+
+Function execution times:
+Time of Super graph Creation : 53.72 ms
+Time of Eulerian Tour : 20.01 ms
+Time of update data structure : 3.29 ms
+Time of PR-RST module : 1.16 ms
+Time of Pointer Jumping : 1.04 ms
+Time of Path Reversal : 0.16 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 261
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Total execution time of all functions: 74.203 ms.
+
+Function execution times:
+Time of Super graph Creation : 49.03 ms
+Time of Eulerian Tour : 20.02 ms
+Time of update data structure : 3.15 ms
+Time of Pointer Jumping : 1.04 ms
+Time of PR-RST module : 0.75 ms
+Time of Path Reversal : 0.16 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 240
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Total execution time of all functions: 75.7565 ms.
+
+Function execution times:
+Time of Super graph Creation : 49.71 ms
+Time of Eulerian Tour : 20.43 ms
+Time of update data structure : 3.16 ms
+Time of PR-RST module : 1.19 ms
+Time of Pointer Jumping : 1.04 ms
+Time of Path Reversal : 0.16 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 269
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Total execution time of all functions: 75.5173 ms.
+
+Function execution times:
+Time of Super graph Creation : 49.75 ms
+Time of Eulerian Tour : 20.04 ms
+Time of update data structure : 3.24 ms
+Time of PR-RST module : 1.23 ms
+Time of Pointer Jumping : 1.04 ms
+Time of Path Reversal : 0.16 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 4
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Total execution time of all functions: 140.185 ms.
+
+Function execution times:
+Time of Super graph Creation : 115.26 ms
+Time of Eulerian Tour : 20.05 ms
+Time of update data structure : 3.27 ms
+Time of Pointer Jumping : 1.02 ms
+Time of PR-RST module : 0.43 ms
+Time of Path Reversal : 0.11 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 4
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Total execution time of all functions: 154.708 ms.
+
+Function execution times:
+Time of Super graph Creation : 130.03 ms
+Time of Eulerian Tour : 20.04 ms
+Time of update data structure : 3.12 ms
+Time of Pointer Jumping : 1.02 ms
+Time of PR-RST module : 0.37 ms
+Time of Path Reversal : 0.09 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 4
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Total execution time of all functions: 153.414 ms.
+
+Function execution times:
+Time of Super graph Creation : 128.85 ms
+Time of Eulerian Tour : 19.90 ms
+Time of update data structure : 3.10 ms
+Time of Pointer Jumping : 1.02 ms
+Time of PR-RST module : 0.39 ms
+Time of Path Reversal : 0.11 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 2
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Total execution time of all functions: 135.181 ms.
+
+Function execution times:
+Time of Super graph Creation : 110.42 ms
+Time of Eulerian Tour : 20.02 ms
+Time of update data structure : 3.23 ms
+Time of Pointer Jumping : 1.02 ms
+Time of PR-RST module : 0.37 ms
+Time of Path Reversal : 0.09 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 5
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Total execution time of all functions: 138.661 ms.
+
+Function execution times:
+Time of Super graph Creation : 114.17 ms
+Time of Eulerian Tour : 19.81 ms
+Time of update data structure : 3.19 ms
+Time of Pointer Jumping : 0.98 ms
+Time of PR-RST module : 0.38 ms
+Time of Path Reversal : 0.10 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 28
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Total execution time of all functions: 104.229 ms.
+
+Function execution times:
+Time of Super graph Creation : 79.10 ms
+Time of Eulerian Tour : 20.05 ms
+Time of update data structure : 3.20 ms
+Time of Pointer Jumping : 1.03 ms
+Time of PR-RST module : 0.66 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 23
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Total execution time of all functions: 133.955 ms.
+
+Function execution times:
+Time of Super graph Creation : 108.79 ms
+Time of Eulerian Tour : 20.02 ms
+Time of update data structure : 3.15 ms
+Time of Pointer Jumping : 1.03 ms
+Time of PR-RST module : 0.82 ms
+Time of Path Reversal : 0.12 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 24
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Total execution time of all functions: 112.538 ms.
+
+Function execution times:
+Time of Super graph Creation : 87.54 ms
+Time of Eulerian Tour : 19.77 ms
+Time of update data structure : 3.21 ms
+Time of Pointer Jumping : 1.02 ms
+Time of PR-RST module : 0.82 ms
+Time of Path Reversal : 0.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 21
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Total execution time of all functions: 105.486 ms.
+
+Function execution times:
+Time of Super graph Creation : 79.39 ms
+Time of Eulerian Tour : 19.99 ms
+Time of update data structure : 4.52 ms
+Time of Pointer Jumping : 1.02 ms
+Time of PR-RST module : 0.44 ms
+Time of Path Reversal : 0.10 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: com-Orkut.egr
+Number of deleted tree edges: 25
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Total execution time of all functions: 120.232 ms.
+
+Function execution times:
+Time of Super graph Creation : 95.29 ms
+Time of Eulerian Tour : 20.04 ms
+Time of update data structure : 3.19 ms
+Time of Pointer Jumping : 1.02 ms
+Time of PR-RST module : 0.51 ms
+Time of Path Reversal : 0.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

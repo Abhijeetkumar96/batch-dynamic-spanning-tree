@@ -1,0 +1,338 @@
+filename: ljournal-2008.egr
+Number of deleted tree edges: 7819
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Total execution time of all functions: 53.5436 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.31 ms
+Time of Super graph Creation : 23.64 ms
+Time of PR-RST module : 2.22 ms
+Time of update data structure : 1.74 ms
+Time of Pointer Jumping : 1.37 ms
+Time of Path Reversal : 0.23 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 7775
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Total execution time of all functions: 53.5228 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.25 ms
+Time of Super graph Creation : 23.76 ms
+Time of PR-RST module : 2.23 ms
+Time of update data structure : 1.63 ms
+Time of Pointer Jumping : 1.37 ms
+Time of Path Reversal : 0.23 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 7709
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Total execution time of all functions: 54.1214 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.78 ms
+Time of Super graph Creation : 23.68 ms
+Time of PR-RST module : 2.21 ms
+Time of update data structure : 1.79 ms
+Time of Pointer Jumping : 1.37 ms
+Time of Path Reversal : 0.23 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 7620
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Total execution time of all functions: 53.5588 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.37 ms
+Time of Super graph Creation : 23.66 ms
+Time of PR-RST module : 2.22 ms
+Time of update data structure : 1.67 ms
+Time of Pointer Jumping : 1.37 ms
+Time of Path Reversal : 0.23 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 7807
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Total execution time of all functions: 53.685 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.42 ms
+Time of Super graph Creation : 23.72 ms
+Time of PR-RST module : 2.26 ms
+Time of update data structure : 1.63 ms
+Time of Pointer Jumping : 1.38 ms
+Time of Path Reversal : 0.23 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 744
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Total execution time of all functions: 53.4689 ms.
+
+Function execution times:
+Time of Eulerian Tour : 25.86 ms
+Time of Super graph Creation : 23.14 ms
+Time of update data structure : 1.54 ms
+Time of PR-RST module : 1.37 ms
+Time of Pointer Jumping : 1.31 ms
+Time of Path Reversal : 0.21 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 781
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Total execution time of all functions: 50.9954 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.91 ms
+Time of Super graph Creation : 22.59 ms
+Time of update data structure : 1.54 ms
+Time of PR-RST module : 1.38 ms
+Time of Pointer Jumping : 1.33 ms
+Time of Path Reversal : 0.21 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 778
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Total execution time of all functions: 51.6383 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.19 ms
+Time of Super graph Creation : 23.00 ms
+Time of update data structure : 1.53 ms
+Time of PR-RST module : 1.34 ms
+Time of Pointer Jumping : 1.32 ms
+Time of Path Reversal : 0.21 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 812
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Total execution time of all functions: 51.2208 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.99 ms
+Time of Super graph Creation : 22.69 ms
+Time of update data structure : 1.61 ms
+Time of PR-RST module : 1.35 ms
+Time of Pointer Jumping : 1.33 ms
+Time of Path Reversal : 0.21 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 755
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Total execution time of all functions: 54.4151 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.02 ms
+Time of Super graph Creation : 22.43 ms
+Time of update data structure : 4.45 ms
+Time of PR-RST module : 1.94 ms
+Time of Pointer Jumping : 1.33 ms
+Time of Path Reversal : 0.21 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 12
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Total execution time of all functions: 67.5659 ms.
+
+Function execution times:
+Time of Super graph Creation : 39.22 ms
+Time of Eulerian Tour : 24.83 ms
+Time of update data structure : 1.61 ms
+Time of Pointer Jumping : 1.27 ms
+Time of PR-RST module : 0.46 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 5
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Total execution time of all functions: 63.4719 ms.
+
+Function execution times:
+Time of Super graph Creation : 36.38 ms
+Time of Eulerian Tour : 23.65 ms
+Time of update data structure : 1.60 ms
+Time of Pointer Jumping : 1.28 ms
+Time of PR-RST module : 0.40 ms
+Time of Path Reversal : 0.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 9
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Total execution time of all functions: 73.3896 ms.
+
+Function execution times:
+Time of Super graph Creation : 45.58 ms
+Time of Eulerian Tour : 23.91 ms
+Time of update data structure : 1.61 ms
+Time of Pointer Jumping : 1.29 ms
+Time of PR-RST module : 0.79 ms
+Time of Path Reversal : 0.17 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 7
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Total execution time of all functions: 69.6623 ms.
+
+Function execution times:
+Time of Super graph Creation : 42.31 ms
+Time of Eulerian Tour : 23.98 ms
+Time of update data structure : 1.55 ms
+Time of Pointer Jumping : 1.28 ms
+Time of PR-RST module : 0.38 ms
+Time of Path Reversal : 0.14 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 6
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Total execution time of all functions: 72.3863 ms.
+
+Function execution times:
+Time of Super graph Creation : 42.74 ms
+Time of Eulerian Tour : 26.28 ms
+Time of update data structure : 1.58 ms
+Time of Pointer Jumping : 1.29 ms
+Time of PR-RST module : 0.36 ms
+Time of Path Reversal : 0.11 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 88
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Total execution time of all functions: 56.3966 ms.
+
+Function execution times:
+Time of Super graph Creation : 28.00 ms
+Time of Eulerian Tour : 24.36 ms
+Time of update data structure : 1.52 ms
+Time of Pointer Jumping : 1.29 ms
+Time of PR-RST module : 1.02 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 66
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Total execution time of all functions: 57.8781 ms.
+
+Function execution times:
+Time of Super graph Creation : 27.79 ms
+Time of Eulerian Tour : 26.09 ms
+Time of update data structure : 1.54 ms
+Time of Pointer Jumping : 1.28 ms
+Time of PR-RST module : 0.99 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 68
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Total execution time of all functions: 58.0433 ms.
+
+Function execution times:
+Time of Super graph Creation : 29.69 ms
+Time of Eulerian Tour : 24.36 ms
+Time of update data structure : 1.54 ms
+Time of Pointer Jumping : 1.28 ms
+Time of PR-RST module : 0.98 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 78
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Total execution time of all functions: 58.2749 ms.
+
+Function execution times:
+Time of Super graph Creation : 30.33 ms
+Time of Eulerian Tour : 23.93 ms
+Time of update data structure : 1.54 ms
+Time of Pointer Jumping : 1.27 ms
+Time of PR-RST module : 0.99 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: ljournal-2008.egr
+Number of deleted tree edges: 75
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Total execution time of all functions: 58.3573 ms.
+
+Function execution times:
+Time of Super graph Creation : 29.48 ms
+Time of Eulerian Tour : 24.75 ms
+Time of update data structure : 1.60 ms
+Time of Pointer Jumping : 1.30 ms
+Time of PR-RST module : 1.02 ms
+Time of Path Reversal : 0.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

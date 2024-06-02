@@ -1,0 +1,580 @@
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 21.297000 ms 
+Time of (12)Hooking Shortcutting : 14.13600 ms 
+Time of (5)Retrieving back first and last times  : 13.00900 ms 
+Time of (18)PR Loop : 7.62600 ms 
+Time of (11)Shortcut rep : 3.46300 ms 
+Time of (6)Edge Deletion : 2.91100 ms 
+Time of (1)Get key rem collections : 2.86000 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.88900 ms 
+Time of (9)Get key rem collections : 1.77900 ms 
+Time of (8)Generate new edges : 1.35500 ms 
+Time of (15)Transedges prefix : 1.16900 ms 
+Time of (2)Convert to collection : 1.07400 ms 
+Time of (3)Processing for multi component Euler tour : 1.05400 ms 
+Time of (10)Convert to collection : 0.93300 ms 
+Time of (0)Extracting Roots : 0.71800 ms 
+Time of (7)Remove edges : 0.69900 ms 
+Time of (19)Component Parent, Reversals : 0.36200 ms 
+Time of (13)Compress Graph : 0.31300 ms 
+Time of (17)PR init : 0.01700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 76.67700 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 21.443000 ms 
+Time of (5)Retrieving back first and last times  : 13.15000 ms 
+Time of (12)Hooking Shortcutting : 11.85700 ms 
+Time of (18)PR Loop : 9.72400 ms 
+Time of (11)Shortcut rep : 3.99800 ms 
+Time of (6)Edge Deletion : 3.07700 ms 
+Time of (1)Get key rem collections : 2.95000 ms 
+Time of (9)Get key rem collections : 1.96700 ms 
+Time of (8)Generate new edges : 1.54100 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.41300 ms 
+Time of (15)Transedges prefix : 1.31400 ms 
+Time of (2)Convert to collection : 1.07500 ms 
+Time of (10)Convert to collection : 1.06900 ms 
+Time of (3)Processing for multi component Euler tour : 1.05700 ms 
+Time of (7)Remove edges : 0.82800 ms 
+Time of (0)Extracting Roots : 0.74700 ms 
+Time of (19)Component Parent, Reversals : 0.32500 ms 
+Time of (13)Compress Graph : 0.31300 ms 
+Time of (17)PR init : 0.01900 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 77.88100 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 21.346000 ms 
+Time of (12)Hooking Shortcutting : 16.07800 ms 
+Time of (5)Retrieving back first and last times  : 13.34600 ms 
+Time of (18)PR Loop : 6.59000 ms 
+Time of (11)Shortcut rep : 3.99100 ms 
+Time of (6)Edge Deletion : 3.00800 ms 
+Time of (1)Get key rem collections : 2.91400 ms 
+Time of (9)Get key rem collections : 1.95500 ms 
+Time of (8)Generate new edges : 1.53900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.33400 ms 
+Time of (2)Convert to collection : 1.07200 ms 
+Time of (10)Convert to collection : 1.07000 ms 
+Time of (3)Processing for multi component Euler tour : 1.05700 ms 
+Time of (15)Transedges prefix : 0.97000 ms 
+Time of (7)Remove edges : 0.80000 ms 
+Time of (0)Extracting Roots : 0.69300 ms 
+Time of (19)Component Parent, Reversals : 0.31100 ms 
+Time of (13)Compress Graph : 0.21900 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 78.31500 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 21.303000 ms 
+Time of (5)Retrieving back first and last times  : 12.92600 ms 
+Time of (12)Hooking Shortcutting : 11.77200 ms 
+Time of (18)PR Loop : 6.69700 ms 
+Time of (1)Get key rem collections : 3.07500 ms 
+Time of (6)Edge Deletion : 2.80800 ms 
+Time of (11)Shortcut rep : 2.72900 ms 
+Time of (9)Get key rem collections : 1.53300 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.33100 ms 
+Time of (8)Generate new edges : 1.18800 ms 
+Time of (2)Convert to collection : 1.07100 ms 
+Time of (3)Processing for multi component Euler tour : 1.05400 ms 
+Time of (15)Transedges prefix : 0.95700 ms 
+Time of (10)Convert to collection : 0.77400 ms 
+Time of (0)Extracting Roots : 0.75300 ms 
+Time of (7)Remove edges : 0.56600 ms 
+Time of (19)Component Parent, Reversals : 0.31500 ms 
+Time of (13)Compress Graph : 0.22400 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 71.09800 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 21.271000 ms 
+Time of (5)Retrieving back first and last times  : 14.88200 ms 
+Time of (12)Hooking Shortcutting : 11.95900 ms 
+Time of (18)PR Loop : 6.70100 ms 
+Time of (1)Get key rem collections : 2.93500 ms 
+Time of (11)Shortcut rep : 2.76800 ms 
+Time of (6)Edge Deletion : 2.70300 ms 
+Time of (9)Get key rem collections : 1.58700 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.32700 ms 
+Time of (8)Generate new edges : 1.19400 ms 
+Time of (2)Convert to collection : 1.07300 ms 
+Time of (3)Processing for multi component Euler tour : 1.05800 ms 
+Time of (15)Transedges prefix : 0.94800 ms 
+Time of (0)Extracting Roots : 0.79500 ms 
+Time of (10)Convert to collection : 0.77700 ms 
+Time of (7)Remove edges : 0.58600 ms 
+Time of (19)Component Parent, Reversals : 0.32000 ms 
+Time of (13)Compress Graph : 0.22500 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time (total): 73.14000 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 21.195000 ms 
+Time of (5)Retrieving back first and last times  : 13.63100 ms 
+Time of (12)Hooking Shortcutting : 8.21100 ms 
+Time of (1)Get key rem collections : 3.02700 ms 
+Time of (11)Shortcut rep : 2.86600 ms 
+Time of (6)Edge Deletion : 2.67900 ms 
+Time of (18)PR Loop : 2.51600 ms 
+Time of (9)Get key rem collections : 1.60200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.31100 ms 
+Time of (8)Generate new edges : 1.20800 ms 
+Time of (2)Convert to collection : 1.06300 ms 
+Time of (3)Processing for multi component Euler tour : 1.05900 ms 
+Time of (15)Transedges prefix : 1.00900 ms 
+Time of (10)Convert to collection : 0.80600 ms 
+Time of (0)Extracting Roots : 0.74200 ms 
+Time of (7)Remove edges : 0.56500 ms 
+Time of (19)Component Parent, Reversals : 0.31100 ms 
+Time of (13)Compress Graph : 0.22400 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 64.04700 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 21.291000 ms 
+Time of (5)Retrieving back first and last times  : 13.15600 ms 
+Time of (12)Hooking Shortcutting : 9.86900 ms 
+Time of (6)Edge Deletion : 3.25500 ms 
+Time of (1)Get key rem collections : 2.92700 ms 
+Time of (11)Shortcut rep : 2.69100 ms 
+Time of (18)PR Loop : 2.42800 ms 
+Time of (9)Get key rem collections : 1.57300 ms 
+Time of (8)Generate new edges : 1.53500 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.30700 ms 
+Time of (2)Convert to collection : 1.07000 ms 
+Time of (3)Processing for multi component Euler tour : 1.05800 ms 
+Time of (15)Transedges prefix : 1.01000 ms 
+Time of (7)Remove edges : 0.78900 ms 
+Time of (10)Convert to collection : 0.77100 ms 
+Time of (0)Extracting Roots : 0.68800 ms 
+Time of (19)Component Parent, Reversals : 0.30000 ms 
+Time of (13)Compress Graph : 0.21800 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 65.95800 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 21.191000 ms 
+Time of (5)Retrieving back first and last times  : 13.23900 ms 
+Time of (12)Hooking Shortcutting : 10.29900 ms 
+Time of (18)PR Loop : 4.40100 ms 
+Time of (11)Shortcut rep : 3.94200 ms 
+Time of (6)Edge Deletion : 3.18100 ms 
+Time of (1)Get key rem collections : 3.03600 ms 
+Time of (9)Get key rem collections : 1.98500 ms 
+Time of (8)Generate new edges : 1.53900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.39200 ms 
+Time of (15)Transedges prefix : 1.14700 ms 
+Time of (10)Convert to collection : 1.07600 ms 
+Time of (2)Convert to collection : 1.06300 ms 
+Time of (3)Processing for multi component Euler tour : 1.05900 ms 
+Time of (7)Remove edges : 0.80400 ms 
+Time of (0)Extracting Roots : 0.70800 ms 
+Time of (19)Component Parent, Reversals : 0.32600 ms 
+Time of (13)Compress Graph : 0.30600 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 70.71700 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 23.390000 ms 
+Time of (5)Retrieving back first and last times  : 12.97900 ms 
+Time of (12)Hooking Shortcutting : 12.30000 ms 
+Time of (11)Shortcut rep : 3.96000 ms 
+Time of (18)PR Loop : 3.32400 ms 
+Time of (6)Edge Deletion : 3.25800 ms 
+Time of (1)Get key rem collections : 3.11200 ms 
+Time of (9)Get key rem collections : 1.97400 ms 
+Time of (8)Generate new edges : 1.54300 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.30800 ms 
+Time of (10)Convert to collection : 1.07800 ms 
+Time of (2)Convert to collection : 1.06800 ms 
+Time of (3)Processing for multi component Euler tour : 1.05700 ms 
+Time of (15)Transedges prefix : 0.95700 ms 
+Time of (7)Remove edges : 0.80800 ms 
+Time of (0)Extracting Roots : 0.71700 ms 
+Time of (13)Compress Graph : 0.31200 ms 
+Time of (19)Component Parent, Reversals : 0.31000 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 73.48000 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 21.123000 ms 
+Time of (5)Retrieving back first and last times  : 13.10000 ms 
+Time of (12)Hooking Shortcutting : 10.67700 ms 
+Time of (11)Shortcut rep : 3.93300 ms 
+Time of (18)PR Loop : 3.22800 ms 
+Time of (1)Get key rem collections : 3.00800 ms 
+Time of (6)Edge Deletion : 2.79500 ms 
+Time of (9)Get key rem collections : 1.94300 ms 
+Time of (8)Generate new edges : 1.53700 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.40800 ms 
+Time of (15)Transedges prefix : 1.24800 ms 
+Time of (2)Convert to collection : 1.07100 ms 
+Time of (10)Convert to collection : 1.06900 ms 
+Time of (3)Processing for multi component Euler tour : 1.05600 ms 
+Time of (7)Remove edges : 0.78800 ms 
+Time of (0)Extracting Roots : 0.69100 ms 
+Time of (19)Component Parent, Reversals : 0.31400 ms 
+Time of (13)Compress Graph : 0.31200 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 69.32600 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 21.161000 ms 
+Time of (5)Retrieving back first and last times  : 13.09700 ms 
+Time of (12)Hooking Shortcutting : 7.80500 ms 
+Time of (1)Get key rem collections : 2.82100 ms 
+Time of (11)Shortcut rep : 2.72100 ms 
+Time of (6)Edge Deletion : 2.56600 ms 
+Time of (9)Get key rem collections : 1.58100 ms 
+Time of (8)Generate new edges : 1.19200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.09600 ms 
+Time of (2)Convert to collection : 1.06500 ms 
+Time of (3)Processing for multi component Euler tour : 1.05400 ms 
+Time of (15)Transedges prefix : 0.97300 ms 
+Time of (10)Convert to collection : 0.77400 ms 
+Time of (0)Extracting Roots : 0.72100 ms 
+Time of (7)Remove edges : 0.54400 ms 
+Time of (19)Component Parent, Reversals : 0.47300 ms 
+Time of (18)PR Loop : 0.36400 ms 
+Time of (13)Compress Graph : 0.22100 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 60.25000 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 21.177000 ms 
+Time of (5)Retrieving back first and last times  : 15.61900 ms 
+Time of (12)Hooking Shortcutting : 6.53400 ms 
+Time of (11)Shortcut rep : 3.90100 ms 
+Time of (6)Edge Deletion : 3.57900 ms 
+Time of (1)Get key rem collections : 2.89800 ms 
+Time of (9)Get key rem collections : 1.98900 ms 
+Time of (8)Generate new edges : 1.53900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.23900 ms 
+Time of (15)Transedges prefix : 1.20600 ms 
+Time of (2)Convert to collection : 1.07100 ms 
+Time of (10)Convert to collection : 1.06800 ms 
+Time of (3)Processing for multi component Euler tour : 1.06000 ms 
+Time of (7)Remove edges : 0.82200 ms 
+Time of (0)Extracting Roots : 0.66800 ms 
+Time of (18)PR Loop : 0.45400 ms 
+Time of (19)Component Parent, Reversals : 0.31300 ms 
+Time of (13)Compress Graph : 0.31000 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 65.46900 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 21.445000 ms 
+Time of (5)Retrieving back first and last times  : 15.43200 ms 
+Time of (12)Hooking Shortcutting : 5.94900 ms 
+Time of (11)Shortcut rep : 3.90400 ms 
+Time of (1)Get key rem collections : 2.88400 ms 
+Time of (6)Edge Deletion : 2.54600 ms 
+Time of (9)Get key rem collections : 1.96800 ms 
+Time of (8)Generate new edges : 1.54100 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.18400 ms 
+Time of (10)Convert to collection : 1.07000 ms 
+Time of (2)Convert to collection : 1.06900 ms 
+Time of (3)Processing for multi component Euler tour : 1.05800 ms 
+Time of (15)Transedges prefix : 0.95700 ms 
+Time of (7)Remove edges : 0.79400 ms 
+Time of (0)Extracting Roots : 0.67300 ms 
+Time of (18)PR Loop : 0.36100 ms 
+Time of (19)Component Parent, Reversals : 0.29900 ms 
+Time of (13)Compress Graph : 0.21000 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 63.36700 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 21.107000 ms 
+Time of (5)Retrieving back first and last times  : 16.40700 ms 
+Time of (12)Hooking Shortcutting : 5.01700 ms 
+Time of (11)Shortcut rep : 3.91800 ms 
+Time of (1)Get key rem collections : 2.88200 ms 
+Time of (6)Edge Deletion : 2.51700 ms 
+Time of (9)Get key rem collections : 2.07100 ms 
+Time of (8)Generate new edges : 1.54100 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.17600 ms 
+Time of (10)Convert to collection : 1.07100 ms 
+Time of (2)Convert to collection : 1.07000 ms 
+Time of (3)Processing for multi component Euler tour : 1.05200 ms 
+Time of (15)Transedges prefix : 0.96900 ms 
+Time of (7)Remove edges : 0.81900 ms 
+Time of (0)Extracting Roots : 0.69300 ms 
+Time of (18)PR Loop : 0.35600 ms 
+Time of (19)Component Parent, Reversals : 0.30400 ms 
+Time of (13)Compress Graph : 0.21200 ms 
+Time of (17)PR init : 0.01100 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 63.20300 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 21.018000 ms 
+Time of (5)Retrieving back first and last times  : 15.50500 ms 
+Time of (12)Hooking Shortcutting : 5.33100 ms 
+Time of (11)Shortcut rep : 2.97500 ms 
+Time of (1)Get key rem collections : 2.89900 ms 
+Time of (6)Edge Deletion : 2.42500 ms 
+Time of (9)Get key rem collections : 1.67400 ms 
+Time of (8)Generate new edges : 1.23600 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.20100 ms 
+Time of (2)Convert to collection : 1.06400 ms 
+Time of (3)Processing for multi component Euler tour : 1.05500 ms 
+Time of (15)Transedges prefix : 0.98900 ms 
+Time of (10)Convert to collection : 0.83900 ms 
+Time of (0)Extracting Roots : 0.68600 ms 
+Time of (7)Remove edges : 0.58300 ms 
+Time of (18)PR Loop : 0.38500 ms 
+Time of (19)Component Parent, Reversals : 0.30900 ms 
+Time of (13)Compress Graph : 0.23500 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 60.43100 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 21.246000 ms 
+Time of (5)Retrieving back first and last times  : 14.36500 ms 
+Time of (12)Hooking Shortcutting : 5.18800 ms 
+Time of (1)Get key rem collections : 2.87700 ms 
+Time of (11)Shortcut rep : 2.83100 ms 
+Time of (6)Edge Deletion : 2.83000 ms 
+Time of (9)Get key rem collections : 1.55100 ms 
+Time of (8)Generate new edges : 1.21300 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.19900 ms 
+Time of (2)Convert to collection : 1.06100 ms 
+Time of (3)Processing for multi component Euler tour : 1.05600 ms 
+Time of (15)Transedges prefix : 0.98300 ms 
+Time of (10)Convert to collection : 0.80600 ms 
+Time of (0)Extracting Roots : 0.68000 ms 
+Time of (7)Remove edges : 0.58700 ms 
+Time of (18)PR Loop : 0.48700 ms 
+Time of (19)Component Parent, Reversals : 0.30800 ms 
+Time of (13)Compress Graph : 0.26900 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 59.56000 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 21.413000 ms 
+Time of (5)Retrieving back first and last times  : 15.33300 ms 
+Time of (12)Hooking Shortcutting : 6.53400 ms 
+Time of (11)Shortcut rep : 3.94800 ms 
+Time of (6)Edge Deletion : 3.44900 ms 
+Time of (1)Get key rem collections : 2.92300 ms 
+Time of (9)Get key rem collections : 2.07400 ms 
+Time of (8)Generate new edges : 1.54100 ms 
+Time of (18)PR Loop : 1.41200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.37400 ms 
+Time of (15)Transedges prefix : 1.23600 ms 
+Time of (10)Convert to collection : 1.06900 ms 
+Time of (2)Convert to collection : 1.06400 ms 
+Time of (3)Processing for multi component Euler tour : 1.05600 ms 
+Time of (7)Remove edges : 0.78500 ms 
+Time of (0)Extracting Roots : 0.67600 ms 
+Time of (19)Component Parent, Reversals : 0.31300 ms 
+Time of (13)Compress Graph : 0.30600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 66.52900 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 21.080000 ms 
+Time of (5)Retrieving back first and last times  : 14.31200 ms 
+Time of (12)Hooking Shortcutting : 6.68400 ms 
+Time of (11)Shortcut rep : 3.93400 ms 
+Time of (6)Edge Deletion : 3.45100 ms 
+Time of (1)Get key rem collections : 2.97900 ms 
+Time of (9)Get key rem collections : 1.91700 ms 
+Time of (8)Generate new edges : 1.54200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.19000 ms 
+Time of (10)Convert to collection : 1.07500 ms 
+Time of (2)Convert to collection : 1.06300 ms 
+Time of (3)Processing for multi component Euler tour : 1.05400 ms 
+Time of (15)Transedges prefix : 0.93500 ms 
+Time of (7)Remove edges : 0.78800 ms 
+Time of (0)Extracting Roots : 0.69700 ms 
+Time of (18)PR Loop : 0.45900 ms 
+Time of (19)Component Parent, Reversals : 0.31100 ms 
+Time of (13)Compress Graph : 0.21500 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 63.70700 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 21.102000 ms 
+Time of (5)Retrieving back first and last times  : 13.45500 ms 
+Time of (12)Hooking Shortcutting : 6.52600 ms 
+Time of (11)Shortcut rep : 3.90600 ms 
+Time of (6)Edge Deletion : 3.44600 ms 
+Time of (1)Get key rem collections : 2.94600 ms 
+Time of (9)Get key rem collections : 2.01700 ms 
+Time of (8)Generate new edges : 1.54300 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.20400 ms 
+Time of (10)Convert to collection : 1.07400 ms 
+Time of (2)Convert to collection : 1.06700 ms 
+Time of (3)Processing for multi component Euler tour : 1.05800 ms 
+Time of (15)Transedges prefix : 0.94500 ms 
+Time of (7)Remove edges : 0.78000 ms 
+Time of (0)Extracting Roots : 0.70600 ms 
+Time of (18)PR Loop : 0.46800 ms 
+Time of (19)Component Parent, Reversals : 0.30800 ms 
+Time of (13)Compress Graph : 0.21900 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 62.79400 ms 
+--------------------------------------------------------
+filename: delaunay_n24.txt
+Nodes : 16777216
+Edges : 50331601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (5)Retrieving back first and last times  : 22.336000 ms 
+Time of (4)Multi component Euler tour internal  : 21.45900 ms 
+Time of (12)Hooking Shortcutting : 6.55300 ms 
+Time of (11)Shortcut rep : 3.93800 ms 
+Time of (6)Edge Deletion : 3.43100 ms 
+Time of (1)Get key rem collections : 2.89100 ms 
+Time of (9)Get key rem collections : 2.08800 ms 
+Time of (8)Generate new edges : 1.54200 ms 
+Time of (18)PR Loop : 1.42200 ms 
+Time of (15)Transedges prefix : 1.30900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.30400 ms 
+Time of (10)Convert to collection : 1.07200 ms 
+Time of (2)Convert to collection : 1.07200 ms 
+Time of (3)Processing for multi component Euler tour : 1.05900 ms 
+Time of (7)Remove edges : 0.84600 ms 
+Time of (0)Extracting Roots : 0.70500 ms 
+Time of (19)Component Parent, Reversals : 0.31700 ms 
+Time of (13)Compress Graph : 0.31300 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 73.68300 ms 
+--------------------------------------------------------

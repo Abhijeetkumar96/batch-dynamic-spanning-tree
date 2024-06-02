@@ -1,0 +1,610 @@
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100000
+Time of (17)PR Shortcut : 13.886000 ms 
+Time of (9)Hooking Shortcutting : 10.83500 ms 
+Time of (1)Get key rem collections : 5.77100 ms 
+Time of (6)Get key rem collections : 3.69700 ms 
+Time of (5)Generate new edges : 3.67300 ms 
+Time of (18)PR Reverse Paths : 3.28800 ms 
+Time of (2)Convert to collection : 3.00800 ms 
+Time of (3)Edge Deletion : 2.69100 ms 
+Time of (12)Transedges prefix : 2.66200 ms 
+Time of (7)Convert to collection : 2.32300 ms 
+Time of (19)Reverse Edges and Connect Parent : 2.01800 ms 
+Time of (4)Remove edges : 1.72300 ms 
+Time of (15)PR Loop : 1.35400 ms 
+Time of (8)Shortcut rep : 0.73600 ms 
+Time of (0)Extracting Roots : 0.60300 ms 
+Time of (16)Component Parent, Reversals : 0.28600 ms 
+Time of (10)Compress Graph : 0.14400 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 58.72000 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100000
+Time of (17)PR Shortcut : 14.224000 ms 
+Time of (9)Hooking Shortcutting : 11.50700 ms 
+Time of (1)Get key rem collections : 5.81700 ms 
+Time of (6)Get key rem collections : 3.92600 ms 
+Time of (5)Generate new edges : 3.78000 ms 
+Time of (18)PR Reverse Paths : 3.46800 ms 
+Time of (2)Convert to collection : 2.98300 ms 
+Time of (12)Transedges prefix : 2.76300 ms 
+Time of (3)Edge Deletion : 2.68700 ms 
+Time of (7)Convert to collection : 2.43300 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.87700 ms 
+Time of (4)Remove edges : 1.76900 ms 
+Time of (15)PR Loop : 1.40000 ms 
+Time of (8)Shortcut rep : 0.76900 ms 
+Time of (16)Component Parent, Reversals : 0.64000 ms 
+Time of (0)Extracting Roots : 0.61000 ms 
+Time of (10)Compress Graph : 0.15700 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 60.83300 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100000
+Time of (17)PR Shortcut : 13.749000 ms 
+Time of (9)Hooking Shortcutting : 10.64500 ms 
+Time of (1)Get key rem collections : 6.33400 ms 
+Time of (5)Generate new edges : 4.44600 ms 
+Time of (6)Get key rem collections : 3.59000 ms 
+Time of (18)PR Reverse Paths : 3.24900 ms 
+Time of (2)Convert to collection : 2.99000 ms 
+Time of (12)Transedges prefix : 2.76200 ms 
+Time of (3)Edge Deletion : 2.71100 ms 
+Time of (4)Remove edges : 2.35900 ms 
+Time of (7)Convert to collection : 2.28800 ms 
+Time of (15)PR Loop : 1.32200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.98700 ms 
+Time of (8)Shortcut rep : 0.71600 ms 
+Time of (0)Extracting Roots : 0.62500 ms 
+Time of (16)Component Parent, Reversals : 0.29000 ms 
+Time of (10)Compress Graph : 0.13600 ms 
+Time of (14)PR init : 0.01100 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 59.22000 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 15.527000 ms 
+Time of (17)PR Shortcut : 13.38300 ms 
+Time of (1)Get key rem collections : 5.90300 ms 
+Time of (5)Generate new edges : 4.50000 ms 
+Time of (6)Get key rem collections : 3.67700 ms 
+Time of (18)PR Reverse Paths : 3.13000 ms 
+Time of (2)Convert to collection : 3.00900 ms 
+Time of (3)Edge Deletion : 2.71200 ms 
+Time of (12)Transedges prefix : 2.67600 ms 
+Time of (4)Remove edges : 2.52500 ms 
+Time of (7)Convert to collection : 2.22100 ms 
+Time of (15)PR Loop : 1.29600 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.08000 ms 
+Time of (8)Shortcut rep : 0.68600 ms 
+Time of (0)Extracting Roots : 0.63000 ms 
+Time of (16)Component Parent, Reversals : 0.31000 ms 
+Time of (10)Compress Graph : 0.12900 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 63.41700 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100000
+Time of (17)PR Shortcut : 16.814000 ms 
+Time of (9)Hooking Shortcutting : 13.84900 ms 
+Time of (1)Get key rem collections : 5.87600 ms 
+Time of (6)Get key rem collections : 4.96300 ms 
+Time of (5)Generate new edges : 4.50500 ms 
+Time of (18)PR Reverse Paths : 4.21000 ms 
+Time of (12)Transedges prefix : 4.17200 ms 
+Time of (7)Convert to collection : 3.00100 ms 
+Time of (2)Convert to collection : 2.98400 ms 
+Time of (3)Edge Deletion : 2.70700 ms 
+Time of (4)Remove edges : 2.48600 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.32000 ms 
+Time of (15)PR Loop : 1.15600 ms 
+Time of (8)Shortcut rep : 0.95200 ms 
+Time of (0)Extracting Roots : 0.61000 ms 
+Time of (16)Component Parent, Reversals : 0.28800 ms 
+Time of (10)Compress Graph : 0.17100 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 70.08700 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 10000
+Time of (17)PR Shortcut : 16.869000 ms 
+Time of (9)Hooking Shortcutting : 13.88000 ms 
+Time of (1)Get key rem collections : 5.80900 ms 
+Time of (6)Get key rem collections : 5.41500 ms 
+Time of (5)Generate new edges : 4.50900 ms 
+Time of (18)PR Reverse Paths : 4.14200 ms 
+Time of (12)Transedges prefix : 3.33700 ms 
+Time of (7)Convert to collection : 3.00200 ms 
+Time of (2)Convert to collection : 2.98400 ms 
+Time of (4)Remove edges : 2.45300 ms 
+Time of (3)Edge Deletion : 2.41000 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.37700 ms 
+Time of (8)Shortcut rep : 1.01700 ms 
+Time of (0)Extracting Roots : 0.59400 ms 
+Time of (15)PR Loop : 0.52900 ms 
+Time of (16)Component Parent, Reversals : 0.29600 ms 
+Time of (10)Compress Graph : 0.17200 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 68.81700 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 10000
+Time of (17)PR Shortcut : 15.004000 ms 
+Time of (9)Hooking Shortcutting : 11.85400 ms 
+Time of (1)Get key rem collections : 5.95700 ms 
+Time of (6)Get key rem collections : 4.33100 ms 
+Time of (5)Generate new edges : 3.90800 ms 
+Time of (18)PR Reverse Paths : 3.58100 ms 
+Time of (3)Edge Deletion : 3.48400 ms 
+Time of (2)Convert to collection : 2.98300 ms 
+Time of (12)Transedges prefix : 2.96200 ms 
+Time of (7)Convert to collection : 2.53900 ms 
+Time of (4)Remove edges : 1.98800 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.39700 ms 
+Time of (8)Shortcut rep : 0.80900 ms 
+Time of (0)Extracting Roots : 0.60300 ms 
+Time of (15)PR Loop : 0.47400 ms 
+Time of (16)Component Parent, Reversals : 0.28700 ms 
+Time of (10)Compress Graph : 0.15300 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 62.33700 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 10000
+Time of (17)PR Shortcut : 16.752000 ms 
+Time of (9)Hooking Shortcutting : 13.83600 ms 
+Time of (1)Get key rem collections : 5.88100 ms 
+Time of (6)Get key rem collections : 5.34200 ms 
+Time of (5)Generate new edges : 4.51000 ms 
+Time of (18)PR Reverse Paths : 4.15400 ms 
+Time of (12)Transedges prefix : 3.35600 ms 
+Time of (7)Convert to collection : 3.00300 ms 
+Time of (2)Convert to collection : 2.99000 ms 
+Time of (3)Edge Deletion : 2.44600 ms 
+Time of (4)Remove edges : 2.29000 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.36600 ms 
+Time of (8)Shortcut rep : 1.02800 ms 
+Time of (0)Extracting Roots : 0.61100 ms 
+Time of (15)PR Loop : 0.51100 ms 
+Time of (16)Component Parent, Reversals : 0.29000 ms 
+Time of (10)Compress Graph : 0.16800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 68.55700 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 13.854000 ms 
+Time of (17)PR Shortcut : 13.37500 ms 
+Time of (1)Get key rem collections : 5.67500 ms 
+Time of (6)Get key rem collections : 5.11300 ms 
+Time of (5)Generate new edges : 4.51000 ms 
+Time of (3)Edge Deletion : 3.44400 ms 
+Time of (18)PR Reverse Paths : 3.07900 ms 
+Time of (7)Convert to collection : 3.00100 ms 
+Time of (2)Convert to collection : 2.98300 ms 
+Time of (12)Transedges prefix : 2.62700 ms 
+Time of (4)Remove edges : 2.41500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.11200 ms 
+Time of (8)Shortcut rep : 0.94500 ms 
+Time of (16)Component Parent, Reversals : 0.64500 ms 
+Time of (0)Extracting Roots : 0.62100 ms 
+Time of (15)PR Loop : 0.42200 ms 
+Time of (10)Compress Graph : 0.13200 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 63.97500 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 10000
+Time of (17)PR Shortcut : 16.845000 ms 
+Time of (9)Hooking Shortcutting : 13.86100 ms 
+Time of (1)Get key rem collections : 5.99500 ms 
+Time of (6)Get key rem collections : 5.18200 ms 
+Time of (5)Generate new edges : 4.50900 ms 
+Time of (18)PR Reverse Paths : 3.59500 ms 
+Time of (12)Transedges prefix : 3.37800 ms 
+Time of (7)Convert to collection : 3.00300 ms 
+Time of (2)Convert to collection : 2.99400 ms 
+Time of (3)Edge Deletion : 2.43800 ms 
+Time of (4)Remove edges : 2.43000 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.45600 ms 
+Time of (8)Shortcut rep : 1.01800 ms 
+Time of (0)Extracting Roots : 0.60200 ms 
+Time of (15)PR Loop : 0.51800 ms 
+Time of (16)Component Parent, Reversals : 0.28700 ms 
+Time of (10)Compress Graph : 0.17200 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 68.30800 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100
+Time of (12)PR Shortcut : 13.328000 ms 
+Time of (1)Get key rem collections : 6.15300 ms 
+Time of (6)Get key rem collections : 5.17000 ms 
+Time of (5)Generate new edges : 4.50900 ms 
+Time of (9)Hooking Shortcutting : 3.39800 ms 
+Time of (13)PR Reverse Paths : 3.07400 ms 
+Time of (7)Convert to collection : 3.00400 ms 
+Time of (2)Convert to collection : 2.98300 ms 
+Time of (3)Edge Deletion : 2.63300 ms 
+Time of (4)Remove edges : 2.34200 ms 
+Time of (14)Reverse Edges and Connect Parent : 2.08700 ms 
+Time of (8)Shortcut rep : 0.86000 ms 
+Time of (0)Extracting Roots : 0.61500 ms 
+Time of (10)Compress Graph : 0.12500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 50.28600 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100
+Time of (12)PR Shortcut : 16.812000 ms 
+Time of (1)Get key rem collections : 5.82900 ms 
+Time of (6)Get key rem collections : 5.13400 ms 
+Time of (5)Generate new edges : 4.50900 ms 
+Time of (13)PR Reverse Paths : 4.13800 ms 
+Time of (9)Hooking Shortcutting : 3.39800 ms 
+Time of (7)Convert to collection : 3.00000 ms 
+Time of (2)Convert to collection : 2.98100 ms 
+Time of (3)Edge Deletion : 2.62900 ms 
+Time of (4)Remove edges : 2.35600 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.37800 ms 
+Time of (8)Shortcut rep : 0.86000 ms 
+Time of (0)Extracting Roots : 0.62700 ms 
+Time of (10)Compress Graph : 0.17000 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 53.82600 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100
+Time of (17)PR Shortcut : 13.374000 ms 
+Time of (9)Hooking Shortcutting : 6.89200 ms 
+Time of (1)Get key rem collections : 6.00200 ms 
+Time of (6)Get key rem collections : 5.00800 ms 
+Time of (5)Generate new edges : 4.50200 ms 
+Time of (12)Transedges prefix : 3.73300 ms 
+Time of (18)PR Reverse Paths : 3.08400 ms 
+Time of (7)Convert to collection : 3.00400 ms 
+Time of (2)Convert to collection : 2.98300 ms 
+Time of (3)Edge Deletion : 2.67500 ms 
+Time of (4)Remove edges : 2.40900 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.10800 ms 
+Time of (8)Shortcut rep : 0.85800 ms 
+Time of (0)Extracting Roots : 0.60000 ms 
+Time of (16)Component Parent, Reversals : 0.28700 ms 
+Time of (15)PR Loop : 0.22400 ms 
+Time of (10)Compress Graph : 0.12700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 56.89300 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100
+Time of (17)PR Shortcut : 13.443000 ms 
+Time of (1)Get key rem collections : 6.02600 ms 
+Time of (6)Get key rem collections : 5.21700 ms 
+Time of (9)Hooking Shortcutting : 5.16600 ms 
+Time of (5)Generate new edges : 4.51200 ms 
+Time of (18)PR Reverse Paths : 3.12200 ms 
+Time of (7)Convert to collection : 3.00500 ms 
+Time of (2)Convert to collection : 2.98500 ms 
+Time of (12)Transedges prefix : 2.71600 ms 
+Time of (3)Edge Deletion : 2.63000 ms 
+Time of (4)Remove edges : 2.36100 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.09600 ms 
+Time of (8)Shortcut rep : 0.86200 ms 
+Time of (0)Extracting Roots : 0.63600 ms 
+Time of (16)Component Parent, Reversals : 0.28500 ms 
+Time of (15)PR Loop : 0.22100 ms 
+Time of (10)Compress Graph : 0.13000 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 54.43400 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 100
+Time of (17)PR Shortcut : 13.236000 ms 
+Time of (9)Hooking Shortcutting : 6.90200 ms 
+Time of (1)Get key rem collections : 5.74800 ms 
+Time of (6)Get key rem collections : 5.25200 ms 
+Time of (5)Generate new edges : 4.50800 ms 
+Time of (18)PR Reverse Paths : 3.09100 ms 
+Time of (7)Convert to collection : 3.03300 ms 
+Time of (2)Convert to collection : 2.98400 ms 
+Time of (3)Edge Deletion : 2.61600 ms 
+Time of (12)Transedges prefix : 2.57700 ms 
+Time of (4)Remove edges : 2.37400 ms 
+Time of (19)Reverse Edges and Connect Parent : 2.15400 ms 
+Time of (8)Shortcut rep : 0.93800 ms 
+Time of (0)Extracting Roots : 0.61900 ms 
+Time of (16)Component Parent, Reversals : 0.28700 ms 
+Time of (15)PR Loop : 0.22400 ms 
+Time of (10)Compress Graph : 0.15000 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 56.71700 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 13.764000 ms 
+Time of (17)PR Shortcut : 13.33000 ms 
+Time of (1)Get key rem collections : 5.87300 ms 
+Time of (6)Get key rem collections : 5.20200 ms 
+Time of (5)Generate new edges : 4.50600 ms 
+Time of (18)PR Reverse Paths : 3.07900 ms 
+Time of (7)Convert to collection : 3.00200 ms 
+Time of (2)Convert to collection : 2.98100 ms 
+Time of (12)Transedges prefix : 2.72000 ms 
+Time of (3)Edge Deletion : 2.50900 ms 
+Time of (4)Remove edges : 2.42500 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.11300 ms 
+Time of (8)Shortcut rep : 0.97500 ms 
+Time of (0)Extracting Roots : 0.63200 ms 
+Time of (15)PR Loop : 0.30000 ms 
+Time of (16)Component Parent, Reversals : 0.28600 ms 
+Time of (10)Compress Graph : 0.12200 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 62.84100 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 13.765000 ms 
+Time of (17)PR Shortcut : 13.40300 ms 
+Time of (1)Get key rem collections : 5.91600 ms 
+Time of (6)Get key rem collections : 5.34000 ms 
+Time of (19)Reverse Edges and Connect Parent : 4.88400 ms 
+Time of (5)Generate new edges : 4.50800 ms 
+Time of (18)PR Reverse Paths : 3.07900 ms 
+Time of (7)Convert to collection : 3.00100 ms 
+Time of (2)Convert to collection : 2.98600 ms 
+Time of (12)Transedges prefix : 2.58100 ms 
+Time of (3)Edge Deletion : 2.51200 ms 
+Time of (4)Remove edges : 2.36100 ms 
+Time of (8)Shortcut rep : 1.01600 ms 
+Time of (0)Extracting Roots : 0.59700 ms 
+Time of (15)PR Loop : 0.30300 ms 
+Time of (16)Component Parent, Reversals : 0.28800 ms 
+Time of (10)Compress Graph : 0.13000 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 66.69200 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 1000
+Time of (17)PR Shortcut : 14.912000 ms 
+Time of (9)Hooking Shortcutting : 11.76100 ms 
+Time of (1)Get key rem collections : 6.10300 ms 
+Time of (6)Get key rem collections : 4.09500 ms 
+Time of (5)Generate new edges : 3.88100 ms 
+Time of (18)PR Reverse Paths : 3.52600 ms 
+Time of (12)Transedges prefix : 3.01000 ms 
+Time of (2)Convert to collection : 2.98300 ms 
+Time of (7)Convert to collection : 2.51700 ms 
+Time of (3)Edge Deletion : 2.50900 ms 
+Time of (4)Remove edges : 1.96900 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.84900 ms 
+Time of (8)Shortcut rep : 0.87100 ms 
+Time of (0)Extracting Roots : 0.62100 ms 
+Time of (15)PR Loop : 0.32700 ms 
+Time of (16)Component Parent, Reversals : 0.28500 ms 
+Time of (10)Compress Graph : 0.14200 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 61.38400 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 1000
+Time of (17)PR Shortcut : 21.467000 ms 
+Time of (9)Hooking Shortcutting : 15.83200 ms 
+Time of (1)Get key rem collections : 5.92800 ms 
+Time of (5)Generate new edges : 5.82600 ms 
+Time of (6)Get key rem collections : 4.98900 ms 
+Time of (12)Transedges prefix : 3.35600 ms 
+Time of (18)PR Reverse Paths : 3.09000 ms 
+Time of (7)Convert to collection : 3.00100 ms 
+Time of (2)Convert to collection : 2.93600 ms 
+Time of (4)Remove edges : 2.58700 ms 
+Time of (3)Edge Deletion : 2.51700 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.09700 ms 
+Time of (8)Shortcut rep : 0.94600 ms 
+Time of (0)Extracting Roots : 0.63000 ms 
+Time of (15)PR Loop : 0.31500 ms 
+Time of (16)Component Parent, Reversals : 0.29400 ms 
+Time of (10)Compress Graph : 0.17300 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 75.00600 ms 
+--------------------------------------------------------
+filename: indochina-2004.txt
+Nodes : 7414866
+Edges : 150985113
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 150985113
+Deleted : 1000
+Time of (17)PR Shortcut : 14.584000 ms 
+Time of (9)Hooking Shortcutting : 13.76100 ms 
+Time of (1)Get key rem collections : 5.91800 ms 
+Time of (6)Get key rem collections : 5.18100 ms 
+Time of (5)Generate new edges : 4.51000 ms 
+Time of (12)Transedges prefix : 3.25000 ms 
+Time of (18)PR Reverse Paths : 3.08100 ms 
+Time of (7)Convert to collection : 3.00200 ms 
+Time of (2)Convert to collection : 2.98300 ms 
+Time of (3)Edge Deletion : 2.51300 ms 
+Time of (4)Remove edges : 2.51100 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.12100 ms 
+Time of (8)Shortcut rep : 0.94000 ms 
+Time of (0)Extracting Roots : 0.61600 ms 
+Time of (15)PR Loop : 0.32100 ms 
+Time of (16)Component Parent, Reversals : 0.29100 ms 
+Time of (10)Compress Graph : 0.17000 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 64.77700 ms 
+--------------------------------------------------------

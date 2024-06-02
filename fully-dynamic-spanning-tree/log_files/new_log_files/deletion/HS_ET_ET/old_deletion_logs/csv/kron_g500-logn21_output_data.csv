@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+kron_g500-logn21.txt,100,30.942
+kron_g500-logn21.txt,100,37.153
+kron_g500-logn21.txt,100,37.699
+kron_g500-logn21.txt,100,31.806
+kron_g500-logn21.txt,100,30.787
+kron_g500-logn21.txt,1000,44.866
+kron_g500-logn21.txt,1000,45.151
+kron_g500-logn21.txt,1000,45.364
+kron_g500-logn21.txt,1000,45.336
+kron_g500-logn21.txt,1000,43.824
+kron_g500-logn21.txt,10000,45.486
+kron_g500-logn21.txt,10000,46.196
+kron_g500-logn21.txt,10000,52.577
+kron_g500-logn21.txt,10000,47.101
+kron_g500-logn21.txt,10000,45.589
+kron_g500-logn21.txt,100000,52.543
+kron_g500-logn21.txt,100000,53.498
+kron_g500-logn21.txt,100000,53.13
+kron_g500-logn21.txt,100000,49.458
+kron_g500-logn21.txt,100000,55.928

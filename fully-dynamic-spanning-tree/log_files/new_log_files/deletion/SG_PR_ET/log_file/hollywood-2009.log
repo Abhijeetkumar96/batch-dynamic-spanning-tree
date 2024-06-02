@@ -1,0 +1,338 @@
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1808
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Total execution time of all functions: 41.6605 ms.
+
+Function execution times:
+Time of Super graph Creation : 25.63 ms
+Time of Eulerian Tour : 8.65 ms
+Time of update data structure : 5.19 ms
+Time of PR-RST module : 1.57 ms
+Time of Pointer Jumping : 0.48 ms
+Time of Path Reversal : 0.08 ms
+Time of Update rep array : 0.04 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1847
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Total execution time of all functions: 26.551 ms.
+
+Function execution times:
+Time of Super graph Creation : 18.34 ms
+Time of Eulerian Tour : 5.35 ms
+Time of update data structure : 1.26 ms
+Time of PR-RST module : 1.19 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Path Reversal : 0.05 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1876
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Total execution time of all functions: 26.8686 ms.
+
+Function execution times:
+Time of Super graph Creation : 18.28 ms
+Time of Eulerian Tour : 5.27 ms
+Time of PR-RST module : 1.64 ms
+Time of update data structure : 1.26 ms
+Time of Pointer Jumping : 0.34 ms
+Time of Path Reversal : 0.05 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1869
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Total execution time of all functions: 26.6974 ms.
+
+Function execution times:
+Time of Super graph Creation : 18.45 ms
+Time of Eulerian Tour : 5.40 ms
+Time of update data structure : 1.25 ms
+Time of PR-RST module : 1.19 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Path Reversal : 0.05 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1823
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Total execution time of all functions: 26.8896 ms.
+
+Function execution times:
+Time of Super graph Creation : 18.67 ms
+Time of Eulerian Tour : 5.32 ms
+Time of update data structure : 1.29 ms
+Time of PR-RST module : 1.19 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Path Reversal : 0.05 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 201
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Total execution time of all functions: 31.0447 ms.
+
+Function execution times:
+Time of Super graph Creation : 23.25 ms
+Time of Eulerian Tour : 5.33 ms
+Time of update data structure : 1.18 ms
+Time of PR-RST module : 0.87 ms
+Time of Pointer Jumping : 0.34 ms
+Time of Path Reversal : 0.05 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 181
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Total execution time of all functions: 30.8728 ms.
+
+Function execution times:
+Time of Super graph Creation : 23.02 ms
+Time of Eulerian Tour : 5.36 ms
+Time of update data structure : 1.21 ms
+Time of PR-RST module : 0.88 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Path Reversal : 0.05 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 189
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Total execution time of all functions: 31.8692 ms.
+
+Function execution times:
+Time of Super graph Creation : 23.83 ms
+Time of Eulerian Tour : 5.27 ms
+Time of update data structure : 1.28 ms
+Time of PR-RST module : 1.02 ms
+Time of Pointer Jumping : 0.35 ms
+Time of Path Reversal : 0.08 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 217
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Total execution time of all functions: 31.5989 ms.
+
+Function execution times:
+Time of Super graph Creation : 22.00 ms
+Time of Eulerian Tour : 5.88 ms
+Time of update data structure : 2.41 ms
+Time of PR-RST module : 0.89 ms
+Time of Pointer Jumping : 0.34 ms
+Time of Path Reversal : 0.05 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 194
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Total execution time of all functions: 31.5243 ms.
+
+Function execution times:
+Time of Super graph Creation : 23.70 ms
+Time of Eulerian Tour : 5.23 ms
+Time of update data structure : 1.23 ms
+Time of PR-RST module : 0.92 ms
+Time of Pointer Jumping : 0.34 ms
+Time of Path Reversal : 0.06 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Total execution time of all functions: 32.8499 ms.
+
+Function execution times:
+Time of Super graph Creation : 25.62 ms
+Time of Eulerian Tour : 5.37 ms
+Time of update data structure : 1.22 ms
+Time of Pointer Jumping : 0.33 ms
+Time of PR-RST module : 0.24 ms
+Time of Path Reversal : 0.04 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Total execution time of all functions: 23.8571 ms.
+
+Function execution times:
+Time of Super graph Creation : 14.26 ms
+Time of Eulerian Tour : 7.76 ms
+Time of update data structure : 1.19 ms
+Time of Pointer Jumping : 0.34 ms
+Time of PR-RST module : 0.25 ms
+Time of Path Reversal : 0.04 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 6
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Total execution time of all functions: 32.746 ms.
+
+Function execution times:
+Time of Super graph Creation : 25.56 ms
+Time of Eulerian Tour : 5.27 ms
+Time of update data structure : 1.18 ms
+Time of PR-RST module : 0.33 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Total execution time of all functions: 31.2662 ms.
+
+Function execution times:
+Time of Super graph Creation : 24.05 ms
+Time of Eulerian Tour : 5.40 ms
+Time of update data structure : 1.17 ms
+Time of Pointer Jumping : 0.33 ms
+Time of PR-RST module : 0.25 ms
+Time of Path Reversal : 0.04 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 1
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Total execution time of all functions: 20.5893 ms.
+
+Function execution times:
+Time of Super graph Creation : 13.29 ms
+Time of Eulerian Tour : 5.49 ms
+Time of update data structure : 1.18 ms
+Time of Pointer Jumping : 0.32 ms
+Time of PR-RST module : 0.24 ms
+Time of Path Reversal : 0.04 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 14
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Total execution time of all functions: 39.2052 ms.
+
+Function execution times:
+Time of Super graph Creation : 31.90 ms
+Time of Eulerian Tour : 5.35 ms
+Time of update data structure : 1.19 ms
+Time of PR-RST module : 0.36 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Path Reversal : 0.04 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 17
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Total execution time of all functions: 36.5232 ms.
+
+Function execution times:
+Time of Super graph Creation : 29.43 ms
+Time of Eulerian Tour : 5.12 ms
+Time of update data structure : 1.17 ms
+Time of PR-RST module : 0.41 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Path Reversal : 0.04 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 20
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Total execution time of all functions: 36.1576 ms.
+
+Function execution times:
+Time of Super graph Creation : 28.51 ms
+Time of Eulerian Tour : 5.42 ms
+Time of update data structure : 1.18 ms
+Time of PR-RST module : 0.65 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Path Reversal : 0.05 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 22
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Total execution time of all functions: 35.1864 ms.
+
+Function execution times:
+Time of Super graph Creation : 27.71 ms
+Time of Eulerian Tour : 5.41 ms
+Time of update data structure : 1.25 ms
+Time of PR-RST module : 0.41 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Path Reversal : 0.04 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: hollywood-2009.egr
+Number of deleted tree edges: 13
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Total execution time of all functions: 59.7907 ms.
+
+Function execution times:
+Time of Super graph Creation : 47.94 ms
+Time of Eulerian Tour : 8.59 ms
+Time of update data structure : 1.88 ms
+Time of PR-RST module : 0.77 ms
+Time of Pointer Jumping : 0.48 ms
+Time of Path Reversal : 0.08 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms

@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+GAP-road.txt,100,85.94
+GAP-road.txt,1000,87.0
+GAP-road.txt,10000,86.7
+GAP-road.txt,100000,95.13

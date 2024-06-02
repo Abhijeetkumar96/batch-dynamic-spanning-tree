@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+europe_osm.egr,50912018,108109320,100,14.8,68.37
+europe_osm.egr,50912018,108109320,1000,141.0,73.79
+europe_osm.egr,50912018,108109320,10000,1173.6,76.31
+europe_osm.egr,50912018,108109320,100000,22637.8,76.42

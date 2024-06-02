@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+germany_osm.egr,11548845,24738362,100,27.4,25.98
+germany_osm.egr,11548845,24738362,1000,139.8,25.98
+germany_osm.egr,11548845,24738362,10000,2439.0,27.46
+germany_osm.egr,11548845,24738362,100000,29215.6,26.63

@@ -65,11 +65,6 @@ int main(int argc, char* argv[]) {
     std::cout << "\n\n";
     std::cout << "filename: " << extract_filename(filename) << std::endl;
     
-    if(args.print_stat) {
-        G.print_stat();
-        return EXIT_SUCCESS;
-    }
-    
     // Handle replacement edge algorithms
     switch (args.rep_algorithm) {
         case CommandLineParser::SUPER_GRAPH:
@@ -138,6 +133,12 @@ int main(int argc, char* argv[]) {
         print_device_edge_list(tree_ds.d_updated_edge_list, tree_ds.num_edges);
 
         std::cout << "The edge list has been updated.\n";
+    }
+
+    if(args.print_stat) {
+        G.print_stat();
+        tree_ds.print_stats();
+        return EXIT_SUCCESS;
     }
 
     repair_spanning_tree(tree_ds);

@@ -1,0 +1,420 @@
+
+
+filename: hollywood-2009.egr
+Root: 1004859
+Number of deleted tree edges: 1519
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Root: 1004859
+Root: 1004859
+After repairing:
+Total execution time of all functions: 8.72924 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.89 ms
+Time of Super graph Creation : 1.49 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 965467
+Number of deleted tree edges: 1401
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Root: 965467
+Root: 965467
+After repairing:
+Total execution time of all functions: 8.74186 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.73 ms
+Time of Super graph Creation : 1.65 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 615569
+Number of deleted tree edges: 1477
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Root: 615569
+Root: 615569
+After repairing:
+Total execution time of all functions: 8.7358 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.69 ms
+Time of Super graph Creation : 1.69 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 401404
+Number of deleted tree edges: 1454
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Root: 401404
+Root: 401404
+After repairing:
+Total execution time of all functions: 8.73942 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.59 ms
+Time of Super graph Creation : 1.79 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 346419
+Number of deleted tree edges: 1505
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100000
+
+Root: 346419
+Root: 346419
+After repairing:
+Total execution time of all functions: 8.74167 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.82 ms
+Time of Super graph Creation : 1.56 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 383180
+Number of deleted tree edges: 153
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Root: 383180
+Root: 383180
+After repairing:
+Total execution time of all functions: 8.72927 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.86 ms
+Time of Super graph Creation : 1.52 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 1102354
+Number of deleted tree edges: 153
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Root: 1102354
+Root: 1102354
+After repairing:
+Total execution time of all functions: 8.72949 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.81 ms
+Time of Super graph Creation : 1.57 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 432854
+Number of deleted tree edges: 156
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Root: 432854
+Root: 432854
+After repairing:
+Total execution time of all functions: 8.72807 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.87 ms
+Time of Super graph Creation : 1.50 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 730900
+Number of deleted tree edges: 117
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Root: 730900
+Root: 730900
+After repairing:
+Total execution time of all functions: 8.72076 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.70 ms
+Time of Super graph Creation : 1.66 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 192164
+Number of deleted tree edges: 139
+numVert: 1139905, num_edges: 112840436 and delete batch size: 10000
+
+Root: 192164
+Root: 192164
+After repairing:
+Total execution time of all functions: 8.72724 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.94 ms
+Time of Super graph Creation : 1.43 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 794840
+Number of deleted tree edges: 0
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Root: 794840
+Root: 794840
+After repairing:
+Total execution time of all functions: 7.66835 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.87 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.45 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 24512
+Number of deleted tree edges: 1
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Root: 24512
+Root: 24512
+After repairing:
+Total execution time of all functions: 7.66908 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.66 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.66 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 439047
+Number of deleted tree edges: 2
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Root: 439047
+Root: 439047
+After repairing:
+Total execution time of all functions: 7.68033 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.64 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.68 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 961321
+Number of deleted tree edges: 2
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Root: 961321
+Root: 961321
+After repairing:
+Total execution time of all functions: 7.67462 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.71 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.61 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 231818
+Number of deleted tree edges: 2
+numVert: 1139905, num_edges: 112840436 and delete batch size: 100
+
+Root: 231818
+Root: 231818
+After repairing:
+Total execution time of all functions: 7.67151 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.65 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.66 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 385782
+Number of deleted tree edges: 15
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Root: 385782
+Root: 385782
+After repairing:
+Total execution time of all functions: 7.67783 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.68 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.64 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 1057923
+Number of deleted tree edges: 11
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Root: 1057923
+Root: 1057923
+After repairing:
+Total execution time of all functions: 7.67813 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.78 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.54 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 693232
+Number of deleted tree edges: 9
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Root: 693232
+Root: 693232
+After repairing:
+Total execution time of all functions: 7.67184 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.77 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.54 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 31799
+Number of deleted tree edges: 13
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Root: 31799
+Root: 31799
+After repairing:
+Total execution time of all functions: 7.66188 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.64 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.66 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: hollywood-2009.egr
+Root: 592001
+Number of deleted tree edges: 12
+numVert: 1139905, num_edges: 112840436 and delete batch size: 1000
+
+Root: 592001
+Root: 592001
+After repairing:
+Total execution time of all functions: 7.66958 ms.
+
+Function execution times:
+Time of Eulerian Tour : 5.79 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.53 ms
+Time of Pointer Jumping : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+soc-LiveJournal1.egr,4847571,85706224,100,4.6,26.88
+soc-LiveJournal1.egr,4847571,85706224,1000,48.2,27.54
+soc-LiveJournal1.egr,4847571,85706224,10000,483.2,27.7
+soc-LiveJournal1.egr,4847571,85706224,100000,4938.0,28.78

@@ -1,0 +1,883 @@
+
+
+filename: higgs-twitter.egr
+Root: 42535
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2523
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 42535
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 8.70794 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.45 ms
+Time of PR-RST module : 2.05 ms
+Time of PR_Shortcut : 0.74 ms
+Time of Path Reversal : 0.58 ms
+Time of Update data structure : 0.43 ms
+Time of Finding unique comps : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 89
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 6.13 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.87 ms
+Time of PR-RST module : 1.68 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.77 ms
+Time of Path Reversal : 0.58 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 32
+
+
+filename: higgs-twitter.egr
+Root: 119044
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2795
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 119044
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 8.46047 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.07 ms
+Time of PR-RST module : 2.07 ms
+Time of PR_Shortcut : 0.79 ms
+Time of Path Reversal : 0.59 ms
+Time of Update data structure : 0.49 ms
+Time of Finding unique comps : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 112
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.60 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.87 ms
+Time of PR-RST module : 1.10 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.58 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 21
+
+
+filename: higgs-twitter.egr
+Root: 385302
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2789
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 385302
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 8.89688 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.58 ms
+Time of PR-RST module : 2.06 ms
+Time of PR_Shortcut : 0.77 ms
+Time of Path Reversal : 0.59 ms
+Time of Update data structure : 0.44 ms
+Time of Finding unique comps : 0.23 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 115
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.58 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.86 ms
+Time of PR-RST module : 1.10 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.58 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 24
+
+
+filename: higgs-twitter.egr
+Root: 376670
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2883
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 376670
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 8.44503 ms.
+
+Function execution times:
+Time of Super graph Creation : 4.10 ms
+Time of PR-RST module : 2.06 ms
+Time of PR_Shortcut : 0.74 ms
+Time of Path Reversal : 0.59 ms
+Time of Update data structure : 0.50 ms
+Time of Finding unique comps : 0.22 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 112
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.88 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.87 ms
+Time of PR-RST module : 1.39 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.58 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 30
+
+
+filename: higgs-twitter.egr
+Root: 281259
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2718
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 281259
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 9.84242 ms.
+
+Function execution times:
+Time of Super graph Creation : 5.54 ms
+Time of PR-RST module : 2.10 ms
+Time of PR_Shortcut : 0.77 ms
+Time of Path Reversal : 0.58 ms
+Time of Update data structure : 0.43 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.19 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 141
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.33 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.87 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR-RST module : 0.85 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.58 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 29
+
+
+filename: higgs-twitter.egr
+Root: 143725
+The input parent array is a BFS tree.
+Number of deleted tree edges: 288
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 143725
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 8.03398 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.95 ms
+Time of PR-RST module : 1.96 ms
+Time of PR_Shortcut : 0.75 ms
+Time of Path Reversal : 0.59 ms
+Time of Update data structure : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 17
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.11 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.87 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.80 ms
+Time of PR-RST module : 0.64 ms
+Time of Path Reversal : 0.58 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: higgs-twitter.egr
+Root: 300029
+The input parent array is a BFS tree.
+Number of deleted tree edges: 264
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 300029
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 7.03755 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.94 ms
+Time of PR-RST module : 0.94 ms
+Time of PR_Shortcut : 0.78 ms
+Time of Path Reversal : 0.59 ms
+Time of Update data structure : 0.40 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 17
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.12 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.86 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.80 ms
+Time of PR-RST module : 0.64 ms
+Time of Path Reversal : 0.60 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 3
+
+
+filename: higgs-twitter.egr
+Root: 57421
+The input parent array is a BFS tree.
+Number of deleted tree edges: 285
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 57421
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 7.25664 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.92 ms
+Time of PR-RST module : 1.22 ms
+Time of PR_Shortcut : 0.75 ms
+Time of Path Reversal : 0.58 ms
+Time of Update data structure : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 16
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.03 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.85 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.58 ms
+Time of PR-RST module : 0.56 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 3
+
+
+filename: higgs-twitter.egr
+Root: 105172
+The input parent array is a BFS tree.
+Number of deleted tree edges: 258
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 105172
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.88995 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.92 ms
+Time of PR-RST module : 0.87 ms
+Time of PR_Shortcut : 0.76 ms
+Time of Path Reversal : 0.58 ms
+Time of Update data structure : 0.39 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 13
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.04 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.86 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.58 ms
+Time of PR-RST module : 0.57 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 3
+
+
+filename: higgs-twitter.egr
+Root: 205636
+The input parent array is a BFS tree.
+Number of deleted tree edges: 266
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 205636
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.90532 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.94 ms
+Time of PR-RST module : 0.87 ms
+Time of PR_Shortcut : 0.76 ms
+Time of Path Reversal : 0.56 ms
+Time of Update data structure : 0.39 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 21
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 5.08 ms.
+
+Function execution times:
+Time of Super graph Creation : 1.83 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR_Shortcut : 0.80 ms
+Time of PR-RST module : 0.63 ms
+Time of Path Reversal : 0.58 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: higgs-twitter.egr
+Root: 100303
+The input parent array is a BFS tree.
+Number of deleted tree edges: 0
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 100303
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+
+Total execution time for Deletion: 4.4016 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.71 ms
+Time of Update data structure : 0.36 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 66215
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 66215
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.32513 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.89 ms
+Time of PR_Shortcut : 0.76 ms
+Time of Path Reversal : 0.56 ms
+Time of PR-RST module : 0.39 ms
+Time of Update data structure : 0.38 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 2
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.66 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.82 ms
+Time of PR_Shortcut : 0.81 ms
+Time of Path Reversal : 0.58 ms
+Time of PR-RST module : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: higgs-twitter.egr
+Root: 75343
+The input parent array is a BFS tree.
+Number of deleted tree edges: 0
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 75343
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+
+Total execution time for Deletion: 4.39451 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.70 ms
+Time of Update data structure : 0.36 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 348256
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 348256
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.24174 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.81 ms
+Time of PR_Shortcut : 0.74 ms
+Time of Path Reversal : 0.57 ms
+Time of PR-RST module : 0.40 ms
+Time of Update data structure : 0.39 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 2
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.62 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.81 ms
+Time of PR_Shortcut : 0.78 ms
+Time of Path Reversal : 0.58 ms
+Time of PR-RST module : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: higgs-twitter.egr
+Root: 431444
+The input parent array is a BFS tree.
+Number of deleted tree edges: 0
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 431444
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+
+Total execution time for Deletion: 4.39456 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.70 ms
+Time of Update data structure : 0.36 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 124622
+The input parent array is a BFS tree.
+Number of deleted tree edges: 24
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 124622
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.52743 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.84 ms
+Time of PR_Shortcut : 0.75 ms
+Time of PR-RST module : 0.60 ms
+Time of Path Reversal : 0.58 ms
+Time of Update data structure : 0.39 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 7
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.89 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of Super graph Creation : 0.81 ms
+Time of PR_Shortcut : 0.78 ms
+Time of Path Reversal : 0.59 ms
+Time of PR-RST module : 0.49 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: higgs-twitter.egr
+Root: 135054
+The input parent array is a BFS tree.
+Number of deleted tree edges: 35
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 135054
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.91317 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.89 ms
+Time of PR-RST module : 0.92 ms
+Time of PR_Shortcut : 0.76 ms
+Time of Path Reversal : 0.58 ms
+Time of Update data structure : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 4
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.84 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.82 ms
+Time of PR_Shortcut : 0.79 ms
+Time of Path Reversal : 0.59 ms
+Time of PR-RST module : 0.42 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: higgs-twitter.egr
+Root: 441401
+The input parent array is a BFS tree.
+Number of deleted tree edges: 22
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 441401
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.54767 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.87 ms
+Time of PR_Shortcut : 0.75 ms
+Time of PR-RST module : 0.61 ms
+Time of Path Reversal : 0.57 ms
+Time of Update data structure : 0.40 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.90 ms.
+
+Function execution times:
+Time of Finding unique comps : 0.99 ms
+Time of Super graph Creation : 0.81 ms
+Time of PR_Shortcut : 0.79 ms
+Time of Path Reversal : 0.58 ms
+Time of PR-RST module : 0.50 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: higgs-twitter.egr
+Root: 418836
+The input parent array is a BFS tree.
+Number of deleted tree edges: 28
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 418836
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.50952 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.84 ms
+Time of PR_Shortcut : 0.76 ms
+Time of PR-RST module : 0.60 ms
+Time of Path Reversal : 0.58 ms
+Time of Update data structure : 0.39 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.74 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of Super graph Creation : 0.81 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.59 ms
+Time of PR-RST module : 0.31 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: higgs-twitter.egr
+Root: 294061
+The input parent array is a BFS tree.
+Number of deleted tree edges: 24
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 294061
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 6.48918 ms.
+
+Function execution times:
+Time of Super graph Creation : 3.79 ms
+Time of PR_Shortcut : 0.75 ms
+Time of PR-RST module : 0.60 ms
+Time of Path Reversal : 0.59 ms
+Time of Update data structure : 0.41 ms
+Time of Pointer Jumping : 0.20 ms
+Time of Finding unique comps : 0.12 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 3
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 3.68 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of Super graph Creation : 0.81 ms
+Time of PR_Shortcut : 0.80 ms
+Time of Path Reversal : 0.58 ms
+Time of PR-RST module : 0.27 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2

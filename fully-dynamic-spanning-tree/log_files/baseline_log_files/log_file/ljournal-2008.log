@@ -1,0 +1,259 @@
+filename: ljournal-2008.egr
+Delete batch Size: 100000
+Depth of graph: 75
+Total execution time of all functions: 178.968 ms.
+
+Function execution times:
+Time of PR-RST module : 95.80 ms
+Time of simple BFS : 42.52 ms
+Time of Adam_BFS : 21.41 ms
+Time of CC : 14.25 ms
+Time of update datastr : 4.99 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100000
+Depth of graph: 75
+Total execution time of all functions: 164.955 ms.
+
+Function execution times:
+Time of PR-RST module : 82.64 ms
+Time of simple BFS : 43.80 ms
+Time of Adam_BFS : 21.66 ms
+Time of CC : 11.88 ms
+Time of update datastr : 4.98 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100000
+Depth of graph: 75
+Total execution time of all functions: 177.309 ms.
+
+Function execution times:
+Time of PR-RST module : 95.75 ms
+Time of simple BFS : 42.47 ms
+Time of Adam_BFS : 21.65 ms
+Time of CC : 12.46 ms
+Time of update datastr : 4.98 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100000
+Depth of graph: 75
+Total execution time of all functions: 160.292 ms.
+
+Function execution times:
+Time of PR-RST module : 82.22 ms
+Time of simple BFS : 41.23 ms
+Time of Adam_BFS : 21.52 ms
+Time of CC : 11.38 ms
+Time of update datastr : 3.95 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100000
+Depth of graph: 75
+Total execution time of all functions: 161.493 ms.
+
+Function execution times:
+Time of PR-RST module : 82.22 ms
+Time of simple BFS : 42.04 ms
+Time of Adam_BFS : 21.68 ms
+Time of CC : 10.62 ms
+Time of update datastr : 4.93 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 10000
+Depth of graph: 75
+Total execution time of all functions: 178.629 ms.
+
+Function execution times:
+Time of PR-RST module : 95.65 ms
+Time of simple BFS : 41.83 ms
+Time of Adam_BFS : 21.48 ms
+Time of CC : 14.74 ms
+Time of update datastr : 4.93 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 10000
+Depth of graph: 75
+Total execution time of all functions: 165.741 ms.
+
+Function execution times:
+Time of PR-RST module : 82.80 ms
+Time of simple BFS : 43.14 ms
+Time of Adam_BFS : 21.67 ms
+Time of CC : 13.19 ms
+Time of update datastr : 4.94 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 10000
+Depth of graph: 75
+Total execution time of all functions: 178.312 ms.
+
+Function execution times:
+Time of PR-RST module : 82.67 ms
+Time of simple BFS : 42.73 ms
+Time of CC : 26.53 ms
+Time of Adam_BFS : 21.44 ms
+Time of update datastr : 4.95 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 10000
+Depth of graph: 75
+Total execution time of all functions: 166.061 ms.
+
+Function execution times:
+Time of PR-RST module : 82.49 ms
+Time of simple BFS : 42.85 ms
+Time of Adam_BFS : 21.44 ms
+Time of CC : 14.34 ms
+Time of update datastr : 4.95 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 10000
+Depth of graph: 75
+Total execution time of all functions: 164.351 ms.
+
+Function execution times:
+Time of PR-RST module : 83.13 ms
+Time of simple BFS : 42.12 ms
+Time of Adam_BFS : 21.39 ms
+Time of CC : 12.79 ms
+Time of update datastr : 4.93 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100
+Depth of graph: 75
+Total execution time of all functions: 165.488 ms.
+
+Function execution times:
+Time of PR-RST module : 83.29 ms
+Time of simple BFS : 41.05 ms
+Time of Adam_BFS : 21.45 ms
+Time of CC : 14.76 ms
+Time of update datastr : 4.94 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100
+Depth of graph: 75
+Total execution time of all functions: 161.788 ms.
+
+Function execution times:
+Time of PR-RST module : 82.68 ms
+Time of simple BFS : 41.22 ms
+Time of Adam_BFS : 21.42 ms
+Time of CC : 11.51 ms
+Time of update datastr : 4.95 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100
+Depth of graph: 75
+Total execution time of all functions: 162.868 ms.
+
+Function execution times:
+Time of PR-RST module : 83.21 ms
+Time of simple BFS : 40.82 ms
+Time of Adam_BFS : 21.29 ms
+Time of CC : 12.61 ms
+Time of update datastr : 4.94 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100
+Depth of graph: 75
+Total execution time of all functions: 161.76 ms.
+
+Function execution times:
+Time of PR-RST module : 82.10 ms
+Time of simple BFS : 41.14 ms
+Time of Adam_BFS : 21.75 ms
+Time of CC : 12.88 ms
+Time of update datastr : 3.89 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 100
+Depth of graph: 75
+Total execution time of all functions: 164.776 ms.
+
+Function execution times:
+Time of PR-RST module : 83.34 ms
+Time of simple BFS : 41.01 ms
+Time of Adam_BFS : 21.51 ms
+Time of CC : 13.97 ms
+Time of update datastr : 4.94 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 1000
+Depth of graph: 75
+Total execution time of all functions: 164.806 ms.
+
+Function execution times:
+Time of PR-RST module : 82.54 ms
+Time of simple BFS : 41.56 ms
+Time of Adam_BFS : 21.63 ms
+Time of CC : 14.14 ms
+Time of update datastr : 4.93 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 1000
+Depth of graph: 75
+Total execution time of all functions: 163.316 ms.
+
+Function execution times:
+Time of PR-RST module : 82.47 ms
+Time of simple BFS : 41.53 ms
+Time of Adam_BFS : 21.32 ms
+Time of CC : 13.04 ms
+Time of update datastr : 4.96 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 1000
+Depth of graph: 75
+Total execution time of all functions: 166.942 ms.
+
+Function execution times:
+Time of PR-RST module : 82.88 ms
+Time of simple BFS : 42.31 ms
+Time of Adam_BFS : 21.54 ms
+Time of CC : 15.25 ms
+Time of update datastr : 4.96 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 1000
+Depth of graph: 75
+Total execution time of all functions: 165.553 ms.
+
+Function execution times:
+Time of PR-RST module : 82.87 ms
+Time of simple BFS : 42.94 ms
+Time of Adam_BFS : 21.48 ms
+Time of CC : 13.27 ms
+Time of update datastr : 4.99 ms
+----------------------------------------------------------------
+
+filename: ljournal-2008.egr
+Delete batch Size: 1000
+Depth of graph: 75
+Total execution time of all functions: 165.304 ms.
+
+Function execution times:
+Time of PR-RST module : 82.45 ms
+Time of simple BFS : 43.36 ms
+Time of Adam_BFS : 21.42 ms
+Time of CC : 13.14 ms
+Time of update datastr : 4.93 ms
+----------------------------------------------------------------

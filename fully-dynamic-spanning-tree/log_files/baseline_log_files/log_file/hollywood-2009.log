@@ -1,0 +1,259 @@
+filename: hollywood-2009.egr
+Delete batch Size: 100000
+Depth of graph: 44508
+Total execution time of all functions: 5552.12 ms.
+
+Function execution times:
+Time of Adam_BFS : 4799.66 ms
+Time of simple BFS : 715.04 ms
+Time of PR-RST module : 25.66 ms
+Time of CC : 6.72 ms
+Time of update datastr : 5.05 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100000
+Depth of graph: 44508
+Total execution time of all functions: 5717.63 ms.
+
+Function execution times:
+Time of Adam_BFS : 4971.86 ms
+Time of simple BFS : 709.51 ms
+Time of PR-RST module : 22.46 ms
+Time of CC : 8.73 ms
+Time of update datastr : 5.08 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100000
+Depth of graph: 44508
+Total execution time of all functions: 5604.3 ms.
+
+Function execution times:
+Time of Adam_BFS : 4851.57 ms
+Time of simple BFS : 715.99 ms
+Time of PR-RST module : 25.55 ms
+Time of CC : 6.14 ms
+Time of update datastr : 5.04 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100000
+Depth of graph: 44508
+Total execution time of all functions: 5464.6 ms.
+
+Function execution times:
+Time of Adam_BFS : 4703.93 ms
+Time of simple BFS : 716.91 ms
+Time of PR-RST module : 29.13 ms
+Time of CC : 10.64 ms
+Time of update datastr : 3.99 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100000
+Depth of graph: 44508
+Total execution time of all functions: 5483.88 ms.
+
+Function execution times:
+Time of Adam_BFS : 4733.60 ms
+Time of simple BFS : 712.55 ms
+Time of PR-RST module : 25.90 ms
+Time of CC : 7.84 ms
+Time of update datastr : 3.99 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 10000
+Depth of graph: 44508
+Total execution time of all functions: 5570.74 ms.
+
+Function execution times:
+Time of Adam_BFS : 4816.13 ms
+Time of simple BFS : 714.88 ms
+Time of PR-RST module : 25.59 ms
+Time of CC : 10.17 ms
+Time of update datastr : 3.98 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 10000
+Depth of graph: 44508
+Total execution time of all functions: 5421.49 ms.
+
+Function execution times:
+Time of Adam_BFS : 4671.27 ms
+Time of simple BFS : 713.34 ms
+Time of PR-RST module : 25.52 ms
+Time of CC : 7.36 ms
+Time of update datastr : 4.01 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 10000
+Depth of graph: 44508
+Total execution time of all functions: 5482.51 ms.
+
+Function execution times:
+Time of Adam_BFS : 4733.67 ms
+Time of simple BFS : 715.83 ms
+Time of PR-RST module : 22.02 ms
+Time of CC : 6.98 ms
+Time of update datastr : 4.01 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 10000
+Depth of graph: 44508
+Total execution time of all functions: 5796.93 ms.
+
+Function execution times:
+Time of Adam_BFS : 5041.42 ms
+Time of simple BFS : 715.50 ms
+Time of PR-RST module : 28.90 ms
+Time of CC : 7.08 ms
+Time of update datastr : 4.04 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 10000
+Depth of graph: 44508
+Total execution time of all functions: 5893.11 ms.
+
+Function execution times:
+Time of Adam_BFS : 5140.66 ms
+Time of simple BFS : 712.88 ms
+Time of PR-RST module : 25.36 ms
+Time of CC : 10.20 ms
+Time of update datastr : 4.00 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100
+Depth of graph: 44508
+Total execution time of all functions: 5552.87 ms.
+
+Function execution times:
+Time of Adam_BFS : 4801.81 ms
+Time of simple BFS : 716.18 ms
+Time of PR-RST module : 22.10 ms
+Time of CC : 8.76 ms
+Time of update datastr : 4.01 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100
+Depth of graph: 44508
+Total execution time of all functions: 5763.5 ms.
+
+Function execution times:
+Time of Adam_BFS : 5002.97 ms
+Time of simple BFS : 721.13 ms
+Time of PR-RST module : 25.66 ms
+Time of CC : 8.76 ms
+Time of update datastr : 4.99 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100
+Depth of graph: 44508
+Total execution time of all functions: 5475.27 ms.
+
+Function execution times:
+Time of Adam_BFS : 4722.74 ms
+Time of simple BFS : 716.66 ms
+Time of PR-RST module : 22.21 ms
+Time of CC : 8.61 ms
+Time of update datastr : 5.05 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100
+Depth of graph: 44508
+Total execution time of all functions: 5577.98 ms.
+
+Function execution times:
+Time of Adam_BFS : 4824.54 ms
+Time of simple BFS : 715.59 ms
+Time of PR-RST module : 25.63 ms
+Time of CC : 8.23 ms
+Time of update datastr : 3.99 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 100
+Depth of graph: 44508
+Total execution time of all functions: 5789.59 ms.
+
+Function execution times:
+Time of Adam_BFS : 5031.32 ms
+Time of simple BFS : 713.92 ms
+Time of PR-RST module : 32.13 ms
+Time of CC : 8.20 ms
+Time of update datastr : 4.02 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 1000
+Depth of graph: 44508
+Total execution time of all functions: 5646.22 ms.
+
+Function execution times:
+Time of Adam_BFS : 4895.77 ms
+Time of simple BFS : 712.46 ms
+Time of PR-RST module : 25.55 ms
+Time of CC : 8.43 ms
+Time of update datastr : 4.01 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 1000
+Depth of graph: 44508
+Total execution time of all functions: 5547.47 ms.
+
+Function execution times:
+Time of Adam_BFS : 4795.03 ms
+Time of simple BFS : 714.99 ms
+Time of PR-RST module : 25.53 ms
+Time of CC : 7.91 ms
+Time of update datastr : 4.00 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 1000
+Depth of graph: 44508
+Total execution time of all functions: 5519.34 ms.
+
+Function execution times:
+Time of Adam_BFS : 4765.11 ms
+Time of simple BFS : 715.87 ms
+Time of PR-RST module : 25.53 ms
+Time of CC : 8.85 ms
+Time of update datastr : 4.00 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 1000
+Depth of graph: 44508
+Total execution time of all functions: 5589.79 ms.
+
+Function execution times:
+Time of Adam_BFS : 4830.43 ms
+Time of simple BFS : 716.59 ms
+Time of PR-RST module : 28.80 ms
+Time of CC : 9.98 ms
+Time of update datastr : 3.99 ms
+----------------------------------------------------------------
+
+filename: hollywood-2009.egr
+Delete batch Size: 1000
+Depth of graph: 44508
+Total execution time of all functions: 5678.03 ms.
+
+Function execution times:
+Time of Adam_BFS : 4924.51 ms
+Time of simple BFS : 713.57 ms
+Time of PR-RST module : 25.91 ms
+Time of CC : 10.03 ms
+Time of update datastr : 4.01 ms
+----------------------------------------------------------------

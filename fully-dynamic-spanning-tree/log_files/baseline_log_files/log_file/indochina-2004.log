@@ -1,0 +1,259 @@
+filename: indochina-2004.egr
+Delete batch Size: 100000
+Depth of graph: 297
+Total execution time of all functions: 557.936 ms.
+
+Function execution times:
+Time of simple BFS : 230.16 ms
+Time of PR-RST module : 209.05 ms
+Time of Adam_BFS : 76.63 ms
+Time of CC : 35.65 ms
+Time of update datastr : 6.44 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100000
+Depth of graph: 297
+Total execution time of all functions: 564.01 ms.
+
+Function execution times:
+Time of PR-RST module : 226.87 ms
+Time of simple BFS : 219.51 ms
+Time of Adam_BFS : 77.01 ms
+Time of CC : 34.16 ms
+Time of update datastr : 6.47 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100000
+Depth of graph: 297
+Total execution time of all functions: 569.457 ms.
+
+Function execution times:
+Time of PR-RST module : 231.44 ms
+Time of simple BFS : 221.34 ms
+Time of Adam_BFS : 74.92 ms
+Time of CC : 35.30 ms
+Time of update datastr : 6.45 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100000
+Depth of graph: 297
+Total execution time of all functions: 554.705 ms.
+
+Function execution times:
+Time of simple BFS : 220.29 ms
+Time of PR-RST module : 207.75 ms
+Time of Adam_BFS : 78.01 ms
+Time of CC : 37.96 ms
+Time of update datastr : 10.70 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100000
+Depth of graph: 297
+Total execution time of all functions: 567.631 ms.
+
+Function execution times:
+Time of PR-RST module : 230.30 ms
+Time of simple BFS : 222.85 ms
+Time of Adam_BFS : 74.51 ms
+Time of CC : 33.50 ms
+Time of update datastr : 6.47 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 10000
+Depth of graph: 297
+Total execution time of all functions: 589.223 ms.
+
+Function execution times:
+Time of PR-RST module : 248.68 ms
+Time of simple BFS : 227.75 ms
+Time of Adam_BFS : 74.24 ms
+Time of CC : 32.10 ms
+Time of update datastr : 6.46 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 10000
+Depth of graph: 297
+Total execution time of all functions: 549.766 ms.
+
+Function execution times:
+Time of simple BFS : 225.09 ms
+Time of PR-RST module : 208.51 ms
+Time of Adam_BFS : 74.65 ms
+Time of CC : 35.04 ms
+Time of update datastr : 6.48 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 10000
+Depth of graph: 297
+Total execution time of all functions: 540.329 ms.
+
+Function execution times:
+Time of simple BFS : 220.81 ms
+Time of PR-RST module : 190.91 ms
+Time of Adam_BFS : 74.20 ms
+Time of CC : 47.95 ms
+Time of update datastr : 6.46 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 10000
+Depth of graph: 297
+Total execution time of all functions: 528.945 ms.
+
+Function execution times:
+Time of simple BFS : 223.28 ms
+Time of PR-RST module : 190.19 ms
+Time of Adam_BFS : 76.98 ms
+Time of CC : 32.07 ms
+Time of update datastr : 6.43 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 10000
+Depth of graph: 297
+Total execution time of all functions: 569.362 ms.
+
+Function execution times:
+Time of PR-RST module : 230.63 ms
+Time of simple BFS : 226.98 ms
+Time of Adam_BFS : 73.15 ms
+Time of CC : 32.12 ms
+Time of update datastr : 6.48 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100
+Depth of graph: 297
+Total execution time of all functions: 530.581 ms.
+
+Function execution times:
+Time of simple BFS : 225.35 ms
+Time of PR-RST module : 187.00 ms
+Time of Adam_BFS : 77.81 ms
+Time of CC : 33.97 ms
+Time of update datastr : 6.45 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100
+Depth of graph: 297
+Total execution time of all functions: 549.804 ms.
+
+Function execution times:
+Time of simple BFS : 221.61 ms
+Time of PR-RST module : 209.27 ms
+Time of Adam_BFS : 73.05 ms
+Time of CC : 39.44 ms
+Time of update datastr : 6.42 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100
+Depth of graph: 297
+Total execution time of all functions: 531.161 ms.
+
+Function execution times:
+Time of simple BFS : 225.55 ms
+Time of PR-RST module : 190.67 ms
+Time of Adam_BFS : 73.13 ms
+Time of CC : 35.30 ms
+Time of update datastr : 6.50 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100
+Depth of graph: 297
+Total execution time of all functions: 534.132 ms.
+
+Function execution times:
+Time of simple BFS : 224.76 ms
+Time of PR-RST module : 190.38 ms
+Time of Adam_BFS : 73.81 ms
+Time of CC : 38.72 ms
+Time of update datastr : 6.46 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 100
+Depth of graph: 297
+Total execution time of all functions: 514.226 ms.
+
+Function execution times:
+Time of simple BFS : 229.26 ms
+Time of PR-RST module : 173.96 ms
+Time of Adam_BFS : 73.13 ms
+Time of CC : 31.44 ms
+Time of update datastr : 6.44 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 1000
+Depth of graph: 297
+Total execution time of all functions: 532.052 ms.
+
+Function execution times:
+Time of simple BFS : 226.36 ms
+Time of PR-RST module : 190.43 ms
+Time of Adam_BFS : 73.17 ms
+Time of CC : 35.65 ms
+Time of update datastr : 6.44 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 1000
+Depth of graph: 297
+Total execution time of all functions: 539.296 ms.
+
+Function execution times:
+Time of simple BFS : 226.70 ms
+Time of PR-RST module : 190.03 ms
+Time of Adam_BFS : 76.24 ms
+Time of CC : 39.88 ms
+Time of update datastr : 6.44 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 1000
+Depth of graph: 297
+Total execution time of all functions: 507.356 ms.
+
+Function execution times:
+Time of simple BFS : 216.82 ms
+Time of PR-RST module : 171.53 ms
+Time of Adam_BFS : 77.08 ms
+Time of CC : 35.48 ms
+Time of update datastr : 6.45 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 1000
+Depth of graph: 297
+Total execution time of all functions: 547.589 ms.
+
+Function execution times:
+Time of simple BFS : 217.98 ms
+Time of PR-RST module : 208.05 ms
+Time of Adam_BFS : 75.69 ms
+Time of CC : 39.39 ms
+Time of update datastr : 6.48 ms
+----------------------------------------------------------------
+
+filename: indochina-2004.egr
+Delete batch Size: 1000
+Depth of graph: 297
+Total execution time of all functions: 571.95 ms.
+
+Function execution times:
+Time of PR-RST module : 230.30 ms
+Time of simple BFS : 222.49 ms
+Time of Adam_BFS : 73.04 ms
+Time of CC : 39.67 ms
+Time of update datastr : 6.46 ms
+----------------------------------------------------------------

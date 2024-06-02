@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+uk-2002.txt,100,101.7
+uk-2002.txt,1000,100.56
+uk-2002.txt,10000,104.77
+uk-2002.txt,100000,105.88

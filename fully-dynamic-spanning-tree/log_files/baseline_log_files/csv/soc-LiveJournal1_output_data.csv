@@ -1,0 +1,21 @@
+filename,delete_batch_size,depth_of_graph,Adam_BFS,simple BFS,PR-RST module,CC,update datastr
+soc-LiveJournal1.egr,100,1877,197.62,82.87,48.1,14.2,5.9
+soc-LiveJournal1.egr,100,1877,194.5,80.76,48.65,19.96,4.8
+soc-LiveJournal1.egr,100,1877,199.01,79.54,48.21,23.18,4.85
+soc-LiveJournal1.egr,100,1877,199.29,82.36,48.1,17.47,4.89
+soc-LiveJournal1.egr,100,1877,199.45,82.32,48.26,14.19,4.86
+soc-LiveJournal1.egr,1000,1877,200.34,82.41,48.27,25.63,4.83
+soc-LiveJournal1.egr,1000,1877,192.71,82.19,48.76,21.27,4.86
+soc-LiveJournal1.egr,1000,1877,203.54,79.17,47.62,20.28,4.85
+soc-LiveJournal1.egr,1000,1877,200.96,79.89,48.45,23.15,4.85
+soc-LiveJournal1.egr,1000,1877,193.28,80.17,48.51,24.64,4.84
+soc-LiveJournal1.egr,10000,1877,192.5,82.44,47.98,21.75,4.84
+soc-LiveJournal1.egr,10000,1877,198.06,82.55,48.4,18.57,4.85
+soc-LiveJournal1.egr,10000,1877,199.22,82.75,48.33,21.99,4.84
+soc-LiveJournal1.egr,10000,1877,198.38,99.56,47.85,18.42,4.88
+soc-LiveJournal1.egr,10000,1877,193.74,93.26,48.48,23.1,4.85
+soc-LiveJournal1.egr,100000,1877,198.16,80.89,47.82,21.13,4.88
+soc-LiveJournal1.egr,100000,1877,196.61,82.52,47.51,18.09,4.85
+soc-LiveJournal1.egr,100000,1877,199.12,82.36,47.6,23.28,4.85
+soc-LiveJournal1.egr,100000,1877,200.11,81.65,48.3,21.31,4.84
+soc-LiveJournal1.egr,100000,1877,198.05,82.16,48.24,17.2,4.84

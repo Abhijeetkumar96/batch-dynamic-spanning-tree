@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+GAP-road.egr,6262,100,1128.06,886.76,604.62
+GAP-road.egr,6262,1000,1146.56,894.31,619.68
+GAP-road.egr,6262,10000,1107.58,884.06,580.64
+GAP-road.egr,6262,100000,1105.38,882.86,614.27

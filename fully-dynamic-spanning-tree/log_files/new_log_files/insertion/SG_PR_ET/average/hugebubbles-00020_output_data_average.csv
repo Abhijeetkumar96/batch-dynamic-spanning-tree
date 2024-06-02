@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+hugebubbles-00020.egr,21198119,63580358,100,55.4,66.24
+hugebubbles-00020.egr,21198119,63580358,1000,526.4,70.01
+hugebubbles-00020.egr,21198119,63580358,10000,4515.0,69.82
+hugebubbles-00020.egr,21198119,63580358,100000,38058.2,63.8

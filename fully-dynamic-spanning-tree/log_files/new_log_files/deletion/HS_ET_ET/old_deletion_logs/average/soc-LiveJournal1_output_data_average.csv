@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+soc-LiveJournal1.txt,100,33.04
+soc-LiveJournal1.txt,1000,36.72
+soc-LiveJournal1.txt,10000,37.94
+soc-LiveJournal1.txt,100000,49.74

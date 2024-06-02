@@ -1,0 +1,580 @@
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 62.907000 ms 
+Time of (5)Retrieving back first and last times  : 50.36700 ms 
+Time of (12)Hooking Shortcutting : 31.12700 ms 
+Time of (11)Shortcut rep : 8.88100 ms 
+Time of (3)Processing for multi component Euler tour : 7.27700 ms 
+Time of (18)PR Loop : 6.50500 ms 
+Time of (1)Get key rem collections : 3.09100 ms 
+Time of (6)Edge Deletion : 2.73000 ms 
+Time of (20)Reverse Edges and Connect Parent : 2.02200 ms 
+Time of (9)Get key rem collections : 1.60900 ms 
+Time of (8)Generate new edges : 1.26700 ms 
+Time of (2)Convert to collection : 1.11800 ms 
+Time of (0)Extracting Roots : 1.05100 ms 
+Time of (15)Transedges prefix : 0.99200 ms 
+Time of (10)Convert to collection : 0.80700 ms 
+Time of (7)Remove edges : 0.62100 ms 
+Time of (13)Compress Graph : 0.55700 ms 
+Time of (19)Component Parent, Reversals : 0.42900 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 183.38100 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 62.806000 ms 
+Time of (5)Retrieving back first and last times  : 43.83600 ms 
+Time of (12)Hooking Shortcutting : 30.18800 ms 
+Time of (11)Shortcut rep : 9.57300 ms 
+Time of (3)Processing for multi component Euler tour : 7.23100 ms 
+Time of (18)PR Loop : 4.16600 ms 
+Time of (1)Get key rem collections : 3.15800 ms 
+Time of (6)Edge Deletion : 2.85400 ms 
+Time of (20)Reverse Edges and Connect Parent : 2.00700 ms 
+Time of (9)Get key rem collections : 1.65900 ms 
+Time of (8)Generate new edges : 1.29400 ms 
+Time of (2)Convert to collection : 1.12000 ms 
+Time of (0)Extracting Roots : 1.03800 ms 
+Time of (15)Transedges prefix : 0.98800 ms 
+Time of (10)Convert to collection : 0.83900 ms 
+Time of (7)Remove edges : 0.61500 ms 
+Time of (13)Compress Graph : 0.54700 ms 
+Time of (19)Component Parent, Reversals : 0.43300 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 174.37700 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 65.565000 ms 
+Time of (5)Retrieving back first and last times  : 50.96600 ms 
+Time of (12)Hooking Shortcutting : 29.37600 ms 
+Time of (11)Shortcut rep : 8.97500 ms 
+Time of (3)Processing for multi component Euler tour : 7.20900 ms 
+Time of (18)PR Loop : 6.28400 ms 
+Time of (1)Get key rem collections : 3.42100 ms 
+Time of (6)Edge Deletion : 3.19400 ms 
+Time of (20)Reverse Edges and Connect Parent : 2.04200 ms 
+Time of (9)Get key rem collections : 1.59600 ms 
+Time of (8)Generate new edges : 1.27200 ms 
+Time of (2)Convert to collection : 1.14100 ms 
+Time of (0)Extracting Roots : 1.12600 ms 
+Time of (15)Transedges prefix : 0.99800 ms 
+Time of (10)Convert to collection : 0.80900 ms 
+Time of (13)Compress Graph : 0.63700 ms 
+Time of (7)Remove edges : 0.60400 ms 
+Time of (19)Component Parent, Reversals : 0.44000 ms 
+Time of (17)PR init : 0.02700 ms 
+Time of (14)Get compressed list : 0.01200 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time (total): 185.70200 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 62.593000 ms 
+Time of (5)Retrieving back first and last times  : 43.40200 ms 
+Time of (12)Hooking Shortcutting : 16.64600 ms 
+Time of (11)Shortcut rep : 8.86700 ms 
+Time of (3)Processing for multi component Euler tour : 7.23100 ms 
+Time of (18)PR Loop : 5.09900 ms 
+Time of (6)Edge Deletion : 4.16600 ms 
+Time of (1)Get key rem collections : 3.32900 ms 
+Time of (20)Reverse Edges and Connect Parent : 2.02600 ms 
+Time of (9)Get key rem collections : 1.67300 ms 
+Time of (8)Generate new edges : 1.58300 ms 
+Time of (2)Convert to collection : 1.12500 ms 
+Time of (0)Extracting Roots : 1.07300 ms 
+Time of (15)Transedges prefix : 0.98000 ms 
+Time of (7)Remove edges : 0.86000 ms 
+Time of (10)Convert to collection : 0.81100 ms 
+Time of (13)Compress Graph : 0.55800 ms 
+Time of (19)Component Parent, Reversals : 0.40500 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 162.45000 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100000
+Time of (4)Multi component Euler tour internal  : 62.731000 ms 
+Time of (5)Retrieving back first and last times  : 43.04700 ms 
+Time of (12)Hooking Shortcutting : 27.38400 ms 
+Time of (11)Shortcut rep : 8.88200 ms 
+Time of (3)Processing for multi component Euler tour : 7.23500 ms 
+Time of (18)PR Loop : 4.81100 ms 
+Time of (1)Get key rem collections : 3.12800 ms 
+Time of (6)Edge Deletion : 2.94700 ms 
+Time of (20)Reverse Edges and Connect Parent : 2.03400 ms 
+Time of (9)Get key rem collections : 1.64800 ms 
+Time of (8)Generate new edges : 1.27300 ms 
+Time of (2)Convert to collection : 1.12600 ms 
+Time of (0)Extracting Roots : 1.05200 ms 
+Time of (15)Transedges prefix : 1.00100 ms 
+Time of (10)Convert to collection : 0.81100 ms 
+Time of (7)Remove edges : 0.59700 ms 
+Time of (13)Compress Graph : 0.58300 ms 
+Time of (19)Component Parent, Reversals : 0.41500 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00900 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time (total): 170.73700 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 62.942000 ms 
+Time of (5)Retrieving back first and last times  : 46.38200 ms 
+Time of (12)Hooking Shortcutting : 19.88800 ms 
+Time of (11)Shortcut rep : 11.09500 ms 
+Time of (3)Processing for multi component Euler tour : 7.23700 ms 
+Time of (6)Edge Deletion : 4.61900 ms 
+Time of (1)Get key rem collections : 3.10900 ms 
+Time of (9)Get key rem collections : 2.05000 ms 
+Time of (18)PR Loop : 1.94200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.88900 ms 
+Time of (8)Generate new edges : 1.56400 ms 
+Time of (2)Convert to collection : 1.15000 ms 
+Time of (10)Convert to collection : 1.05700 ms 
+Time of (0)Extracting Roots : 1.04800 ms 
+Time of (15)Transedges prefix : 0.97700 ms 
+Time of (7)Remove edges : 0.81400 ms 
+Time of (13)Compress Graph : 0.60000 ms 
+Time of (19)Component Parent, Reversals : 0.40700 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 168.79600 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 62.990000 ms 
+Time of (5)Retrieving back first and last times  : 42.68700 ms 
+Time of (12)Hooking Shortcutting : 15.44800 ms 
+Time of (11)Shortcut rep : 8.75000 ms 
+Time of (3)Processing for multi component Euler tour : 7.24200 ms 
+Time of (1)Get key rem collections : 3.06900 ms 
+Time of (6)Edge Deletion : 2.76100 ms 
+Time of (18)PR Loop : 2.34400 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.89400 ms 
+Time of (9)Get key rem collections : 1.64900 ms 
+Time of (8)Generate new edges : 1.27200 ms 
+Time of (2)Convert to collection : 1.11900 ms 
+Time of (0)Extracting Roots : 1.04300 ms 
+Time of (15)Transedges prefix : 1.02300 ms 
+Time of (10)Convert to collection : 0.80800 ms 
+Time of (7)Remove edges : 0.58500 ms 
+Time of (13)Compress Graph : 0.55800 ms 
+Time of (19)Component Parent, Reversals : 0.40900 ms 
+Time of (17)PR init : 0.01100 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 155.67100 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 63.021000 ms 
+Time of (5)Retrieving back first and last times  : 46.13400 ms 
+Time of (12)Hooking Shortcutting : 17.59400 ms 
+Time of (11)Shortcut rep : 8.71900 ms 
+Time of (3)Processing for multi component Euler tour : 7.25700 ms 
+Time of (1)Get key rem collections : 3.40600 ms 
+Time of (6)Edge Deletion : 2.80300 ms 
+Time of (18)PR Loop : 1.93600 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.88600 ms 
+Time of (9)Get key rem collections : 1.64700 ms 
+Time of (8)Generate new edges : 1.27300 ms 
+Time of (2)Convert to collection : 1.12300 ms 
+Time of (0)Extracting Roots : 1.11000 ms 
+Time of (15)Transedges prefix : 1.03000 ms 
+Time of (10)Convert to collection : 0.81200 ms 
+Time of (13)Compress Graph : 0.58400 ms 
+Time of (7)Remove edges : 0.57900 ms 
+Time of (19)Component Parent, Reversals : 0.41200 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 161.35300 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 63.325000 ms 
+Time of (5)Retrieving back first and last times  : 47.06600 ms 
+Time of (12)Hooking Shortcutting : 28.00700 ms 
+Time of (11)Shortcut rep : 10.52900 ms 
+Time of (3)Processing for multi component Euler tour : 7.23400 ms 
+Time of (9)Get key rem collections : 5.96200 ms 
+Time of (1)Get key rem collections : 3.21800 ms 
+Time of (18)PR Loop : 2.79200 ms 
+Time of (6)Edge Deletion : 2.70500 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.88800 ms 
+Time of (8)Generate new edges : 1.41400 ms 
+Time of (2)Convert to collection : 1.12900 ms 
+Time of (0)Extracting Roots : 1.10300 ms 
+Time of (15)Transedges prefix : 1.07300 ms 
+Time of (10)Convert to collection : 0.95800 ms 
+Time of (7)Remove edges : 0.80900 ms 
+Time of (13)Compress Graph : 0.55500 ms 
+Time of (19)Component Parent, Reversals : 0.41000 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 180.20500 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 10000
+Time of (4)Multi component Euler tour internal  : 62.770000 ms 
+Time of (5)Retrieving back first and last times  : 45.90900 ms 
+Time of (12)Hooking Shortcutting : 17.89300 ms 
+Time of (11)Shortcut rep : 11.80000 ms 
+Time of (3)Processing for multi component Euler tour : 7.22400 ms 
+Time of (6)Edge Deletion : 3.55900 ms 
+Time of (1)Get key rem collections : 3.09600 ms 
+Time of (18)PR Loop : 2.77700 ms 
+Time of (9)Get key rem collections : 1.98600 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.88500 ms 
+Time of (8)Generate new edges : 1.44900 ms 
+Time of (2)Convert to collection : 1.11800 ms 
+Time of (0)Extracting Roots : 1.05000 ms 
+Time of (15)Transedges prefix : 1.01000 ms 
+Time of (10)Convert to collection : 0.98300 ms 
+Time of (7)Remove edges : 0.78300 ms 
+Time of (13)Compress Graph : 0.59300 ms 
+Time of (19)Component Parent, Reversals : 0.40500 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 166.31900 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 62.732000 ms 
+Time of (5)Retrieving back first and last times  : 46.28800 ms 
+Time of (12)Hooking Shortcutting : 10.78400 ms 
+Time of (11)Shortcut rep : 8.69000 ms 
+Time of (3)Processing for multi component Euler tour : 7.24900 ms 
+Time of (1)Get key rem collections : 3.22000 ms 
+Time of (6)Edge Deletion : 2.74900 ms 
+Time of (9)Get key rem collections : 1.71400 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.53000 ms 
+Time of (8)Generate new edges : 1.27100 ms 
+Time of (2)Convert to collection : 1.12100 ms 
+Time of (0)Extracting Roots : 1.05300 ms 
+Time of (15)Transedges prefix : 0.98100 ms 
+Time of (10)Convert to collection : 0.81100 ms 
+Time of (7)Remove edges : 0.58700 ms 
+Time of (13)Compress Graph : 0.55100 ms 
+Time of (19)Component Parent, Reversals : 0.41000 ms 
+Time of (18)PR Loop : 0.35600 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 152.12100 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 63.203000 ms 
+Time of (5)Retrieving back first and last times  : 43.25400 ms 
+Time of (12)Hooking Shortcutting : 11.08400 ms 
+Time of (11)Shortcut rep : 8.75500 ms 
+Time of (3)Processing for multi component Euler tour : 7.27800 ms 
+Time of (1)Get key rem collections : 3.12000 ms 
+Time of (6)Edge Deletion : 3.01900 ms 
+Time of (9)Get key rem collections : 1.63700 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.53200 ms 
+Time of (8)Generate new edges : 1.27900 ms 
+Time of (0)Extracting Roots : 1.14700 ms 
+Time of (2)Convert to collection : 1.14600 ms 
+Time of (15)Transedges prefix : 1.06700 ms 
+Time of (10)Convert to collection : 0.80800 ms 
+Time of (13)Compress Graph : 0.61700 ms 
+Time of (7)Remove edges : 0.60400 ms 
+Time of (19)Component Parent, Reversals : 0.44900 ms 
+Time of (18)PR Loop : 0.42900 ms 
+Time of (17)PR init : 0.02900 ms 
+Time of (16)Get edges : 0.01500 ms 
+Time of (14)Get compressed list : 0.01300 ms 
+Time (total): 150.48500 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 63.009000 ms 
+Time of (5)Retrieving back first and last times  : 43.63800 ms 
+Time of (12)Hooking Shortcutting : 11.01500 ms 
+Time of (11)Shortcut rep : 8.71400 ms 
+Time of (3)Processing for multi component Euler tour : 7.26700 ms 
+Time of (1)Get key rem collections : 2.99000 ms 
+Time of (6)Edge Deletion : 2.93300 ms 
+Time of (9)Get key rem collections : 1.64500 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.53800 ms 
+Time of (8)Generate new edges : 1.26600 ms 
+Time of (2)Convert to collection : 1.11700 ms 
+Time of (0)Extracting Roots : 1.07100 ms 
+Time of (15)Transedges prefix : 0.97400 ms 
+Time of (10)Convert to collection : 0.80900 ms 
+Time of (7)Remove edges : 0.59100 ms 
+Time of (13)Compress Graph : 0.56500 ms 
+Time of (18)PR Loop : 0.41600 ms 
+Time of (19)Component Parent, Reversals : 0.40300 ms 
+Time of (17)PR init : 0.01100 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 149.98100 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 62.562000 ms 
+Time of (5)Retrieving back first and last times  : 43.60300 ms 
+Time of (12)Hooking Shortcutting : 11.18200 ms 
+Time of (11)Shortcut rep : 9.97600 ms 
+Time of (3)Processing for multi component Euler tour : 7.23100 ms 
+Time of (6)Edge Deletion : 3.81800 ms 
+Time of (1)Get key rem collections : 3.27900 ms 
+Time of (9)Get key rem collections : 2.02600 ms 
+Time of (8)Generate new edges : 1.57400 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.52600 ms 
+Time of (2)Convert to collection : 1.12400 ms 
+Time of (10)Convert to collection : 1.07500 ms 
+Time of (0)Extracting Roots : 1.02700 ms 
+Time of (15)Transedges prefix : 1.00500 ms 
+Time of (7)Remove edges : 0.85800 ms 
+Time of (13)Compress Graph : 0.54700 ms 
+Time of (19)Component Parent, Reversals : 0.40400 ms 
+Time of (18)PR Loop : 0.35600 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 153.19400 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 62.269000 ms 
+Time of (5)Retrieving back first and last times  : 50.01600 ms 
+Time of (12)Hooking Shortcutting : 9.21200 ms 
+Time of (11)Shortcut rep : 8.65500 ms 
+Time of (3)Processing for multi component Euler tour : 7.20600 ms 
+Time of (1)Get key rem collections : 3.23500 ms 
+Time of (6)Edge Deletion : 2.97400 ms 
+Time of (9)Get key rem collections : 1.63000 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.50000 ms 
+Time of (8)Generate new edges : 1.27200 ms 
+Time of (2)Convert to collection : 1.11900 ms 
+Time of (0)Extracting Roots : 1.08600 ms 
+Time of (15)Transedges prefix : 1.06900 ms 
+Time of (10)Convert to collection : 0.80800 ms 
+Time of (13)Compress Graph : 0.61200 ms 
+Time of (7)Remove edges : 0.58600 ms 
+Time of (19)Component Parent, Reversals : 0.40000 ms 
+Time of (18)PR Loop : 0.35900 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 154.03000 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 1000
+Time of (5)Retrieving back first and last times  : 148.878000 ms 
+Time of (4)Multi component Euler tour internal  : 66.74500 ms 
+Time of (12)Hooking Shortcutting : 17.85900 ms 
+Time of (11)Shortcut rep : 9.43500 ms 
+Time of (3)Processing for multi component Euler tour : 7.24500 ms 
+Time of (1)Get key rem collections : 3.07800 ms 
+Time of (6)Edge Deletion : 3.05600 ms 
+Time of (9)Get key rem collections : 1.70700 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.58100 ms 
+Time of (8)Generate new edges : 1.29900 ms 
+Time of (2)Convert to collection : 1.13900 ms 
+Time of (0)Extracting Roots : 1.12900 ms 
+Time of (15)Transedges prefix : 1.01700 ms 
+Time of (10)Convert to collection : 0.84900 ms 
+Time of (7)Remove edges : 0.68900 ms 
+Time of (13)Compress Graph : 0.55200 ms 
+Time of (18)PR Loop : 0.51700 ms 
+Time of (19)Component Parent, Reversals : 0.40500 ms 
+Time of (17)PR init : 0.01800 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 267.21200 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 62.937000 ms 
+Time of (5)Retrieving back first and last times  : 43.09900 ms 
+Time of (12)Hooking Shortcutting : 15.24500 ms 
+Time of (11)Shortcut rep : 8.73000 ms 
+Time of (3)Processing for multi component Euler tour : 7.24400 ms 
+Time of (6)Edge Deletion : 3.61800 ms 
+Time of (1)Get key rem collections : 3.07500 ms 
+Time of (9)Get key rem collections : 1.61500 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.56200 ms 
+Time of (8)Generate new edges : 1.30100 ms 
+Time of (2)Convert to collection : 1.12900 ms 
+Time of (0)Extracting Roots : 1.04300 ms 
+Time of (15)Transedges prefix : 1.00100 ms 
+Time of (10)Convert to collection : 0.81400 ms 
+Time of (7)Remove edges : 0.67300 ms 
+Time of (13)Compress Graph : 0.55100 ms 
+Time of (18)PR Loop : 0.47800 ms 
+Time of (19)Component Parent, Reversals : 0.40300 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 154.54000 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 63.314000 ms 
+Time of (5)Retrieving back first and last times  : 46.17300 ms 
+Time of (12)Hooking Shortcutting : 11.32500 ms 
+Time of (11)Shortcut rep : 8.69200 ms 
+Time of (3)Processing for multi component Euler tour : 7.25700 ms 
+Time of (6)Edge Deletion : 3.38900 ms 
+Time of (1)Get key rem collections : 3.29300 ms 
+Time of (9)Get key rem collections : 1.67200 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.54800 ms 
+Time of (8)Generate new edges : 1.26900 ms 
+Time of (2)Convert to collection : 1.11900 ms 
+Time of (15)Transedges prefix : 1.02100 ms 
+Time of (0)Extracting Roots : 1.02000 ms 
+Time of (10)Convert to collection : 0.80800 ms 
+Time of (7)Remove edges : 0.60000 ms 
+Time of (13)Compress Graph : 0.55200 ms 
+Time of (18)PR Loop : 0.46700 ms 
+Time of (19)Component Parent, Reversals : 0.40200 ms 
+Time of (17)PR init : 0.01100 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 153.94100 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 62.529000 ms 
+Time of (5)Retrieving back first and last times  : 45.75100 ms 
+Time of (12)Hooking Shortcutting : 15.08600 ms 
+Time of (11)Shortcut rep : 8.72900 ms 
+Time of (3)Processing for multi component Euler tour : 7.25300 ms 
+Time of (1)Get key rem collections : 3.06900 ms 
+Time of (6)Edge Deletion : 2.60800 ms 
+Time of (9)Get key rem collections : 1.65100 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.55600 ms 
+Time of (8)Generate new edges : 1.26800 ms 
+Time of (2)Convert to collection : 1.12900 ms 
+Time of (0)Extracting Roots : 1.07800 ms 
+Time of (15)Transedges prefix : 1.06500 ms 
+Time of (10)Convert to collection : 0.81200 ms 
+Time of (7)Remove edges : 0.58500 ms 
+Time of (13)Compress Graph : 0.55000 ms 
+Time of (18)PR Loop : 0.48600 ms 
+Time of (19)Component Parent, Reversals : 0.40600 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 155.63700 ms 
+--------------------------------------------------------
+filename: europe_osm.txt
+Nodes : 50912018
+Edges : 54054660
+
+------------------------------------------------------
+Deleted : 1000
+Time of (4)Multi component Euler tour internal  : 63.027000 ms 
+Time of (5)Retrieving back first and last times  : 44.21300 ms 
+Time of (12)Hooking Shortcutting : 20.34500 ms 
+Time of (11)Shortcut rep : 10.97500 ms 
+Time of (3)Processing for multi component Euler tour : 7.25300 ms 
+Time of (1)Get key rem collections : 3.19400 ms 
+Time of (6)Edge Deletion : 2.87000 ms 
+Time of (9)Get key rem collections : 1.88900 ms 
+Time of (20)Reverse Edges and Connect Parent : 1.86000 ms 
+Time of (8)Generate new edges : 1.38800 ms 
+Time of (2)Convert to collection : 1.12900 ms 
+Time of (15)Transedges prefix : 1.08600 ms 
+Time of (0)Extracting Roots : 1.06200 ms 
+Time of (10)Convert to collection : 0.93900 ms 
+Time of (18)PR Loop : 0.79300 ms 
+Time of (7)Remove edges : 0.78800 ms 
+Time of (13)Compress Graph : 0.59100 ms 
+Time of (19)Component Parent, Reversals : 0.40400 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 163.83000 ms 
+--------------------------------------------------------

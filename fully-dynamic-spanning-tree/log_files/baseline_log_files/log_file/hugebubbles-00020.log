@@ -1,0 +1,259 @@
+filename: hugebubbles-00020.egr
+Delete batch Size: 100000
+Depth of graph: 4503
+Total execution time of all functions: 2164.21 ms.
+
+Function execution times:
+Time of simple BFS : 1060.24 ms
+Time of Adam_BFS : 580.21 ms
+Time of PR-RST module : 453.33 ms
+Time of CC : 65.75 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100000
+Depth of graph: 4502
+Total execution time of all functions: 2078.27 ms.
+
+Function execution times:
+Time of simple BFS : 968.49 ms
+Time of Adam_BFS : 586.90 ms
+Time of PR-RST module : 452.96 ms
+Time of CC : 66.29 ms
+Time of update datastr : 3.63 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100000
+Depth of graph: 4501
+Total execution time of all functions: 2114.7 ms.
+
+Function execution times:
+Time of simple BFS : 959.57 ms
+Time of Adam_BFS : 581.39 ms
+Time of PR-RST module : 503.85 ms
+Time of CC : 66.26 ms
+Time of update datastr : 3.63 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100000
+Depth of graph: 4501
+Total execution time of all functions: 2158.72 ms.
+
+Function execution times:
+Time of simple BFS : 1052.89 ms
+Time of Adam_BFS : 581.10 ms
+Time of PR-RST module : 451.69 ms
+Time of CC : 69.40 ms
+Time of update datastr : 3.64 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100000
+Depth of graph: 4502
+Total execution time of all functions: 2263.1 ms.
+
+Function execution times:
+Time of simple BFS : 1159.69 ms
+Time of Adam_BFS : 578.72 ms
+Time of PR-RST module : 453.79 ms
+Time of CC : 66.20 ms
+Time of update datastr : 4.70 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 10000
+Depth of graph: 4500
+Total execution time of all functions: 2209.4 ms.
+
+Function execution times:
+Time of simple BFS : 1056.73 ms
+Time of Adam_BFS : 578.55 ms
+Time of PR-RST module : 504.39 ms
+Time of CC : 66.11 ms
+Time of update datastr : 3.62 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 10000
+Depth of graph: 4500
+Total execution time of all functions: 2223.16 ms.
+
+Function execution times:
+Time of simple BFS : 1116.65 ms
+Time of Adam_BFS : 580.42 ms
+Time of PR-RST module : 451.92 ms
+Time of CC : 69.50 ms
+Time of update datastr : 4.67 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 10000
+Depth of graph: 4500
+Total execution time of all functions: 2185.24 ms.
+
+Function execution times:
+Time of simple BFS : 1087.15 ms
+Time of Adam_BFS : 575.33 ms
+Time of PR-RST module : 451.82 ms
+Time of CC : 66.27 ms
+Time of update datastr : 4.67 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 10000
+Depth of graph: 4501
+Total execution time of all functions: 2191.82 ms.
+
+Function execution times:
+Time of simple BFS : 1092.52 ms
+Time of Adam_BFS : 576.60 ms
+Time of PR-RST module : 452.95 ms
+Time of CC : 66.14 ms
+Time of update datastr : 3.62 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 10000
+Depth of graph: 4500
+Total execution time of all functions: 2069.61 ms.
+
+Function execution times:
+Time of simple BFS : 955.97 ms
+Time of Adam_BFS : 585.68 ms
+Time of PR-RST module : 460.13 ms
+Time of CC : 63.16 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100
+Depth of graph: 4500
+Total execution time of all functions: 2155.62 ms.
+
+Function execution times:
+Time of simple BFS : 1047.45 ms
+Time of Adam_BFS : 578.84 ms
+Time of PR-RST module : 451.99 ms
+Time of CC : 72.66 ms
+Time of update datastr : 4.69 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100
+Depth of graph: 4500
+Total execution time of all functions: 2254.4 ms.
+
+Function execution times:
+Time of simple BFS : 1156.15 ms
+Time of Adam_BFS : 579.19 ms
+Time of PR-RST module : 451.86 ms
+Time of CC : 62.52 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100
+Depth of graph: 4500
+Total execution time of all functions: 2273.62 ms.
+
+Function execution times:
+Time of simple BFS : 1162.57 ms
+Time of Adam_BFS : 581.84 ms
+Time of PR-RST module : 452.16 ms
+Time of CC : 72.34 ms
+Time of update datastr : 4.72 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100
+Depth of graph: 4500
+Total execution time of all functions: 2318.67 ms.
+
+Function execution times:
+Time of simple BFS : 1162.59 ms
+Time of Adam_BFS : 581.77 ms
+Time of PR-RST module : 504.03 ms
+Time of CC : 65.62 ms
+Time of update datastr : 4.67 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 100
+Depth of graph: 4500
+Total execution time of all functions: 2227.5 ms.
+
+Function execution times:
+Time of simple BFS : 1115.57 ms
+Time of Adam_BFS : 575.41 ms
+Time of PR-RST module : 453.19 ms
+Time of CC : 78.65 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 1000
+Depth of graph: 4500
+Total execution time of all functions: 2206.14 ms.
+
+Function execution times:
+Time of simple BFS : 1108.83 ms
+Time of Adam_BFS : 571.58 ms
+Time of PR-RST module : 452.14 ms
+Time of CC : 68.93 ms
+Time of update datastr : 4.67 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 1000
+Depth of graph: 4500
+Total execution time of all functions: 2249.72 ms.
+
+Function execution times:
+Time of simple BFS : 1104.55 ms
+Time of Adam_BFS : 574.74 ms
+Time of PR-RST module : 502.87 ms
+Time of CC : 62.89 ms
+Time of update datastr : 4.67 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 1000
+Depth of graph: 4500
+Total execution time of all functions: 2209.17 ms.
+
+Function execution times:
+Time of simple BFS : 1100.32 ms
+Time of Adam_BFS : 577.15 ms
+Time of PR-RST module : 454.30 ms
+Time of CC : 72.71 ms
+Time of update datastr : 4.69 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 1000
+Depth of graph: 4500
+Total execution time of all functions: 2208.12 ms.
+
+Function execution times:
+Time of simple BFS : 1099.56 ms
+Time of Adam_BFS : 575.02 ms
+Time of PR-RST module : 454.45 ms
+Time of CC : 74.41 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: hugebubbles-00020.egr
+Delete batch Size: 1000
+Depth of graph: 4500
+Total execution time of all functions: 2134.17 ms.
+
+Function execution times:
+Time of simple BFS : 1031.34 ms
+Time of Adam_BFS : 575.55 ms
+Time of PR-RST module : 453.05 ms
+Time of CC : 69.53 ms
+Time of update datastr : 4.71 ms
+----------------------------------------------------------------

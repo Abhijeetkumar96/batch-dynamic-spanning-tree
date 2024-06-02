@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+ljournal-2008.egr,5363260,99028690,100,6.4,24.12
+ljournal-2008.egr,5363260,99028690,1000,57.0,24.45
+ljournal-2008.egr,5363260,99028690,10000,505.6,25.47
+ljournal-2008.egr,5363260,99028690,100000,5166.8,45.81

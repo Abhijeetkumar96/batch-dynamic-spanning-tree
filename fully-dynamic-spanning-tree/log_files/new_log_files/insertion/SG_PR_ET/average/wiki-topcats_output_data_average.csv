@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+wiki-topcats.egr,1791489,50888414,100,4.2,9.17
+wiki-topcats.egr,1791489,50888414,1000,41.4,8.96
+wiki-topcats.egr,1791489,50888414,10000,416.6,9.8
+wiki-topcats.egr,1791489,50888414,100000,4040.8,10.23

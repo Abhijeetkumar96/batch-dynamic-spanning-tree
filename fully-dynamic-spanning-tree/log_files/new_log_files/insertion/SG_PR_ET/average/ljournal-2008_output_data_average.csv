@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+ljournal-2008.egr,5363260,99028690,100,6.6,18.78
+ljournal-2008.egr,5363260,99028690,1000,48.4,20.75
+ljournal-2008.egr,5363260,99028690,10000,521.0,20.5
+ljournal-2008.egr,5363260,99028690,100000,4685.4,19.18

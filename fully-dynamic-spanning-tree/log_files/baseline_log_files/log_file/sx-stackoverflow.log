@@ -1,0 +1,259 @@
+filename: sx-stackoverflow.egr
+Delete batch Size: 100000
+Depth of graph: 23580
+Total execution time of all functions: 3038.87 ms.
+
+Function execution times:
+Time of Adam_BFS : 2507.83 ms
+Time of simple BFS : 470.60 ms
+Time of PR-RST module : 38.64 ms
+Time of CC : 17.17 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100000
+Depth of graph: 23580
+Total execution time of all functions: 2909.48 ms.
+
+Function execution times:
+Time of Adam_BFS : 2388.52 ms
+Time of simple BFS : 468.83 ms
+Time of PR-RST module : 34.38 ms
+Time of CC : 13.06 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100000
+Depth of graph: 23580
+Total execution time of all functions: 2940.62 ms.
+
+Function execution times:
+Time of Adam_BFS : 2396.73 ms
+Time of simple BFS : 485.81 ms
+Time of PR-RST module : 35.00 ms
+Time of CC : 18.42 ms
+Time of update datastr : 4.66 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100000
+Depth of graph: 23580
+Total execution time of all functions: 2919.49 ms.
+
+Function execution times:
+Time of Adam_BFS : 2389.46 ms
+Time of simple BFS : 468.34 ms
+Time of PR-RST module : 39.53 ms
+Time of CC : 17.50 ms
+Time of update datastr : 4.66 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100000
+Depth of graph: 23580
+Total execution time of all functions: 3029.51 ms.
+
+Function execution times:
+Time of Adam_BFS : 2510.85 ms
+Time of simple BFS : 470.38 ms
+Time of PR-RST module : 33.19 ms
+Time of CC : 10.45 ms
+Time of update datastr : 4.65 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 10000
+Depth of graph: 23580
+Total execution time of all functions: 2871.61 ms.
+
+Function execution times:
+Time of Adam_BFS : 2353.11 ms
+Time of simple BFS : 469.06 ms
+Time of PR-RST module : 33.74 ms
+Time of CC : 11.08 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 10000
+Depth of graph: 23580
+Total execution time of all functions: 2890.92 ms.
+
+Function execution times:
+Time of Adam_BFS : 2368.13 ms
+Time of simple BFS : 468.94 ms
+Time of PR-RST module : 33.74 ms
+Time of CC : 15.49 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 10000
+Depth of graph: 23580
+Total execution time of all functions: 2875.1 ms.
+
+Function execution times:
+Time of Adam_BFS : 2350.41 ms
+Time of simple BFS : 469.70 ms
+Time of PR-RST module : 39.43 ms
+Time of CC : 10.94 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 10000
+Depth of graph: 23580
+Total execution time of all functions: 2846.42 ms.
+
+Function execution times:
+Time of Adam_BFS : 2330.18 ms
+Time of simple BFS : 467.90 ms
+Time of PR-RST module : 33.46 ms
+Time of CC : 10.26 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 10000
+Depth of graph: 23580
+Total execution time of all functions: 2862.37 ms.
+
+Function execution times:
+Time of Adam_BFS : 2342.90 ms
+Time of simple BFS : 470.67 ms
+Time of PR-RST module : 33.52 ms
+Time of CC : 10.07 ms
+Time of update datastr : 5.21 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100
+Depth of graph: 23580
+Total execution time of all functions: 2862.89 ms.
+
+Function execution times:
+Time of Adam_BFS : 2343.72 ms
+Time of simple BFS : 466.68 ms
+Time of PR-RST module : 38.75 ms
+Time of CC : 9.12 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100
+Depth of graph: 23580
+Total execution time of all functions: 2896.54 ms.
+
+Function execution times:
+Time of Adam_BFS : 2377.96 ms
+Time of simple BFS : 465.91 ms
+Time of PR-RST module : 39.52 ms
+Time of CC : 8.53 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100
+Depth of graph: 23580
+Total execution time of all functions: 2897.52 ms.
+
+Function execution times:
+Time of Adam_BFS : 2371.76 ms
+Time of simple BFS : 467.37 ms
+Time of PR-RST module : 39.03 ms
+Time of CC : 14.74 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100
+Depth of graph: 23580
+Total execution time of all functions: 3046.66 ms.
+
+Function execution times:
+Time of Adam_BFS : 2530.75 ms
+Time of simple BFS : 467.63 ms
+Time of PR-RST module : 32.98 ms
+Time of CC : 10.62 ms
+Time of update datastr : 4.68 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 100
+Depth of graph: 23580
+Total execution time of all functions: 2867.41 ms.
+
+Function execution times:
+Time of Adam_BFS : 2343.16 ms
+Time of simple BFS : 466.33 ms
+Time of PR-RST module : 39.04 ms
+Time of CC : 14.26 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 1000
+Depth of graph: 23580
+Total execution time of all functions: 2894.11 ms.
+
+Function execution times:
+Time of Adam_BFS : 2378.69 ms
+Time of simple BFS : 466.49 ms
+Time of PR-RST module : 33.39 ms
+Time of CC : 10.92 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 1000
+Depth of graph: 23580
+Total execution time of all functions: 2986.97 ms.
+
+Function execution times:
+Time of Adam_BFS : 2462.41 ms
+Time of simple BFS : 467.33 ms
+Time of PR-RST module : 39.45 ms
+Time of CC : 13.16 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 1000
+Depth of graph: 23580
+Total execution time of all functions: 2854.88 ms.
+
+Function execution times:
+Time of Adam_BFS : 2339.66 ms
+Time of simple BFS : 465.85 ms
+Time of PR-RST module : 33.05 ms
+Time of CC : 11.69 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 1000
+Depth of graph: 23580
+Total execution time of all functions: 2848.21 ms.
+
+Function execution times:
+Time of Adam_BFS : 2328.40 ms
+Time of simple BFS : 467.57 ms
+Time of PR-RST module : 38.88 ms
+Time of CC : 8.72 ms
+Time of update datastr : 4.64 ms
+----------------------------------------------------------------
+
+filename: sx-stackoverflow.egr
+Delete batch Size: 1000
+Depth of graph: 23580
+Total execution time of all functions: 2852.5 ms.
+
+Function execution times:
+Time of Adam_BFS : 2326.58 ms
+Time of simple BFS : 468.87 ms
+Time of PR-RST module : 38.74 ms
+Time of CC : 13.69 ms
+Time of update datastr : 4.62 ms
+----------------------------------------------------------------

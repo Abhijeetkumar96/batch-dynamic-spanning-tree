@@ -1,0 +1,620 @@
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100000
+Time of (17)PR Shortcut : 44.677000 ms 
+Time of (9)Hooking Shortcutting : 25.71700 ms 
+Time of (18)PR Reverse Paths : 13.56200 ms 
+Time of (8)Shortcut rep : 9.44200 ms 
+Time of (15)PR Loop : 9.01400 ms 
+Time of (3)Edge Deletion : 2.97000 ms 
+Time of (1)Get key rem collections : 2.31900 ms 
+Time of (6)Get key rem collections : 1.40200 ms 
+Time of (5)Generate new edges : 1.00700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.78300 ms 
+Time of (0)Extracting Roots : 0.74300 ms 
+Time of (12)Transedges prefix : 0.73800 ms 
+Time of (2)Convert to collection : 0.69400 ms 
+Time of (7)Convert to collection : 0.68900 ms 
+Time of (4)Remove edges : 0.51400 ms 
+Time of (16)Component Parent, Reversals : 0.34200 ms 
+Time of (10)Compress Graph : 0.32700 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time (total): 114.97100 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100000
+Time of (17)PR Shortcut : 49.654000 ms 
+Time of (9)Hooking Shortcutting : 29.90300 ms 
+Time of (18)PR Reverse Paths : 15.98700 ms 
+Time of (15)PR Loop : 9.78400 ms 
+Time of (8)Shortcut rep : 9.45100 ms 
+Time of (3)Edge Deletion : 2.97300 ms 
+Time of (1)Get key rem collections : 2.28200 ms 
+Time of (6)Get key rem collections : 1.46800 ms 
+Time of (5)Generate new edges : 0.97800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.86600 ms 
+Time of (12)Transedges prefix : 0.82200 ms 
+Time of (0)Extracting Roots : 0.73600 ms 
+Time of (2)Convert to collection : 0.69800 ms 
+Time of (7)Convert to collection : 0.68900 ms 
+Time of (4)Remove edges : 0.52200 ms 
+Time of (10)Compress Graph : 0.38800 ms 
+Time of (16)Component Parent, Reversals : 0.33800 ms 
+Time of (14)PR init : 0.02000 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 127.57100 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100000
+Time of (17)PR Shortcut : 50.405000 ms 
+Time of (9)Hooking Shortcutting : 25.11100 ms 
+Time of (18)PR Reverse Paths : 15.95400 ms 
+Time of (15)PR Loop : 10.56200 ms 
+Time of (8)Shortcut rep : 9.49600 ms 
+Time of (3)Edge Deletion : 2.96000 ms 
+Time of (1)Get key rem collections : 2.44100 ms 
+Time of (6)Get key rem collections : 1.55800 ms 
+Time of (5)Generate new edges : 0.98000 ms 
+Time of (12)Transedges prefix : 0.84400 ms 
+Time of (0)Extracting Roots : 0.78100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.71700 ms 
+Time of (2)Convert to collection : 0.69100 ms 
+Time of (7)Convert to collection : 0.68900 ms 
+Time of (4)Remove edges : 0.63800 ms 
+Time of (10)Compress Graph : 0.37200 ms 
+Time of (16)Component Parent, Reversals : 0.34200 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 124.57000 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100000
+Time of (17)PR Shortcut : 50.027000 ms 
+Time of (9)Hooking Shortcutting : 23.45700 ms 
+Time of (18)PR Reverse Paths : 15.98800 ms 
+Time of (15)PR Loop : 11.29600 ms 
+Time of (8)Shortcut rep : 9.80500 ms 
+Time of (3)Edge Deletion : 2.96900 ms 
+Time of (1)Get key rem collections : 2.31800 ms 
+Time of (6)Get key rem collections : 1.52800 ms 
+Time of (5)Generate new edges : 0.98100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.86300 ms 
+Time of (12)Transedges prefix : 0.83000 ms 
+Time of (0)Extracting Roots : 0.78400 ms 
+Time of (2)Convert to collection : 0.69600 ms 
+Time of (7)Convert to collection : 0.68700 ms 
+Time of (4)Remove edges : 0.53800 ms 
+Time of (10)Compress Graph : 0.39600 ms 
+Time of (16)Component Parent, Reversals : 0.36800 ms 
+Time of (14)PR init : 0.01900 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 123.56000 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100000
+Time of (17)PR Shortcut : 44.269000 ms 
+Time of (9)Hooking Shortcutting : 24.91300 ms 
+Time of (8)Shortcut rep : 13.60200 ms 
+Time of (18)PR Reverse Paths : 13.48600 ms 
+Time of (15)PR Loop : 8.36300 ms 
+Time of (3)Edge Deletion : 2.99100 ms 
+Time of (1)Get key rem collections : 2.27200 ms 
+Time of (6)Get key rem collections : 1.38300 ms 
+Time of (5)Generate new edges : 0.98200 ms 
+Time of (0)Extracting Roots : 0.85900 ms 
+Time of (12)Transedges prefix : 0.82100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77600 ms 
+Time of (2)Convert to collection : 0.69400 ms 
+Time of (7)Convert to collection : 0.68700 ms 
+Time of (4)Remove edges : 0.59100 ms 
+Time of (16)Component Parent, Reversals : 0.34200 ms 
+Time of (10)Compress Graph : 0.31700 ms 
+Time of (14)PR init : 0.01900 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 117.37900 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 10000
+Time of (17)PR Shortcut : 49.222000 ms 
+Time of (9)Hooking Shortcutting : 19.83800 ms 
+Time of (18)PR Reverse Paths : 9.85100 ms 
+Time of (8)Shortcut rep : 9.44200 ms 
+Time of (15)PR Loop : 5.30900 ms 
+Time of (3)Edge Deletion : 2.71200 ms 
+Time of (1)Get key rem collections : 2.35600 ms 
+Time of (6)Get key rem collections : 1.41400 ms 
+Time of (5)Generate new edges : 0.98200 ms 
+Time of (12)Transedges prefix : 0.85200 ms 
+Time of (0)Extracting Roots : 0.75600 ms 
+Time of (2)Convert to collection : 0.69400 ms 
+Time of (7)Convert to collection : 0.69100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.64800 ms 
+Time of (4)Remove edges : 0.53300 ms 
+Time of (10)Compress Graph : 0.37400 ms 
+Time of (16)Component Parent, Reversals : 0.32600 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 106.02600 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 10000
+Time of (17)PR Shortcut : 43.666000 ms 
+Time of (9)Hooking Shortcutting : 13.22700 ms 
+Time of (18)PR Reverse Paths : 10.39000 ms 
+Time of (8)Shortcut rep : 9.43300 ms 
+Time of (15)PR Loop : 5.27900 ms 
+Time of (3)Edge Deletion : 2.71300 ms 
+Time of (1)Get key rem collections : 2.31800 ms 
+Time of (6)Get key rem collections : 1.40800 ms 
+Time of (5)Generate new edges : 0.97300 ms 
+Time of (12)Transedges prefix : 0.86200 ms 
+Time of (0)Extracting Roots : 0.77800 ms 
+Time of (2)Convert to collection : 0.69400 ms 
+Time of (7)Convert to collection : 0.69300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.68100 ms 
+Time of (4)Remove edges : 0.50600 ms 
+Time of (10)Compress Graph : 0.42200 ms 
+Time of (16)Component Parent, Reversals : 0.33100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 94.40000 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 10000
+Time of (17)PR Shortcut : 46.638000 ms 
+Time of (9)Hooking Shortcutting : 19.29700 ms 
+Time of (18)PR Reverse Paths : 9.90700 ms 
+Time of (8)Shortcut rep : 9.41400 ms 
+Time of (15)PR Loop : 4.67800 ms 
+Time of (3)Edge Deletion : 2.71600 ms 
+Time of (1)Get key rem collections : 2.43300 ms 
+Time of (6)Get key rem collections : 1.40500 ms 
+Time of (5)Generate new edges : 0.97900 ms 
+Time of (12)Transedges prefix : 0.82800 ms 
+Time of (0)Extracting Roots : 0.81000 ms 
+Time of (2)Convert to collection : 0.69100 ms 
+Time of (7)Convert to collection : 0.68900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.65000 ms 
+Time of (4)Remove edges : 0.52000 ms 
+Time of (10)Compress Graph : 0.37600 ms 
+Time of (16)Component Parent, Reversals : 0.34000 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 102.40100 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 10000
+Time of (17)PR Shortcut : 49.851000 ms 
+Time of (9)Hooking Shortcutting : 18.63800 ms 
+Time of (18)PR Reverse Paths : 13.33900 ms 
+Time of (8)Shortcut rep : 9.48600 ms 
+Time of (15)PR Loop : 5.95600 ms 
+Time of (3)Edge Deletion : 2.69400 ms 
+Time of (1)Get key rem collections : 2.34600 ms 
+Time of (6)Get key rem collections : 1.42600 ms 
+Time of (5)Generate new edges : 0.97800 ms 
+Time of (12)Transedges prefix : 0.84900 ms 
+Time of (0)Extracting Roots : 0.77300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.77200 ms 
+Time of (2)Convert to collection : 0.69700 ms 
+Time of (7)Convert to collection : 0.68700 ms 
+Time of (4)Remove edges : 0.52100 ms 
+Time of (10)Compress Graph : 0.39800 ms 
+Time of (16)Component Parent, Reversals : 0.32700 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 109.76700 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 10000
+Time of (17)PR Shortcut : 50.434000 ms 
+Time of (9)Hooking Shortcutting : 16.56800 ms 
+Time of (18)PR Reverse Paths : 13.26700 ms 
+Time of (8)Shortcut rep : 9.46600 ms 
+Time of (15)PR Loop : 4.66800 ms 
+Time of (3)Edge Deletion : 2.69600 ms 
+Time of (1)Get key rem collections : 2.54200 ms 
+Time of (6)Get key rem collections : 1.42600 ms 
+Time of (5)Generate new edges : 0.98000 ms 
+Time of (12)Transedges prefix : 0.86800 ms 
+Time of (0)Extracting Roots : 0.76600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.76400 ms 
+Time of (2)Convert to collection : 0.69400 ms 
+Time of (7)Convert to collection : 0.69100 ms 
+Time of (4)Remove edges : 0.57500 ms 
+Time of (10)Compress Graph : 0.42600 ms 
+Time of (16)Component Parent, Reversals : 0.32200 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 107.18100 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100
+Time of (17)PR Shortcut : 44.486000 ms 
+Time of (9)Hooking Shortcutting : 13.16300 ms 
+Time of (8)Shortcut rep : 9.32400 ms 
+Time of (18)PR Reverse Paths : 8.77200 ms 
+Time of (3)Edge Deletion : 2.65200 ms 
+Time of (1)Get key rem collections : 2.41600 ms 
+Time of (6)Get key rem collections : 1.62200 ms 
+Time of (5)Generate new edges : 0.97900 ms 
+Time of (0)Extracting Roots : 0.90100 ms 
+Time of (12)Transedges prefix : 0.86500 ms 
+Time of (2)Convert to collection : 0.69100 ms 
+Time of (7)Convert to collection : 0.69000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.66600 ms 
+Time of (4)Remove edges : 0.54200 ms 
+Time of (15)PR Loop : 0.44500 ms 
+Time of (10)Compress Graph : 0.43900 ms 
+Time of (16)Component Parent, Reversals : 0.32100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 89.00300 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100
+Time of (17)PR Shortcut : 45.530000 ms 
+Time of (8)Shortcut rep : 9.25300 ms 
+Time of (18)PR Reverse Paths : 8.31100 ms 
+Time of (9)Hooking Shortcutting : 6.16500 ms 
+Time of (3)Edge Deletion : 2.68200 ms 
+Time of (1)Get key rem collections : 2.26100 ms 
+Time of (6)Get key rem collections : 1.39600 ms 
+Time of (5)Generate new edges : 0.97900 ms 
+Time of (12)Transedges prefix : 0.82500 ms 
+Time of (0)Extracting Roots : 0.75000 ms 
+Time of (2)Convert to collection : 0.68900 ms 
+Time of (7)Convert to collection : 0.68800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.64000 ms 
+Time of (4)Remove edges : 0.50300 ms 
+Time of (15)PR Loop : 0.45800 ms 
+Time of (10)Compress Graph : 0.39600 ms 
+Time of (16)Component Parent, Reversals : 0.32700 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 81.88200 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100
+Time of (17)PR Shortcut : 47.878000 ms 
+Time of (9)Hooking Shortcutting : 13.33700 ms 
+Time of (18)PR Reverse Paths : 10.33900 ms 
+Time of (8)Shortcut rep : 9.33300 ms 
+Time of (3)Edge Deletion : 2.71800 ms 
+Time of (1)Get key rem collections : 2.34600 ms 
+Time of (6)Get key rem collections : 1.50100 ms 
+Time of (5)Generate new edges : 0.98000 ms 
+Time of (12)Transedges prefix : 0.79600 ms 
+Time of (0)Extracting Roots : 0.74100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72500 ms 
+Time of (2)Convert to collection : 0.69400 ms 
+Time of (7)Convert to collection : 0.69200 ms 
+Time of (4)Remove edges : 0.59700 ms 
+Time of (15)PR Loop : 0.47800 ms 
+Time of (10)Compress Graph : 0.36500 ms 
+Time of (16)Component Parent, Reversals : 0.32300 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 93.87000 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100
+Time of (17)PR Shortcut : 52.617000 ms 
+Time of (9)Hooking Shortcutting : 16.39100 ms 
+Time of (18)PR Reverse Paths : 11.00800 ms 
+Time of (8)Shortcut rep : 9.33600 ms 
+Time of (3)Edge Deletion : 2.71700 ms 
+Time of (1)Get key rem collections : 2.28300 ms 
+Time of (6)Get key rem collections : 1.48000 ms 
+Time of (5)Generate new edges : 0.97700 ms 
+Time of (12)Transedges prefix : 0.85400 ms 
+Time of (15)PR Loop : 0.82600 ms 
+Time of (0)Extracting Roots : 0.81100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.76800 ms 
+Time of (7)Convert to collection : 0.69200 ms 
+Time of (2)Convert to collection : 0.69000 ms 
+Time of (4)Remove edges : 0.56800 ms 
+Time of (10)Compress Graph : 0.40700 ms 
+Time of (16)Component Parent, Reversals : 0.32600 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 102.78200 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 100
+Time of (17)PR Shortcut : 49.223000 ms 
+Time of (18)PR Reverse Paths : 10.85900 ms 
+Time of (8)Shortcut rep : 9.32000 ms 
+Time of (9)Hooking Shortcutting : 7.97600 ms 
+Time of (3)Edge Deletion : 2.70300 ms 
+Time of (1)Get key rem collections : 2.33100 ms 
+Time of (6)Get key rem collections : 1.44000 ms 
+Time of (5)Generate new edges : 0.97700 ms 
+Time of (12)Transedges prefix : 0.94400 ms 
+Time of (0)Extracting Roots : 0.92100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.75300 ms 
+Time of (7)Convert to collection : 0.69000 ms 
+Time of (2)Convert to collection : 0.68800 ms 
+Time of (4)Remove edges : 0.57500 ms 
+Time of (15)PR Loop : 0.45000 ms 
+Time of (10)Compress Graph : 0.43700 ms 
+Time of (16)Component Parent, Reversals : 0.33300 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 90.64800 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 1000
+Time of (17)PR Shortcut : 49.408000 ms 
+Time of (9)Hooking Shortcutting : 11.49300 ms 
+Time of (18)PR Reverse Paths : 11.40700 ms 
+Time of (8)Shortcut rep : 9.22600 ms 
+Time of (3)Edge Deletion : 2.74600 ms 
+Time of (1)Get key rem collections : 2.35300 ms 
+Time of (15)PR Loop : 1.99600 ms 
+Time of (6)Get key rem collections : 1.41800 ms 
+Time of (5)Generate new edges : 0.98100 ms 
+Time of (12)Transedges prefix : 0.82700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.78400 ms 
+Time of (0)Extracting Roots : 0.78300 ms 
+Time of (7)Convert to collection : 0.69200 ms 
+Time of (2)Convert to collection : 0.69000 ms 
+Time of (4)Remove edges : 0.51100 ms 
+Time of (10)Compress Graph : 0.36800 ms 
+Time of (16)Component Parent, Reversals : 0.34100 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 96.05400 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 1000
+Time of (17)PR Shortcut : 44.636000 ms 
+Time of (9)Hooking Shortcutting : 9.73900 ms 
+Time of (18)PR Reverse Paths : 9.23200 ms 
+Time of (8)Shortcut rep : 9.19400 ms 
+Time of (3)Edge Deletion : 2.66200 ms 
+Time of (1)Get key rem collections : 2.40100 ms 
+Time of (6)Get key rem collections : 1.46800 ms 
+Time of (5)Generate new edges : 0.98000 ms 
+Time of (12)Transedges prefix : 0.87200 ms 
+Time of (0)Extracting Roots : 0.77300 ms 
+Time of (2)Convert to collection : 0.69200 ms 
+Time of (7)Convert to collection : 0.69000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.66900 ms 
+Time of (15)PR Loop : 0.64800 ms 
+Time of (4)Remove edges : 0.51600 ms 
+Time of (10)Compress Graph : 0.46800 ms 
+Time of (16)Component Parent, Reversals : 0.32600 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 85.99200 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 1000
+Time of (17)PR Shortcut : 51.182000 ms 
+Time of (9)Hooking Shortcutting : 18.41800 ms 
+Time of (8)Shortcut rep : 9.21600 ms 
+Time of (18)PR Reverse Paths : 8.59400 ms 
+Time of (3)Edge Deletion : 2.73700 ms 
+Time of (1)Get key rem collections : 2.26300 ms 
+Time of (15)PR Loop : 1.53200 ms 
+Time of (6)Get key rem collections : 1.38400 ms 
+Time of (5)Generate new edges : 0.97900 ms 
+Time of (12)Transedges prefix : 0.87400 ms 
+Time of (0)Extracting Roots : 0.74300 ms 
+Time of (2)Convert to collection : 0.69100 ms 
+Time of (7)Convert to collection : 0.69000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.63900 ms 
+Time of (4)Remove edges : 0.51200 ms 
+Time of (10)Compress Graph : 0.40200 ms 
+Time of (16)Component Parent, Reversals : 0.32600 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 101.20900 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 1000
+Time of (17)PR Shortcut : 50.286000 ms 
+Time of (9)Hooking Shortcutting : 11.83100 ms 
+Time of (18)PR Reverse Paths : 11.45500 ms 
+Time of (8)Shortcut rep : 9.38900 ms 
+Time of (12)Transedges prefix : 5.11800 ms 
+Time of (3)Edge Deletion : 2.73100 ms 
+Time of (1)Get key rem collections : 2.39700 ms 
+Time of (15)PR Loop : 1.96800 ms 
+Time of (6)Get key rem collections : 1.42100 ms 
+Time of (5)Generate new edges : 0.98300 ms 
+Time of (0)Extracting Roots : 0.78800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.75800 ms 
+Time of (2)Convert to collection : 0.69400 ms 
+Time of (7)Convert to collection : 0.68900 ms 
+Time of (4)Remove edges : 0.67500 ms 
+Time of (10)Compress Graph : 0.37500 ms 
+Time of (16)Component Parent, Reversals : 0.32200 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time (total): 101.91200 ms 
+--------------------------------------------------------
+filename: hugebubbles-00020.txt
+Nodes : 21198119
+Edges : 31790179
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 31790179
+Deleted : 1000
+Time of (17)PR Shortcut : 49.299000 ms 
+Time of (18)PR Reverse Paths : 10.61500 ms 
+Time of (8)Shortcut rep : 9.24000 ms 
+Time of (9)Hooking Shortcutting : 4.73300 ms 
+Time of (3)Edge Deletion : 2.75600 ms 
+Time of (1)Get key rem collections : 2.28000 ms 
+Time of (15)PR Loop : 2.00500 ms 
+Time of (6)Get key rem collections : 1.38600 ms 
+Time of (5)Generate new edges : 0.97900 ms 
+Time of (12)Transedges prefix : 0.88100 ms 
+Time of (0)Extracting Roots : 0.76300 ms 
+Time of (7)Convert to collection : 0.69200 ms 
+Time of (2)Convert to collection : 0.68700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.63900 ms 
+Time of (4)Remove edges : 0.52900 ms 
+Time of (10)Compress Graph : 0.38400 ms 
+Time of (16)Component Parent, Reversals : 0.33800 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 88.23600 ms 
+--------------------------------------------------------

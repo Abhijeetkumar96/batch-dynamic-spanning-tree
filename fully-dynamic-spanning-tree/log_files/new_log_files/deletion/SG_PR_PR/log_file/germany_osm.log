@@ -1,0 +1,940 @@
+
+
+filename: germany_osm.egr
+Root: 4018981
+The input parent array is a BFS tree.
+Number of deleted tree edges: 19100
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 4018981
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 36.4362 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.89 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 4.10 ms
+Time of PR-RST module : 3.10 ms
+Time of Pointer Jumping : 2.16 ms
+Time of Update data structure : 0.36 ms
+Time of Finding unique comps : 0.20 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 14059
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 35.62 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.15 ms
+Time of Path Reversal : 4.67 ms
+Time of PR-RST module : 3.66 ms
+Time of Pointer Jumping : 2.19 ms
+Time of Super graph Creation : 1.93 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 740
+
+
+filename: germany_osm.egr
+Root: 3395533
+The input parent array is a BFS tree.
+Number of deleted tree edges: 25480
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 3395533
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 37.3131 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.02 ms
+Time of Path Reversal : 4.61 ms
+Time of Super graph Creation : 4.15 ms
+Time of PR-RST module : 3.78 ms
+Time of Pointer Jumping : 2.18 ms
+Time of Update data structure : 0.31 ms
+Time of Finding unique comps : 0.23 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 19014
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 36.51 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.14 ms
+Time of Path Reversal : 4.66 ms
+Time of PR-RST module : 4.54 ms
+Time of Pointer Jumping : 2.20 ms
+Time of Super graph Creation : 1.92 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 962
+
+
+filename: germany_osm.egr
+Root: 3705312
+The input parent array is a BFS tree.
+Number of deleted tree edges: 11328
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 3705312
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 36.722 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.82 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 4.10 ms
+Time of PR-RST module : 3.51 ms
+Time of Pointer Jumping : 2.13 ms
+Time of Update data structure : 0.32 ms
+Time of Finding unique comps : 0.21 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 8257
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 35.46 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.00 ms
+Time of Path Reversal : 4.67 ms
+Time of PR-RST module : 3.65 ms
+Time of Pointer Jumping : 2.16 ms
+Time of Super graph Creation : 1.95 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 489
+
+
+filename: germany_osm.egr
+Root: 4726190
+The input parent array is a BFS tree.
+Number of deleted tree edges: 33505
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 4726190
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 35.8492 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.65 ms
+Time of Path Reversal : 4.61 ms
+Time of Super graph Creation : 4.12 ms
+Time of PR-RST module : 2.71 ms
+Time of Pointer Jumping : 2.20 ms
+Time of Update data structure : 0.31 ms
+Time of Finding unique comps : 0.23 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 25105
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 36.72 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.75 ms
+Time of PR-RST module : 5.15 ms
+Time of Path Reversal : 4.67 ms
+Time of Pointer Jumping : 2.23 ms
+Time of Super graph Creation : 1.89 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1314
+
+
+filename: germany_osm.egr
+Root: 4395982
+The input parent array is a BFS tree.
+Number of deleted tree edges: 11051
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100000
+
+Root: 4395982
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 35.7095 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.95 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 4.11 ms
+Time of PR-RST module : 2.37 ms
+Time of Pointer Jumping : 2.13 ms
+Time of Update data structure : 0.32 ms
+Time of Finding unique comps : 0.21 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 8091
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 35.91 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.11 ms
+Time of Path Reversal : 4.67 ms
+Time of PR-RST module : 3.99 ms
+Time of Pointer Jumping : 2.15 ms
+Time of Super graph Creation : 1.97 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 454
+
+
+filename: germany_osm.egr
+Root: 8799078
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2621
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 8799078
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 35.3841 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.63 ms
+Time of Path Reversal : 4.61 ms
+Time of Super graph Creation : 4.05 ms
+Time of PR-RST module : 2.53 ms
+Time of Pointer Jumping : 2.05 ms
+Time of Update data structure : 0.29 ms
+Time of Finding unique comps : 0.19 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 1997
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 32.98 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.72 ms
+Time of Path Reversal : 4.67 ms
+Time of PR-RST module : 2.49 ms
+Time of Pointer Jumping : 2.08 ms
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.99 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 20
+
+
+filename: germany_osm.egr
+Root: 7907401
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2441
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 7907401
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 35.3733 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.69 ms
+Time of Path Reversal : 4.61 ms
+Time of Super graph Creation : 4.05 ms
+Time of PR-RST module : 2.49 ms
+Time of Pointer Jumping : 2.04 ms
+Time of Update data structure : 0.28 ms
+Time of Finding unique comps : 0.19 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 1812
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 33.32 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.14 ms
+Time of Path Reversal : 4.66 ms
+Time of PR-RST module : 2.43 ms
+Time of Pointer Jumping : 2.08 ms
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.99 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 16
+
+
+filename: germany_osm.egr
+Root: 2747305
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2958
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 2747305
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 36.09 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.84 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 4.06 ms
+Time of PR-RST module : 3.02 ms
+Time of Pointer Jumping : 2.05 ms
+Time of Update data structure : 0.29 ms
+Time of Finding unique comps : 0.19 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 2216
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 32.58 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.14 ms
+Time of Path Reversal : 4.67 ms
+Time of Pointer Jumping : 2.09 ms
+Time of PR-RST module : 1.69 ms
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.97 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 15
+
+
+filename: germany_osm.egr
+Root: 10230813
+The input parent array is a BFS tree.
+Number of deleted tree edges: 1461
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 10230813
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 35.4337 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.98 ms
+Time of Path Reversal : 4.61 ms
+Time of Super graph Creation : 4.03 ms
+Time of PR-RST module : 2.30 ms
+Time of Pointer Jumping : 2.02 ms
+Time of Update data structure : 0.29 ms
+Time of Finding unique comps : 0.19 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 1085
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 33.76 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.10 ms
+Time of Path Reversal : 4.67 ms
+Time of PR-RST module : 2.89 ms
+Time of Pointer Jumping : 2.05 ms
+Time of Super graph Creation : 1.02 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 13
+
+
+filename: germany_osm.egr
+Root: 11252683
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2425
+numVert: 11548845, num_edges: 24738362 and delete batch size: 10000
+
+Root: 11252683
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 35.7027 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.93 ms
+Time of Path Reversal : 4.61 ms
+Time of Super graph Creation : 4.05 ms
+Time of PR-RST module : 2.53 ms
+Time of Pointer Jumping : 2.04 ms
+Time of Update data structure : 0.32 ms
+Time of Finding unique comps : 0.19 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 1828
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 32.96 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.18 ms
+Time of Path Reversal : 4.68 ms
+Time of Pointer Jumping : 2.08 ms
+Time of PR-RST module : 2.02 ms
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.98 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 21
+
+
+filename: germany_osm.egr
+Root: 2859016
+The input parent array is a BFS tree.
+Number of deleted tree edges: 26
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 2859016
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.5341 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.97 ms
+Time of Path Reversal : 4.59 ms
+Time of Super graph Creation : 3.98 ms
+Time of Pointer Jumping : 1.96 ms
+Time of PR-RST module : 0.59 ms
+Time of Update data structure : 0.29 ms
+Time of Finding unique comps : 0.12 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 21
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 30.91 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.72 ms
+Time of Path Reversal : 4.68 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.11 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.38 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 4915522
+The input parent array is a BFS tree.
+Number of deleted tree edges: 29
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 4915522
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.5144 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.98 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 3.96 ms
+Time of Pointer Jumping : 1.97 ms
+Time of PR-RST module : 0.58 ms
+Time of Update data structure : 0.27 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 24
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 31.72 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.30 ms
+Time of Path Reversal : 4.67 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.10 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.62 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 97127
+The input parent array is a BFS tree.
+Number of deleted tree edges: 17
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 97127
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 34.7358 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.88 ms
+Time of Super graph Creation : 5.29 ms
+Time of Path Reversal : 4.59 ms
+Time of Pointer Jumping : 1.97 ms
+Time of PR-RST module : 0.58 ms
+Time of Update data structure : 0.28 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 12
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 31.60 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.12 ms
+Time of Path Reversal : 4.79 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.11 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.55 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 911475
+The input parent array is a BFS tree.
+Number of deleted tree edges: 33
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 911475
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.5714 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.95 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 3.98 ms
+Time of Pointer Jumping : 1.97 ms
+Time of PR-RST module : 0.65 ms
+Time of Update data structure : 0.28 ms
+Time of Finding unique comps : 0.13 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 25
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 31.27 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.84 ms
+Time of Path Reversal : 4.67 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.10 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.62 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 2614372
+The input parent array is a BFS tree.
+Number of deleted tree edges: 12
+numVert: 11548845, num_edges: 24738362 and delete batch size: 100
+
+Root: 2614372
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.0619 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.63 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 3.93 ms
+Time of Pointer Jumping : 1.97 ms
+Time of PR-RST module : 0.52 ms
+Time of Update data structure : 0.27 ms
+Time of Finding unique comps : 0.12 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 10
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 31.67 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.18 ms
+Time of Path Reversal : 4.80 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.11 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.55 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 8763760
+The input parent array is a BFS tree.
+Number of deleted tree edges: 149
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 8763760
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.8666 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.01 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 4.03 ms
+Time of Pointer Jumping : 1.97 ms
+Time of PR-RST module : 0.80 ms
+Time of Update data structure : 0.28 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 109
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 32.05 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.17 ms
+Time of Path Reversal : 4.67 ms
+Time of Pointer Jumping : 2.01 ms
+Time of Super graph Creation : 1.10 ms
+Time of PR-RST module : 1.06 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 10853747
+The input parent array is a BFS tree.
+Number of deleted tree edges: 66
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 10853747
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.6268 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.93 ms
+Time of Path Reversal : 4.60 ms
+Time of Super graph Creation : 4.00 ms
+Time of Pointer Jumping : 1.97 ms
+Time of PR-RST module : 0.72 ms
+Time of Update data structure : 0.28 ms
+Time of Finding unique comps : 0.11 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 51
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 31.65 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.12 ms
+Time of Path Reversal : 4.75 ms
+Time of Pointer Jumping : 2.02 ms
+Time of Super graph Creation : 1.08 ms
+Time of Finding unique comps : 0.97 ms
+Time of PR-RST module : 0.69 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 7032622
+The input parent array is a BFS tree.
+Number of deleted tree edges: 277
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 7032622
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.9276 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.98 ms
+Time of Path Reversal : 4.61 ms
+Time of Super graph Creation : 4.02 ms
+Time of Pointer Jumping : 1.98 ms
+Time of PR-RST module : 0.87 ms
+Time of Update data structure : 0.29 ms
+Time of Finding unique comps : 0.16 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 197
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 32.02 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.03 ms
+Time of Path Reversal : 4.68 ms
+Time of Pointer Jumping : 2.03 ms
+Time of PR-RST module : 1.20 ms
+Time of Super graph Creation : 1.07 ms
+Time of Finding unique comps : 0.99 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 11073757
+The input parent array is a BFS tree.
+Number of deleted tree edges: 194
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 11073757
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 36.01 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.98 ms
+Time of Super graph Creation : 5.57 ms
+Time of Path Reversal : 4.59 ms
+Time of Pointer Jumping : 1.98 ms
+Time of PR-RST module : 1.41 ms
+Time of Update data structure : 0.28 ms
+Time of Finding unique comps : 0.18 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 154
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 31.80 ms.
+
+Function execution times:
+Time of PR_Shortcut : 22.17 ms
+Time of Path Reversal : 4.68 ms
+Time of Pointer Jumping : 2.02 ms
+Time of Super graph Creation : 1.08 ms
+Time of Finding unique comps : 0.99 ms
+Time of PR-RST module : 0.84 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: germany_osm.egr
+Root: 7299942
+The input parent array is a BFS tree.
+Number of deleted tree edges: 269
+numVert: 11548845, num_edges: 24738362 and delete batch size: 1000
+
+Root: 7299942
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 33.9748 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.72 ms
+Time of Path Reversal : 4.59 ms
+Time of Super graph Creation : 4.02 ms
+Time of Pointer Jumping : 1.97 ms
+Time of PR-RST module : 1.21 ms
+Time of Update data structure : 0.27 ms
+Time of Finding unique comps : 0.17 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 210
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 32.07 ms.
+
+Function execution times:
+Time of PR_Shortcut : 21.77 ms
+Time of Path Reversal : 4.68 ms
+Time of Pointer Jumping : 2.02 ms
+Time of PR-RST module : 1.51 ms
+Time of Super graph Creation : 1.07 ms
+Time of Finding unique comps : 1.00 ms
+Time of Update rep array : 0.01 ms
+Time of Hash Table look up : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2

@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+rgg_n_2_24_s0.egr,2622,100,1063.13,411.12,308.26
+rgg_n_2_24_s0.egr,2622,1000,1068.15,420.12,274.03
+rgg_n_2_24_s0.egr,2622,10000,1070.37,409.21,273.42
+rgg_n_2_24_s0.egr,2623,100000,1092.94,407.55,282.4

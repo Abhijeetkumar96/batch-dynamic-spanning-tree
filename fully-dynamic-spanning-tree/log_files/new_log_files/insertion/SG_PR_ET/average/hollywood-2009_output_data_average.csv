@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+hollywood-2009.egr,1139905,112840436,100,2.4,7.67
+hollywood-2009.egr,1139905,112840436,1000,13.0,7.67
+hollywood-2009.egr,1139905,112840436,10000,144.6,8.73
+hollywood-2009.egr,1139905,112840436,100000,1472.2,8.74

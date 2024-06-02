@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+eu-2005.egr,862664,32276936,100,1.6,5.53
+eu-2005.egr,862664,32276936,1000,19.6,6.86
+eu-2005.egr,862664,32276936,10000,205.4,7.4
+eu-2005.egr,862664,32276936,100000,2316.6,12.22

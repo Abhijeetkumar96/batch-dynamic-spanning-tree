@@ -1,0 +1,420 @@
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 7836843
+Number of deleted tree edges: 7136
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100000
+
+Root: 7836843
+Root: 7836843
+After repairing:
+Total execution time of all functions: 38.9328 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.82 ms
+Time of Super graph Creation : 2.93 ms
+Time of Pointer Jumping : 2.10 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 2717093
+Number of deleted tree edges: 4094
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100000
+
+Root: 2717093
+Root: 2717093
+After repairing:
+Total execution time of all functions: 31.5852 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.55 ms
+Time of Pointer Jumping : 2.12 ms
+Time of Super graph Creation : 1.82 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 2964057
+Number of deleted tree edges: 4732
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100000
+
+Root: 2964057
+Root: 2964057
+After repairing:
+Total execution time of all functions: 37.9055 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.13 ms
+Time of Super graph Creation : 2.57 ms
+Time of Pointer Jumping : 2.12 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 5548543
+Number of deleted tree edges: 11588
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100000
+
+Root: 5548543
+Root: 5548543
+After repairing:
+Total execution time of all functions: 38.9971 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.47 ms
+Time of Super graph Creation : 3.29 ms
+Time of Pointer Jumping : 2.15 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 8311668
+Number of deleted tree edges: 10469
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100000
+
+Root: 8311668
+Root: 8311668
+After repairing:
+Total execution time of all functions: 27.3981 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.70 ms
+Time of Pointer Jumping : 2.13 ms
+Time of Super graph Creation : 1.47 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 1955299
+Number of deleted tree edges: 745
+numVert: 8388608, num_edges: 127002794 and delete batch size: 10000
+
+Root: 1955299
+Root: 1955299
+After repairing:
+Total execution time of all functions: 41.0599 ms.
+
+Function execution times:
+Time of Eulerian Tour : 34.64 ms
+Time of Super graph Creation : 3.20 ms
+Time of Pointer Jumping : 2.12 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 5998648
+Number of deleted tree edges: 917
+numVert: 8388608, num_edges: 127002794 and delete batch size: 10000
+
+Root: 5998648
+Root: 5998648
+After repairing:
+Total execution time of all functions: 36.8427 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.49 ms
+Time of Super graph Creation : 3.15 ms
+Time of Pointer Jumping : 2.11 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 4969834
+Number of deleted tree edges: 1113
+numVert: 8388608, num_edges: 127002794 and delete batch size: 10000
+
+Root: 4969834
+Root: 4969834
+After repairing:
+Total execution time of all functions: 38.9187 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.53 ms
+Time of Super graph Creation : 3.21 ms
+Time of Pointer Jumping : 2.09 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 5463882
+Number of deleted tree edges: 1165
+numVert: 8388608, num_edges: 127002794 and delete batch size: 10000
+
+Root: 5463882
+Root: 5463882
+After repairing:
+Total execution time of all functions: 28.4462 ms.
+
+Function execution times:
+Time of Eulerian Tour : 23.46 ms
+Time of Pointer Jumping : 2.13 ms
+Time of Super graph Creation : 1.77 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 1091885
+Number of deleted tree edges: 1023
+numVert: 8388608, num_edges: 127002794 and delete batch size: 10000
+
+Root: 1091885
+Root: 1091885
+After repairing:
+Total execution time of all functions: 36.8329 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.94 ms
+Time of Super graph Creation : 2.70 ms
+Time of Pointer Jumping : 2.10 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 918063
+Number of deleted tree edges: 6
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100
+
+Root: 918063
+Root: 918063
+After repairing:
+Total execution time of all functions: 33.5427 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.19 ms
+Time of Pointer Jumping : 1.98 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.28 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 727529
+Number of deleted tree edges: 7
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100
+
+Root: 727529
+Root: 727529
+After repairing:
+Total execution time of all functions: 33.6194 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.95 ms
+Time of Pointer Jumping : 2.07 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.51 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 5484726
+Number of deleted tree edges: 11
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100
+
+Root: 5484726
+Root: 5484726
+After repairing:
+Total execution time of all functions: 35.7667 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.77 ms
+Time of Pointer Jumping : 2.10 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.80 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 1031241
+Number of deleted tree edges: 12
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100
+
+Root: 1031241
+Root: 1031241
+After repairing:
+Total execution time of all functions: 36.8252 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.99 ms
+Time of Pointer Jumping : 2.11 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.63 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 5323133
+Number of deleted tree edges: 8
+numVert: 8388608, num_edges: 127002794 and delete batch size: 100
+
+Root: 5323133
+Root: 5323133
+After repairing:
+Total execution time of all functions: 30.2059 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.48 ms
+Time of Pointer Jumping : 1.80 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.84 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 6138506
+Number of deleted tree edges: 136
+numVert: 8388608, num_edges: 127002794 and delete batch size: 1000
+
+Root: 6138506
+Root: 6138506
+After repairing:
+Total execution time of all functions: 36.8175 ms.
+
+Function execution times:
+Time of Eulerian Tour : 33.26 ms
+Time of Pointer Jumping : 2.10 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.36 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 7229851
+Number of deleted tree edges: 103
+numVert: 8388608, num_edges: 127002794 and delete batch size: 1000
+
+Root: 7229851
+Root: 7229851
+After repairing:
+Total execution time of all functions: 28.4361 ms.
+
+Function execution times:
+Time of Eulerian Tour : 24.53 ms
+Time of Pointer Jumping : 2.13 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.69 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 3951550
+Number of deleted tree edges: 44
+numVert: 8388608, num_edges: 127002794 and delete batch size: 1000
+
+Root: 3951550
+Root: 3951550
+After repairing:
+Total execution time of all functions: 30.2822 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.88 ms
+Time of Pointer Jumping : 1.88 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.45 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 6398182
+Number of deleted tree edges: 98
+numVert: 8388608, num_edges: 127002794 and delete batch size: 1000
+
+Root: 6398182
+Root: 6398182
+After repairing:
+Total execution time of all functions: 33.6675 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.17 ms
+Time of Pointer Jumping : 2.11 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.29 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: rgg_n_2_23_s0.egr
+Root: 5992228
+Number of deleted tree edges: 89
+numVert: 8388608, num_edges: 127002794 and delete batch size: 1000
+
+Root: 5992228
+Root: 5992228
+After repairing:
+Total execution time of all functions: 32.3692 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.04 ms
+Time of Pointer Jumping : 1.87 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.38 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

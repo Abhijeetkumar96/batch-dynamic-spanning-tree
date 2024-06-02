@@ -1,0 +1,338 @@
+filename: kmer_P1a.egr
+Number of deleted tree edges: 86609
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100000
+
+Total execution time of all functions: 482.838 ms.
+
+Function execution times:
+Time of Eulerian Tour : 262.48 ms
+Time of Pointer Jumping : 151.24 ms
+Time of Super graph Creation : 39.21 ms
+Time of Path Reversal : 22.31 ms
+Time of update data structure : 4.21 ms
+Time of PR-RST module : 3.34 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 86598
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100000
+
+Total execution time of all functions: 474.397 ms.
+
+Function execution times:
+Time of Eulerian Tour : 250.15 ms
+Time of Pointer Jumping : 151.22 ms
+Time of Super graph Creation : 39.12 ms
+Time of Path Reversal : 22.34 ms
+Time of update data structure : 7.28 ms
+Time of PR-RST module : 4.24 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 86867
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100000
+
+Total execution time of all functions: 485.491 ms.
+
+Function execution times:
+Time of Eulerian Tour : 259.03 ms
+Time of Pointer Jumping : 152.05 ms
+Time of Super graph Creation : 44.42 ms
+Time of Path Reversal : 22.32 ms
+Time of update data structure : 4.09 ms
+Time of PR-RST module : 3.49 ms
+Time of Update rep array : 0.06 ms
+Time of Hash Table look up : 0.03 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 86530
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100000
+
+Total execution time of all functions: 487.722 ms.
+
+Function execution times:
+Time of Eulerian Tour : 267.59 ms
+Time of Pointer Jumping : 151.29 ms
+Time of Super graph Creation : 39.15 ms
+Time of Path Reversal : 22.26 ms
+Time of update data structure : 4.01 ms
+Time of PR-RST module : 3.37 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 86673
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100000
+
+Total execution time of all functions: 477.528 ms.
+
+Function execution times:
+Time of Eulerian Tour : 257.00 ms
+Time of Pointer Jumping : 151.61 ms
+Time of Super graph Creation : 39.19 ms
+Time of Path Reversal : 22.25 ms
+Time of update data structure : 4.04 ms
+Time of PR-RST module : 3.39 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 8715
+numVert: 139353211, num_edges: 297845870 and delete batch size: 10000
+
+Total execution time of all functions: 407.4 ms.
+
+Function execution times:
+Time of Eulerian Tour : 248.79 ms
+Time of Pointer Jumping : 98.37 ms
+Time of Super graph Creation : 37.32 ms
+Time of Path Reversal : 16.84 ms
+Time of update data structure : 3.89 ms
+Time of PR-RST module : 2.16 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 8694
+numVert: 139353211, num_edges: 297845870 and delete batch size: 10000
+
+Total execution time of all functions: 411.19 ms.
+
+Function execution times:
+Time of Eulerian Tour : 252.90 ms
+Time of Pointer Jumping : 97.94 ms
+Time of Super graph Creation : 37.17 ms
+Time of Path Reversal : 16.91 ms
+Time of update data structure : 4.08 ms
+Time of PR-RST module : 2.16 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 8676
+numVert: 139353211, num_edges: 297845870 and delete batch size: 10000
+
+Total execution time of all functions: 407.698 ms.
+
+Function execution times:
+Time of Eulerian Tour : 250.24 ms
+Time of Pointer Jumping : 97.36 ms
+Time of Super graph Creation : 37.44 ms
+Time of Path Reversal : 16.79 ms
+Time of update data structure : 4.30 ms
+Time of PR-RST module : 1.55 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 8715
+numVert: 139353211, num_edges: 297845870 and delete batch size: 10000
+
+Total execution time of all functions: 405.869 ms.
+
+Function execution times:
+Time of Eulerian Tour : 247.56 ms
+Time of Pointer Jumping : 98.16 ms
+Time of Super graph Creation : 37.22 ms
+Time of Path Reversal : 16.85 ms
+Time of update data structure : 3.89 ms
+Time of PR-RST module : 2.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 8696
+numVert: 139353211, num_edges: 297845870 and delete batch size: 10000
+
+Total execution time of all functions: 419.434 ms.
+
+Function execution times:
+Time of Eulerian Tour : 260.88 ms
+Time of Pointer Jumping : 98.34 ms
+Time of Super graph Creation : 37.30 ms
+Time of Path Reversal : 16.87 ms
+Time of update data structure : 3.84 ms
+Time of PR-RST module : 2.17 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 85
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100
+
+Total execution time of all functions: 382.932 ms.
+
+Function execution times:
+Time of Eulerian Tour : 260.91 ms
+Time of Pointer Jumping : 78.56 ms
+Time of Super graph Creation : 35.22 ms
+Time of update data structure : 4.00 ms
+Time of Path Reversal : 3.38 ms
+Time of PR-RST module : 0.82 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 83
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100
+
+Total execution time of all functions: 369.747 ms.
+
+Function execution times:
+Time of Eulerian Tour : 244.70 ms
+Time of Pointer Jumping : 78.58 ms
+Time of Super graph Creation : 38.24 ms
+Time of update data structure : 3.95 ms
+Time of Path Reversal : 3.42 ms
+Time of PR-RST module : 0.82 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 81
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100
+
+Total execution time of all functions: 372.585 ms.
+
+Function execution times:
+Time of Eulerian Tour : 251.10 ms
+Time of Pointer Jumping : 78.45 ms
+Time of Super graph Creation : 35.30 ms
+Time of update data structure : 3.87 ms
+Time of Path Reversal : 3.01 ms
+Time of PR-RST module : 0.82 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 84
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100
+
+Total execution time of all functions: 387.018 ms.
+
+Function execution times:
+Time of Eulerian Tour : 265.40 ms
+Time of Pointer Jumping : 78.49 ms
+Time of Super graph Creation : 35.05 ms
+Time of update data structure : 3.86 ms
+Time of Path Reversal : 3.36 ms
+Time of PR-RST module : 0.83 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.01 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 89
+numVert: 139353211, num_edges: 297845870 and delete batch size: 100
+
+Total execution time of all functions: 396.834 ms.
+
+Function execution times:
+Time of Eulerian Tour : 275.13 ms
+Time of Pointer Jumping : 78.52 ms
+Time of Super graph Creation : 35.16 ms
+Time of update data structure : 3.98 ms
+Time of Path Reversal : 3.16 ms
+Time of PR-RST module : 0.84 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.03 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 877
+numVert: 139353211, num_edges: 297845870 and delete batch size: 1000
+
+Total execution time of all functions: 388.154 ms.
+
+Function execution times:
+Time of Eulerian Tour : 264.07 ms
+Time of Pointer Jumping : 79.44 ms
+Time of Super graph Creation : 35.51 ms
+Time of update data structure : 4.17 ms
+Time of Path Reversal : 3.79 ms
+Time of PR-RST module : 1.13 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 865
+numVert: 139353211, num_edges: 297845870 and delete batch size: 1000
+
+Total execution time of all functions: 404.443 ms.
+
+Function execution times:
+Time of Eulerian Tour : 280.60 ms
+Time of Pointer Jumping : 79.22 ms
+Time of Super graph Creation : 35.37 ms
+Time of update data structure : 3.97 ms
+Time of Path Reversal : 3.72 ms
+Time of PR-RST module : 1.52 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 867
+numVert: 139353211, num_edges: 297845870 and delete batch size: 1000
+
+Total execution time of all functions: 386.285 ms.
+
+Function execution times:
+Time of Eulerian Tour : 262.26 ms
+Time of Pointer Jumping : 79.29 ms
+Time of Super graph Creation : 35.39 ms
+Time of update data structure : 3.93 ms
+Time of Path Reversal : 3.80 ms
+Time of PR-RST module : 1.56 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 869
+numVert: 139353211, num_edges: 297845870 and delete batch size: 1000
+
+Total execution time of all functions: 397.764 ms.
+
+Function execution times:
+Time of Eulerian Tour : 274.14 ms
+Time of Pointer Jumping : 79.35 ms
+Time of Super graph Creation : 35.50 ms
+Time of update data structure : 3.93 ms
+Time of Path Reversal : 3.69 ms
+Time of PR-RST module : 1.11 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: kmer_P1a.egr
+Number of deleted tree edges: 858
+numVert: 139353211, num_edges: 297845870 and delete batch size: 1000
+
+Total execution time of all functions: 379.084 ms.
+
+Function execution times:
+Time of Eulerian Tour : 254.82 ms
+Time of Pointer Jumping : 79.43 ms
+Time of Super graph Creation : 35.45 ms
+Time of update data structure : 4.03 ms
+Time of Path Reversal : 3.82 ms
+Time of PR-RST module : 1.50 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

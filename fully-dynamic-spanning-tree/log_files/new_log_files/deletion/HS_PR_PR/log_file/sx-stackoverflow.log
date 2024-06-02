@@ -1,0 +1,1240 @@
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 12.697000 ms 
+Time of (17)PR Shortcut : 4.77400 ms 
+Time of (15)PR Loop : 3.46600 ms 
+Time of (3)Edge Deletion : 2.57800 ms 
+Time of (1)Get key rem collections : 2.09100 ms 
+Time of (18)PR Reverse Paths : 2.03600 ms 
+Time of (6)Get key rem collections : 1.27900 ms 
+Time of (8)Shortcut rep : 0.94500 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.81100 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.61000 ms 
+Time of (0)Extracting Roots : 0.54900 ms 
+Time of (4)Remove edges : 0.51900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.48000 ms 
+Time of (16)Component Parent, Reversals : 0.26900 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 34.71300 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 10.010000 ms 
+Time of (17)PR Shortcut : 5.23400 ms 
+Time of (15)PR Loop : 4.76800 ms 
+Time of (3)Edge Deletion : 2.64300 ms 
+Time of (18)PR Reverse Paths : 2.04300 ms 
+Time of (1)Get key rem collections : 2.03400 ms 
+Time of (6)Get key rem collections : 1.31200 ms 
+Time of (8)Shortcut rep : 0.93900 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.79900 ms 
+Time of (2)Convert to collection : 0.61700 ms 
+Time of (7)Convert to collection : 0.60700 ms 
+Time of (0)Extracting Roots : 0.54600 ms 
+Time of (4)Remove edges : 0.49900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.47100 ms 
+Time of (16)Component Parent, Reversals : 0.26700 ms 
+Time of (10)Compress Graph : 0.09600 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 33.78900 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 28.755000 ms 
+Time of (17)PR Shortcut : 5.05700 ms 
+Time of (15)PR Loop : 4.05400 ms 
+Time of (3)Edge Deletion : 2.60800 ms 
+Time of (1)Get key rem collections : 2.06700 ms 
+Time of (18)PR Reverse Paths : 2.03300 ms 
+Time of (6)Get key rem collections : 1.30800 ms 
+Time of (8)Shortcut rep : 0.93500 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.77900 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (4)Remove edges : 0.60800 ms 
+Time of (0)Extracting Roots : 0.56300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.48700 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 51.71000 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 18.946000 ms 
+Time of (15)PR Loop : 4.84700 ms 
+Time of (17)PR Shortcut : 4.40600 ms 
+Time of (3)Edge Deletion : 2.67000 ms 
+Time of (1)Get key rem collections : 2.07800 ms 
+Time of (18)PR Reverse Paths : 2.03500 ms 
+Time of (6)Get key rem collections : 1.31600 ms 
+Time of (8)Shortcut rep : 0.96400 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.77600 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (0)Extracting Roots : 0.54100 ms 
+Time of (4)Remove edges : 0.49100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.47400 ms 
+Time of (16)Component Parent, Reversals : 0.27100 ms 
+Time of (10)Compress Graph : 0.09500 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 42.04200 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 15.753000 ms 
+Time of (17)PR Shortcut : 5.27500 ms 
+Time of (15)PR Loop : 4.13800 ms 
+Time of (3)Edge Deletion : 2.61800 ms 
+Time of (1)Get key rem collections : 2.05000 ms 
+Time of (18)PR Reverse Paths : 2.03400 ms 
+Time of (6)Get key rem collections : 1.24900 ms 
+Time of (8)Shortcut rep : 0.93100 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.77500 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (7)Convert to collection : 0.61000 ms 
+Time of (0)Extracting Roots : 0.54700 ms 
+Time of (4)Remove edges : 0.54400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.47500 ms 
+Time of (16)Component Parent, Reversals : 0.27100 ms 
+Time of (10)Compress Graph : 0.09300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 38.87800 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (17)PR Shortcut : 5.235000 ms 
+Time of (9)Hooking Shortcutting : 5.16900 ms 
+Time of (3)Edge Deletion : 3.19500 ms 
+Time of (1)Get key rem collections : 2.07500 ms 
+Time of (18)PR Reverse Paths : 1.81700 ms 
+Time of (6)Get key rem collections : 1.28800 ms 
+Time of (8)Shortcut rep : 0.93500 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.81000 ms 
+Time of (15)PR Loop : 0.64200 ms 
+Time of (2)Convert to collection : 0.62100 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (4)Remove edges : 0.59900 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45200 ms 
+Time of (16)Component Parent, Reversals : 0.25200 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 25.24800 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 16.811000 ms 
+Time of (17)PR Shortcut : 5.12400 ms 
+Time of (3)Edge Deletion : 3.18000 ms 
+Time of (1)Get key rem collections : 2.03500 ms 
+Time of (18)PR Reverse Paths : 1.82700 ms 
+Time of (15)PR Loop : 1.53700 ms 
+Time of (6)Get key rem collections : 1.23200 ms 
+Time of (8)Shortcut rep : 0.91800 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.85700 ms 
+Time of (2)Convert to collection : 0.61500 ms 
+Time of (7)Convert to collection : 0.60800 ms 
+Time of (0)Extracting Roots : 0.57600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45700 ms 
+Time of (4)Remove edges : 0.45100 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 37.48200 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 10.286000 ms 
+Time of (17)PR Shortcut : 5.00000 ms 
+Time of (3)Edge Deletion : 3.22800 ms 
+Time of (1)Get key rem collections : 2.17500 ms 
+Time of (18)PR Reverse Paths : 1.81500 ms 
+Time of (6)Get key rem collections : 1.32300 ms 
+Time of (15)PR Loop : 1.10900 ms 
+Time of (8)Shortcut rep : 0.92200 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.80700 ms 
+Time of (7)Convert to collection : 0.61900 ms 
+Time of (2)Convert to collection : 0.61300 ms 
+Time of (0)Extracting Roots : 0.55600 ms 
+Time of (4)Remove edges : 0.46900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45100 ms 
+Time of (16)Component Parent, Reversals : 0.25600 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 30.62400 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 11.617000 ms 
+Time of (17)PR Shortcut : 4.93800 ms 
+Time of (3)Edge Deletion : 3.18700 ms 
+Time of (15)PR Loop : 2.85100 ms 
+Time of (1)Get key rem collections : 2.10000 ms 
+Time of (18)PR Reverse Paths : 1.82100 ms 
+Time of (6)Get key rem collections : 1.39700 ms 
+Time of (8)Shortcut rep : 0.92100 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.86800 ms 
+Time of (2)Convert to collection : 0.61600 ms 
+Time of (7)Convert to collection : 0.61400 ms 
+Time of (0)Extracting Roots : 0.55400 ms 
+Time of (4)Remove edges : 0.47300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45500 ms 
+Time of (16)Component Parent, Reversals : 0.27100 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time (total): 33.68100 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 7.719000 ms 
+Time of (17)PR Shortcut : 5.21400 ms 
+Time of (3)Edge Deletion : 3.19500 ms 
+Time of (1)Get key rem collections : 2.07500 ms 
+Time of (18)PR Reverse Paths : 1.82000 ms 
+Time of (6)Get key rem collections : 1.19100 ms 
+Time of (15)PR Loop : 1.09000 ms 
+Time of (8)Shortcut rep : 0.92300 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.81800 ms 
+Time of (7)Convert to collection : 0.61300 ms 
+Time of (2)Convert to collection : 0.61300 ms 
+Time of (0)Extracting Roots : 0.56400 ms 
+Time of (4)Remove edges : 0.47700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.46000 ms 
+Time of (16)Component Parent, Reversals : 0.26200 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 28.03000 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (17)PR Shortcut : 4.573000 ms 
+Time of (9)Hooking Shortcutting : 3.70700 ms 
+Time of (3)Edge Deletion : 2.57700 ms 
+Time of (1)Get key rem collections : 2.10900 ms 
+Time of (18)PR Reverse Paths : 1.74600 ms 
+Time of (6)Get key rem collections : 1.20100 ms 
+Time of (8)Shortcut rep : 0.91300 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.76800 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (0)Extracting Roots : 0.54600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45700 ms 
+Time of (4)Remove edges : 0.45200 ms 
+Time of (15)PR Loop : 0.32000 ms 
+Time of (16)Component Parent, Reversals : 0.29500 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 21.88400 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (9)Hooking Shortcutting : 4.986000 ms 
+Time of (17)PR Shortcut : 4.44400 ms 
+Time of (3)Edge Deletion : 2.58500 ms 
+Time of (1)Get key rem collections : 2.03700 ms 
+Time of (18)PR Reverse Paths : 1.72700 ms 
+Time of (6)Get key rem collections : 1.19500 ms 
+Time of (8)Shortcut rep : 0.89000 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.76900 ms 
+Time of (2)Convert to collection : 0.61800 ms 
+Time of (7)Convert to collection : 0.61500 ms 
+Time of (0)Extracting Roots : 0.54900 ms 
+Time of (4)Remove edges : 0.45600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.44700 ms 
+Time of (15)PR Loop : 0.36000 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00800 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time (total): 22.92900 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (9)Hooking Shortcutting : 5.004000 ms 
+Time of (17)PR Shortcut : 4.54800 ms 
+Time of (3)Edge Deletion : 2.57300 ms 
+Time of (1)Get key rem collections : 2.18700 ms 
+Time of (18)PR Reverse Paths : 1.74400 ms 
+Time of (6)Get key rem collections : 1.19100 ms 
+Time of (8)Shortcut rep : 0.91500 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.77000 ms 
+Time of (7)Convert to collection : 0.61300 ms 
+Time of (2)Convert to collection : 0.61100 ms 
+Time of (0)Extracting Roots : 0.55200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45400 ms 
+Time of (4)Remove edges : 0.45400 ms 
+Time of (15)PR Loop : 0.37300 ms 
+Time of (16)Component Parent, Reversals : 0.26500 ms 
+Time of (10)Compress Graph : 0.09400 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 23.25300 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (17)PR Shortcut : 4.870000 ms 
+Time of (3)Edge Deletion : 2.58600 ms 
+Time of (9)Hooking Shortcutting : 2.49700 ms 
+Time of (1)Get key rem collections : 2.12200 ms 
+Time of (18)PR Reverse Paths : 1.75400 ms 
+Time of (6)Get key rem collections : 1.28500 ms 
+Time of (8)Shortcut rep : 0.89300 ms 
+Time of (5)Generate new edges : 0.88000 ms 
+Time of (12)Transedges prefix : 0.77000 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (0)Extracting Roots : 0.56000 ms 
+Time of (4)Remove edges : 0.52900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.44900 ms 
+Time of (15)PR Loop : 0.26600 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.09400 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 21.06100 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (9)Hooking Shortcutting : 4.957000 ms 
+Time of (17)PR Shortcut : 4.84900 ms 
+Time of (3)Edge Deletion : 2.57600 ms 
+Time of (1)Get key rem collections : 2.10000 ms 
+Time of (18)PR Reverse Paths : 1.74400 ms 
+Time of (6)Get key rem collections : 1.18800 ms 
+Time of (8)Shortcut rep : 0.92500 ms 
+Time of (5)Generate new edges : 0.86900 ms 
+Time of (12)Transedges prefix : 0.75800 ms 
+Time of (2)Convert to collection : 0.61600 ms 
+Time of (7)Convert to collection : 0.60800 ms 
+Time of (0)Extracting Roots : 0.55800 ms 
+Time of (4)Remove edges : 0.51300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45800 ms 
+Time of (15)PR Loop : 0.35700 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.09900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 23.46000 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 6.333000 ms 
+Time of (17)PR Shortcut : 5.25200 ms 
+Time of (3)Edge Deletion : 2.46300 ms 
+Time of (1)Get key rem collections : 2.05000 ms 
+Time of (18)PR Reverse Paths : 1.77400 ms 
+Time of (6)Get key rem collections : 1.19600 ms 
+Time of (8)Shortcut rep : 0.92300 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.76800 ms 
+Time of (2)Convert to collection : 0.61500 ms 
+Time of (7)Convert to collection : 0.61300 ms 
+Time of (0)Extracting Roots : 0.58100 ms 
+Time of (4)Remove edges : 0.54900 ms 
+Time of (15)PR Loop : 0.50300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45500 ms 
+Time of (16)Component Parent, Reversals : 0.25700 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 25.32700 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (17)PR Shortcut : 5.037000 ms 
+Time of (9)Hooking Shortcutting : 3.74200 ms 
+Time of (3)Edge Deletion : 2.46900 ms 
+Time of (1)Get key rem collections : 2.08000 ms 
+Time of (18)PR Reverse Paths : 1.76900 ms 
+Time of (6)Get key rem collections : 1.21800 ms 
+Time of (8)Shortcut rep : 0.91700 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.76800 ms 
+Time of (7)Convert to collection : 0.61000 ms 
+Time of (2)Convert to collection : 0.60800 ms 
+Time of (0)Extracting Roots : 0.55100 ms 
+Time of (15)PR Loop : 0.49500 ms 
+Time of (4)Remove edges : 0.45600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45300 ms 
+Time of (16)Component Parent, Reversals : 0.25700 ms 
+Time of (10)Compress Graph : 0.09500 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 22.43100 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 7.522000 ms 
+Time of (17)PR Shortcut : 4.67400 ms 
+Time of (3)Edge Deletion : 2.47200 ms 
+Time of (1)Get key rem collections : 2.04100 ms 
+Time of (18)PR Reverse Paths : 1.75100 ms 
+Time of (6)Get key rem collections : 1.23800 ms 
+Time of (8)Shortcut rep : 0.93100 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.76900 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45700 ms 
+Time of (15)PR Loop : 0.45200 ms 
+Time of (4)Remove edges : 0.45100 ms 
+Time of (16)Component Parent, Reversals : 0.25500 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 25.78400 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 7.627000 ms 
+Time of (17)PR Shortcut : 5.23200 ms 
+Time of (3)Edge Deletion : 2.41700 ms 
+Time of (1)Get key rem collections : 2.25900 ms 
+Time of (18)PR Reverse Paths : 1.76400 ms 
+Time of (6)Get key rem collections : 1.20400 ms 
+Time of (8)Shortcut rep : 0.92300 ms 
+Time of (5)Generate new edges : 0.87400 ms 
+Time of (12)Transedges prefix : 0.78800 ms 
+Time of (0)Extracting Roots : 0.63000 ms 
+Time of (2)Convert to collection : 0.62100 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (15)PR Loop : 0.50000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.46500 ms 
+Time of (4)Remove edges : 0.45300 ms 
+Time of (16)Component Parent, Reversals : 0.26000 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.02000 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 26.75100 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.117000 ms 
+Time of (17)PR Shortcut : 4.49700 ms 
+Time of (3)Edge Deletion : 2.47600 ms 
+Time of (1)Get key rem collections : 2.11000 ms 
+Time of (18)PR Reverse Paths : 1.81400 ms 
+Time of (6)Get key rem collections : 1.19300 ms 
+Time of (8)Shortcut rep : 0.93200 ms 
+Time of (5)Generate new edges : 0.87100 ms 
+Time of (12)Transedges prefix : 0.79000 ms 
+Time of (7)Convert to collection : 0.60800 ms 
+Time of (2)Convert to collection : 0.60800 ms 
+Time of (0)Extracting Roots : 0.54300 ms 
+Time of (15)PR Loop : 0.50300 ms 
+Time of (4)Remove edges : 0.50000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45200 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 23.38700 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 13.287000 ms 
+Time of (15)PR Loop : 6.82200 ms 
+Time of (17)PR Shortcut : 4.89500 ms 
+Time of (3)Edge Deletion : 2.62400 ms 
+Time of (1)Get key rem collections : 2.05600 ms 
+Time of (18)PR Reverse Paths : 2.03100 ms 
+Time of (6)Get key rem collections : 1.39300 ms 
+Time of (8)Shortcut rep : 0.94500 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.82100 ms 
+Time of (7)Convert to collection : 0.61400 ms 
+Time of (2)Convert to collection : 0.61000 ms 
+Time of (0)Extracting Roots : 0.55400 ms 
+Time of (4)Remove edges : 0.49000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.48100 ms 
+Time of (16)Component Parent, Reversals : 0.27500 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 38.89300 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 11.037000 ms 
+Time of (17)PR Shortcut : 5.18700 ms 
+Time of (15)PR Loop : 3.42600 ms 
+Time of (3)Edge Deletion : 2.61900 ms 
+Time of (1)Get key rem collections : 2.19100 ms 
+Time of (18)PR Reverse Paths : 2.02700 ms 
+Time of (6)Get key rem collections : 1.31400 ms 
+Time of (8)Shortcut rep : 0.94500 ms 
+Time of (5)Generate new edges : 0.87400 ms 
+Time of (12)Transedges prefix : 0.79900 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (7)Convert to collection : 0.60900 ms 
+Time of (0)Extracting Roots : 0.56000 ms 
+Time of (4)Remove edges : 0.47600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.47400 ms 
+Time of (16)Component Parent, Reversals : 0.27200 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 33.54100 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 12.009000 ms 
+Time of (17)PR Shortcut : 4.97800 ms 
+Time of (15)PR Loop : 4.14200 ms 
+Time of (3)Edge Deletion : 2.42800 ms 
+Time of (1)Get key rem collections : 2.12800 ms 
+Time of (18)PR Reverse Paths : 2.03800 ms 
+Time of (6)Get key rem collections : 1.23800 ms 
+Time of (12)Transedges prefix : 0.96600 ms 
+Time of (8)Shortcut rep : 0.89200 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.60700 ms 
+Time of (0)Extracting Roots : 0.54300 ms 
+Time of (4)Remove edges : 0.53200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.47100 ms 
+Time of (16)Component Parent, Reversals : 0.26800 ms 
+Time of (10)Compress Graph : 0.08900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 34.84200 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 13.942000 ms 
+Time of (17)PR Shortcut : 5.25200 ms 
+Time of (15)PR Loop : 4.75500 ms 
+Time of (3)Edge Deletion : 2.61000 ms 
+Time of (1)Get key rem collections : 2.06000 ms 
+Time of (18)PR Reverse Paths : 2.01900 ms 
+Time of (6)Get key rem collections : 1.27800 ms 
+Time of (8)Shortcut rep : 0.94200 ms 
+Time of (5)Generate new edges : 0.87400 ms 
+Time of (12)Transedges prefix : 0.80700 ms 
+Time of (2)Convert to collection : 0.62200 ms 
+Time of (7)Convert to collection : 0.61000 ms 
+Time of (0)Extracting Roots : 0.55800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.48400 ms 
+Time of (4)Remove edges : 0.46900 ms 
+Time of (16)Component Parent, Reversals : 0.27000 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 37.66900 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 20.303000 ms 
+Time of (15)PR Loop : 6.10100 ms 
+Time of (17)PR Shortcut : 4.88000 ms 
+Time of (3)Edge Deletion : 2.59800 ms 
+Time of (1)Get key rem collections : 2.05400 ms 
+Time of (18)PR Reverse Paths : 2.03000 ms 
+Time of (6)Get key rem collections : 1.24000 ms 
+Time of (8)Shortcut rep : 0.94200 ms 
+Time of (12)Transedges prefix : 0.90000 ms 
+Time of (5)Generate new edges : 0.87300 ms 
+Time of (7)Convert to collection : 0.60900 ms 
+Time of (2)Convert to collection : 0.60900 ms 
+Time of (0)Extracting Roots : 0.56600 ms 
+Time of (4)Remove edges : 0.49200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.47800 ms 
+Time of (16)Component Parent, Reversals : 0.27500 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01900 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 45.07300 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 5.169000 ms 
+Time of (17)PR Shortcut : 4.69700 ms 
+Time of (3)Edge Deletion : 2.36900 ms 
+Time of (1)Get key rem collections : 2.04200 ms 
+Time of (18)PR Reverse Paths : 1.80600 ms 
+Time of (6)Get key rem collections : 1.39600 ms 
+Time of (8)Shortcut rep : 0.91500 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.79100 ms 
+Time of (15)PR Loop : 0.64500 ms 
+Time of (2)Convert to collection : 0.61500 ms 
+Time of (7)Convert to collection : 0.60900 ms 
+Time of (0)Extracting Roots : 0.55900 ms 
+Time of (4)Remove edges : 0.46300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45100 ms 
+Time of (16)Component Parent, Reversals : 0.25800 ms 
+Time of (10)Compress Graph : 0.08800 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 23.77700 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 10.394000 ms 
+Time of (17)PR Shortcut : 4.70000 ms 
+Time of (3)Edge Deletion : 2.34600 ms 
+Time of (1)Get key rem collections : 2.09600 ms 
+Time of (18)PR Reverse Paths : 1.81900 ms 
+Time of (15)PR Loop : 1.53700 ms 
+Time of (6)Get key rem collections : 1.27600 ms 
+Time of (8)Shortcut rep : 0.93200 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.86000 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (2)Convert to collection : 0.60800 ms 
+Time of (4)Remove edges : 0.58800 ms 
+Time of (0)Extracting Roots : 0.58500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.47100 ms 
+Time of (16)Component Parent, Reversals : 0.26700 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time (total): 30.08700 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 7.819000 ms 
+Time of (17)PR Shortcut : 5.16600 ms 
+Time of (3)Edge Deletion : 2.36300 ms 
+Time of (1)Get key rem collections : 2.31200 ms 
+Time of (18)PR Reverse Paths : 1.81300 ms 
+Time of (6)Get key rem collections : 1.23600 ms 
+Time of (15)PR Loop : 1.08300 ms 
+Time of (8)Shortcut rep : 0.92600 ms 
+Time of (5)Generate new edges : 0.87300 ms 
+Time of (12)Transedges prefix : 0.86600 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.61000 ms 
+Time of (0)Extracting Roots : 0.57400 ms 
+Time of (4)Remove edges : 0.48000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45100 ms 
+Time of (16)Component Parent, Reversals : 0.27100 ms 
+Time of (10)Compress Graph : 0.09700 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (11)Get compressed list : 0.00800 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 27.58400 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 10.368000 ms 
+Time of (17)PR Shortcut : 4.70900 ms 
+Time of (15)PR Loop : 2.42600 ms 
+Time of (3)Edge Deletion : 2.37300 ms 
+Time of (1)Get key rem collections : 2.19700 ms 
+Time of (18)PR Reverse Paths : 1.95400 ms 
+Time of (6)Get key rem collections : 1.34600 ms 
+Time of (8)Shortcut rep : 0.91800 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.87400 ms 
+Time of (0)Extracting Roots : 0.64200 ms 
+Time of (2)Convert to collection : 0.61500 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (4)Remove edges : 0.47400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45800 ms 
+Time of (16)Component Parent, Reversals : 0.26200 ms 
+Time of (10)Compress Graph : 0.09300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 31.22300 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 9.030000 ms 
+Time of (17)PR Shortcut : 5.10300 ms 
+Time of (3)Edge Deletion : 2.36000 ms 
+Time of (1)Get key rem collections : 2.11300 ms 
+Time of (18)PR Reverse Paths : 1.81300 ms 
+Time of (6)Get key rem collections : 1.33300 ms 
+Time of (15)PR Loop : 1.10600 ms 
+Time of (12)Transedges prefix : 0.94000 ms 
+Time of (8)Shortcut rep : 0.93200 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (7)Convert to collection : 0.61500 ms 
+Time of (2)Convert to collection : 0.61300 ms 
+Time of (4)Remove edges : 0.59100 ms 
+Time of (0)Extracting Roots : 0.54900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45600 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 28.80700 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (17)PR Shortcut : 4.493000 ms 
+Time of (9)Hooking Shortcutting : 3.70300 ms 
+Time of (3)Edge Deletion : 2.58000 ms 
+Time of (1)Get key rem collections : 2.06500 ms 
+Time of (18)PR Reverse Paths : 1.74800 ms 
+Time of (6)Get key rem collections : 1.20400 ms 
+Time of (8)Shortcut rep : 0.91600 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.80700 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.61000 ms 
+Time of (0)Extracting Roots : 0.56600 ms 
+Time of (4)Remove edges : 0.45900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45100 ms 
+Time of (15)PR Loop : 0.30600 ms 
+Time of (16)Component Parent, Reversals : 0.25600 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 21.77000 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (9)Hooking Shortcutting : 4.965000 ms 
+Time of (17)PR Shortcut : 4.93700 ms 
+Time of (3)Edge Deletion : 2.57200 ms 
+Time of (1)Get key rem collections : 2.05700 ms 
+Time of (18)PR Reverse Paths : 1.76000 ms 
+Time of (6)Get key rem collections : 1.21800 ms 
+Time of (8)Shortcut rep : 0.90300 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.77400 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.61000 ms 
+Time of (0)Extracting Roots : 0.55000 ms 
+Time of (4)Remove edges : 0.45700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45600 ms 
+Time of (15)PR Loop : 0.35500 ms 
+Time of (16)Component Parent, Reversals : 0.25500 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 23.47300 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (9)Hooking Shortcutting : 5.009000 ms 
+Time of (17)PR Shortcut : 4.97100 ms 
+Time of (3)Edge Deletion : 2.57800 ms 
+Time of (1)Get key rem collections : 2.07700 ms 
+Time of (18)PR Reverse Paths : 1.75200 ms 
+Time of (6)Get key rem collections : 1.28200 ms 
+Time of (8)Shortcut rep : 0.91800 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.82600 ms 
+Time of (2)Convert to collection : 0.61400 ms 
+Time of (7)Convert to collection : 0.61300 ms 
+Time of (0)Extracting Roots : 0.55000 ms 
+Time of (4)Remove edges : 0.46300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.44900 ms 
+Time of (15)PR Loop : 0.35400 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.09100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 23.71000 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (17)PR Shortcut : 4.854000 ms 
+Time of (3)Edge Deletion : 2.56000 ms 
+Time of (9)Hooking Shortcutting : 2.50100 ms 
+Time of (1)Get key rem collections : 2.04300 ms 
+Time of (18)PR Reverse Paths : 1.72700 ms 
+Time of (6)Get key rem collections : 1.20900 ms 
+Time of (8)Shortcut rep : 0.93700 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.77700 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (0)Extracting Roots : 0.57500 ms 
+Time of (4)Remove edges : 0.49300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45500 ms 
+Time of (15)PR Loop : 0.27200 ms 
+Time of (16)Component Parent, Reversals : 0.25700 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 20.88000 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 100
+Time of (9)Hooking Shortcutting : 4.975000 ms 
+Time of (17)PR Shortcut : 4.84400 ms 
+Time of (3)Edge Deletion : 2.57600 ms 
+Time of (1)Get key rem collections : 2.08900 ms 
+Time of (18)PR Reverse Paths : 1.75800 ms 
+Time of (6)Get key rem collections : 1.22600 ms 
+Time of (8)Shortcut rep : 0.91000 ms 
+Time of (5)Generate new edges : 0.87600 ms 
+Time of (12)Transedges prefix : 0.77500 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.61100 ms 
+Time of (0)Extracting Roots : 0.55100 ms 
+Time of (4)Remove edges : 0.46400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45000 ms 
+Time of (15)PR Loop : 0.36300 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.09300 ms 
+Time of (14)PR init : 0.01900 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 23.46400 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.027000 ms 
+Time of (17)PR Shortcut : 4.50000 ms 
+Time of (3)Edge Deletion : 3.50900 ms 
+Time of (1)Get key rem collections : 2.05700 ms 
+Time of (18)PR Reverse Paths : 1.75100 ms 
+Time of (6)Get key rem collections : 1.25700 ms 
+Time of (8)Shortcut rep : 0.93100 ms 
+Time of (5)Generate new edges : 0.87500 ms 
+Time of (12)Transedges prefix : 0.76900 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (2)Convert to collection : 0.60800 ms 
+Time of (0)Extracting Roots : 0.55400 ms 
+Time of (15)PR Loop : 0.49800 ms 
+Time of (4)Remove edges : 0.48900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45800 ms 
+Time of (16)Component Parent, Reversals : 0.26700 ms 
+Time of (10)Compress Graph : 0.09000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 24.28100 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (17)PR Shortcut : 4.448000 ms 
+Time of (9)Hooking Shortcutting : 3.74800 ms 
+Time of (3)Edge Deletion : 3.52100 ms 
+Time of (1)Get key rem collections : 2.04000 ms 
+Time of (18)PR Reverse Paths : 1.75500 ms 
+Time of (6)Get key rem collections : 1.19700 ms 
+Time of (8)Shortcut rep : 0.93900 ms 
+Time of (5)Generate new edges : 0.87300 ms 
+Time of (12)Transedges prefix : 0.79500 ms 
+Time of (0)Extracting Roots : 0.61600 ms 
+Time of (7)Convert to collection : 0.61400 ms 
+Time of (2)Convert to collection : 0.61200 ms 
+Time of (15)PR Loop : 0.50400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.46000 ms 
+Time of (4)Remove edges : 0.45300 ms 
+Time of (16)Component Parent, Reversals : 0.25700 ms 
+Time of (10)Compress Graph : 0.09200 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 22.95400 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 7.575000 ms 
+Time of (17)PR Shortcut : 5.27900 ms 
+Time of (3)Edge Deletion : 3.51600 ms 
+Time of (1)Get key rem collections : 2.13400 ms 
+Time of (18)PR Reverse Paths : 1.78200 ms 
+Time of (6)Get key rem collections : 1.21900 ms 
+Time of (8)Shortcut rep : 0.92500 ms 
+Time of (5)Generate new edges : 0.87800 ms 
+Time of (12)Transedges prefix : 0.82300 ms 
+Time of (7)Convert to collection : 0.60900 ms 
+Time of (2)Convert to collection : 0.60800 ms 
+Time of (0)Extracting Roots : 0.57600 ms 
+Time of (4)Remove edges : 0.45400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45300 ms 
+Time of (15)PR Loop : 0.45300 ms 
+Time of (16)Component Parent, Reversals : 0.25200 ms 
+Time of (10)Compress Graph : 0.09300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 27.65700 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.100000 ms 
+Time of (17)PR Shortcut : 4.58900 ms 
+Time of (3)Edge Deletion : 3.51400 ms 
+Time of (1)Get key rem collections : 2.05700 ms 
+Time of (18)PR Reverse Paths : 1.76600 ms 
+Time of (6)Get key rem collections : 1.23800 ms 
+Time of (8)Shortcut rep : 0.91900 ms 
+Time of (5)Generate new edges : 0.87700 ms 
+Time of (12)Transedges prefix : 0.79400 ms 
+Time of (2)Convert to collection : 0.61400 ms 
+Time of (7)Convert to collection : 0.61200 ms 
+Time of (0)Extracting Roots : 0.56400 ms 
+Time of (15)PR Loop : 0.49700 ms 
+Time of (4)Remove edges : 0.46000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.44900 ms 
+Time of (16)Component Parent, Reversals : 0.25900 ms 
+Time of (10)Compress Graph : 0.09500 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 24.43200 ms 
+--------------------------------------------------------
+filename: sx-stackoverflow.txt
+Nodes : 2601977
+Edges : 28207097
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 28207097
+Deleted : 1000
+Time of (17)PR Shortcut : 5.040000 ms 
+Time of (9)Hooking Shortcutting : 3.77800 ms 
+Time of (3)Edge Deletion : 3.52000 ms 
+Time of (1)Get key rem collections : 2.08700 ms 
+Time of (18)PR Reverse Paths : 1.77700 ms 
+Time of (6)Get key rem collections : 1.24100 ms 
+Time of (8)Shortcut rep : 0.92300 ms 
+Time of (5)Generate new edges : 0.87400 ms 
+Time of (12)Transedges prefix : 0.82500 ms 
+Time of (2)Convert to collection : 0.61700 ms 
+Time of (7)Convert to collection : 0.61100 ms 
+Time of (0)Extracting Roots : 0.55400 ms 
+Time of (15)PR Loop : 0.50800 ms 
+Time of (4)Remove edges : 0.45300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.45100 ms 
+Time of (16)Component Parent, Reversals : 0.25800 ms 
+Time of (10)Compress Graph : 0.09300 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 23.64100 ms 
+--------------------------------------------------------

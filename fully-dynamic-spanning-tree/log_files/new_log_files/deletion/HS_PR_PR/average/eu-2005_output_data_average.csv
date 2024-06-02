@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+eu-2005.txt,100,11.86
+eu-2005.txt,1000,14.01
+eu-2005.txt,10000,14.07
+eu-2005.txt,100000,17.77

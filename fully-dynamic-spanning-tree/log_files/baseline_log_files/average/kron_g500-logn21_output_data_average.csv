@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+kron_g500-logn21.egr,553159,100,9490.36,72973.87,75.11
+kron_g500-logn21.egr,553159,1000,9514.79,72892.01,64.16
+kron_g500-logn21.egr,553159,10000,9497.26,73041.95,78.58
+kron_g500-logn21.egr,553159,100000,9508.13,73258.38,60.59

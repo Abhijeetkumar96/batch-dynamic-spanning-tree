@@ -1,0 +1,720 @@
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 25827
+Non-tree edges deleted : 74173
+Time of (4)Multi component Euler tour internal  : 29.730000 ms 
+Time of (5)Retrieving back first and last times  : 20.37100 ms 
+Time of (12)Hooking Shortcutting : 14.86800 ms 
+Time of (3)Processing for multi component Euler tour : 10.97000 ms 
+Time of (11)Shortcut rep : 5.96300 ms 
+Time of (6)Edge Deletion : 2.99100 ms 
+Time of (1)Get key rem collections : 2.07100 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.00100 ms 
+Time of (23)List ranking : 1.62500 ms 
+Time of (9)Get key rem collections : 1.34200 ms 
+Time of (8)Generate new edges : 0.90200 ms 
+Time of (19)Thrust Sorting : 0.77900 ms 
+Time of (0)Extracting Roots : 0.76100 ms 
+Time of (21)CSR creation : 0.68600 ms 
+Time of (2)Convert to collection : 0.63400 ms 
+Time of (10)Convert to collection : 0.63300 ms 
+Time of (7)Remove edges : 0.55300 ms 
+Time of (15)Transedges prefix : 0.50700 ms 
+Time of (13)Compress Graph : 0.48100 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (18)Functor : 0.01700 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 97.96800 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 25705
+Non-tree edges deleted : 74295
+Time of (4)Multi component Euler tour internal  : 29.615000 ms 
+Time of (5)Retrieving back first and last times  : 21.15100 ms 
+Time of (12)Hooking Shortcutting : 20.83300 ms 
+Time of (3)Processing for multi component Euler tour : 10.84300 ms 
+Time of (11)Shortcut rep : 6.21100 ms 
+Time of (6)Edge Deletion : 2.75500 ms 
+Time of (1)Get key rem collections : 2.09300 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.00500 ms 
+Time of (23)List ranking : 1.61100 ms 
+Time of (9)Get key rem collections : 1.25600 ms 
+Time of (8)Generate new edges : 0.89900 ms 
+Time of (0)Extracting Roots : 0.80600 ms 
+Time of (21)CSR creation : 0.70100 ms 
+Time of (19)Thrust Sorting : 0.65200 ms 
+Time of (2)Convert to collection : 0.63800 ms 
+Time of (10)Convert to collection : 0.62900 ms 
+Time of (7)Remove edges : 0.53400 ms 
+Time of (15)Transedges prefix : 0.35600 ms 
+Time of (13)Compress Graph : 0.30100 ms 
+Time of (20)Thrust gather : 0.04300 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 103.97300 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 25776
+Non-tree edges deleted : 74224
+Time of (4)Multi component Euler tour internal  : 29.436000 ms 
+Time of (5)Retrieving back first and last times  : 20.25500 ms 
+Time of (12)Hooking Shortcutting : 15.66900 ms 
+Time of (3)Processing for multi component Euler tour : 11.03800 ms 
+Time of (11)Shortcut rep : 6.22900 ms 
+Time of (6)Edge Deletion : 2.98400 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.01600 ms 
+Time of (1)Get key rem collections : 1.98600 ms 
+Time of (23)List ranking : 1.60400 ms 
+Time of (9)Get key rem collections : 1.31000 ms 
+Time of (8)Generate new edges : 0.90100 ms 
+Time of (0)Extracting Roots : 0.79000 ms 
+Time of (19)Thrust Sorting : 0.76600 ms 
+Time of (21)CSR creation : 0.68500 ms 
+Time of (10)Convert to collection : 0.63400 ms 
+Time of (2)Convert to collection : 0.63100 ms 
+Time of (7)Remove edges : 0.52900 ms 
+Time of (15)Transedges prefix : 0.51000 ms 
+Time of (13)Compress Graph : 0.44700 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (18)Functor : 0.01700 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 98.51900 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 25706
+Non-tree edges deleted : 74294
+Time of (4)Multi component Euler tour internal  : 29.940000 ms 
+Time of (5)Retrieving back first and last times  : 21.17500 ms 
+Time of (12)Hooking Shortcutting : 14.48600 ms 
+Time of (3)Processing for multi component Euler tour : 10.88400 ms 
+Time of (11)Shortcut rep : 3.85100 ms 
+Time of (6)Edge Deletion : 2.77100 ms 
+Time of (1)Get key rem collections : 2.20400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.99400 ms 
+Time of (23)List ranking : 1.63500 ms 
+Time of (9)Get key rem collections : 0.91900 ms 
+Time of (0)Extracting Roots : 0.75300 ms 
+Time of (21)CSR creation : 0.72700 ms 
+Time of (8)Generate new edges : 0.68400 ms 
+Time of (19)Thrust Sorting : 0.65800 ms 
+Time of (2)Convert to collection : 0.64100 ms 
+Time of (10)Convert to collection : 0.45300 ms 
+Time of (7)Remove edges : 0.41200 ms 
+Time of (15)Transedges prefix : 0.35800 ms 
+Time of (13)Compress Graph : 0.29100 ms 
+Time of (20)Thrust gather : 0.04300 ms 
+Time of (24)Component Parent, Reversals : 0.01300 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 94.92400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 25912
+Non-tree edges deleted : 74088
+Time of (4)Multi component Euler tour internal  : 29.677000 ms 
+Time of (5)Retrieving back first and last times  : 19.91300 ms 
+Time of (12)Hooking Shortcutting : 11.12100 ms 
+Time of (3)Processing for multi component Euler tour : 10.75600 ms 
+Time of (11)Shortcut rep : 4.18200 ms 
+Time of (6)Edge Deletion : 2.79700 ms 
+Time of (1)Get key rem collections : 2.12000 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.01700 ms 
+Time of (23)List ranking : 1.61000 ms 
+Time of (9)Get key rem collections : 0.93300 ms 
+Time of (0)Extracting Roots : 0.76300 ms 
+Time of (8)Generate new edges : 0.69700 ms 
+Time of (21)CSR creation : 0.67800 ms 
+Time of (19)Thrust Sorting : 0.65900 ms 
+Time of (2)Convert to collection : 0.63900 ms 
+Time of (10)Convert to collection : 0.47000 ms 
+Time of (7)Remove edges : 0.40100 ms 
+Time of (15)Transedges prefix : 0.39100 ms 
+Time of (13)Compress Graph : 0.31200 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 90.22400 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 2561
+Non-tree edges deleted : 7439
+Time of (4)Multi component Euler tour internal  : 30.029000 ms 
+Time of (5)Retrieving back first and last times  : 21.45800 ms 
+Time of (3)Processing for multi component Euler tour : 11.03600 ms 
+Time of (12)Hooking Shortcutting : 10.37800 ms 
+Time of (11)Shortcut rep : 5.99600 ms 
+Time of (6)Edge Deletion : 3.04300 ms 
+Time of (1)Get key rem collections : 2.17400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.62700 ms 
+Time of (9)Get key rem collections : 1.13300 ms 
+Time of (23)List ranking : 1.09200 ms 
+Time of (8)Generate new edges : 0.90500 ms 
+Time of (0)Extracting Roots : 0.76000 ms 
+Time of (21)CSR creation : 0.73300 ms 
+Time of (2)Convert to collection : 0.63900 ms 
+Time of (10)Convert to collection : 0.63200 ms 
+Time of (15)Transedges prefix : 0.52400 ms 
+Time of (7)Remove edges : 0.49200 ms 
+Time of (13)Compress Graph : 0.41000 ms 
+Time of (19)Thrust Sorting : 0.16900 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time (total): 93.32700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 2557
+Non-tree edges deleted : 7443
+Time of (4)Multi component Euler tour internal  : 29.652000 ms 
+Time of (5)Retrieving back first and last times  : 20.03900 ms 
+Time of (3)Processing for multi component Euler tour : 10.98500 ms 
+Time of (12)Hooking Shortcutting : 7.98400 ms 
+Time of (11)Shortcut rep : 3.74300 ms 
+Time of (6)Edge Deletion : 2.80600 ms 
+Time of (1)Get key rem collections : 2.10300 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.62000 ms 
+Time of (9)Get key rem collections : 1.16400 ms 
+Time of (23)List ranking : 1.07500 ms 
+Time of (8)Generate new edges : 0.90600 ms 
+Time of (0)Extracting Roots : 0.74400 ms 
+Time of (21)CSR creation : 0.65900 ms 
+Time of (10)Convert to collection : 0.63400 ms 
+Time of (2)Convert to collection : 0.63200 ms 
+Time of (7)Remove edges : 0.54600 ms 
+Time of (15)Transedges prefix : 0.36200 ms 
+Time of (13)Compress Graph : 0.28100 ms 
+Time of (19)Thrust Sorting : 0.11800 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 86.13200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 2541
+Non-tree edges deleted : 7459
+Time of (4)Multi component Euler tour internal  : 29.685000 ms 
+Time of (5)Retrieving back first and last times  : 25.05700 ms 
+Time of (3)Processing for multi component Euler tour : 10.60900 ms 
+Time of (12)Hooking Shortcutting : 10.10100 ms 
+Time of (11)Shortcut rep : 5.99900 ms 
+Time of (6)Edge Deletion : 3.26800 ms 
+Time of (1)Get key rem collections : 2.02100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.61800 ms 
+Time of (9)Get key rem collections : 1.24400 ms 
+Time of (23)List ranking : 1.07300 ms 
+Time of (8)Generate new edges : 0.90500 ms 
+Time of (0)Extracting Roots : 0.79700 ms 
+Time of (21)CSR creation : 0.63600 ms 
+Time of (10)Convert to collection : 0.63100 ms 
+Time of (2)Convert to collection : 0.62800 ms 
+Time of (7)Remove edges : 0.49000 ms 
+Time of (15)Transedges prefix : 0.37800 ms 
+Time of (13)Compress Graph : 0.29800 ms 
+Time of (19)Thrust Sorting : 0.11500 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 95.63600 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 2605
+Non-tree edges deleted : 7395
+Time of (4)Multi component Euler tour internal  : 29.604000 ms 
+Time of (5)Retrieving back first and last times  : 21.59300 ms 
+Time of (12)Hooking Shortcutting : 11.58900 ms 
+Time of (3)Processing for multi component Euler tour : 11.10000 ms 
+Time of (11)Shortcut rep : 5.98500 ms 
+Time of (6)Edge Deletion : 3.29500 ms 
+Time of (1)Get key rem collections : 2.07700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.61100 ms 
+Time of (9)Get key rem collections : 1.19600 ms 
+Time of (23)List ranking : 1.07200 ms 
+Time of (8)Generate new edges : 0.91000 ms 
+Time of (0)Extracting Roots : 0.76100 ms 
+Time of (21)CSR creation : 0.64400 ms 
+Time of (2)Convert to collection : 0.64400 ms 
+Time of (10)Convert to collection : 0.63600 ms 
+Time of (15)Transedges prefix : 0.50800 ms 
+Time of (7)Remove edges : 0.46900 ms 
+Time of (13)Compress Graph : 0.46000 ms 
+Time of (19)Thrust Sorting : 0.17200 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 94.42100 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 2583
+Non-tree edges deleted : 7417
+Time of (4)Multi component Euler tour internal  : 29.627000 ms 
+Time of (5)Retrieving back first and last times  : 20.21100 ms 
+Time of (3)Processing for multi component Euler tour : 10.90500 ms 
+Time of (12)Hooking Shortcutting : 7.05300 ms 
+Time of (11)Shortcut rep : 6.00000 ms 
+Time of (6)Edge Deletion : 3.27800 ms 
+Time of (1)Get key rem collections : 2.04100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.61600 ms 
+Time of (9)Get key rem collections : 1.22500 ms 
+Time of (23)List ranking : 1.07500 ms 
+Time of (8)Generate new edges : 0.90800 ms 
+Time of (0)Extracting Roots : 0.81300 ms 
+Time of (21)CSR creation : 0.64000 ms 
+Time of (10)Convert to collection : 0.63200 ms 
+Time of (2)Convert to collection : 0.63000 ms 
+Time of (7)Remove edges : 0.50200 ms 
+Time of (15)Transedges prefix : 0.36100 ms 
+Time of (13)Compress Graph : 0.29000 ms 
+Time of (19)Thrust Sorting : 0.11900 ms 
+Time of (20)Thrust gather : 0.04300 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time (total): 88.00900 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 23
+Non-tree edges deleted : 77
+Time of (4)Multi component Euler tour internal  : 29.621000 ms 
+Time of (5)Retrieving back first and last times  : 21.45400 ms 
+Time of (3)Processing for multi component Euler tour : 10.91400 ms 
+Time of (11)Shortcut rep : 5.07700 ms 
+Time of (12)Hooking Shortcutting : 4.38800 ms 
+Time of (6)Edge Deletion : 2.58900 ms 
+Time of (1)Get key rem collections : 2.02700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.70000 ms 
+Time of (9)Get key rem collections : 1.26800 ms 
+Time of (8)Generate new edges : 0.79500 ms 
+Time of (0)Extracting Roots : 0.78600 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (21)CSR creation : 0.62200 ms 
+Time of (10)Convert to collection : 0.55300 ms 
+Time of (23)List ranking : 0.54300 ms 
+Time of (15)Transedges prefix : 0.43000 ms 
+Time of (7)Remove edges : 0.41800 ms 
+Time of (13)Compress Graph : 0.35600 ms 
+Time of (19)Thrust Sorting : 0.09700 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 84.35000 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 25
+Non-tree edges deleted : 75
+Time of (4)Multi component Euler tour internal  : 29.653000 ms 
+Time of (5)Retrieving back first and last times  : 20.19800 ms 
+Time of (3)Processing for multi component Euler tour : 10.85800 ms 
+Time of (11)Shortcut rep : 5.22600 ms 
+Time of (12)Hooking Shortcutting : 4.41900 ms 
+Time of (6)Edge Deletion : 2.60500 ms 
+Time of (1)Get key rem collections : 2.05600 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.73600 ms 
+Time of (9)Get key rem collections : 1.06500 ms 
+Time of (8)Generate new edges : 0.81400 ms 
+Time of (0)Extracting Roots : 0.75900 ms 
+Time of (2)Convert to collection : 0.63400 ms 
+Time of (21)CSR creation : 0.60900 ms 
+Time of (10)Convert to collection : 0.57000 ms 
+Time of (23)List ranking : 0.54500 ms 
+Time of (13)Compress Graph : 0.45200 ms 
+Time of (15)Transedges prefix : 0.44300 ms 
+Time of (7)Remove edges : 0.42500 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 83.25200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 26
+Non-tree edges deleted : 74
+Time of (4)Multi component Euler tour internal  : 29.373000 ms 
+Time of (5)Retrieving back first and last times  : 21.36400 ms 
+Time of (3)Processing for multi component Euler tour : 10.98200 ms 
+Time of (11)Shortcut rep : 4.19200 ms 
+Time of (12)Hooking Shortcutting : 4.01000 ms 
+Time of (6)Edge Deletion : 2.38300 ms 
+Time of (1)Get key rem collections : 2.21900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.61500 ms 
+Time of (9)Get key rem collections : 0.91800 ms 
+Time of (0)Extracting Roots : 0.86600 ms 
+Time of (8)Generate new edges : 0.71200 ms 
+Time of (2)Convert to collection : 0.63600 ms 
+Time of (21)CSR creation : 0.62500 ms 
+Time of (23)List ranking : 0.51000 ms 
+Time of (10)Convert to collection : 0.48600 ms 
+Time of (15)Transedges prefix : 0.41800 ms 
+Time of (7)Remove edges : 0.36000 ms 
+Time of (13)Compress Graph : 0.35400 ms 
+Time of (19)Thrust Sorting : 0.09200 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 82.20700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 26
+Non-tree edges deleted : 74
+Time of (4)Multi component Euler tour internal  : 29.544000 ms 
+Time of (5)Retrieving back first and last times  : 18.46400 ms 
+Time of (3)Processing for multi component Euler tour : 10.90100 ms 
+Time of (11)Shortcut rep : 5.57600 ms 
+Time of (12)Hooking Shortcutting : 4.69400 ms 
+Time of (6)Edge Deletion : 2.60000 ms 
+Time of (1)Get key rem collections : 2.12100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.79100 ms 
+Time of (9)Get key rem collections : 1.10500 ms 
+Time of (8)Generate new edges : 0.85900 ms 
+Time of (0)Extracting Roots : 0.74900 ms 
+Time of (7)Remove edges : 0.66200 ms 
+Time of (2)Convert to collection : 0.63900 ms 
+Time of (21)CSR creation : 0.61000 ms 
+Time of (10)Convert to collection : 0.60500 ms 
+Time of (23)List ranking : 0.56600 ms 
+Time of (15)Transedges prefix : 0.47500 ms 
+Time of (13)Compress Graph : 0.39700 ms 
+Time of (19)Thrust Sorting : 0.10600 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00700 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 82.55100 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 23
+Non-tree edges deleted : 77
+Time of (4)Multi component Euler tour internal  : 29.988000 ms 
+Time of (5)Retrieving back first and last times  : 20.09700 ms 
+Time of (3)Processing for multi component Euler tour : 10.90700 ms 
+Time of (11)Shortcut rep : 5.96200 ms 
+Time of (12)Hooking Shortcutting : 4.82100 ms 
+Time of (6)Edge Deletion : 3.63200 ms 
+Time of (1)Get key rem collections : 2.09500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.81700 ms 
+Time of (9)Get key rem collections : 1.24200 ms 
+Time of (8)Generate new edges : 0.90300 ms 
+Time of (0)Extracting Roots : 0.74500 ms 
+Time of (10)Convert to collection : 0.63300 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (21)CSR creation : 0.61800 ms 
+Time of (23)List ranking : 0.59300 ms 
+Time of (13)Compress Graph : 0.53300 ms 
+Time of (15)Transedges prefix : 0.51500 ms 
+Time of (7)Remove edges : 0.48600 ms 
+Time of (19)Thrust Sorting : 0.11600 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 86.43600 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 239
+Non-tree edges deleted : 761
+Time of (4)Multi component Euler tour internal  : 29.691000 ms 
+Time of (5)Retrieving back first and last times  : 20.11900 ms 
+Time of (3)Processing for multi component Euler tour : 10.83400 ms 
+Time of (12)Hooking Shortcutting : 4.70500 ms 
+Time of (11)Shortcut rep : 3.72100 ms 
+Time of (6)Edge Deletion : 3.50500 ms 
+Time of (1)Get key rem collections : 2.02100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.59200 ms 
+Time of (9)Get key rem collections : 1.42600 ms 
+Time of (8)Generate new edges : 0.91000 ms 
+Time of (23)List ranking : 0.74900 ms 
+Time of (0)Extracting Roots : 0.74700 ms 
+Time of (2)Convert to collection : 0.67200 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (7)Remove edges : 0.51500 ms 
+Time of (10)Convert to collection : 0.47700 ms 
+Time of (15)Transedges prefix : 0.35200 ms 
+Time of (13)Compress Graph : 0.30500 ms 
+Time of (19)Thrust Sorting : 0.08400 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time (total): 83.13700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 234
+Non-tree edges deleted : 766
+Time of (4)Multi component Euler tour internal  : 29.673000 ms 
+Time of (5)Retrieving back first and last times  : 20.23100 ms 
+Time of (3)Processing for multi component Euler tour : 10.92500 ms 
+Time of (11)Shortcut rep : 5.95300 ms 
+Time of (12)Hooking Shortcutting : 5.03400 ms 
+Time of (6)Edge Deletion : 3.48500 ms 
+Time of (1)Get key rem collections : 2.01900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.79300 ms 
+Time of (9)Get key rem collections : 1.18900 ms 
+Time of (8)Generate new edges : 0.90700 ms 
+Time of (23)List ranking : 0.89700 ms 
+Time of (0)Extracting Roots : 0.78600 ms 
+Time of (21)CSR creation : 0.64300 ms 
+Time of (2)Convert to collection : 0.63500 ms 
+Time of (10)Convert to collection : 0.63000 ms 
+Time of (15)Transedges prefix : 0.55900 ms 
+Time of (13)Compress Graph : 0.55000 ms 
+Time of (7)Remove edges : 0.54300 ms 
+Time of (19)Thrust Sorting : 0.12300 ms 
+Time of (20)Thrust gather : 0.05200 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (17)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 86.68100 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 244
+Non-tree edges deleted : 756
+Time of (4)Multi component Euler tour internal  : 29.605000 ms 
+Time of (5)Retrieving back first and last times  : 19.78600 ms 
+Time of (3)Processing for multi component Euler tour : 10.82800 ms 
+Time of (11)Shortcut rep : 6.01700 ms 
+Time of (12)Hooking Shortcutting : 4.82900 ms 
+Time of (6)Edge Deletion : 3.51300 ms 
+Time of (1)Get key rem collections : 2.13300 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.89300 ms 
+Time of (9)Get key rem collections : 1.35900 ms 
+Time of (8)Generate new edges : 0.91000 ms 
+Time of (23)List ranking : 0.74900 ms 
+Time of (0)Extracting Roots : 0.74700 ms 
+Time of (2)Convert to collection : 0.63600 ms 
+Time of (10)Convert to collection : 0.63500 ms 
+Time of (21)CSR creation : 0.63100 ms 
+Time of (7)Remove edges : 0.47000 ms 
+Time of (15)Transedges prefix : 0.36400 ms 
+Time of (13)Compress Graph : 0.32600 ms 
+Time of (19)Thrust Sorting : 0.08200 ms 
+Time of (20)Thrust gather : 0.04000 ms 
+Time of (18)Functor : 0.01100 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 85.59200 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 242
+Non-tree edges deleted : 758
+Time of (4)Multi component Euler tour internal  : 29.680000 ms 
+Time of (5)Retrieving back first and last times  : 21.06600 ms 
+Time of (3)Processing for multi component Euler tour : 10.93300 ms 
+Time of (12)Hooking Shortcutting : 5.62200 ms 
+Time of (11)Shortcut rep : 4.49100 ms 
+Time of (6)Edge Deletion : 2.42500 ms 
+Time of (1)Get key rem collections : 2.06500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.64700 ms 
+Time of (9)Get key rem collections : 1.02800 ms 
+Time of (23)List ranking : 0.78800 ms 
+Time of (0)Extracting Roots : 0.77700 ms 
+Time of (8)Generate new edges : 0.73500 ms 
+Time of (21)CSR creation : 0.63200 ms 
+Time of (2)Convert to collection : 0.62700 ms 
+Time of (10)Convert to collection : 0.50400 ms 
+Time of (15)Transedges prefix : 0.46000 ms 
+Time of (7)Remove edges : 0.41600 ms 
+Time of (13)Compress Graph : 0.36100 ms 
+Time of (19)Thrust Sorting : 0.09800 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 84.43700 ms 
+--------------------------------------------------------
+filename: road_usa.txt
+Nodes : 23947347
+Edges : 28854312
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 243
+Non-tree edges deleted : 757
+Time of (4)Multi component Euler tour internal  : 29.751000 ms 
+Time of (5)Retrieving back first and last times  : 22.31800 ms 
+Time of (3)Processing for multi component Euler tour : 10.95600 ms 
+Time of (11)Shortcut rep : 4.35200 ms 
+Time of (12)Hooking Shortcutting : 3.96300 ms 
+Time of (6)Edge Deletion : 2.69400 ms 
+Time of (1)Get key rem collections : 2.19100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.63500 ms 
+Time of (9)Get key rem collections : 1.03000 ms 
+Time of (0)Extracting Roots : 0.79900 ms 
+Time of (23)List ranking : 0.76800 ms 
+Time of (8)Generate new edges : 0.72400 ms 
+Time of (2)Convert to collection : 0.62900 ms 
+Time of (21)CSR creation : 0.62400 ms 
+Time of (10)Convert to collection : 0.49400 ms 
+Time of (15)Transedges prefix : 0.44800 ms 
+Time of (7)Remove edges : 0.37200 ms 
+Time of (13)Compress Graph : 0.31900 ms 
+Time of (19)Thrust Sorting : 0.09300 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 84.24200 ms 
+--------------------------------------------------------

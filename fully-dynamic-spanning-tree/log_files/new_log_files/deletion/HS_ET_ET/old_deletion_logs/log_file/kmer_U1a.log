@@ -1,0 +1,720 @@
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 60399
+Non-tree edges deleted : 39601
+Time of (4)Multi component Euler tour internal  : 202.816000 ms 
+Time of (5)Retrieving back first and last times  : 57.76600 ms 
+Time of (12)Hooking Shortcutting : 34.82100 ms 
+Time of (11)Shortcut rep : 27.20500 ms 
+Time of (3)Processing for multi component Euler tour : 17.08000 ms 
+Time of (25)Reverse Edges and Connect Parent : 3.97800 ms 
+Time of (1)Get key rem collections : 3.82300 ms 
+Time of (6)Edge Deletion : 3.78700 ms 
+Time of (9)Get key rem collections : 2.37200 ms 
+Time of (23)List ranking : 1.82400 ms 
+Time of (8)Generate new edges : 1.62600 ms 
+Time of (2)Convert to collection : 1.41700 ms 
+Time of (0)Extracting Roots : 1.30400 ms 
+Time of (10)Convert to collection : 1.02100 ms 
+Time of (15)Transedges prefix : 0.80700 ms 
+Time of (13)Compress Graph : 0.79200 ms 
+Time of (21)CSR creation : 0.77200 ms 
+Time of (7)Remove edges : 0.76700 ms 
+Time of (19)Thrust Sorting : 0.24800 ms 
+Time of (20)Thrust gather : 0.04600 ms 
+Time of (24)Component Parent, Reversals : 0.02700 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (22)Get Successor : 0.01300 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time (total): 364.34800 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 60753
+Non-tree edges deleted : 39247
+Time of (4)Multi component Euler tour internal  : 178.845000 ms 
+Time of (12)Hooking Shortcutting : 59.57000 ms 
+Time of (5)Retrieving back first and last times  : 59.37400 ms 
+Time of (11)Shortcut rep : 27.30800 ms 
+Time of (3)Processing for multi component Euler tour : 17.08200 ms 
+Time of (25)Reverse Edges and Connect Parent : 3.92500 ms 
+Time of (1)Get key rem collections : 3.81900 ms 
+Time of (6)Edge Deletion : 3.05600 ms 
+Time of (9)Get key rem collections : 2.42600 ms 
+Time of (23)List ranking : 1.81800 ms 
+Time of (8)Generate new edges : 1.63100 ms 
+Time of (2)Convert to collection : 1.43600 ms 
+Time of (0)Extracting Roots : 1.33400 ms 
+Time of (10)Convert to collection : 1.02700 ms 
+Time of (15)Transedges prefix : 0.78900 ms 
+Time of (13)Compress Graph : 0.78800 ms 
+Time of (7)Remove edges : 0.75400 ms 
+Time of (21)CSR creation : 0.72200 ms 
+Time of (19)Thrust Sorting : 0.25100 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (24)Component Parent, Reversals : 0.01400 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 366.05600 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 60592
+Non-tree edges deleted : 39408
+Time of (4)Multi component Euler tour internal  : 191.576000 ms 
+Time of (12)Hooking Shortcutting : 68.13500 ms 
+Time of (5)Retrieving back first and last times  : 63.12500 ms 
+Time of (11)Shortcut rep : 27.28900 ms 
+Time of (3)Processing for multi component Euler tour : 17.07300 ms 
+Time of (25)Reverse Edges and Connect Parent : 3.96900 ms 
+Time of (1)Get key rem collections : 3.87100 ms 
+Time of (6)Edge Deletion : 3.51500 ms 
+Time of (9)Get key rem collections : 2.41900 ms 
+Time of (23)List ranking : 1.82800 ms 
+Time of (8)Generate new edges : 1.62700 ms 
+Time of (2)Convert to collection : 1.43100 ms 
+Time of (0)Extracting Roots : 1.36600 ms 
+Time of (10)Convert to collection : 1.02500 ms 
+Time of (21)CSR creation : 0.79700 ms 
+Time of (15)Transedges prefix : 0.78000 ms 
+Time of (7)Remove edges : 0.76900 ms 
+Time of (13)Compress Graph : 0.75700 ms 
+Time of (19)Thrust Sorting : 0.24500 ms 
+Time of (20)Thrust gather : 0.04600 ms 
+Time of (24)Component Parent, Reversals : 0.02400 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (22)Get Successor : 0.01100 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 391.71100 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 60883
+Non-tree edges deleted : 39117
+Time of (4)Multi component Euler tour internal  : 200.322000 ms 
+Time of (5)Retrieving back first and last times  : 63.03800 ms 
+Time of (12)Hooking Shortcutting : 36.31600 ms 
+Time of (11)Shortcut rep : 27.25400 ms 
+Time of (3)Processing for multi component Euler tour : 17.07100 ms 
+Time of (25)Reverse Edges and Connect Parent : 3.94900 ms 
+Time of (1)Get key rem collections : 3.90300 ms 
+Time of (6)Edge Deletion : 2.99600 ms 
+Time of (9)Get key rem collections : 2.49400 ms 
+Time of (23)List ranking : 1.77200 ms 
+Time of (8)Generate new edges : 1.62800 ms 
+Time of (2)Convert to collection : 1.42100 ms 
+Time of (0)Extracting Roots : 1.27600 ms 
+Time of (10)Convert to collection : 1.02900 ms 
+Time of (7)Remove edges : 0.84500 ms 
+Time of (15)Transedges prefix : 0.83500 ms 
+Time of (13)Compress Graph : 0.78100 ms 
+Time of (21)CSR creation : 0.74200 ms 
+Time of (19)Thrust Sorting : 0.25200 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01400 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 368.02800 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 60574
+Non-tree edges deleted : 39426
+Time of (4)Multi component Euler tour internal  : 203.045000 ms 
+Time of (5)Retrieving back first and last times  : 58.61400 ms 
+Time of (12)Hooking Shortcutting : 38.67300 ms 
+Time of (11)Shortcut rep : 27.19400 ms 
+Time of (3)Processing for multi component Euler tour : 17.08000 ms 
+Time of (25)Reverse Edges and Connect Parent : 3.91900 ms 
+Time of (1)Get key rem collections : 3.90700 ms 
+Time of (6)Edge Deletion : 3.66800 ms 
+Time of (9)Get key rem collections : 2.44200 ms 
+Time of (23)List ranking : 1.79600 ms 
+Time of (8)Generate new edges : 1.62800 ms 
+Time of (2)Convert to collection : 1.42400 ms 
+Time of (0)Extracting Roots : 1.33800 ms 
+Time of (10)Convert to collection : 1.02900 ms 
+Time of (15)Transedges prefix : 0.78700 ms 
+Time of (21)CSR creation : 0.75600 ms 
+Time of (13)Compress Graph : 0.75100 ms 
+Time of (7)Remove edges : 0.75100 ms 
+Time of (19)Thrust Sorting : 0.24800 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (24)Component Parent, Reversals : 0.01500 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (22)Get Successor : 0.00800 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time (total): 369.15500 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 6056
+Non-tree edges deleted : 3944
+Time of (4)Multi component Euler tour internal  : 177.564000 ms 
+Time of (5)Retrieving back first and last times  : 59.87600 ms 
+Time of (12)Hooking Shortcutting : 29.69200 ms 
+Time of (11)Shortcut rep : 26.35800 ms 
+Time of (3)Processing for multi component Euler tour : 17.07400 ms 
+Time of (1)Get key rem collections : 4.00000 ms 
+Time of (6)Edge Deletion : 2.95300 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.60400 ms 
+Time of (9)Get key rem collections : 2.40600 ms 
+Time of (8)Generate new edges : 1.62400 ms 
+Time of (2)Convert to collection : 1.42500 ms 
+Time of (0)Extracting Roots : 1.32800 ms 
+Time of (23)List ranking : 1.17900 ms 
+Time of (10)Convert to collection : 1.02800 ms 
+Time of (15)Transedges prefix : 0.78700 ms 
+Time of (13)Compress Graph : 0.72000 ms 
+Time of (7)Remove edges : 0.71200 ms 
+Time of (21)CSR creation : 0.69000 ms 
+Time of (19)Thrust Sorting : 0.14000 ms 
+Time of (20)Thrust gather : 0.04300 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 332.25400 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 6072
+Non-tree edges deleted : 3928
+Time of (4)Multi component Euler tour internal  : 196.421000 ms 
+Time of (5)Retrieving back first and last times  : 55.02000 ms 
+Time of (12)Hooking Shortcutting : 36.58400 ms 
+Time of (11)Shortcut rep : 26.47700 ms 
+Time of (3)Processing for multi component Euler tour : 17.08100 ms 
+Time of (1)Get key rem collections : 3.97700 ms 
+Time of (6)Edge Deletion : 2.60400 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.59400 ms 
+Time of (9)Get key rem collections : 2.35400 ms 
+Time of (8)Generate new edges : 1.62900 ms 
+Time of (2)Convert to collection : 1.43700 ms 
+Time of (0)Extracting Roots : 1.34100 ms 
+Time of (23)List ranking : 1.14800 ms 
+Time of (10)Convert to collection : 1.02700 ms 
+Time of (15)Transedges prefix : 0.84300 ms 
+Time of (7)Remove edges : 0.73400 ms 
+Time of (13)Compress Graph : 0.71400 ms 
+Time of (21)CSR creation : 0.65300 ms 
+Time of (19)Thrust Sorting : 0.14200 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time (total): 352.87800 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 5992
+Non-tree edges deleted : 4008
+Time of (4)Multi component Euler tour internal  : 191.969000 ms 
+Time of (5)Retrieving back first and last times  : 55.21600 ms 
+Time of (12)Hooking Shortcutting : 29.57500 ms 
+Time of (11)Shortcut rep : 26.46900 ms 
+Time of (3)Processing for multi component Euler tour : 17.07400 ms 
+Time of (1)Get key rem collections : 3.85900 ms 
+Time of (6)Edge Deletion : 2.73800 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.58800 ms 
+Time of (9)Get key rem collections : 2.36600 ms 
+Time of (8)Generate new edges : 1.62800 ms 
+Time of (2)Convert to collection : 1.43500 ms 
+Time of (0)Extracting Roots : 1.36800 ms 
+Time of (23)List ranking : 1.14200 ms 
+Time of (10)Convert to collection : 1.02700 ms 
+Time of (15)Transedges prefix : 0.82600 ms 
+Time of (13)Compress Graph : 0.78600 ms 
+Time of (7)Remove edges : 0.71400 ms 
+Time of (21)CSR creation : 0.66000 ms 
+Time of (19)Thrust Sorting : 0.14000 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time (total): 341.67200 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 6082
+Non-tree edges deleted : 3918
+Time of (4)Multi component Euler tour internal  : 201.331000 ms 
+Time of (5)Retrieving back first and last times  : 57.87900 ms 
+Time of (12)Hooking Shortcutting : 35.00700 ms 
+Time of (11)Shortcut rep : 26.44400 ms 
+Time of (3)Processing for multi component Euler tour : 17.07300 ms 
+Time of (1)Get key rem collections : 3.94100 ms 
+Time of (6)Edge Deletion : 2.65200 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.61000 ms 
+Time of (9)Get key rem collections : 2.43300 ms 
+Time of (8)Generate new edges : 1.62500 ms 
+Time of (2)Convert to collection : 1.42400 ms 
+Time of (0)Extracting Roots : 1.38000 ms 
+Time of (23)List ranking : 1.14600 ms 
+Time of (10)Convert to collection : 1.02900 ms 
+Time of (15)Transedges prefix : 0.78800 ms 
+Time of (7)Remove edges : 0.73000 ms 
+Time of (13)Compress Graph : 0.71600 ms 
+Time of (21)CSR creation : 0.65100 ms 
+Time of (19)Thrust Sorting : 0.14100 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 359.09300 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 6056
+Non-tree edges deleted : 3944
+Time of (4)Multi component Euler tour internal  : 174.773000 ms 
+Time of (5)Retrieving back first and last times  : 57.80200 ms 
+Time of (12)Hooking Shortcutting : 42.92500 ms 
+Time of (11)Shortcut rep : 26.48000 ms 
+Time of (3)Processing for multi component Euler tour : 17.07900 ms 
+Time of (1)Get key rem collections : 3.82400 ms 
+Time of (6)Edge Deletion : 2.75300 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.62300 ms 
+Time of (9)Get key rem collections : 2.41300 ms 
+Time of (8)Generate new edges : 1.62400 ms 
+Time of (2)Convert to collection : 1.42300 ms 
+Time of (0)Extracting Roots : 1.33700 ms 
+Time of (23)List ranking : 1.14800 ms 
+Time of (10)Convert to collection : 1.02800 ms 
+Time of (15)Transedges prefix : 0.79400 ms 
+Time of (7)Remove edges : 0.74000 ms 
+Time of (13)Compress Graph : 0.71900 ms 
+Time of (21)CSR creation : 0.64200 ms 
+Time of (19)Thrust Sorting : 0.14000 ms 
+Time of (20)Thrust gather : 0.04400 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 340.36000 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 64
+Non-tree edges deleted : 36
+Time of (4)Multi component Euler tour internal  : 202.384000 ms 
+Time of (5)Retrieving back first and last times  : 55.03100 ms 
+Time of (11)Shortcut rep : 25.75200 ms 
+Time of (12)Hooking Shortcutting : 24.34400 ms 
+Time of (3)Processing for multi component Euler tour : 17.07800 ms 
+Time of (1)Get key rem collections : 4.07200 ms 
+Time of (6)Edge Deletion : 2.67400 ms 
+Time of (9)Get key rem collections : 2.40700 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.39000 ms 
+Time of (8)Generate new edges : 1.62700 ms 
+Time of (2)Convert to collection : 1.42500 ms 
+Time of (0)Extracting Roots : 1.28800 ms 
+Time of (10)Convert to collection : 1.03000 ms 
+Time of (15)Transedges prefix : 0.79700 ms 
+Time of (7)Remove edges : 0.75900 ms 
+Time of (13)Compress Graph : 0.74800 ms 
+Time of (21)CSR creation : 0.60800 ms 
+Time of (23)List ranking : 0.54600 ms 
+Time of (19)Thrust Sorting : 0.07700 ms 
+Time of (20)Thrust gather : 0.04000 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 345.12500 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 64
+Non-tree edges deleted : 36
+Time of (4)Multi component Euler tour internal  : 174.029000 ms 
+Time of (5)Retrieving back first and last times  : 62.11600 ms 
+Time of (11)Shortcut rep : 26.04000 ms 
+Time of (3)Processing for multi component Euler tour : 17.07900 ms 
+Time of (12)Hooking Shortcutting : 10.89700 ms 
+Time of (1)Get key rem collections : 3.84700 ms 
+Time of (6)Edge Deletion : 2.63900 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.39900 ms 
+Time of (9)Get key rem collections : 2.35600 ms 
+Time of (8)Generate new edges : 1.62700 ms 
+Time of (2)Convert to collection : 1.42300 ms 
+Time of (0)Extracting Roots : 1.41400 ms 
+Time of (10)Convert to collection : 1.02200 ms 
+Time of (15)Transedges prefix : 0.80500 ms 
+Time of (7)Remove edges : 0.75900 ms 
+Time of (13)Compress Graph : 0.71800 ms 
+Time of (21)CSR creation : 0.60400 ms 
+Time of (23)List ranking : 0.54500 ms 
+Time of (19)Thrust Sorting : 0.08000 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 310.48900 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 60
+Non-tree edges deleted : 40
+Time of (4)Multi component Euler tour internal  : 174.878000 ms 
+Time of (5)Retrieving back first and last times  : 57.19600 ms 
+Time of (11)Shortcut rep : 26.08900 ms 
+Time of (3)Processing for multi component Euler tour : 17.08300 ms 
+Time of (12)Hooking Shortcutting : 13.81900 ms 
+Time of (1)Get key rem collections : 3.88400 ms 
+Time of (6)Edge Deletion : 2.69900 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.39700 ms 
+Time of (9)Get key rem collections : 2.35600 ms 
+Time of (8)Generate new edges : 1.62400 ms 
+Time of (2)Convert to collection : 1.41600 ms 
+Time of (0)Extracting Roots : 1.39200 ms 
+Time of (10)Convert to collection : 1.02300 ms 
+Time of (15)Transedges prefix : 0.78700 ms 
+Time of (13)Compress Graph : 0.71800 ms 
+Time of (7)Remove edges : 0.71800 ms 
+Time of (21)CSR creation : 0.60800 ms 
+Time of (23)List ranking : 0.55800 ms 
+Time of (19)Thrust Sorting : 0.08200 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 309.41600 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 64
+Non-tree edges deleted : 36
+Time of (4)Multi component Euler tour internal  : 178.826000 ms 
+Time of (5)Retrieving back first and last times  : 59.63700 ms 
+Time of (11)Shortcut rep : 25.89000 ms 
+Time of (12)Hooking Shortcutting : 24.03500 ms 
+Time of (3)Processing for multi component Euler tour : 17.07800 ms 
+Time of (1)Get key rem collections : 3.93300 ms 
+Time of (6)Edge Deletion : 2.69500 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.40200 ms 
+Time of (9)Get key rem collections : 2.35300 ms 
+Time of (8)Generate new edges : 1.62300 ms 
+Time of (0)Extracting Roots : 1.43300 ms 
+Time of (2)Convert to collection : 1.42500 ms 
+Time of (10)Convert to collection : 1.02700 ms 
+Time of (15)Transedges prefix : 0.79300 ms 
+Time of (13)Compress Graph : 0.71700 ms 
+Time of (7)Remove edges : 0.70900 ms 
+Time of (21)CSR creation : 0.60600 ms 
+Time of (23)List ranking : 0.55000 ms 
+Time of (19)Thrust Sorting : 0.08000 ms 
+Time of (20)Thrust gather : 0.04200 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 325.90200 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 57
+Non-tree edges deleted : 43
+Time of (4)Multi component Euler tour internal  : 206.107000 ms 
+Time of (5)Retrieving back first and last times  : 59.05700 ms 
+Time of (11)Shortcut rep : 26.03200 ms 
+Time of (3)Processing for multi component Euler tour : 17.09900 ms 
+Time of (12)Hooking Shortcutting : 13.81600 ms 
+Time of (1)Get key rem collections : 3.83900 ms 
+Time of (6)Edge Deletion : 2.68900 ms 
+Time of (9)Get key rem collections : 2.36400 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.34100 ms 
+Time of (8)Generate new edges : 1.62500 ms 
+Time of (2)Convert to collection : 1.43600 ms 
+Time of (0)Extracting Roots : 1.39700 ms 
+Time of (10)Convert to collection : 1.02900 ms 
+Time of (15)Transedges prefix : 0.78600 ms 
+Time of (13)Compress Graph : 0.71600 ms 
+Time of (7)Remove edges : 0.71300 ms 
+Time of (21)CSR creation : 0.60400 ms 
+Time of (23)List ranking : 0.55900 ms 
+Time of (19)Thrust Sorting : 0.08100 ms 
+Time of (20)Thrust gather : 0.04100 ms 
+Time of (18)Functor : 0.01200 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 342.37900 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 603
+Non-tree edges deleted : 397
+Time of (4)Multi component Euler tour internal  : 170.608000 ms 
+Time of (5)Retrieving back first and last times  : 57.73400 ms 
+Time of (12)Hooking Shortcutting : 34.32800 ms 
+Time of (11)Shortcut rep : 26.10100 ms 
+Time of (3)Processing for multi component Euler tour : 17.08000 ms 
+Time of (1)Get key rem collections : 3.89700 ms 
+Time of (6)Edge Deletion : 2.70700 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.39800 ms 
+Time of (9)Get key rem collections : 2.39600 ms 
+Time of (8)Generate new edges : 1.62600 ms 
+Time of (2)Convert to collection : 1.42900 ms 
+Time of (0)Extracting Roots : 1.31300 ms 
+Time of (10)Convert to collection : 1.02900 ms 
+Time of (23)List ranking : 0.92000 ms 
+Time of (7)Remove edges : 0.83800 ms 
+Time of (15)Transedges prefix : 0.78200 ms 
+Time of (13)Compress Graph : 0.71200 ms 
+Time of (21)CSR creation : 0.64100 ms 
+Time of (19)Thrust Sorting : 0.08500 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time (total): 326.71800 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 611
+Non-tree edges deleted : 389
+Time of (4)Multi component Euler tour internal  : 209.441000 ms 
+Time of (5)Retrieving back first and last times  : 56.18100 ms 
+Time of (12)Hooking Shortcutting : 33.16700 ms 
+Time of (11)Shortcut rep : 26.12600 ms 
+Time of (3)Processing for multi component Euler tour : 17.08000 ms 
+Time of (1)Get key rem collections : 3.82300 ms 
+Time of (6)Edge Deletion : 2.63300 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.38200 ms 
+Time of (9)Get key rem collections : 2.38200 ms 
+Time of (8)Generate new edges : 1.62800 ms 
+Time of (2)Convert to collection : 1.41500 ms 
+Time of (0)Extracting Roots : 1.34900 ms 
+Time of (10)Convert to collection : 0.97700 ms 
+Time of (23)List ranking : 0.91000 ms 
+Time of (15)Transedges prefix : 0.78100 ms 
+Time of (7)Remove edges : 0.71800 ms 
+Time of (13)Compress Graph : 0.71300 ms 
+Time of (21)CSR creation : 0.63200 ms 
+Time of (19)Thrust Sorting : 0.08300 ms 
+Time of (20)Thrust gather : 0.04300 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 362.51300 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 594
+Non-tree edges deleted : 406
+Time of (4)Multi component Euler tour internal  : 184.123000 ms 
+Time of (5)Retrieving back first and last times  : 57.32400 ms 
+Time of (12)Hooking Shortcutting : 27.38200 ms 
+Time of (11)Shortcut rep : 26.09700 ms 
+Time of (3)Processing for multi component Euler tour : 17.08100 ms 
+Time of (1)Get key rem collections : 3.98700 ms 
+Time of (6)Edge Deletion : 2.70400 ms 
+Time of (9)Get key rem collections : 2.48300 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.38700 ms 
+Time of (8)Generate new edges : 1.62800 ms 
+Time of (2)Convert to collection : 1.43200 ms 
+Time of (0)Extracting Roots : 1.34100 ms 
+Time of (10)Convert to collection : 1.03000 ms 
+Time of (23)List ranking : 0.91100 ms 
+Time of (7)Remove edges : 0.84300 ms 
+Time of (15)Transedges prefix : 0.79500 ms 
+Time of (13)Compress Graph : 0.71200 ms 
+Time of (21)CSR creation : 0.63000 ms 
+Time of (19)Thrust Sorting : 0.08400 ms 
+Time of (20)Thrust gather : 0.04300 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 333.06500 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 619
+Non-tree edges deleted : 381
+Time of (4)Multi component Euler tour internal  : 186.084000 ms 
+Time of (5)Retrieving back first and last times  : 58.63700 ms 
+Time of (12)Hooking Shortcutting : 31.03600 ms 
+Time of (11)Shortcut rep : 25.99200 ms 
+Time of (3)Processing for multi component Euler tour : 17.06400 ms 
+Time of (1)Get key rem collections : 4.07200 ms 
+Time of (6)Edge Deletion : 3.14800 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.39200 ms 
+Time of (9)Get key rem collections : 2.38700 ms 
+Time of (8)Generate new edges : 1.62700 ms 
+Time of (2)Convert to collection : 1.42600 ms 
+Time of (0)Extracting Roots : 1.28000 ms 
+Time of (10)Convert to collection : 1.02200 ms 
+Time of (23)List ranking : 0.90300 ms 
+Time of (15)Transedges prefix : 0.83000 ms 
+Time of (13)Compress Graph : 0.71600 ms 
+Time of (7)Remove edges : 0.70200 ms 
+Time of (21)CSR creation : 0.63600 ms 
+Time of (19)Thrust Sorting : 0.08400 ms 
+Time of (20)Thrust gather : 0.04500 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time (total): 340.13400 ms 
+--------------------------------------------------------
+filename: kmer_U1a.txt
+Nodes : 67716231
+Edges : 69433412
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 595
+Non-tree edges deleted : 405
+Time of (4)Multi component Euler tour internal  : 208.746000 ms 
+Time of (5)Retrieving back first and last times  : 56.89000 ms 
+Time of (11)Shortcut rep : 26.13100 ms 
+Time of (12)Hooking Shortcutting : 20.81700 ms 
+Time of (3)Processing for multi component Euler tour : 17.06700 ms 
+Time of (1)Get key rem collections : 3.81600 ms 
+Time of (6)Edge Deletion : 2.60100 ms 
+Time of (25)Reverse Edges and Connect Parent : 2.43100 ms 
+Time of (9)Get key rem collections : 2.35400 ms 
+Time of (8)Generate new edges : 1.62600 ms 
+Time of (0)Extracting Roots : 1.44300 ms 
+Time of (2)Convert to collection : 1.41600 ms 
+Time of (10)Convert to collection : 1.02300 ms 
+Time of (23)List ranking : 0.90400 ms 
+Time of (15)Transedges prefix : 0.84400 ms 
+Time of (13)Compress Graph : 0.75900 ms 
+Time of (7)Remove edges : 0.72900 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (19)Thrust Sorting : 0.08300 ms 
+Time of (20)Thrust gather : 0.04300 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 350.40400 ms 
+--------------------------------------------------------

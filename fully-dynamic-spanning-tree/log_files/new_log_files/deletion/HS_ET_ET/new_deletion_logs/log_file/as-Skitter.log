@@ -1,0 +1,740 @@
+
+
+filename: as-Skitter.egr
+Root: 680306
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6385
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 680306
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6385
+Insertion into hashtable over.
+num of superComponents: 6386
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 19.8655 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 8.98 ms
+Time of ET: First & Last : 7.35 ms
+Time of ET: Orientation : 1.82 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.33 ms
+Time of Update data structure : 0.30 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1170623
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6229
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 1170623
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6229
+Insertion into hashtable over.
+num of superComponents: 6230
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 15.6153 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 6.61 ms
+Time of ET: First & Last : 6.45 ms
+Time of ET: Orientation : 1.66 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update data structure : 0.30 ms
+Time of Finding unique comps : 0.19 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1216107
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6369
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 1216107
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6369
+Insertion into hashtable over.
+num of superComponents: 6370
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 15.6518 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 6.57 ms
+Time of ET: First & Last : 6.49 ms
+Time of ET: Orientation : 1.66 ms
+Time of Update data structure : 0.35 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Finding unique comps : 0.19 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 783498
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5620
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 783498
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5620
+Insertion into hashtable over.
+num of superComponents: 5621
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 18.3978 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 9.28 ms
+Time of ET: First & Last : 6.57 ms
+Time of ET: Orientation : 1.67 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update data structure : 0.30 ms
+Time of Finding unique comps : 0.19 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1666567
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5718
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100000
+
+Root: 1666567
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5718
+Insertion into hashtable over.
+num of superComponents: 5719
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 14.7567 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.67 ms
+Time of HS: Find Repl edges : 5.52 ms
+Time of ET: Orientation : 1.67 ms
+Time of Pointer Jumping : 0.32 ms
+Time of Update data structure : 0.31 ms
+Time of Finding unique comps : 0.20 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1692459
+The input parent array is a BFS tree.
+Number of deleted tree edges: 640
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 1692459
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 640
+Insertion into hashtable over.
+num of superComponents: 641
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 9.21803 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.57 ms
+Time of HS: Find Repl edges : 1.42 ms
+Time of Update data structure : 0.48 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 463880
+The input parent array is a BFS tree.
+Number of deleted tree edges: 612
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 463880
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 612
+Insertion into hashtable over.
+num of superComponents: 613
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 11.5952 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.33 ms
+Time of HS: Find Repl edges : 4.03 ms
+Time of Update data structure : 0.48 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1292064
+The input parent array is a BFS tree.
+Number of deleted tree edges: 652
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 1292064
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 652
+Insertion into hashtable over.
+num of superComponents: 653
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 12.505 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.52 ms
+Time of HS: Find Repl edges : 4.74 ms
+Time of Update data structure : 0.48 ms
+Time of Pointer Jumping : 0.32 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1024278
+The input parent array is a BFS tree.
+Number of deleted tree edges: 611
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 1024278
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 611
+Insertion into hashtable over.
+num of superComponents: 612
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.6882 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.35 ms
+Time of HS: Find Repl edges : 3.08 ms
+Time of Update data structure : 0.51 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 575803
+The input parent array is a BFS tree.
+Number of deleted tree edges: 590
+numVert: 1696415, num_edges: 22192106 and delete batch size: 10000
+
+Root: 575803
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 590
+Insertion into hashtable over.
+num of superComponents: 591
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.4636 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.49 ms
+Time of HS: Find Repl edges : 2.75 ms
+Time of Update data structure : 0.47 ms
+Time of Pointer Jumping : 0.31 ms
+Time of ET: Orientation : 0.22 ms
+Time of Finding unique comps : 0.15 ms
+Time of Path Reversal : 0.05 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 999793
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 999793
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6
+Insertion into hashtable over.
+num of superComponents: 7
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 8.46485 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.59 ms
+Time of HS: Find Repl edges : 0.97 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.24 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1393134
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 1393134
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4
+Insertion into hashtable over.
+num of superComponents: 5
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 8.31467 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.32 ms
+Time of HS: Find Repl edges : 1.02 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update data structure : 0.31 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 114849
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 114849
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 7
+Insertion into hashtable over.
+num of superComponents: 8
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 8.65712 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.25 ms
+Time of HS: Find Repl edges : 1.50 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.24 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 370337
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 370337
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4
+Insertion into hashtable over.
+num of superComponents: 5
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 9.14794 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.51 ms
+Time of HS: Find Repl edges : 1.72 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.25 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 485570
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7
+numVert: 1696415, num_edges: 22192106 and delete batch size: 100
+
+Root: 485570
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 7
+Insertion into hashtable over.
+num of superComponents: 8
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 9.80477 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.42 ms
+Time of HS: Find Repl edges : 2.44 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.28 ms
+Time of ET: Orientation : 0.18 ms
+Time of Finding unique comps : 0.12 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 397576
+The input parent array is a BFS tree.
+Number of deleted tree edges: 46
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 397576
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 46
+Insertion into hashtable over.
+num of superComponents: 47
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.6124 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.31 ms
+Time of HS: Find Repl edges : 3.36 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.25 ms
+Time of ET: Orientation : 0.21 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 283199
+The input parent array is a BFS tree.
+Number of deleted tree edges: 75
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 283199
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 75
+Insertion into hashtable over.
+num of superComponents: 76
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.9421 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.40 ms
+Time of HS: Find Repl edges : 3.59 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.25 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.14 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 734143
+The input parent array is a BFS tree.
+Number of deleted tree edges: 69
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 734143
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 69
+Insertion into hashtable over.
+num of superComponents: 70
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.2622 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.57 ms
+Time of HS: Find Repl edges : 2.73 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.27 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 430522
+The input parent array is a BFS tree.
+Number of deleted tree edges: 54
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 430522
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 54
+Insertion into hashtable over.
+num of superComponents: 55
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.3378 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.64 ms
+Time of HS: Find Repl edges : 2.74 ms
+Time of Pointer Jumping : 0.30 ms
+Time of Update data structure : 0.26 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: as-Skitter.egr
+Root: 1084406
+The input parent array is a BFS tree.
+Number of deleted tree edges: 60
+numVert: 1696415, num_edges: 22192106 and delete batch size: 1000
+
+Root: 1084406
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 60
+Insertion into hashtable over.
+num of superComponents: 61
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 10.2736 ms.
+
+Function execution times:
+Time of ET: First & Last : 6.34 ms
+Time of HS: Find Repl edges : 2.98 ms
+Time of Pointer Jumping : 0.31 ms
+Time of Update data structure : 0.25 ms
+Time of ET: Orientation : 0.20 ms
+Time of Finding unique comps : 0.13 ms
+Time of Path Reversal : 0.04 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1

@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+kron_g500-logn21.egr,2097152,183188180,100,1.4,14.2
+kron_g500-logn21.egr,2097152,183188180,1000,10.4,19.85
+kron_g500-logn21.egr,2097152,183188180,10000,101.0,23.4
+kron_g500-logn21.egr,2097152,183188180,100000,983.4,33.19

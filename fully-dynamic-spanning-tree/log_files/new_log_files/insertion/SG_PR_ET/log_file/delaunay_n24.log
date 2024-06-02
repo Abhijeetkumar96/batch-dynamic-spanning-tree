@@ -1,0 +1,420 @@
+
+
+filename: delaunay_n24.egr
+Root: 12177173
+Number of deleted tree edges: 15302
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Root: 12177173
+Root: 12177173
+After repairing:
+Total execution time of all functions: 35.3522 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.85 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 1.61 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 126291
+Number of deleted tree edges: 10100
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Root: 126291
+Root: 126291
+After repairing:
+Total execution time of all functions: 49.0309 ms.
+
+Function execution times:
+Time of Eulerian Tour : 40.92 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 3.22 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 1610371
+Number of deleted tree edges: 14642
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Root: 1610371
+Root: 1610371
+After repairing:
+Total execution time of all functions: 40.1056 ms.
+
+Function execution times:
+Time of Eulerian Tour : 34.08 ms
+Time of Pointer Jumping : 3.35 ms
+Time of Super graph Creation : 1.59 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 3250023
+Number of deleted tree edges: 14536
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Root: 3250023
+Root: 3250023
+After repairing:
+Total execution time of all functions: 34.287 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.16 ms
+Time of Pointer Jumping : 3.81 ms
+Time of Super graph Creation : 1.24 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 13371967
+Number of deleted tree edges: 19719
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100000
+
+Root: 13371967
+Root: 13371967
+After repairing:
+Total execution time of all functions: 48.9799 ms.
+
+Function execution times:
+Time of Eulerian Tour : 41.24 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 2.86 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 11079946
+Number of deleted tree edges: 2083
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Root: 11079946
+Root: 11079946
+After repairing:
+Total execution time of all functions: 37.2722 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.31 ms
+Time of Pointer Jumping : 3.61 ms
+Time of Super graph Creation : 2.26 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 16717749
+Number of deleted tree edges: 1041
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Root: 16717749
+Root: 16717749
+After repairing:
+Total execution time of all functions: 49.019 ms.
+
+Function execution times:
+Time of Eulerian Tour : 41.05 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 3.09 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 5854429
+Number of deleted tree edges: 1520
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Root: 5854429
+Root: 5854429
+After repairing:
+Total execution time of all functions: 38.505 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.61 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 2.00 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 9267500
+Number of deleted tree edges: 1231
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Root: 9267500
+Root: 9267500
+After repairing:
+Total execution time of all functions: 50.0154 ms.
+
+Function execution times:
+Time of Eulerian Tour : 41.87 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 3.26 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 16704353
+Number of deleted tree edges: 1099
+numVert: 16777216, num_edges: 100663202 and delete batch size: 10000
+
+Root: 16704353
+Root: 16704353
+After repairing:
+Total execution time of all functions: 36.3939 ms.
+
+Function execution times:
+Time of Eulerian Tour : 29.63 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 1.88 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 14222144
+Number of deleted tree edges: 23
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Root: 14222144
+Root: 14222144
+After repairing:
+Total execution time of all functions: 46.9087 ms.
+
+Function execution times:
+Time of Eulerian Tour : 41.58 ms
+Time of Pointer Jumping : 3.80 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.44 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 14192898
+Number of deleted tree edges: 21
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Root: 14192898
+Root: 14192898
+After repairing:
+Total execution time of all functions: 43.7413 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.56 ms
+Time of Pointer Jumping : 3.80 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.29 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 11553434
+Number of deleted tree edges: 12
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Root: 11553434
+Root: 11553434
+After repairing:
+Total execution time of all functions: 47.9431 ms.
+
+Function execution times:
+Time of Eulerian Tour : 42.58 ms
+Time of Pointer Jumping : 3.79 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.49 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 1116122
+Number of deleted tree edges: 1
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Root: 1116122
+Root: 1116122
+After repairing:
+Total execution time of all functions: 45.8578 ms.
+
+Function execution times:
+Time of Eulerian Tour : 40.01 ms
+Time of Pointer Jumping : 3.79 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.96 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 13756635
+Number of deleted tree edges: 15
+numVert: 16777216, num_edges: 100663202 and delete batch size: 100
+
+Root: 13756635
+Root: 13756635
+After repairing:
+Total execution time of all functions: 43.5725 ms.
+
+Function execution times:
+Time of Eulerian Tour : 38.53 ms
+Time of Pointer Jumping : 3.63 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.33 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 791039
+Number of deleted tree edges: 102
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Root: 791039
+Root: 791039
+After repairing:
+Total execution time of all functions: 38.4487 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.37 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 1.19 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 1015749
+Number of deleted tree edges: 206
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Root: 1015749
+Root: 1015749
+After repairing:
+Total execution time of all functions: 45.8594 ms.
+
+Function execution times:
+Time of Eulerian Tour : 40.39 ms
+Time of Pointer Jumping : 3.80 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 4561146
+Number of deleted tree edges: 114
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Root: 4561146
+Root: 4561146
+After repairing:
+Total execution time of all functions: 38.4959 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.86 ms
+Time of Pointer Jumping : 3.80 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.75 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 14588514
+Number of deleted tree edges: 237
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Root: 14588514
+Root: 14588514
+After repairing:
+Total execution time of all functions: 47.8982 ms.
+
+Function execution times:
+Time of Eulerian Tour : 42.54 ms
+Time of Pointer Jumping : 3.81 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.47 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: delaunay_n24.egr
+Root: 10725981
+Number of deleted tree edges: 230
+numVert: 16777216, num_edges: 100663202 and delete batch size: 1000
+
+Root: 10725981
+Root: 10725981
+After repairing:
+Total execution time of all functions: 37.445 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.30 ms
+Time of Pointer Jumping : 3.80 ms
+Time of Super graph Creation : 1.26 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

@@ -74,6 +74,7 @@ public:
     long numEdges = 0;
     int max_degree = 0;
     int min_degree = 0;
+    int median_degree = 0;
     double avg_degree = 0;
     long double var = 0;
     int depth = 0;
@@ -146,16 +147,18 @@ public:
     }
 
     void print_stat() {
+        std::cout << "----------------------------------------" << std::endl;
         std::cout << "Printing stats.\n";
+        std::cout << "----------------------------------------" << std::endl;
+
         vertex_degrees_var();
-        std::cout << "\n|V| = " << numVert;
+        std::cout << "|V| = " << numVert;
         std::cout << "\n|E| = " << numEdges;
-        std::cout << "\ndensity (p) = " << density();
         std::cout << "\nvariance (v) = " << var;
-        std::cout << "\nd_min = " << min_degree;
-        std::cout << "\nd_avg = " << avg_degree;
-        std::cout << "\nd_max = " << max_degree;
-        std::cout << std::endl;
+        std::cout << "\nMin degree = " << min_degree;
+        std::cout << "\nAvg degree = " << avg_degree;
+        std::cout << "\nMedian degree = " << median_degree;
+        std::cout << "\nMax degree = " << max_degree;
     }
 
 private:
@@ -262,13 +265,19 @@ private:
         avg_degree = (double)numEdges/n;
 
         var = 0;
-
-
         
         for(int i = 0; i < numVert; ++i){
             var += (degree[i] - avg_degree) * 1.0 * (degree[i] - avg_degree);
         }
         var /= (n-1);
+
+        // calculate the median degree
+        std::sort(degree.begin(), degree.end());
+        if (numVert % 2 == 0) {
+            median_degree = (degree[numVert / 2 - 1] + degree[numVert / 2]) / 2.0;
+        } else {
+            median_degree = degree[numVert / 2];
+        }
 
         return;
     }

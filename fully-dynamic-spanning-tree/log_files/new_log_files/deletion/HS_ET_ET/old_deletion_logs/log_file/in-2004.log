@@ -1,0 +1,710 @@
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 686
+Non-tree edges deleted : 99314
+Time of (6)Edge Deletion : 2.973000 ms 
+Time of (12)Hooking Shortcutting : 2.72200 ms 
+Time of (4)Multi component Euler tour internal  : 1.99700 ms 
+Time of (1)Get key rem collections : 1.31900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22600 ms 
+Time of (5)Retrieving back first and last times  : 1.21800 ms 
+Time of (23)List ranking : 1.09000 ms 
+Time of (21)CSR creation : 0.65000 ms 
+Time of (9)Get key rem collections : 0.64800 ms 
+Time of (0)Extracting Roots : 0.52200 ms 
+Time of (8)Generate new edges : 0.44800 ms 
+Time of (11)Shortcut rep : 0.34500 ms 
+Time of (2)Convert to collection : 0.32100 ms 
+Time of (10)Convert to collection : 0.32000 ms 
+Time of (15)Transedges prefix : 0.28800 ms 
+Time of (7)Remove edges : 0.26200 ms 
+Time of (19)Thrust Sorting : 0.12500 ms 
+Time of (13)Compress Graph : 0.07000 ms 
+Time of (20)Thrust gather : 0.05600 ms 
+Time of (3)Processing for multi component Euler tour : 0.05400 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 16.69800 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 742
+Non-tree edges deleted : 99258
+Time of (6)Edge Deletion : 2.965000 ms 
+Time of (4)Multi component Euler tour internal  : 2.02300 ms 
+Time of (12)Hooking Shortcutting : 1.78100 ms 
+Time of (1)Get key rem collections : 1.33000 ms 
+Time of (5)Retrieving back first and last times  : 1.22900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.21000 ms 
+Time of (23)List ranking : 1.09700 ms 
+Time of (21)CSR creation : 0.66500 ms 
+Time of (0)Extracting Roots : 0.53600 ms 
+Time of (9)Get key rem collections : 0.53100 ms 
+Time of (8)Generate new edges : 0.45000 ms 
+Time of (11)Shortcut rep : 0.34100 ms 
+Time of (2)Convert to collection : 0.32600 ms 
+Time of (10)Convert to collection : 0.31900 ms 
+Time of (15)Transedges prefix : 0.25900 ms 
+Time of (7)Remove edges : 0.25100 ms 
+Time of (19)Thrust Sorting : 0.12700 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 15.66000 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 679
+Non-tree edges deleted : 99321
+Time of (12)Hooking Shortcutting : 5.462000 ms 
+Time of (6)Edge Deletion : 3.05900 ms 
+Time of (4)Multi component Euler tour internal  : 1.99000 ms 
+Time of (1)Get key rem collections : 1.29900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.24800 ms 
+Time of (5)Retrieving back first and last times  : 1.11800 ms 
+Time of (23)List ranking : 1.11200 ms 
+Time of (21)CSR creation : 0.62600 ms 
+Time of (9)Get key rem collections : 0.55600 ms 
+Time of (0)Extracting Roots : 0.52400 ms 
+Time of (8)Generate new edges : 0.44700 ms 
+Time of (11)Shortcut rep : 0.33300 ms 
+Time of (10)Convert to collection : 0.32000 ms 
+Time of (2)Convert to collection : 0.31900 ms 
+Time of (7)Remove edges : 0.28500 ms 
+Time of (15)Transedges prefix : 0.27000 ms 
+Time of (19)Thrust Sorting : 0.12600 ms 
+Time of (13)Compress Graph : 0.06900 ms 
+Time of (3)Processing for multi component Euler tour : 0.05600 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 19.31600 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 711
+Non-tree edges deleted : 99289
+Time of (12)Hooking Shortcutting : 3.206000 ms 
+Time of (6)Edge Deletion : 3.00800 ms 
+Time of (4)Multi component Euler tour internal  : 1.98300 ms 
+Time of (1)Get key rem collections : 1.32200 ms 
+Time of (5)Retrieving back first and last times  : 1.22100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.21900 ms 
+Time of (23)List ranking : 1.11400 ms 
+Time of (9)Get key rem collections : 0.69400 ms 
+Time of (21)CSR creation : 0.64900 ms 
+Time of (0)Extracting Roots : 0.52700 ms 
+Time of (8)Generate new edges : 0.45100 ms 
+Time of (11)Shortcut rep : 0.38400 ms 
+Time of (2)Convert to collection : 0.32800 ms 
+Time of (10)Convert to collection : 0.32000 ms 
+Time of (7)Remove edges : 0.30400 ms 
+Time of (15)Transedges prefix : 0.26200 ms 
+Time of (19)Thrust Sorting : 0.12500 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (20)Thrust gather : 0.05700 ms 
+Time of (3)Processing for multi component Euler tour : 0.05600 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 17.34200 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 687
+Non-tree edges deleted : 99313
+Time of (6)Edge Deletion : 3.271000 ms 
+Time of (4)Multi component Euler tour internal  : 1.99500 ms 
+Time of (12)Hooking Shortcutting : 1.84000 ms 
+Time of (1)Get key rem collections : 1.31100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22600 ms 
+Time of (23)List ranking : 1.10100 ms 
+Time of (5)Retrieving back first and last times  : 1.07600 ms 
+Time of (21)CSR creation : 0.65400 ms 
+Time of (0)Extracting Roots : 0.54400 ms 
+Time of (9)Get key rem collections : 0.53600 ms 
+Time of (8)Generate new edges : 0.44800 ms 
+Time of (11)Shortcut rep : 0.33800 ms 
+Time of (2)Convert to collection : 0.32200 ms 
+Time of (10)Convert to collection : 0.32000 ms 
+Time of (7)Remove edges : 0.28200 ms 
+Time of (15)Transedges prefix : 0.25500 ms 
+Time of (19)Thrust Sorting : 0.12400 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (3)Processing for multi component Euler tour : 0.05800 ms 
+Time of (20)Thrust gather : 0.05600 ms 
+Time of (18)Functor : 0.01700 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 15.87500 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 73
+Non-tree edges deleted : 9927
+Time of (6)Edge Deletion : 2.912000 ms 
+Time of (4)Multi component Euler tour internal  : 1.97400 ms 
+Time of (12)Hooking Shortcutting : 1.74400 ms 
+Time of (1)Get key rem collections : 1.36100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23400 ms 
+Time of (5)Retrieving back first and last times  : 1.07800 ms 
+Time of (23)List ranking : 0.79900 ms 
+Time of (21)CSR creation : 0.63700 ms 
+Time of (9)Get key rem collections : 0.62100 ms 
+Time of (0)Extracting Roots : 0.52800 ms 
+Time of (8)Generate new edges : 0.44800 ms 
+Time of (11)Shortcut rep : 0.33500 ms 
+Time of (2)Convert to collection : 0.32600 ms 
+Time of (10)Convert to collection : 0.32000 ms 
+Time of (15)Transedges prefix : 0.27000 ms 
+Time of (7)Remove edges : 0.26300 ms 
+Time of (19)Thrust Sorting : 0.11600 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 15.18000 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 74
+Non-tree edges deleted : 9926
+Time of (6)Edge Deletion : 2.854000 ms 
+Time of (4)Multi component Euler tour internal  : 1.99700 ms 
+Time of (12)Hooking Shortcutting : 1.73500 ms 
+Time of (1)Get key rem collections : 1.32300 ms 
+Time of (5)Retrieving back first and last times  : 1.07600 ms 
+Time of (23)List ranking : 0.78400 ms 
+Time of (21)CSR creation : 0.68000 ms 
+Time of (9)Get key rem collections : 0.59900 ms 
+Time of (0)Extracting Roots : 0.51800 ms 
+Time of (8)Generate new edges : 0.45000 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.43700 ms 
+Time of (11)Shortcut rep : 0.33600 ms 
+Time of (10)Convert to collection : 0.32100 ms 
+Time of (2)Convert to collection : 0.31800 ms 
+Time of (7)Remove edges : 0.29000 ms 
+Time of (15)Transedges prefix : 0.28700 ms 
+Time of (19)Thrust Sorting : 0.11500 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (3)Processing for multi component Euler tour : 0.05400 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.33200 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 79
+Non-tree edges deleted : 9921
+Time of (6)Edge Deletion : 2.874000 ms 
+Time of (4)Multi component Euler tour internal  : 1.98500 ms 
+Time of (12)Hooking Shortcutting : 1.81800 ms 
+Time of (1)Get key rem collections : 1.31300 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22400 ms 
+Time of (5)Retrieving back first and last times  : 1.07800 ms 
+Time of (23)List ranking : 0.78800 ms 
+Time of (9)Get key rem collections : 0.70400 ms 
+Time of (21)CSR creation : 0.63900 ms 
+Time of (0)Extracting Roots : 0.52700 ms 
+Time of (8)Generate new edges : 0.44900 ms 
+Time of (11)Shortcut rep : 0.33200 ms 
+Time of (2)Convert to collection : 0.33000 ms 
+Time of (10)Convert to collection : 0.32100 ms 
+Time of (15)Transedges prefix : 0.26500 ms 
+Time of (7)Remove edges : 0.25200 ms 
+Time of (19)Thrust Sorting : 0.11600 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 15.22600 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 79
+Non-tree edges deleted : 9921
+Time of (6)Edge Deletion : 2.864000 ms 
+Time of (4)Multi component Euler tour internal  : 2.00200 ms 
+Time of (12)Hooking Shortcutting : 1.73500 ms 
+Time of (1)Get key rem collections : 1.33600 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22600 ms 
+Time of (5)Retrieving back first and last times  : 1.07000 ms 
+Time of (23)List ranking : 0.78300 ms 
+Time of (21)CSR creation : 0.63700 ms 
+Time of (9)Get key rem collections : 0.55100 ms 
+Time of (0)Extracting Roots : 0.52100 ms 
+Time of (8)Generate new edges : 0.45000 ms 
+Time of (11)Shortcut rep : 0.33200 ms 
+Time of (10)Convert to collection : 0.32300 ms 
+Time of (2)Convert to collection : 0.32000 ms 
+Time of (7)Remove edges : 0.27500 ms 
+Time of (15)Transedges prefix : 0.25800 ms 
+Time of (19)Thrust Sorting : 0.11500 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (3)Processing for multi component Euler tour : 0.05400 ms 
+Time of (20)Thrust gather : 0.05100 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 15.01200 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 72
+Non-tree edges deleted : 9928
+Time of (6)Edge Deletion : 2.896000 ms 
+Time of (4)Multi component Euler tour internal  : 2.01900 ms 
+Time of (12)Hooking Shortcutting : 1.74700 ms 
+Time of (1)Get key rem collections : 1.38200 ms 
+Time of (5)Retrieving back first and last times  : 1.07600 ms 
+Time of (23)List ranking : 0.78200 ms 
+Time of (21)CSR creation : 0.76300 ms 
+Time of (9)Get key rem collections : 0.57200 ms 
+Time of (0)Extracting Roots : 0.53600 ms 
+Time of (8)Generate new edges : 0.44900 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.44400 ms 
+Time of (11)Shortcut rep : 0.33600 ms 
+Time of (10)Convert to collection : 0.32200 ms 
+Time of (2)Convert to collection : 0.31900 ms 
+Time of (15)Transedges prefix : 0.28700 ms 
+Time of (7)Remove edges : 0.25100 ms 
+Time of (19)Thrust Sorting : 0.12000 ms 
+Time of (13)Compress Graph : 0.06600 ms 
+Time of (3)Processing for multi component Euler tour : 0.05600 ms 
+Time of (20)Thrust gather : 0.04600 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 14.51000 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 1
+Non-tree edges deleted : 99
+Time of (6)Edge Deletion : 2.838000 ms 
+Time of (4)Multi component Euler tour internal  : 1.98500 ms 
+Time of (1)Get key rem collections : 1.31100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23100 ms 
+Time of (5)Retrieving back first and last times  : 1.07900 ms 
+Time of (12)Hooking Shortcutting : 0.86900 ms 
+Time of (9)Get key rem collections : 0.73400 ms 
+Time of (21)CSR creation : 0.62900 ms 
+Time of (0)Extracting Roots : 0.53800 ms 
+Time of (8)Generate new edges : 0.45000 ms 
+Time of (15)Transedges prefix : 0.36100 ms 
+Time of (11)Shortcut rep : 0.34000 ms 
+Time of (10)Convert to collection : 0.32000 ms 
+Time of (2)Convert to collection : 0.31800 ms 
+Time of (7)Remove edges : 0.25100 ms 
+Time of (23)List ranking : 0.19300 ms 
+Time of (19)Thrust Sorting : 0.10000 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (3)Processing for multi component Euler tour : 0.05600 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 13.76000 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 0
+Non-tree edges deleted : 100
+Time of (6)Edge Deletion : 2.810000 ms 
+Time of (4)Multi component Euler tour internal  : 2.03300 ms 
+Time of (1)Get key rem collections : 1.36500 ms 
+Time of (5)Retrieving back first and last times  : 1.21800 ms 
+Time of (9)Get key rem collections : 0.66000 ms 
+Time of (0)Extracting Roots : 0.53500 ms 
+Time of (15)Reverse Edges and Connect Parent : 0.45500 ms 
+Time of (8)Generate new edges : 0.45100 ms 
+Time of (12)Hooking Shortcutting : 0.42000 ms 
+Time of (11)Shortcut rep : 0.33500 ms 
+Time of (10)Convert to collection : 0.32300 ms 
+Time of (2)Convert to collection : 0.32100 ms 
+Time of (7)Remove edges : 0.24400 ms 
+Time of (13)Compress Graph : 0.07300 ms 
+Time of (3)Processing for multi component Euler tour : 0.05600 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 11.30300 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 2
+Non-tree edges deleted : 98
+Time of (6)Edge Deletion : 2.877000 ms 
+Time of (4)Multi component Euler tour internal  : 1.99000 ms 
+Time of (12)Hooking Shortcutting : 1.30500 ms 
+Time of (1)Get key rem collections : 1.30400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23200 ms 
+Time of (5)Retrieving back first and last times  : 1.06900 ms 
+Time of (21)CSR creation : 0.62400 ms 
+Time of (9)Get key rem collections : 0.58700 ms 
+Time of (0)Extracting Roots : 0.52000 ms 
+Time of (8)Generate new edges : 0.44900 ms 
+Time of (11)Shortcut rep : 0.33200 ms 
+Time of (10)Convert to collection : 0.32100 ms 
+Time of (2)Convert to collection : 0.32000 ms 
+Time of (23)List ranking : 0.27600 ms 
+Time of (15)Transedges prefix : 0.25800 ms 
+Time of (7)Remove edges : 0.24100 ms 
+Time of (19)Thrust Sorting : 0.09900 ms 
+Time of (13)Compress Graph : 0.07000 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.01400 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 5
+Non-tree edges deleted : 95
+Time of (6)Edge Deletion : 2.839000 ms 
+Time of (4)Multi component Euler tour internal  : 2.03400 ms 
+Time of (12)Hooking Shortcutting : 1.69100 ms 
+Time of (1)Get key rem collections : 1.32400 ms 
+Time of (5)Retrieving back first and last times  : 1.27500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22200 ms 
+Time of (21)CSR creation : 0.63800 ms 
+Time of (0)Extracting Roots : 0.53200 ms 
+Time of (9)Get key rem collections : 0.52500 ms 
+Time of (8)Generate new edges : 0.45600 ms 
+Time of (23)List ranking : 0.44900 ms 
+Time of (11)Shortcut rep : 0.33400 ms 
+Time of (10)Convert to collection : 0.32200 ms 
+Time of (2)Convert to collection : 0.31900 ms 
+Time of (15)Transedges prefix : 0.28400 ms 
+Time of (7)Remove edges : 0.24600 ms 
+Time of (19)Thrust Sorting : 0.09900 ms 
+Time of (13)Compress Graph : 0.06800 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.79900 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 1
+Non-tree edges deleted : 99
+Time of (6)Edge Deletion : 2.839000 ms 
+Time of (4)Multi component Euler tour internal  : 2.00400 ms 
+Time of (1)Get key rem collections : 1.32700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.24600 ms 
+Time of (5)Retrieving back first and last times  : 1.16200 ms 
+Time of (12)Hooking Shortcutting : 0.86100 ms 
+Time of (21)CSR creation : 0.62600 ms 
+Time of (0)Extracting Roots : 0.53300 ms 
+Time of (9)Get key rem collections : 0.50400 ms 
+Time of (8)Generate new edges : 0.44900 ms 
+Time of (11)Shortcut rep : 0.33500 ms 
+Time of (2)Convert to collection : 0.32700 ms 
+Time of (10)Convert to collection : 0.32100 ms 
+Time of (7)Remove edges : 0.26300 ms 
+Time of (15)Transedges prefix : 0.25300 ms 
+Time of (23)List ranking : 0.18700 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (13)Compress Graph : 0.06700 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (18)Functor : 0.01300 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time (total): 13.54900 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 7
+Non-tree edges deleted : 993
+Time of (6)Edge Deletion : 2.794000 ms 
+Time of (4)Multi component Euler tour internal  : 2.01000 ms 
+Time of (12)Hooking Shortcutting : 1.70100 ms 
+Time of (1)Get key rem collections : 1.34100 ms 
+Time of (5)Retrieving back first and last times  : 1.22700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22400 ms 
+Time of (21)CSR creation : 0.67000 ms 
+Time of (9)Get key rem collections : 0.53500 ms 
+Time of (0)Extracting Roots : 0.52500 ms 
+Time of (8)Generate new edges : 0.45000 ms 
+Time of (23)List ranking : 0.44700 ms 
+Time of (11)Shortcut rep : 0.33300 ms 
+Time of (2)Convert to collection : 0.32300 ms 
+Time of (10)Convert to collection : 0.32200 ms 
+Time of (15)Transedges prefix : 0.25600 ms 
+Time of (7)Remove edges : 0.24500 ms 
+Time of (19)Thrust Sorting : 0.10300 ms 
+Time of (13)Compress Graph : 0.06700 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 14.71800 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 6
+Non-tree edges deleted : 994
+Time of (6)Edge Deletion : 2.886000 ms 
+Time of (4)Multi component Euler tour internal  : 2.02700 ms 
+Time of (12)Hooking Shortcutting : 1.73100 ms 
+Time of (1)Get key rem collections : 1.36200 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23700 ms 
+Time of (5)Retrieving back first and last times  : 1.06900 ms 
+Time of (21)CSR creation : 0.63400 ms 
+Time of (9)Get key rem collections : 0.59100 ms 
+Time of (0)Extracting Roots : 0.52700 ms 
+Time of (8)Generate new edges : 0.45300 ms 
+Time of (23)List ranking : 0.44800 ms 
+Time of (11)Shortcut rep : 0.33800 ms 
+Time of (10)Convert to collection : 0.32600 ms 
+Time of (2)Convert to collection : 0.32100 ms 
+Time of (15)Transedges prefix : 0.25800 ms 
+Time of (7)Remove edges : 0.25300 ms 
+Time of (19)Thrust Sorting : 0.10300 ms 
+Time of (13)Compress Graph : 0.07000 ms 
+Time of (3)Processing for multi component Euler tour : 0.05600 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.78000 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 9
+Non-tree edges deleted : 991
+Time of (6)Edge Deletion : 2.832000 ms 
+Time of (4)Multi component Euler tour internal  : 1.99000 ms 
+Time of (12)Hooking Shortcutting : 1.73800 ms 
+Time of (1)Get key rem collections : 1.32200 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22500 ms 
+Time of (5)Retrieving back first and last times  : 1.22100 ms 
+Time of (21)CSR creation : 0.64100 ms 
+Time of (23)List ranking : 0.53300 ms 
+Time of (0)Extracting Roots : 0.52900 ms 
+Time of (9)Get key rem collections : 0.50500 ms 
+Time of (8)Generate new edges : 0.45100 ms 
+Time of (11)Shortcut rep : 0.33700 ms 
+Time of (10)Convert to collection : 0.32300 ms 
+Time of (2)Convert to collection : 0.32000 ms 
+Time of (7)Remove edges : 0.26700 ms 
+Time of (15)Transedges prefix : 0.25900 ms 
+Time of (19)Thrust Sorting : 0.10500 ms 
+Time of (13)Compress Graph : 0.06900 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.81200 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 3
+Non-tree edges deleted : 997
+Time of (6)Edge Deletion : 2.839000 ms 
+Time of (4)Multi component Euler tour internal  : 2.01300 ms 
+Time of (12)Hooking Shortcutting : 1.70300 ms 
+Time of (1)Get key rem collections : 1.31900 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23100 ms 
+Time of (5)Retrieving back first and last times  : 1.07700 ms 
+Time of (21)CSR creation : 0.63100 ms 
+Time of (0)Extracting Roots : 0.51700 ms 
+Time of (9)Get key rem collections : 0.50500 ms 
+Time of (8)Generate new edges : 0.45100 ms 
+Time of (23)List ranking : 0.36000 ms 
+Time of (11)Shortcut rep : 0.34400 ms 
+Time of (10)Convert to collection : 0.32100 ms 
+Time of (2)Convert to collection : 0.31900 ms 
+Time of (15)Transedges prefix : 0.25800 ms 
+Time of (7)Remove edges : 0.24600 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (13)Compress Graph : 0.06900 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00300 ms 
+Time (total): 14.44800 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 5
+Non-tree edges deleted : 995
+Time of (6)Edge Deletion : 2.798000 ms 
+Time of (4)Multi component Euler tour internal  : 1.98500 ms 
+Time of (12)Hooking Shortcutting : 1.70400 ms 
+Time of (1)Get key rem collections : 1.32500 ms 
+Time of (5)Retrieving back first and last times  : 1.31300 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.21700 ms 
+Time of (21)CSR creation : 0.63800 ms 
+Time of (0)Extracting Roots : 0.52200 ms 
+Time of (9)Get key rem collections : 0.51000 ms 
+Time of (23)List ranking : 0.45100 ms 
+Time of (8)Generate new edges : 0.45000 ms 
+Time of (11)Shortcut rep : 0.33900 ms 
+Time of (10)Convert to collection : 0.32200 ms 
+Time of (2)Convert to collection : 0.31900 ms 
+Time of (15)Transedges prefix : 0.29400 ms 
+Time of (7)Remove edges : 0.24600 ms 
+Time of (19)Thrust Sorting : 0.10400 ms 
+Time of (13)Compress Graph : 0.07000 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.05100 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.75300 ms 
+--------------------------------------------------------

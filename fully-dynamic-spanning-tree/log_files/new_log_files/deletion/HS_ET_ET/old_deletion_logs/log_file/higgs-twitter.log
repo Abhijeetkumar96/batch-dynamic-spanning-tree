@@ -1,0 +1,710 @@
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 2542
+Non-tree edges deleted : 97458
+Time of (12)Hooking Shortcutting : 5.329000 ms 
+Time of (6)Edge Deletion : 2.23100 ms 
+Time of (23)List ranking : 1.31100 ms 
+Time of (4)Multi component Euler tour internal  : 1.16500 ms 
+Time of (21)CSR creation : 0.65000 ms 
+Time of (9)Get key rem collections : 0.55400 ms 
+Time of (1)Get key rem collections : 0.50800 ms 
+Time of (8)Generate new edges : 0.41800 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40500 ms 
+Time of (5)Retrieving back first and last times  : 0.40400 ms 
+Time of (11)Shortcut rep : 0.30600 ms 
+Time of (2)Convert to collection : 0.30000 ms 
+Time of (10)Convert to collection : 0.29800 ms 
+Time of (15)Transedges prefix : 0.25300 ms 
+Time of (7)Remove edges : 0.24800 ms 
+Time of (19)Thrust Sorting : 0.16700 ms 
+Time of (0)Extracting Roots : 0.08000 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (3)Processing for multi component Euler tour : 0.03800 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.82100 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 2630
+Non-tree edges deleted : 97370
+Time of (12)Hooking Shortcutting : 4.688000 ms 
+Time of (6)Edge Deletion : 2.22700 ms 
+Time of (23)List ranking : 1.33400 ms 
+Time of (4)Multi component Euler tour internal  : 1.16100 ms 
+Time of (21)CSR creation : 0.65300 ms 
+Time of (9)Get key rem collections : 0.52000 ms 
+Time of (1)Get key rem collections : 0.51000 ms 
+Time of (8)Generate new edges : 0.41700 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.41000 ms 
+Time of (5)Retrieving back first and last times  : 0.40600 ms 
+Time of (11)Shortcut rep : 0.30700 ms 
+Time of (2)Convert to collection : 0.30700 ms 
+Time of (10)Convert to collection : 0.29700 ms 
+Time of (7)Remove edges : 0.24200 ms 
+Time of (15)Transedges prefix : 0.24100 ms 
+Time of (19)Thrust Sorting : 0.16300 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (20)Thrust gather : 0.05700 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00700 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 14.15600 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 2584
+Non-tree edges deleted : 97416
+Time of (12)Hooking Shortcutting : 5.500000 ms 
+Time of (6)Edge Deletion : 2.23400 ms 
+Time of (23)List ranking : 1.28900 ms 
+Time of (4)Multi component Euler tour internal  : 1.16500 ms 
+Time of (21)CSR creation : 0.64200 ms 
+Time of (9)Get key rem collections : 0.51600 ms 
+Time of (1)Get key rem collections : 0.51000 ms 
+Time of (8)Generate new edges : 0.41700 ms 
+Time of (5)Retrieving back first and last times  : 0.40800 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40500 ms 
+Time of (11)Shortcut rep : 0.30600 ms 
+Time of (10)Convert to collection : 0.29900 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Remove edges : 0.24900 ms 
+Time of (15)Transedges prefix : 0.24100 ms 
+Time of (19)Thrust Sorting : 0.17000 ms 
+Time of (0)Extracting Roots : 0.08100 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 14.92500 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 2683
+Non-tree edges deleted : 97317
+Time of (12)Hooking Shortcutting : 5.779000 ms 
+Time of (6)Edge Deletion : 2.22300 ms 
+Time of (23)List ranking : 1.32100 ms 
+Time of (4)Multi component Euler tour internal  : 1.19000 ms 
+Time of (21)CSR creation : 0.64500 ms 
+Time of (1)Get key rem collections : 0.56000 ms 
+Time of (9)Get key rem collections : 0.54700 ms 
+Time of (8)Generate new edges : 0.41800 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.41100 ms 
+Time of (5)Retrieving back first and last times  : 0.40500 ms 
+Time of (15)Transedges prefix : 0.31200 ms 
+Time of (11)Shortcut rep : 0.30800 ms 
+Time of (2)Convert to collection : 0.30500 ms 
+Time of (10)Convert to collection : 0.29600 ms 
+Time of (7)Remove edges : 0.27100 ms 
+Time of (19)Thrust Sorting : 0.16500 ms 
+Time of (0)Extracting Roots : 0.08100 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01700 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time (total): 15.43400 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 2637
+Non-tree edges deleted : 97363
+Time of (12)Hooking Shortcutting : 3.947000 ms 
+Time of (6)Edge Deletion : 2.23200 ms 
+Time of (23)List ranking : 1.31600 ms 
+Time of (4)Multi component Euler tour internal  : 1.16800 ms 
+Time of (21)CSR creation : 0.65200 ms 
+Time of (9)Get key rem collections : 0.55400 ms 
+Time of (1)Get key rem collections : 0.51100 ms 
+Time of (8)Generate new edges : 0.41700 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.41300 ms 
+Time of (5)Retrieving back first and last times  : 0.40500 ms 
+Time of (10)Convert to collection : 0.29800 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (11)Shortcut rep : 0.28000 ms 
+Time of (7)Remove edges : 0.24600 ms 
+Time of (15)Transedges prefix : 0.24400 ms 
+Time of (19)Thrust Sorting : 0.16900 ms 
+Time of (0)Extracting Roots : 0.08800 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 13.43100 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 265
+Non-tree edges deleted : 9735
+Time of (12)Hooking Shortcutting : 3.634000 ms 
+Time of (6)Edge Deletion : 2.11000 ms 
+Time of (4)Multi component Euler tour internal  : 1.19600 ms 
+Time of (23)List ranking : 0.98900 ms 
+Time of (21)CSR creation : 0.63000 ms 
+Time of (9)Get key rem collections : 0.51500 ms 
+Time of (1)Get key rem collections : 0.50000 ms 
+Time of (8)Generate new edges : 0.41600 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.41000 ms 
+Time of (5)Retrieving back first and last times  : 0.40700 ms 
+Time of (11)Shortcut rep : 0.30500 ms 
+Time of (10)Convert to collection : 0.29900 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Remove edges : 0.24600 ms 
+Time of (15)Transedges prefix : 0.24000 ms 
+Time of (19)Thrust Sorting : 0.12200 ms 
+Time of (0)Extracting Roots : 0.09000 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 12.59900 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 282
+Non-tree edges deleted : 9718
+Time of (12)Hooking Shortcutting : 2.111000 ms 
+Time of (6)Edge Deletion : 2.06300 ms 
+Time of (4)Multi component Euler tour internal  : 1.23000 ms 
+Time of (23)List ranking : 0.98200 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (1)Get key rem collections : 0.51400 ms 
+Time of (9)Get key rem collections : 0.49800 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.41800 ms 
+Time of (8)Generate new edges : 0.41700 ms 
+Time of (5)Retrieving back first and last times  : 0.40800 ms 
+Time of (11)Shortcut rep : 0.30500 ms 
+Time of (2)Convert to collection : 0.30500 ms 
+Time of (10)Convert to collection : 0.30000 ms 
+Time of (15)Transedges prefix : 0.25300 ms 
+Time of (7)Remove edges : 0.23200 ms 
+Time of (19)Thrust Sorting : 0.12000 ms 
+Time of (0)Extracting Roots : 0.08000 ms 
+Time of (13)Compress Graph : 0.05600 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 11.06000 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 246
+Non-tree edges deleted : 9754
+Time of (12)Hooking Shortcutting : 3.199000 ms 
+Time of (6)Edge Deletion : 2.13000 ms 
+Time of (4)Multi component Euler tour internal  : 1.16200 ms 
+Time of (23)List ranking : 0.87200 ms 
+Time of (1)Get key rem collections : 0.63700 ms 
+Time of (21)CSR creation : 0.63500 ms 
+Time of (9)Get key rem collections : 0.59600 ms 
+Time of (8)Generate new edges : 0.42000 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.41400 ms 
+Time of (5)Retrieving back first and last times  : 0.41200 ms 
+Time of (11)Shortcut rep : 0.31700 ms 
+Time of (2)Convert to collection : 0.30600 ms 
+Time of (10)Convert to collection : 0.29900 ms 
+Time of (15)Transedges prefix : 0.24500 ms 
+Time of (7)Remove edges : 0.23100 ms 
+Time of (19)Thrust Sorting : 0.12100 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 12.27000 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 259
+Non-tree edges deleted : 9741
+Time of (12)Hooking Shortcutting : 4.396000 ms 
+Time of (6)Edge Deletion : 2.12300 ms 
+Time of (4)Multi component Euler tour internal  : 1.16600 ms 
+Time of (23)List ranking : 0.98000 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (9)Get key rem collections : 0.50900 ms 
+Time of (1)Get key rem collections : 0.50400 ms 
+Time of (8)Generate new edges : 0.42000 ms 
+Time of (5)Retrieving back first and last times  : 0.41300 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40600 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (10)Convert to collection : 0.29600 ms 
+Time of (11)Shortcut rep : 0.27700 ms 
+Time of (15)Transedges prefix : 0.26800 ms 
+Time of (7)Remove edges : 0.22600 ms 
+Time of (19)Thrust Sorting : 0.12000 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 13.30300 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 228
+Non-tree edges deleted : 9772
+Time of (12)Hooking Shortcutting : 3.652000 ms 
+Time of (6)Edge Deletion : 2.11300 ms 
+Time of (4)Multi component Euler tour internal  : 1.16100 ms 
+Time of (23)List ranking : 0.87700 ms 
+Time of (21)CSR creation : 0.63400 ms 
+Time of (1)Get key rem collections : 0.51700 ms 
+Time of (9)Get key rem collections : 0.50700 ms 
+Time of (5)Retrieving back first and last times  : 0.42000 ms 
+Time of (8)Generate new edges : 0.41900 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40900 ms 
+Time of (11)Shortcut rep : 0.30700 ms 
+Time of (2)Convert to collection : 0.30700 ms 
+Time of (10)Convert to collection : 0.30000 ms 
+Time of (15)Transedges prefix : 0.24100 ms 
+Time of (7)Remove edges : 0.23600 ms 
+Time of (19)Thrust Sorting : 0.12200 ms 
+Time of (0)Extracting Roots : 0.07700 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 12.48800 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 0
+Non-tree edges deleted : 100
+Time of (6)Edge Deletion : 2.088000 ms 
+Time of (4)Multi component Euler tour internal  : 1.15100 ms 
+Time of (9)Get key rem collections : 0.53400 ms 
+Time of (1)Get key rem collections : 0.51300 ms 
+Time of (12)Hooking Shortcutting : 0.50400 ms 
+Time of (8)Generate new edges : 0.41700 ms 
+Time of (5)Retrieving back first and last times  : 0.40900 ms 
+Time of (15)Reverse Edges and Connect Parent : 0.40100 ms 
+Time of (11)Shortcut rep : 0.30100 ms 
+Time of (10)Convert to collection : 0.29900 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Remove edges : 0.25200 ms 
+Time of (0)Extracting Roots : 0.08800 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 7.35800 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 4
+Non-tree edges deleted : 96
+Time of (6)Edge Deletion : 2.102000 ms 
+Time of (12)Hooking Shortcutting : 1.48900 ms 
+Time of (4)Multi component Euler tour internal  : 1.16000 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (9)Get key rem collections : 0.52500 ms 
+Time of (1)Get key rem collections : 0.50300 ms 
+Time of (5)Retrieving back first and last times  : 0.42200 ms 
+Time of (8)Generate new edges : 0.41800 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40600 ms 
+Time of (23)List ranking : 0.35600 ms 
+Time of (11)Shortcut rep : 0.30600 ms 
+Time of (2)Convert to collection : 0.30600 ms 
+Time of (10)Convert to collection : 0.30100 ms 
+Time of (15)Transedges prefix : 0.26200 ms 
+Time of (7)Remove edges : 0.22600 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (0)Extracting Roots : 0.08700 ms 
+Time of (13)Compress Graph : 0.06100 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 9.79300 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 3
+Non-tree edges deleted : 97
+Time of (6)Edge Deletion : 2.111000 ms 
+Time of (12)Hooking Shortcutting : 1.99100 ms 
+Time of (4)Multi component Euler tour internal  : 1.18400 ms 
+Time of (21)CSR creation : 0.67000 ms 
+Time of (9)Get key rem collections : 0.54200 ms 
+Time of (1)Get key rem collections : 0.50300 ms 
+Time of (8)Generate new edges : 0.41800 ms 
+Time of (5)Retrieving back first and last times  : 0.41000 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40600 ms 
+Time of (23)List ranking : 0.35500 ms 
+Time of (11)Shortcut rep : 0.30100 ms 
+Time of (10)Convert to collection : 0.30000 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (15)Transedges prefix : 0.27100 ms 
+Time of (7)Remove edges : 0.22700 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (0)Extracting Roots : 0.08000 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 10.35800 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 3
+Non-tree edges deleted : 97
+Time of (6)Edge Deletion : 2.072000 ms 
+Time of (12)Hooking Shortcutting : 1.48400 ms 
+Time of (4)Multi component Euler tour internal  : 1.15600 ms 
+Time of (21)CSR creation : 0.63100 ms 
+Time of (9)Get key rem collections : 0.50900 ms 
+Time of (1)Get key rem collections : 0.49800 ms 
+Time of (8)Generate new edges : 0.41700 ms 
+Time of (5)Retrieving back first and last times  : 0.40900 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40200 ms 
+Time of (23)List ranking : 0.35800 ms 
+Time of (2)Convert to collection : 0.32400 ms 
+Time of (15)Transedges prefix : 0.32300 ms 
+Time of (11)Shortcut rep : 0.30300 ms 
+Time of (10)Convert to collection : 0.29900 ms 
+Time of (7)Remove edges : 0.23900 ms 
+Time of (19)Thrust Sorting : 0.10200 ms 
+Time of (0)Extracting Roots : 0.09600 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 9.81000 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 3
+Non-tree edges deleted : 97
+Time of (6)Edge Deletion : 2.070000 ms 
+Time of (12)Hooking Shortcutting : 1.99100 ms 
+Time of (4)Multi component Euler tour internal  : 1.18100 ms 
+Time of (21)CSR creation : 0.64700 ms 
+Time of (9)Get key rem collections : 0.55200 ms 
+Time of (1)Get key rem collections : 0.50500 ms 
+Time of (8)Generate new edges : 0.41900 ms 
+Time of (5)Retrieving back first and last times  : 0.41000 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40200 ms 
+Time of (23)List ranking : 0.35400 ms 
+Time of (11)Shortcut rep : 0.30300 ms 
+Time of (2)Convert to collection : 0.30000 ms 
+Time of (10)Convert to collection : 0.29800 ms 
+Time of (15)Transedges prefix : 0.29100 ms 
+Time of (7)Remove edges : 0.28000 ms 
+Time of (19)Thrust Sorting : 0.10000 ms 
+Time of (0)Extracting Roots : 0.08900 ms 
+Time of (13)Compress Graph : 0.06100 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 10.38200 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 27
+Non-tree edges deleted : 973
+Time of (6)Edge Deletion : 2.088000 ms 
+Time of (12)Hooking Shortcutting : 2.02400 ms 
+Time of (4)Multi component Euler tour internal  : 1.16600 ms 
+Time of (21)CSR creation : 0.63000 ms 
+Time of (23)List ranking : 0.60900 ms 
+Time of (9)Get key rem collections : 0.54900 ms 
+Time of (1)Get key rem collections : 0.50900 ms 
+Time of (5)Retrieving back first and last times  : 0.42400 ms 
+Time of (8)Generate new edges : 0.41700 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40800 ms 
+Time of (11)Shortcut rep : 0.30400 ms 
+Time of (2)Convert to collection : 0.30100 ms 
+Time of (10)Convert to collection : 0.29900 ms 
+Time of (15)Transedges prefix : 0.24100 ms 
+Time of (7)Remove edges : 0.22300 ms 
+Time of (19)Thrust Sorting : 0.11300 ms 
+Time of (0)Extracting Roots : 0.08100 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (20)Thrust gather : 0.05100 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 10.57700 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 21
+Non-tree edges deleted : 979
+Time of (12)Hooking Shortcutting : 3.050000 ms 
+Time of (6)Edge Deletion : 2.10900 ms 
+Time of (4)Multi component Euler tour internal  : 1.15900 ms 
+Time of (21)CSR creation : 0.63000 ms 
+Time of (23)List ranking : 0.60600 ms 
+Time of (1)Get key rem collections : 0.52700 ms 
+Time of (9)Get key rem collections : 0.50500 ms 
+Time of (5)Retrieving back first and last times  : 0.42600 ms 
+Time of (8)Generate new edges : 0.41600 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40300 ms 
+Time of (2)Convert to collection : 0.30100 ms 
+Time of (10)Convert to collection : 0.28600 ms 
+Time of (11)Shortcut rep : 0.27100 ms 
+Time of (15)Transedges prefix : 0.25900 ms 
+Time of (7)Remove edges : 0.22600 ms 
+Time of (19)Thrust Sorting : 0.11100 ms 
+Time of (0)Extracting Roots : 0.08900 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 11.56100 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 16
+Non-tree edges deleted : 984
+Time of (6)Edge Deletion : 2.158000 ms 
+Time of (12)Hooking Shortcutting : 2.05400 ms 
+Time of (4)Multi component Euler tour internal  : 1.15700 ms 
+Time of (21)CSR creation : 0.62800 ms 
+Time of (23)List ranking : 0.51900 ms 
+Time of (1)Get key rem collections : 0.50800 ms 
+Time of (9)Get key rem collections : 0.50200 ms 
+Time of (5)Retrieving back first and last times  : 0.42600 ms 
+Time of (8)Generate new edges : 0.41800 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.39900 ms 
+Time of (11)Shortcut rep : 0.30600 ms 
+Time of (10)Convert to collection : 0.29800 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (15)Transedges prefix : 0.26000 ms 
+Time of (7)Remove edges : 0.22700 ms 
+Time of (19)Thrust Sorting : 0.10600 ms 
+Time of (13)Compress Graph : 0.07800 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 10.54700 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 26
+Non-tree edges deleted : 974
+Time of (6)Edge Deletion : 2.225000 ms 
+Time of (12)Hooking Shortcutting : 2.02100 ms 
+Time of (4)Multi component Euler tour internal  : 1.15900 ms 
+Time of (21)CSR creation : 0.63300 ms 
+Time of (23)List ranking : 0.61600 ms 
+Time of (1)Get key rem collections : 0.60600 ms 
+Time of (9)Get key rem collections : 0.51200 ms 
+Time of (5)Retrieving back first and last times  : 0.46600 ms 
+Time of (8)Generate new edges : 0.41900 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.41200 ms 
+Time of (11)Shortcut rep : 0.30300 ms 
+Time of (10)Convert to collection : 0.30000 ms 
+Time of (2)Convert to collection : 0.30000 ms 
+Time of (7)Remove edges : 0.25700 ms 
+Time of (15)Transedges prefix : 0.24400 ms 
+Time of (19)Thrust Sorting : 0.11300 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 10.85000 ms 
+--------------------------------------------------------
+filename: higgs-twitter.txt
+Nodes : 456626
+Edges : 12508568
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 25
+Non-tree edges deleted : 975
+Time of (12)Hooking Shortcutting : 2.527000 ms 
+Time of (6)Edge Deletion : 2.11300 ms 
+Time of (4)Multi component Euler tour internal  : 1.17600 ms 
+Time of (21)CSR creation : 0.62900 ms 
+Time of (23)List ranking : 0.61500 ms 
+Time of (1)Get key rem collections : 0.50500 ms 
+Time of (9)Get key rem collections : 0.49400 ms 
+Time of (5)Retrieving back first and last times  : 0.42600 ms 
+Time of (8)Generate new edges : 0.41800 ms 
+Time of (25)Reverse Edges and Connect Parent : 0.40900 ms 
+Time of (11)Shortcut rep : 0.30200 ms 
+Time of (2)Convert to collection : 0.30000 ms 
+Time of (10)Convert to collection : 0.29900 ms 
+Time of (15)Transedges prefix : 0.24600 ms 
+Time of (7)Remove edges : 0.22500 ms 
+Time of (19)Thrust Sorting : 0.11200 ms 
+Time of (0)Extracting Roots : 0.08200 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 11.06600 ms 
+--------------------------------------------------------

@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+europe_osm.txt,100,177.428
+europe_osm.txt,100,188.215
+europe_osm.txt,100,189.984
+europe_osm.txt,100,178.657
+europe_osm.txt,100,177.6
+europe_osm.txt,1000,209.146
+europe_osm.txt,1000,207.174
+europe_osm.txt,1000,191.464
+europe_osm.txt,1000,188.962
+europe_osm.txt,1000,195.056
+europe_osm.txt,10000,203.529
+europe_osm.txt,10000,209.395
+europe_osm.txt,10000,217.081
+europe_osm.txt,10000,208.157
+europe_osm.txt,10000,199.879
+europe_osm.txt,100000,216.015
+europe_osm.txt,100000,217.908
+europe_osm.txt,100000,233.762
+europe_osm.txt,100000,213.996
+europe_osm.txt,100000,225.796

@@ -1,0 +1,21 @@
+filename,delete_batch_size,depth_of_graph,simple BFS,PR-RST module,Adam_BFS,CC,update datastr
+coPapersCiteseer.egr,100,26,15.01,8.74,7.39,4.26,2.44
+coPapersCiteseer.egr,100,26,14.92,12.46,7.33,3.53,2.48
+coPapersCiteseer.egr,100,26,15.26,10.67,7.37,5.25,2.49
+coPapersCiteseer.egr,100,26,15.69,8.83,7.27,4.49,2.45
+coPapersCiteseer.egr,100,26,15.46,12.68,7.42,2.89,4.77
+coPapersCiteseer.egr,1000,26,16.18,10.83,7.6,4.36,2.46
+coPapersCiteseer.egr,1000,26,15.31,9.39,6.31,3.62,2.59
+coPapersCiteseer.egr,1000,26,14.52,9.38,6.3,3.46,2.73
+coPapersCiteseer.egr,1000,26,13.9,9.42,6.34,3.94,2.4
+coPapersCiteseer.egr,1000,26,14.19,9.43,6.3,2.95,2.43
+coPapersCiteseer.egr,10000,26,14.94,8.43,6.83,4.29,3.01
+coPapersCiteseer.egr,10000,26,15.06,10.13,6.8,3.89,2.43
+coPapersCiteseer.egr,10000,26,14.16,10.19,6.89,4.95,2.43
+coPapersCiteseer.egr,10000,26,15.57,11.88,6.91,3.64,2.42
+coPapersCiteseer.egr,10000,26,14.95,6.55,6.84,2.88,2.44
+coPapersCiteseer.egr,100000,26,13.74,7.86,6.33,3.46,2.45
+coPapersCiteseer.egr,100000,26,14.62,11.05,6.37,2.93,2.45
+coPapersCiteseer.egr,100000,26,13.8,9.47,6.37,3.56,2.45
+coPapersCiteseer.egr,100000,26,14.26,9.45,6.34,3.34,2.63
+coPapersCiteseer.egr,100000,26,15.23,9.85,6.7,3.34,2.47

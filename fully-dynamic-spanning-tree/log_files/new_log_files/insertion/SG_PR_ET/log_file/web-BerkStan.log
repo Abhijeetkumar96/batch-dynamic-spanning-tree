@@ -1,0 +1,420 @@
+
+
+filename: web-BerkStan.egr
+Root: 673785
+Number of deleted tree edges: 1941
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 673785
+Root: 673785
+After repairing:
+Total execution time of all functions: 7.62656 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.56 ms
+Time of Super graph Creation : 1.76 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 537651
+Number of deleted tree edges: 1078
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 537651
+Root: 537651
+After repairing:
+Total execution time of all functions: 7.63605 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.39 ms
+Time of Super graph Creation : 1.93 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 112306
+Number of deleted tree edges: 1609
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 112306
+Root: 112306
+After repairing:
+Total execution time of all functions: 7.62567 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.52 ms
+Time of Super graph Creation : 1.80 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 387678
+Number of deleted tree edges: 465
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 387678
+Root: 387678
+After repairing:
+Total execution time of all functions: 7.62845 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.41 ms
+Time of Super graph Creation : 1.91 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 287342
+Number of deleted tree edges: 1354
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 287342
+Root: 287342
+After repairing:
+Total execution time of all functions: 7.62453 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.46 ms
+Time of Super graph Creation : 1.85 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 604341
+Number of deleted tree edges: 93
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 604341
+Root: 604341
+After repairing:
+Total execution time of all functions: 7.6205 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.49 ms
+Time of Super graph Creation : 1.83 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 635497
+Number of deleted tree edges: 38
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 635497
+Root: 635497
+After repairing:
+Total execution time of all functions: 7.62227 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.53 ms
+Time of Super graph Creation : 1.79 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 448972
+Number of deleted tree edges: 27
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 448972
+Root: 448972
+After repairing:
+Total execution time of all functions: 7.62403 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.48 ms
+Time of Super graph Creation : 1.83 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 313803
+Number of deleted tree edges: 158
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 313803
+Root: 313803
+After repairing:
+Total execution time of all functions: 7.61837 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.45 ms
+Time of Super graph Creation : 1.86 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 355051
+Number of deleted tree edges: 33
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 355051
+Root: 355051
+After repairing:
+Total execution time of all functions: 7.61963 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.53 ms
+Time of Super graph Creation : 1.78 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 21857
+Number of deleted tree edges: 1
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 21857
+Root: 21857
+After repairing:
+Total execution time of all functions: 6.60601 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.57 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.70 ms
+Time of Pointer Jumping : 0.27 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 175193
+Number of deleted tree edges: 1
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 175193
+Root: 175193
+After repairing:
+Total execution time of all functions: 6.57374 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.51 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.75 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 599626
+Number of deleted tree edges: 0
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 599626
+Root: 599626
+After repairing:
+Total execution time of all functions: 6.57641 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.58 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.69 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 381792
+Number of deleted tree edges: 0
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 381792
+Root: 381792
+After repairing:
+Total execution time of all functions: 6.57546 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.57 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.70 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 554976
+Number of deleted tree edges: 2
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 554976
+Root: 554976
+After repairing:
+Total execution time of all functions: 6.56105 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.47 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.79 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 480136
+Number of deleted tree edges: 12
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 480136
+Root: 480136
+After repairing:
+Total execution time of all functions: 6.5685 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.55 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.72 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 564104
+Number of deleted tree edges: 15
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 564104
+Root: 564104
+After repairing:
+Total execution time of all functions: 6.57002 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.51 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.75 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 642081
+Number of deleted tree edges: 10
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 642081
+Root: 642081
+After repairing:
+Total execution time of all functions: 6.57214 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.50 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.76 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 501238
+Number of deleted tree edges: 14
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 501238
+Root: 501238
+After repairing:
+Total execution time of all functions: 6.56623 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.52 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.75 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: web-BerkStan.egr
+Root: 39785
+Number of deleted tree edges: 5
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 39785
+Root: 39785
+After repairing:
+Total execution time of all functions: 6.57173 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.59 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.68 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

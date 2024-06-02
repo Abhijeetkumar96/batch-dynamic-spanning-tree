@@ -1,0 +1,259 @@
+filename: GAP-road.egr
+Delete batch Size: 100000
+Depth of graph: 6262
+Total execution time of all functions: 2535.6 ms.
+
+Function execution times:
+Time of simple BFS : 1032.85 ms
+Time of Adam_BFS : 792.86 ms
+Time of PR-RST module : 620.82 ms
+Time of CC : 85.25 ms
+Time of update datastr : 3.83 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100000
+Depth of graph: 6262
+Total execution time of all functions: 2410.86 ms.
+
+Function execution times:
+Time of simple BFS : 941.23 ms
+Time of Adam_BFS : 796.72 ms
+Time of PR-RST module : 579.26 ms
+Time of CC : 89.02 ms
+Time of update datastr : 4.64 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100000
+Depth of graph: 6262
+Total execution time of all functions: 2481.18 ms.
+
+Function execution times:
+Time of simple BFS : 1027.73 ms
+Time of Adam_BFS : 790.51 ms
+Time of PR-RST module : 577.05 ms
+Time of CC : 82.30 ms
+Time of update datastr : 3.59 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100000
+Depth of graph: 6262
+Total execution time of all functions: 2554.98 ms.
+
+Function execution times:
+Time of simple BFS : 1036.20 ms
+Time of Adam_BFS : 796.91 ms
+Time of PR-RST module : 636.08 ms
+Time of CC : 82.21 ms
+Time of update datastr : 3.59 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100000
+Depth of graph: 6262
+Total execution time of all functions: 2570.56 ms.
+
+Function execution times:
+Time of simple BFS : 1048.80 ms
+Time of Adam_BFS : 797.20 ms
+Time of PR-RST module : 638.89 ms
+Time of CC : 82.08 ms
+Time of update datastr : 3.59 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2493.43 ms.
+
+Function execution times:
+Time of simple BFS : 1031.42 ms
+Time of Adam_BFS : 792.85 ms
+Time of PR-RST module : 578.08 ms
+Time of CC : 87.51 ms
+Time of update datastr : 3.57 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2399.95 ms.
+
+Function execution times:
+Time of simple BFS : 941.69 ms
+Time of Adam_BFS : 788.03 ms
+Time of PR-RST module : 577.46 ms
+Time of CC : 89.19 ms
+Time of update datastr : 3.59 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2500.67 ms.
+
+Function execution times:
+Time of simple BFS : 1040.57 ms
+Time of Adam_BFS : 795.25 ms
+Time of PR-RST module : 577.08 ms
+Time of CC : 84.11 ms
+Time of update datastr : 3.66 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2487.84 ms.
+
+Function execution times:
+Time of simple BFS : 1027.24 ms
+Time of Adam_BFS : 789.83 ms
+Time of PR-RST module : 575.65 ms
+Time of CC : 91.54 ms
+Time of update datastr : 3.58 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 10000
+Depth of graph: 6262
+Total execution time of all functions: 2501.99 ms.
+
+Function execution times:
+Time of simple BFS : 1038.51 ms
+Time of Adam_BFS : 795.85 ms
+Time of PR-RST module : 575.91 ms
+Time of CC : 87.10 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2530.45 ms.
+
+Function execution times:
+Time of simple BFS : 1066.61 ms
+Time of Adam_BFS : 795.49 ms
+Time of PR-RST module : 577.37 ms
+Time of CC : 87.41 ms
+Time of update datastr : 3.58 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2496.95 ms.
+
+Function execution times:
+Time of simple BFS : 1030.13 ms
+Time of Adam_BFS : 796.99 ms
+Time of PR-RST module : 577.48 ms
+Time of CC : 88.76 ms
+Time of update datastr : 3.59 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2547.9 ms.
+
+Function execution times:
+Time of simple BFS : 1029.64 ms
+Time of Adam_BFS : 791.90 ms
+Time of PR-RST module : 635.83 ms
+Time of CC : 85.89 ms
+Time of update datastr : 4.64 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2496.97 ms.
+
+Function execution times:
+Time of simple BFS : 1029.83 ms
+Time of Adam_BFS : 799.04 ms
+Time of PR-RST module : 576.69 ms
+Time of CC : 87.74 ms
+Time of update datastr : 3.66 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 100
+Depth of graph: 6262
+Total execution time of all functions: 2550.1 ms.
+
+Function execution times:
+Time of simple BFS : 1028.26 ms
+Time of Adam_BFS : 794.55 ms
+Time of PR-RST module : 636.71 ms
+Time of CC : 87.01 ms
+Time of update datastr : 3.57 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2544.51 ms.
+
+Function execution times:
+Time of simple BFS : 1021.82 ms
+Time of Adam_BFS : 794.73 ms
+Time of PR-RST module : 637.71 ms
+Time of CC : 85.61 ms
+Time of update datastr : 4.65 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2417.9 ms.
+
+Function execution times:
+Time of simple BFS : 939.84 ms
+Time of Adam_BFS : 804.30 ms
+Time of PR-RST module : 577.48 ms
+Time of CC : 91.65 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2587.1 ms.
+
+Function execution times:
+Time of simple BFS : 1066.69 ms
+Time of Adam_BFS : 792.37 ms
+Time of PR-RST module : 641.23 ms
+Time of CC : 82.18 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2708.8 ms.
+
+Function execution times:
+Time of simple BFS : 1173.40 ms
+Time of Adam_BFS : 803.99 ms
+Time of PR-RST module : 641.11 ms
+Time of CC : 85.67 ms
+Time of update datastr : 4.63 ms
+----------------------------------------------------------------
+
+filename: GAP-road.egr
+Delete batch Size: 1000
+Depth of graph: 6262
+Total execution time of all functions: 2564.33 ms.
+
+Function execution times:
+Time of simple BFS : 1072.91 ms
+Time of Adam_BFS : 817.98 ms
+Time of PR-RST module : 578.94 ms
+Time of CC : 91.11 ms
+Time of update datastr : 3.40 ms
+----------------------------------------------------------------

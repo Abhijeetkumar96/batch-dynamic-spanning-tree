@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+hollywood-2009.txt,100,21.715
+hollywood-2009.txt,100,25.534
+hollywood-2009.txt,100,24.067
+hollywood-2009.txt,100,22.306
+hollywood-2009.txt,100,19.012
+hollywood-2009.txt,1000,26.441
+hollywood-2009.txt,1000,26.775
+hollywood-2009.txt,1000,26.482
+hollywood-2009.txt,1000,26.253
+hollywood-2009.txt,1000,26.934
+hollywood-2009.txt,10000,26.187
+hollywood-2009.txt,10000,26.304
+hollywood-2009.txt,10000,25.094
+hollywood-2009.txt,10000,26.306
+hollywood-2009.txt,10000,30.339
+hollywood-2009.txt,100000,35.695
+hollywood-2009.txt,100000,26.058
+hollywood-2009.txt,100000,29.284
+hollywood-2009.txt,100000,26.739
+hollywood-2009.txt,100000,30.393

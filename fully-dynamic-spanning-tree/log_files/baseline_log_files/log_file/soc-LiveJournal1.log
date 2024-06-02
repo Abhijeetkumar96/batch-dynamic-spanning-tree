@@ -1,0 +1,259 @@
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100000
+Depth of graph: 1877
+Total execution time of all functions: 352.87 ms.
+
+Function execution times:
+Time of Adam_BFS : 198.16 ms
+Time of simple BFS : 80.89 ms
+Time of PR-RST module : 47.82 ms
+Time of CC : 21.13 ms
+Time of update datastr : 4.88 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100000
+Depth of graph: 1877
+Total execution time of all functions: 349.582 ms.
+
+Function execution times:
+Time of Adam_BFS : 196.61 ms
+Time of simple BFS : 82.52 ms
+Time of PR-RST module : 47.51 ms
+Time of CC : 18.09 ms
+Time of update datastr : 4.85 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100000
+Depth of graph: 1877
+Total execution time of all functions: 357.209 ms.
+
+Function execution times:
+Time of Adam_BFS : 199.12 ms
+Time of simple BFS : 82.36 ms
+Time of PR-RST module : 47.60 ms
+Time of CC : 23.28 ms
+Time of update datastr : 4.85 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100000
+Depth of graph: 1877
+Total execution time of all functions: 356.213 ms.
+
+Function execution times:
+Time of Adam_BFS : 200.11 ms
+Time of simple BFS : 81.65 ms
+Time of PR-RST module : 48.30 ms
+Time of CC : 21.31 ms
+Time of update datastr : 4.84 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100000
+Depth of graph: 1877
+Total execution time of all functions: 350.489 ms.
+
+Function execution times:
+Time of Adam_BFS : 198.05 ms
+Time of simple BFS : 82.16 ms
+Time of PR-RST module : 48.24 ms
+Time of CC : 17.20 ms
+Time of update datastr : 4.84 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 10000
+Depth of graph: 1877
+Total execution time of all functions: 349.508 ms.
+
+Function execution times:
+Time of Adam_BFS : 192.50 ms
+Time of simple BFS : 82.44 ms
+Time of PR-RST module : 47.98 ms
+Time of CC : 21.75 ms
+Time of update datastr : 4.84 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 10000
+Depth of graph: 1877
+Total execution time of all functions: 352.428 ms.
+
+Function execution times:
+Time of Adam_BFS : 198.06 ms
+Time of simple BFS : 82.55 ms
+Time of PR-RST module : 48.40 ms
+Time of CC : 18.57 ms
+Time of update datastr : 4.85 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 10000
+Depth of graph: 1877
+Total execution time of all functions: 357.118 ms.
+
+Function execution times:
+Time of Adam_BFS : 199.22 ms
+Time of simple BFS : 82.75 ms
+Time of PR-RST module : 48.33 ms
+Time of CC : 21.99 ms
+Time of update datastr : 4.84 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 10000
+Depth of graph: 1877
+Total execution time of all functions: 369.087 ms.
+
+Function execution times:
+Time of Adam_BFS : 198.38 ms
+Time of simple BFS : 99.56 ms
+Time of PR-RST module : 47.85 ms
+Time of CC : 18.42 ms
+Time of update datastr : 4.88 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 10000
+Depth of graph: 1877
+Total execution time of all functions: 363.428 ms.
+
+Function execution times:
+Time of Adam_BFS : 193.74 ms
+Time of simple BFS : 93.26 ms
+Time of PR-RST module : 48.48 ms
+Time of CC : 23.10 ms
+Time of update datastr : 4.85 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100
+Depth of graph: 1877
+Total execution time of all functions: 348.695 ms.
+
+Function execution times:
+Time of Adam_BFS : 197.62 ms
+Time of simple BFS : 82.87 ms
+Time of PR-RST module : 48.10 ms
+Time of CC : 14.20 ms
+Time of update datastr : 5.90 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100
+Depth of graph: 1877
+Total execution time of all functions: 348.682 ms.
+
+Function execution times:
+Time of Adam_BFS : 194.50 ms
+Time of simple BFS : 80.76 ms
+Time of PR-RST module : 48.65 ms
+Time of CC : 19.96 ms
+Time of update datastr : 4.80 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100
+Depth of graph: 1877
+Total execution time of all functions: 354.785 ms.
+
+Function execution times:
+Time of Adam_BFS : 199.01 ms
+Time of simple BFS : 79.54 ms
+Time of PR-RST module : 48.21 ms
+Time of CC : 23.18 ms
+Time of update datastr : 4.85 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100
+Depth of graph: 1877
+Total execution time of all functions: 352.104 ms.
+
+Function execution times:
+Time of Adam_BFS : 199.29 ms
+Time of simple BFS : 82.36 ms
+Time of PR-RST module : 48.10 ms
+Time of CC : 17.47 ms
+Time of update datastr : 4.89 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 100
+Depth of graph: 1877
+Total execution time of all functions: 349.076 ms.
+
+Function execution times:
+Time of Adam_BFS : 199.45 ms
+Time of simple BFS : 82.32 ms
+Time of PR-RST module : 48.26 ms
+Time of CC : 14.19 ms
+Time of update datastr : 4.86 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 1000
+Depth of graph: 1877
+Total execution time of all functions: 361.485 ms.
+
+Function execution times:
+Time of Adam_BFS : 200.34 ms
+Time of simple BFS : 82.41 ms
+Time of PR-RST module : 48.27 ms
+Time of CC : 25.63 ms
+Time of update datastr : 4.83 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 1000
+Depth of graph: 1877
+Total execution time of all functions: 349.792 ms.
+
+Function execution times:
+Time of Adam_BFS : 192.71 ms
+Time of simple BFS : 82.19 ms
+Time of PR-RST module : 48.76 ms
+Time of CC : 21.27 ms
+Time of update datastr : 4.86 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 1000
+Depth of graph: 1877
+Total execution time of all functions: 355.463 ms.
+
+Function execution times:
+Time of Adam_BFS : 203.54 ms
+Time of simple BFS : 79.17 ms
+Time of PR-RST module : 47.62 ms
+Time of CC : 20.28 ms
+Time of update datastr : 4.85 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 1000
+Depth of graph: 1877
+Total execution time of all functions: 357.311 ms.
+
+Function execution times:
+Time of Adam_BFS : 200.96 ms
+Time of simple BFS : 79.89 ms
+Time of PR-RST module : 48.45 ms
+Time of CC : 23.15 ms
+Time of update datastr : 4.85 ms
+----------------------------------------------------------------
+
+filename: soc-LiveJournal1.egr
+Delete batch Size: 1000
+Depth of graph: 1877
+Total execution time of all functions: 351.432 ms.
+
+Function execution times:
+Time of Adam_BFS : 193.28 ms
+Time of simple BFS : 80.17 ms
+Time of PR-RST module : 48.51 ms
+Time of CC : 24.64 ms
+Time of update datastr : 4.84 ms
+----------------------------------------------------------------

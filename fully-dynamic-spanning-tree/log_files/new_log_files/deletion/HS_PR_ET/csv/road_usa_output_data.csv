@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+road_usa.txt,100,81.111
+road_usa.txt,100,82.872
+road_usa.txt,100,85.029
+road_usa.txt,100,85.965
+road_usa.txt,100,84.546
+road_usa.txt,1000,93.54
+road_usa.txt,1000,85.637
+road_usa.txt,1000,91.393
+road_usa.txt,1000,89.003
+road_usa.txt,1000,86.639
+road_usa.txt,10000,92.086
+road_usa.txt,10000,86.494
+road_usa.txt,10000,92.462
+road_usa.txt,10000,89.422
+road_usa.txt,10000,87.54
+road_usa.txt,100000,102.374
+road_usa.txt,100000,94.951
+road_usa.txt,100000,103.708
+road_usa.txt,100000,103.002
+road_usa.txt,100000,103.227

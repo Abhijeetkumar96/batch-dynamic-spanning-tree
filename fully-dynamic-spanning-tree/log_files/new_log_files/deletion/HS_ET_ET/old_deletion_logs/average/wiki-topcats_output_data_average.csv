@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+wiki-topcats.txt,100,18.82
+wiki-topcats.txt,1000,20.68
+wiki-topcats.txt,10000,21.79
+wiki-topcats.txt,100000,26.52

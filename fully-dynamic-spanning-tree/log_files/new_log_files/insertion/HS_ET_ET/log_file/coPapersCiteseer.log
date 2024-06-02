@@ -1,0 +1,768 @@
+
+
+filename: coPapersCiteseer.egr
+Root: 241542
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7808
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 241542
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6372
+Number of cross-edges: 1437
+Insertion into hashtable over.
+num of superComponents: 7809
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6372
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6371
+Insertion into hashtable over.
+num of superComponents: 6372
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.17772 ms.
+
+Function execution times:
+Time of ET: Orientation : 1.78 ms
+Time of HS: Find Repl edges : 1.65 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.47 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 33987
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7700
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 33987
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6372
+Number of cross-edges: 1329
+Insertion into hashtable over.
+num of superComponents: 7701
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6372
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6371
+Insertion into hashtable over.
+num of superComponents: 6372
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.20002 ms.
+
+Function execution times:
+Time of ET: Orientation : 1.97 ms
+Time of HS: Find Repl edges : 1.46 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.50 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 380043
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7791
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 380043
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6372
+Number of cross-edges: 1420
+Insertion into hashtable over.
+num of superComponents: 7792
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6372
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6371
+Insertion into hashtable over.
+num of superComponents: 6372
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 6.24314 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.85 ms
+Time of HS: Find Repl edges : 1.63 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.49 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 304892
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7770
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 304892
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6372
+Number of cross-edges: 1399
+Insertion into hashtable over.
+num of superComponents: 7771
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6372
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6371
+Insertion into hashtable over.
+num of superComponents: 6372
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 6.26061 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.45 ms
+Time of HS: Find Repl edges : 2.04 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.50 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 430575
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7676
+numVert: 434102, num_edges: 32073440 and delete batch size: 100000
+
+Root: 430575
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6372
+Number of cross-edges: 1305
+Insertion into hashtable over.
+num of superComponents: 7677
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6372
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6371
+Insertion into hashtable over.
+num of superComponents: 6372
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 6.22034 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.64 ms
+Time of HS: Find Repl edges : 1.84 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.48 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 102004
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5662
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 102004
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5601
+Number of cross-edges: 62
+Insertion into hashtable over.
+num of superComponents: 5663
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5601
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5600
+Insertion into hashtable over.
+num of superComponents: 5601
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 6.54352 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.66 ms
+Time of HS: Find Repl edges : 2.13 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.48 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 313378
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6048
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 313378
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6001
+Number of cross-edges: 48
+Insertion into hashtable over.
+num of superComponents: 6049
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6000
+Insertion into hashtable over.
+num of superComponents: 6001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 7.6172 ms.
+
+Function execution times:
+Time of ET: Orientation : 3.67 ms
+Time of HS: Find Repl edges : 2.18 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.50 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 112289
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6415
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 112289
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 6372
+Number of cross-edges: 44
+Insertion into hashtable over.
+num of superComponents: 6416
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 6372
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6371
+Insertion into hashtable over.
+num of superComponents: 6372
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.51516 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.66 ms
+Time of HS: Find Repl edges : 1.08 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.51 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 164664
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4873
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 164664
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 4801
+Number of cross-edges: 73
+Insertion into hashtable over.
+num of superComponents: 4874
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 4801
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4800
+Insertion into hashtable over.
+num of superComponents: 4801
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.52273 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.12 ms
+Time of HS: Find Repl edges : 1.63 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.51 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 313113
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5272
+numVert: 434102, num_edges: 32073440 and delete batch size: 10000
+
+Root: 313113
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5201
+Number of cross-edges: 72
+Insertion into hashtable over.
+num of superComponents: 5273
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5201
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5200
+Insertion into hashtable over.
+num of superComponents: 5201
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.48821 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.57 ms
+Time of HS: Find Repl edges : 1.17 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.48 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 59836
+The input parent array is a BFS tree.
+Number of deleted tree edges: 43
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 59836
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 44
+Number of cross-edges: 0
+Input tree not connected. num_comp: 44
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 43
+Insertion into hashtable over.
+num of superComponents: 44
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.17137 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.21 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.49 ms
+Time of ET: Orientation : 0.21 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 401744
+The input parent array is a BFS tree.
+Number of deleted tree edges: 69
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 401744
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 70
+Number of cross-edges: 0
+Input tree not connected. num_comp: 70
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 69
+Insertion into hashtable over.
+num of superComponents: 70
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.83255 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.86 ms
+Time of Eulerian Tour : 0.50 ms
+Time of ET: Orientation : 0.21 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 168785
+The input parent array is a BFS tree.
+Number of deleted tree edges: 43
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 168785
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 44
+Number of cross-edges: 0
+Input tree not connected. num_comp: 44
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 43
+Insertion into hashtable over.
+num of superComponents: 44
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.58504 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of HS: Find Repl edges : 0.62 ms
+Time of Eulerian Tour : 0.48 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 177879
+The input parent array is a BFS tree.
+Number of deleted tree edges: 57
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 177879
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 57
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 58
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 57
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 56
+Insertion into hashtable over.
+num of superComponents: 57
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.111 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.15 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.50 ms
+Time of Pointer Jumping : 0.21 ms
+Time of ET: Orientation : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 189783
+The input parent array is a BFS tree.
+Number of deleted tree edges: 53
+numVert: 434102, num_edges: 32073440 and delete batch size: 100
+
+Root: 189783
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 54
+Number of cross-edges: 0
+Input tree not connected. num_comp: 54
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 53
+Insertion into hashtable over.
+num of superComponents: 54
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.74422 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.79 ms
+Time of Eulerian Tour : 0.48 ms
+Time of Pointer Jumping : 0.21 ms
+Time of ET: Orientation : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 125463
+The input parent array is a BFS tree.
+Number of deleted tree edges: 616
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 125463
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 611
+Number of cross-edges: 6
+Insertion into hashtable over.
+num of superComponents: 617
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 611
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 610
+Insertion into hashtable over.
+num of superComponents: 611
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.10583 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.12 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.50 ms
+Time of ET: Orientation : 0.23 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 328265
+The input parent array is a BFS tree.
+Number of deleted tree edges: 460
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 328265
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 451
+Number of cross-edges: 10
+Insertion into hashtable over.
+num of superComponents: 461
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 451
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 450
+Insertion into hashtable over.
+num of superComponents: 451
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.71421 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.72 ms
+Time of Eulerian Tour : 0.51 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 80514
+The input parent array is a BFS tree.
+Number of deleted tree edges: 694
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 80514
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 691
+Number of cross-edges: 4
+Insertion into hashtable over.
+num of superComponents: 695
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 691
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 690
+Insertion into hashtable over.
+num of superComponents: 691
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.38273 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.41 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.48 ms
+Time of ET: Orientation : 0.23 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 275704
+The input parent array is a BFS tree.
+Number of deleted tree edges: 489
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 275704
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 481
+Number of cross-edges: 9
+Insertion into hashtable over.
+num of superComponents: 490
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 481
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 480
+Insertion into hashtable over.
+num of superComponents: 481
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.1461 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.19 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.49 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: coPapersCiteseer.egr
+Root: 77725
+The input parent array is a BFS tree.
+Number of deleted tree edges: 517
+numVert: 434102, num_edges: 32073440 and delete batch size: 1000
+
+Root: 77725
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 511
+Number of cross-edges: 7
+Insertion into hashtable over.
+num of superComponents: 518
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 511
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 510
+Insertion into hashtable over.
+num of superComponents: 511
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.00626 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.05 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.48 ms
+Time of ET: Orientation : 0.22 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1

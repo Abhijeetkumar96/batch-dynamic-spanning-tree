@@ -1,0 +1,580 @@
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 6.397000 ms 
+Time of (18)PR Loop : 5.79300 ms 
+Time of (6)Edge Deletion : 2.32200 ms 
+Time of (4)Multi component Euler tour internal  : 1.00600 ms 
+Time of (1)Get key rem collections : 0.60500 ms 
+Time of (9)Get key rem collections : 0.59000 ms 
+Time of (15)Transedges prefix : 0.57300 ms 
+Time of (8)Generate new edges : 0.52200 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42600 ms 
+Time of (5)Retrieving back first and last times  : 0.39400 ms 
+Time of (2)Convert to collection : 0.36800 ms 
+Time of (10)Convert to collection : 0.36600 ms 
+Time of (7)Remove edges : 0.32600 ms 
+Time of (19)Component Parent, Reversals : 0.23500 ms 
+Time of (11)Shortcut rep : 0.18200 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 20.30300 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 3.850000 ms 
+Time of (18)PR Loop : 2.71600 ms 
+Time of (6)Edge Deletion : 2.29100 ms 
+Time of (4)Multi component Euler tour internal  : 1.00200 ms 
+Time of (15)Transedges prefix : 0.63200 ms 
+Time of (9)Get key rem collections : 0.58400 ms 
+Time of (1)Get key rem collections : 0.57400 ms 
+Time of (8)Generate new edges : 0.52200 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.43300 ms 
+Time of (5)Retrieving back first and last times  : 0.38900 ms 
+Time of (10)Convert to collection : 0.36500 ms 
+Time of (2)Convert to collection : 0.36500 ms 
+Time of (7)Remove edges : 0.29100 ms 
+Time of (19)Component Parent, Reversals : 0.23100 ms 
+Time of (11)Shortcut rep : 0.18100 ms 
+Time of (0)Extracting Roots : 0.07700 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03500 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 14.62200 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100000
+Time of (18)PR Loop : 5.770000 ms 
+Time of (12)Hooking Shortcutting : 3.09800 ms 
+Time of (6)Edge Deletion : 2.28200 ms 
+Time of (4)Multi component Euler tour internal  : 0.96000 ms 
+Time of (9)Get key rem collections : 0.63900 ms 
+Time of (15)Transedges prefix : 0.57000 ms 
+Time of (1)Get key rem collections : 0.56800 ms 
+Time of (8)Generate new edges : 0.52100 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42900 ms 
+Time of (5)Retrieving back first and last times  : 0.39600 ms 
+Time of (2)Convert to collection : 0.36700 ms 
+Time of (10)Convert to collection : 0.36600 ms 
+Time of (7)Remove edges : 0.33600 ms 
+Time of (19)Component Parent, Reversals : 0.23500 ms 
+Time of (11)Shortcut rep : 0.18000 ms 
+Time of (0)Extracting Roots : 0.07700 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 16.91300 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100000
+Time of (18)PR Loop : 4.554000 ms 
+Time of (12)Hooking Shortcutting : 3.85700 ms 
+Time of (6)Edge Deletion : 2.29600 ms 
+Time of (4)Multi component Euler tour internal  : 0.95000 ms 
+Time of (15)Transedges prefix : 0.59200 ms 
+Time of (9)Get key rem collections : 0.58700 ms 
+Time of (1)Get key rem collections : 0.57400 ms 
+Time of (8)Generate new edges : 0.52100 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42900 ms 
+Time of (5)Retrieving back first and last times  : 0.39600 ms 
+Time of (2)Convert to collection : 0.36700 ms 
+Time of (10)Convert to collection : 0.36600 ms 
+Time of (7)Remove edges : 0.29300 ms 
+Time of (19)Component Parent, Reversals : 0.23400 ms 
+Time of (11)Shortcut rep : 0.18100 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 16.39400 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 5.895000 ms 
+Time of (18)PR Loop : 2.73500 ms 
+Time of (6)Edge Deletion : 2.28700 ms 
+Time of (4)Multi component Euler tour internal  : 0.96000 ms 
+Time of (9)Get key rem collections : 0.64500 ms 
+Time of (1)Get key rem collections : 0.58100 ms 
+Time of (15)Transedges prefix : 0.57300 ms 
+Time of (8)Generate new edges : 0.52300 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42500 ms 
+Time of (5)Retrieving back first and last times  : 0.39300 ms 
+Time of (10)Convert to collection : 0.36900 ms 
+Time of (2)Convert to collection : 0.36700 ms 
+Time of (7)Remove edges : 0.32700 ms 
+Time of (19)Component Parent, Reversals : 0.23500 ms 
+Time of (11)Shortcut rep : 0.19200 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 16.70400 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 10000
+Time of (6)Edge Deletion : 2.093000 ms 
+Time of (12)Hooking Shortcutting : 1.97300 ms 
+Time of (18)PR Loop : 1.47200 ms 
+Time of (4)Multi component Euler tour internal  : 0.95100 ms 
+Time of (9)Get key rem collections : 0.64700 ms 
+Time of (15)Transedges prefix : 0.64300 ms 
+Time of (1)Get key rem collections : 0.56600 ms 
+Time of (8)Generate new edges : 0.52300 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.43000 ms 
+Time of (5)Retrieving back first and last times  : 0.39400 ms 
+Time of (7)Remove edges : 0.37600 ms 
+Time of (10)Convert to collection : 0.36700 ms 
+Time of (2)Convert to collection : 0.36500 ms 
+Time of (19)Component Parent, Reversals : 0.23100 ms 
+Time of (11)Shortcut rep : 0.19500 ms 
+Time of (0)Extracting Roots : 0.08600 ms 
+Time of (13)Compress Graph : 0.06100 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 11.43200 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 2.946000 ms 
+Time of (6)Edge Deletion : 2.11200 ms 
+Time of (18)PR Loop : 1.48800 ms 
+Time of (4)Multi component Euler tour internal  : 0.99600 ms 
+Time of (15)Transedges prefix : 0.62700 ms 
+Time of (1)Get key rem collections : 0.59700 ms 
+Time of (9)Get key rem collections : 0.57800 ms 
+Time of (8)Generate new edges : 0.52200 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42700 ms 
+Time of (5)Retrieving back first and last times  : 0.39000 ms 
+Time of (2)Convert to collection : 0.37000 ms 
+Time of (10)Convert to collection : 0.36900 ms 
+Time of (7)Remove edges : 0.28800 ms 
+Time of (19)Component Parent, Reversals : 0.23500 ms 
+Time of (11)Shortcut rep : 0.17900 ms 
+Time of (0)Extracting Roots : 0.07500 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01700 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 12.31900 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 10000
+Time of (6)Edge Deletion : 2.106000 ms 
+Time of (12)Hooking Shortcutting : 1.94700 ms 
+Time of (18)PR Loop : 1.05000 ms 
+Time of (4)Multi component Euler tour internal  : 0.96000 ms 
+Time of (1)Get key rem collections : 0.67000 ms 
+Time of (15)Transedges prefix : 0.66200 ms 
+Time of (9)Get key rem collections : 0.63400 ms 
+Time of (8)Generate new edges : 0.52200 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.40300 ms 
+Time of (5)Retrieving back first and last times  : 0.40000 ms 
+Time of (10)Convert to collection : 0.36800 ms 
+Time of (2)Convert to collection : 0.36700 ms 
+Time of (7)Remove edges : 0.29700 ms 
+Time of (19)Component Parent, Reversals : 0.23400 ms 
+Time of (11)Shortcut rep : 0.18400 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 11.00200 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 2.420000 ms 
+Time of (6)Edge Deletion : 2.11600 ms 
+Time of (18)PR Loop : 1.49700 ms 
+Time of (4)Multi component Euler tour internal  : 0.95400 ms 
+Time of (15)Transedges prefix : 0.65700 ms 
+Time of (9)Get key rem collections : 0.63400 ms 
+Time of (1)Get key rem collections : 0.60300 ms 
+Time of (8)Generate new edges : 0.52300 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42400 ms 
+Time of (5)Retrieving back first and last times  : 0.39600 ms 
+Time of (10)Convert to collection : 0.37000 ms 
+Time of (2)Convert to collection : 0.36800 ms 
+Time of (7)Remove edges : 0.27800 ms 
+Time of (19)Component Parent, Reversals : 0.23400 ms 
+Time of (11)Shortcut rep : 0.21400 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 11.88700 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 2.976000 ms 
+Time of (6)Edge Deletion : 2.10500 ms 
+Time of (18)PR Loop : 1.49400 ms 
+Time of (4)Multi component Euler tour internal  : 0.97000 ms 
+Time of (15)Transedges prefix : 0.68100 ms 
+Time of (9)Get key rem collections : 0.60200 ms 
+Time of (1)Get key rem collections : 0.56700 ms 
+Time of (8)Generate new edges : 0.52300 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.41700 ms 
+Time of (5)Retrieving back first and last times  : 0.40200 ms 
+Time of (10)Convert to collection : 0.36900 ms 
+Time of (2)Convert to collection : 0.36800 ms 
+Time of (7)Remove edges : 0.29500 ms 
+Time of (19)Component Parent, Reversals : 0.23400 ms 
+Time of (11)Shortcut rep : 0.18300 ms 
+Time of (0)Extracting Roots : 0.07600 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 12.38000 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100
+Time of (6)Edge Deletion : 2.071000 ms 
+Time of (4)Multi component Euler tour internal  : 0.99000 ms 
+Time of (12)Hooking Shortcutting : 0.95900 ms 
+Time of (15)Transedges prefix : 0.63700 ms 
+Time of (9)Get key rem collections : 0.61300 ms 
+Time of (1)Get key rem collections : 0.57200 ms 
+Time of (8)Generate new edges : 0.52100 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42400 ms 
+Time of (5)Retrieving back first and last times  : 0.39700 ms 
+Time of (10)Convert to collection : 0.36700 ms 
+Time of (2)Convert to collection : 0.36400 ms 
+Time of (7)Remove edges : 0.28500 ms 
+Time of (18)PR Loop : 0.26300 ms 
+Time of (19)Component Parent, Reversals : 0.23200 ms 
+Time of (11)Shortcut rep : 0.21800 ms 
+Time of (0)Extracting Roots : 0.08100 ms 
+Time of (13)Compress Graph : 0.06000 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 9.11500 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100
+Time of (6)Edge Deletion : 2.103000 ms 
+Time of (4)Multi component Euler tour internal  : 0.98100 ms 
+Time of (12)Hooking Shortcutting : 0.96100 ms 
+Time of (9)Get key rem collections : 0.64300 ms 
+Time of (15)Transedges prefix : 0.59700 ms 
+Time of (1)Get key rem collections : 0.58100 ms 
+Time of (8)Generate new edges : 0.52300 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.41100 ms 
+Time of (5)Retrieving back first and last times  : 0.39600 ms 
+Time of (10)Convert to collection : 0.37000 ms 
+Time of (2)Convert to collection : 0.36500 ms 
+Time of (7)Remove edges : 0.33100 ms 
+Time of (18)PR Loop : 0.27000 ms 
+Time of (19)Component Parent, Reversals : 0.23100 ms 
+Time of (11)Shortcut rep : 0.21600 ms 
+Time of (0)Extracting Roots : 0.07700 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (3)Processing for multi component Euler tour : 0.03500 ms 
+Time of (17)PR init : 0.01300 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 9.16900 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100
+Time of (6)Edge Deletion : 2.076000 ms 
+Time of (4)Multi component Euler tour internal  : 0.96200 ms 
+Time of (12)Hooking Shortcutting : 0.95700 ms 
+Time of (9)Get key rem collections : 0.59200 ms 
+Time of (15)Transedges prefix : 0.57400 ms 
+Time of (1)Get key rem collections : 0.57200 ms 
+Time of (8)Generate new edges : 0.52100 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.40500 ms 
+Time of (5)Retrieving back first and last times  : 0.38900 ms 
+Time of (10)Convert to collection : 0.36700 ms 
+Time of (2)Convert to collection : 0.36500 ms 
+Time of (7)Remove edges : 0.27800 ms 
+Time of (18)PR Loop : 0.26800 ms 
+Time of (19)Component Parent, Reversals : 0.23100 ms 
+Time of (11)Shortcut rep : 0.18100 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 8.93400 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100
+Time of (6)Edge Deletion : 2.097000 ms 
+Time of (12)Hooking Shortcutting : 0.95800 ms 
+Time of (4)Multi component Euler tour internal  : 0.95100 ms 
+Time of (1)Get key rem collections : 0.64400 ms 
+Time of (9)Get key rem collections : 0.63300 ms 
+Time of (15)Transedges prefix : 0.56600 ms 
+Time of (8)Generate new edges : 0.52200 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.40400 ms 
+Time of (5)Retrieving back first and last times  : 0.39000 ms 
+Time of (10)Convert to collection : 0.36900 ms 
+Time of (2)Convert to collection : 0.36800 ms 
+Time of (7)Remove edges : 0.34300 ms 
+Time of (18)PR Loop : 0.27400 ms 
+Time of (19)Component Parent, Reversals : 0.24000 ms 
+Time of (11)Shortcut rep : 0.21100 ms 
+Time of (0)Extracting Roots : 0.09100 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 9.17800 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 100
+Time of (6)Edge Deletion : 2.065000 ms 
+Time of (12)Hooking Shortcutting : 1.43800 ms 
+Time of (4)Multi component Euler tour internal  : 0.94900 ms 
+Time of (1)Get key rem collections : 0.59400 ms 
+Time of (15)Transedges prefix : 0.57500 ms 
+Time of (9)Get key rem collections : 0.57500 ms 
+Time of (8)Generate new edges : 0.52400 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.40500 ms 
+Time of (5)Retrieving back first and last times  : 0.39400 ms 
+Time of (10)Convert to collection : 0.37200 ms 
+Time of (2)Convert to collection : 0.36700 ms 
+Time of (18)PR Loop : 0.31700 ms 
+Time of (7)Remove edges : 0.27700 ms 
+Time of (19)Component Parent, Reversals : 0.23400 ms 
+Time of (11)Shortcut rep : 0.21300 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (13)Compress Graph : 0.05800 ms 
+Time of (3)Processing for multi component Euler tour : 0.03500 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 9.49400 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 1000
+Time of (6)Edge Deletion : 2.088000 ms 
+Time of (12)Hooking Shortcutting : 1.93700 ms 
+Time of (4)Multi component Euler tour internal  : 0.96200 ms 
+Time of (9)Get key rem collections : 0.61900 ms 
+Time of (15)Transedges prefix : 0.56500 ms 
+Time of (1)Get key rem collections : 0.56300 ms 
+Time of (8)Generate new edges : 0.52400 ms 
+Time of (18)PR Loop : 0.46000 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.42000 ms 
+Time of (5)Retrieving back first and last times  : 0.39100 ms 
+Time of (10)Convert to collection : 0.37000 ms 
+Time of (2)Convert to collection : 0.36600 ms 
+Time of (7)Remove edges : 0.28100 ms 
+Time of (19)Component Parent, Reversals : 0.23100 ms 
+Time of (11)Shortcut rep : 0.21500 ms 
+Time of (0)Extracting Roots : 0.07700 ms 
+Time of (13)Compress Graph : 0.05900 ms 
+Time of (3)Processing for multi component Euler tour : 0.03500 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 10.18900 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 1000
+Time of (6)Edge Deletion : 2.111000 ms 
+Time of (12)Hooking Shortcutting : 1.89200 ms 
+Time of (4)Multi component Euler tour internal  : 0.95300 ms 
+Time of (15)Transedges prefix : 0.63700 ms 
+Time of (1)Get key rem collections : 0.57200 ms 
+Time of (9)Get key rem collections : 0.57100 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.53600 ms 
+Time of (8)Generate new edges : 0.52400 ms 
+Time of (18)PR Loop : 0.46500 ms 
+Time of (5)Retrieving back first and last times  : 0.39500 ms 
+Time of (10)Convert to collection : 0.36700 ms 
+Time of (2)Convert to collection : 0.36600 ms 
+Time of (7)Remove edges : 0.29400 ms 
+Time of (19)Component Parent, Reversals : 0.26500 ms 
+Time of (11)Shortcut rep : 0.18300 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (13)Compress Graph : 0.06500 ms 
+Time of (3)Processing for multi component Euler tour : 0.03500 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 10.33400 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 1000
+Time of (6)Edge Deletion : 2.103000 ms 
+Time of (12)Hooking Shortcutting : 1.92400 ms 
+Time of (4)Multi component Euler tour internal  : 0.95200 ms 
+Time of (1)Get key rem collections : 0.63400 ms 
+Time of (15)Transedges prefix : 0.59200 ms 
+Time of (9)Get key rem collections : 0.57300 ms 
+Time of (8)Generate new edges : 0.52200 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.41400 ms 
+Time of (18)PR Loop : 0.41300 ms 
+Time of (5)Retrieving back first and last times  : 0.39500 ms 
+Time of (10)Convert to collection : 0.36800 ms 
+Time of (2)Convert to collection : 0.36700 ms 
+Time of (7)Remove edges : 0.28300 ms 
+Time of (19)Component Parent, Reversals : 0.23800 ms 
+Time of (11)Shortcut rep : 0.18300 ms 
+Time of (0)Extracting Roots : 0.07800 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01700 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 10.15800 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 1000
+Time of (6)Edge Deletion : 2.157000 ms 
+Time of (12)Hooking Shortcutting : 1.89900 ms 
+Time of (4)Multi component Euler tour internal  : 0.99000 ms 
+Time of (9)Get key rem collections : 0.57900 ms 
+Time of (1)Get key rem collections : 0.56700 ms 
+Time of (15)Transedges prefix : 0.56100 ms 
+Time of (8)Generate new edges : 0.52100 ms 
+Time of (18)PR Loop : 0.47100 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.41800 ms 
+Time of (5)Retrieving back first and last times  : 0.39500 ms 
+Time of (10)Convert to collection : 0.36900 ms 
+Time of (2)Convert to collection : 0.36500 ms 
+Time of (7)Remove edges : 0.27500 ms 
+Time of (19)Component Parent, Reversals : 0.23000 ms 
+Time of (11)Shortcut rep : 0.18100 ms 
+Time of (0)Extracting Roots : 0.07900 ms 
+Time of (13)Compress Graph : 0.07200 ms 
+Time of (3)Processing for multi component Euler tour : 0.03600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time of (14)Get compressed list : 0.00400 ms 
+Time (total): 10.18700 ms 
+--------------------------------------------------------
+filename: coPapersCiteseer.txt
+Nodes : 434102
+Edges : 16036720
+
+------------------------------------------------------
+Deleted : 1000
+Time of (6)Edge Deletion : 2.106000 ms 
+Time of (12)Hooking Shortcutting : 1.89200 ms 
+Time of (4)Multi component Euler tour internal  : 0.95800 ms 
+Time of (1)Get key rem collections : 0.60500 ms 
+Time of (9)Get key rem collections : 0.60000 ms 
+Time of (15)Transedges prefix : 0.57300 ms 
+Time of (8)Generate new edges : 0.52200 ms 
+Time of (18)PR Loop : 0.46500 ms 
+Time of (20)Reverse Edges and Connect Parent : 0.41600 ms 
+Time of (5)Retrieving back first and last times  : 0.40200 ms 
+Time of (10)Convert to collection : 0.37000 ms 
+Time of (2)Convert to collection : 0.36800 ms 
+Time of (7)Remove edges : 0.28000 ms 
+Time of (19)Component Parent, Reversals : 0.23300 ms 
+Time of (11)Shortcut rep : 0.21500 ms 
+Time of (0)Extracting Roots : 0.07700 ms 
+Time of (13)Compress Graph : 0.05700 ms 
+Time of (3)Processing for multi component Euler tour : 0.03700 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 10.20100 ms 
+--------------------------------------------------------

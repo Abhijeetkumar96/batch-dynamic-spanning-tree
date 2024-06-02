@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+road_usa.txt,100,83.9
+road_usa.txt,1000,89.24
+road_usa.txt,10000,89.6
+road_usa.txt,100000,101.45

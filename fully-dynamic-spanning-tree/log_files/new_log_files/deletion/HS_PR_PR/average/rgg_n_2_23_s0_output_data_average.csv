@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+rgg_n_2_23_s0.txt,100,50.09
+rgg_n_2_23_s0.txt,1000,50.18
+rgg_n_2_23_s0.txt,10000,57.05
+rgg_n_2_23_s0.txt,100000,71.03

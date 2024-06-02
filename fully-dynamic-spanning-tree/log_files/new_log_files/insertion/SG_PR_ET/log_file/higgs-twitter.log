@@ -1,0 +1,420 @@
+
+
+filename: higgs-twitter.egr
+Root: 117387
+Number of deleted tree edges: 2581
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 117387
+Root: 117387
+After repairing:
+Total execution time of all functions: 7.61379 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.05 ms
+Time of Super graph Creation : 2.28 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 167180
+Number of deleted tree edges: 2802
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 167180
+Root: 167180
+After repairing:
+Total execution time of all functions: 7.61176 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.00 ms
+Time of Super graph Creation : 2.33 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 358802
+Number of deleted tree edges: 2587
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 358802
+Root: 358802
+After repairing:
+Total execution time of all functions: 7.60965 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.95 ms
+Time of Super graph Creation : 2.38 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 396198
+Number of deleted tree edges: 2716
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 396198
+Root: 396198
+After repairing:
+Total execution time of all functions: 7.6119 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.03 ms
+Time of Super graph Creation : 2.30 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 134538
+Number of deleted tree edges: 2640
+numVert: 456626, num_edges: 25017136 and delete batch size: 100000
+
+Root: 134538
+Root: 134538
+After repairing:
+Total execution time of all functions: 7.60871 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.94 ms
+Time of Super graph Creation : 2.39 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 154653
+Number of deleted tree edges: 265
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 154653
+Root: 154653
+After repairing:
+Total execution time of all functions: 7.60753 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.02 ms
+Time of Super graph Creation : 2.30 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 414907
+Number of deleted tree edges: 263
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 414907
+Root: 414907
+After repairing:
+Total execution time of all functions: 7.60324 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.94 ms
+Time of Super graph Creation : 2.38 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 344230
+Number of deleted tree edges: 244
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 344230
+Root: 344230
+After repairing:
+Total execution time of all functions: 7.60222 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.98 ms
+Time of Super graph Creation : 2.33 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 67842
+Number of deleted tree edges: 288
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 67842
+Root: 67842
+After repairing:
+Total execution time of all functions: 7.60961 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.00 ms
+Time of Super graph Creation : 2.32 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 149203
+Number of deleted tree edges: 262
+numVert: 456626, num_edges: 25017136 and delete batch size: 10000
+
+Root: 149203
+Root: 149203
+After repairing:
+Total execution time of all functions: 7.6007 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.96 ms
+Time of Super graph Creation : 2.36 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 436463
+Number of deleted tree edges: 3
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 436463
+Root: 436463
+After repairing:
+Total execution time of all functions: 5.49218 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.96 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.25 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 17571
+Number of deleted tree edges: 2
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 17571
+Root: 17571
+After repairing:
+Total execution time of all functions: 5.49791 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.01 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Super graph Creation : 0.20 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 122527
+Number of deleted tree edges: 2
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 122527
+Root: 122527
+After repairing:
+Total execution time of all functions: 5.48984 ms.
+
+Function execution times:
+Time of Eulerian Tour : 3.98 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.23 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 260199
+Number of deleted tree edges: 4
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 260199
+Root: 260199
+After repairing:
+Total execution time of all functions: 6.54014 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.02 ms
+Time of Super graph Creation : 1.23 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 450126
+Number of deleted tree edges: 1
+numVert: 456626, num_edges: 25017136 and delete batch size: 100
+
+Root: 450126
+Root: 450126
+After repairing:
+Total execution time of all functions: 5.48736 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.00 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.21 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 418585
+Number of deleted tree edges: 22
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 418585
+Root: 418585
+After repairing:
+Total execution time of all functions: 6.54688 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.14 ms
+Time of Super graph Creation : 1.13 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 326774
+Number of deleted tree edges: 19
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 326774
+Root: 326774
+After repairing:
+Total execution time of all functions: 6.54277 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.01 ms
+Time of Super graph Creation : 1.24 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 155620
+Number of deleted tree edges: 18
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 155620
+Root: 155620
+After repairing:
+Total execution time of all functions: 6.5449 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.06 ms
+Time of Super graph Creation : 1.20 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 144489
+Number of deleted tree edges: 24
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 144489
+Root: 144489
+After repairing:
+Total execution time of all functions: 6.54216 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.05 ms
+Time of Super graph Creation : 1.20 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: higgs-twitter.egr
+Root: 309493
+Number of deleted tree edges: 36
+numVert: 456626, num_edges: 25017136 and delete batch size: 1000
+
+Root: 309493
+Root: 309493
+After repairing:
+Total execution time of all functions: 6.54122 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.14 ms
+Time of Super graph Creation : 1.12 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.21 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

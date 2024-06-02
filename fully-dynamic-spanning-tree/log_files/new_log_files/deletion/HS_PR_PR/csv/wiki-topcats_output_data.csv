@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+wiki-topcats.txt,100,18.366
+wiki-topcats.txt,100,18.414
+wiki-topcats.txt,100,16.421
+wiki-topcats.txt,100,18.474
+wiki-topcats.txt,100,18.269
+wiki-topcats.txt,1000,18.949
+wiki-topcats.txt,1000,19.246
+wiki-topcats.txt,1000,19.936
+wiki-topcats.txt,1000,18.582
+wiki-topcats.txt,1000,19.537
+wiki-topcats.txt,10000,24.337
+wiki-topcats.txt,10000,19.928
+wiki-topcats.txt,10000,24.159
+wiki-topcats.txt,10000,18.924
+wiki-topcats.txt,10000,19.502
+wiki-topcats.txt,100000,30.251
+wiki-topcats.txt,100000,27.735
+wiki-topcats.txt,100000,26.798
+wiki-topcats.txt,100000,28.912
+wiki-topcats.txt,100000,27.502

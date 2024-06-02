@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+as-Skitter.egr,1696415,22192106,100,54.2,5.34
+as-Skitter.egr,1696415,22192106,1000,544.4,6.17
+as-Skitter.egr,1696415,22192106,10000,5681.4,10.03
+as-Skitter.egr,1696415,22192106,100000,57249.2,11.54

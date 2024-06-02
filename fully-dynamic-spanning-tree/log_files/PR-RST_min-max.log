@@ -1,0 +1,305 @@
+==> arabic-2005.log <==
+No. of vertices = 22744080
+No. of edges = 1107807202
+Reading input
+Input reading done
+log2(n) = 24.439
+Number of iterations taken: 15
+Duration in milliseconds: 1137ms
+
+==> as-Skitter.log <==
+No. of vertices = 1696415
+No. of edges = 22192106
+Reading input
+Input reading done
+log2(n) = 20.6941
+Number of iterations taken: 2
+Duration in milliseconds: 9ms
+
+==> com-Orkut.log <==
+No. of vertices = 3072441
+No. of edges = 234370166
+Reading input
+Input reading done
+log2(n) = 21.551
+Number of iterations taken: 2
+Duration in milliseconds: 46ms
+
+==> coPapersCiteseer.log <==
+No. of vertices = 434102
+No. of edges = 32073440
+Reading input
+Input reading done
+log2(n) = 18.7277
+Number of iterations taken: 11
+Duration in milliseconds: 28ms
+
+==> coPapersDBLP.log <==
+No. of vertices = 540486
+No. of edges = 30491458
+Reading input
+Input reading done
+log2(n) = 19.0439
+Number of iterations taken: 15
+Duration in milliseconds: 40ms
+
+==> delaunay_n24.log <==
+No. of vertices = 16777216
+No. of edges = 100663202
+Reading input
+Input reading done
+log2(n) = 24
+Number of iterations taken: 14
+Duration in milliseconds: 633ms
+
+==> eu-2005.log <==
+No. of vertices = 862664
+No. of edges = 32276936
+Reading input
+Input reading done
+log2(n) = 19.7184
+Number of iterations taken: 7
+Duration in milliseconds: 22ms
+
+==> europe_osm.log <==
+No. of vertices = 50912018
+No. of edges = 108109320
+Reading input
+Input reading done
+log2(n) = 25.6015
+Number of iterations taken: 17
+Duration in milliseconds: 2512ms
+
+==> GAP-road.log <==
+No. of vertices = 23947347
+No. of edges = 57708624
+Reading input
+Input reading done
+log2(n) = 24.5134
+Number of iterations taken: 20
+Duration in milliseconds: 1347ms
+
+==> germany_osm.log <==
+No. of vertices = 11548845
+No. of edges = 24738362
+Reading input
+Input reading done
+log2(n) = 23.4612
+Number of iterations taken: 15
+Duration in milliseconds: 461ms
+
+==> higgs-twitter.log <==
+No. of vertices = 456626
+No. of edges = 25017136
+Reading input
+Input reading done
+log2(n) = 18.8007
+Number of iterations taken: 14
+Duration in milliseconds: 36ms
+
+==> hollywood-2009.log <==
+No. of vertices = 1139905
+No. of edges = 112840436
+Reading input
+Input reading done
+log2(n) = 20.1205
+Number of iterations taken: 14
+Duration in milliseconds: 90ms
+
+==> hugebubbles-00020.log <==
+No. of vertices = 21198119
+No. of edges = 63580358
+Reading input
+Input reading done
+log2(n) = 24.3374
+Number of iterations taken: 22
+Duration in milliseconds: 1258ms
+
+==> in-2004.log <==
+No. of vertices = 1382908
+No. of edges = 27183212
+Reading input
+Input reading done
+log2(n) = 20.3993
+Number of iterations taken: 14
+Duration in milliseconds: 63ms
+
+==> indochina-2004.log <==
+No. of vertices = 7414866
+No. of edges = 301970226
+Reading input
+Input reading done
+log2(n) = 22.822
+Number of iterations taken: 14
+Duration in milliseconds: 332ms
+
+==> kmer_A2a.log <==
+No. of vertices = 170728175
+No. of edges = 360595876
+Reading input
+Input reading done
+log2(n) = 27.3471
+Number of iterations taken: 28
+Duration in milliseconds: 16238ms
+
+==> kmer_P1a.log <==
+No. of vertices = 139353211
+No. of edges = 297845870
+Reading input
+Input reading done
+log2(n) = 27.0542
+Number of iterations taken: 21
+Duration in milliseconds: 10111ms
+
+==> kmer_U1a.log <==
+No. of vertices = 67716231
+No. of edges = 138866824
+Reading input
+Input reading done
+log2(n) = 26.013
+Number of iterations taken: 19
+Duration in milliseconds: 4255ms
+
+==> kmer_V1r.log <==
+No. of vertices = 214005017
+No. of edges = 465410920
+Reading input
+Input reading done
+log2(n) = 27.6731
+Number of iterations taken: 16
+Duration in milliseconds: 11485ms
+
+==> kmer_V2a.log <==
+No. of vertices = 55042369
+No. of edges = 117248284
+Reading input
+Input reading done
+log2(n) = 25.714
+Number of iterations taken: 25
+Duration in milliseconds: 4190ms
+
+==> kron_g500-logn18.log <==
+No. of vertices = 262144
+No. of edges = 21269364
+Reading input
+Input reading done
+log2(n) = 18
+Number of iterations taken: 13
+Duration in milliseconds: 29ms
+
+==> kron_g500-logn19.log <==
+No. of vertices = 524288
+No. of edges = 43791852
+Reading input
+Input reading done
+log2(n) = 19
+Number of iterations taken: 14
+Duration in milliseconds: 57ms
+
+==> kron_g500-logn20.log <==
+No. of vertices = 1048576
+No. of edges = 89745562
+Reading input
+Input reading done
+log2(n) = 20
+Number of iterations taken: 13
+Duration in milliseconds: 97ms
+
+==> kron_g500-logn21.log <==
+No. of vertices = 2097152
+No. of edges = 183188180
+Reading input
+Input reading done
+log2(n) = 21
+Number of iterations taken: 16
+Duration in milliseconds: 192ms
+
+==> ljournal-2008.log <==
+No. of vertices = 5363260
+No. of edges = 99028690
+Reading input
+Input reading done
+log2(n) = 22.3547
+Number of iterations taken: 12
+Duration in milliseconds: 226ms
+
+==> rgg_n_2_23_s0.log <==
+No. of vertices = 8388608
+No. of edges = 127002794
+Reading input
+Input reading done
+log2(n) = 23
+Number of iterations taken: 10
+Duration in milliseconds: 263ms
+
+==> rgg_n_2_24_s0.log <==
+No. of vertices = 16777216
+No. of edges = 265114402
+Reading input
+Input reading done
+log2(n) = 24
+Number of iterations taken: 11
+Duration in milliseconds: 556ms
+
+==> road_usa.log <==
+No. of vertices = 23947347
+No. of edges = 57708624
+Reading input
+Input reading done
+log2(n) = 24.5134
+Number of iterations taken: 19
+Duration in milliseconds: 1296ms
+
+==> soc-LiveJournal1.log <==
+No. of vertices = 4847571
+No. of edges = 85706224
+Reading input
+Input reading done
+log2(n) = 22.2088
+Number of iterations taken: 6
+Duration in milliseconds: 109ms
+
+==> sx-stackoverflow.log <==
+No. of vertices = 2601977
+No. of edges = 56414194
+Reading input
+Input reading done
+log2(n) = 21.3112
+Number of iterations taken: 10
+Duration in milliseconds: 103ms
+
+==> uk-2002.log <==
+No. of vertices = 18520486
+No. of edges = 523651232
+Reading input
+Input reading done
+log2(n) = 24.1426
+Number of iterations taken: 14
+Duration in milliseconds: 845ms
+
+==> uk-2005.log <==
+No. of vertices = 39459925
+No. of edges = 1566080060
+Reading input
+Input reading done
+log2(n) = 25.2339
+Number of iterations taken: 16
+Duration in milliseconds: 2130ms
+
+==> web-BerkStan.log <==
+No. of vertices = 685230
+No. of edges = 13300290
+Reading input
+Input reading done
+log2(n) = 19.3862
+Number of iterations taken: 10
+Duration in milliseconds: 23ms
+
+==> wiki-topcats.log <==
+No. of vertices = 1791489
+No. of edges = 50888414
+Reading input
+Input reading done
+log2(n) = 20.7727
+Number of iterations taken: 16
+Duration in milliseconds: 106ms

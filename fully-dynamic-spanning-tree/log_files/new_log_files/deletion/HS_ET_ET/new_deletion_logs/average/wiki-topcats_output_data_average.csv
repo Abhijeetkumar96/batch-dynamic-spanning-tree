@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+wiki-topcats.egr,1791489,50888414,100,2.4,10.77
+wiki-topcats.egr,1791489,50888414,1000,42.6,12.14
+wiki-topcats.egr,1791489,50888414,10000,385.8,13.63
+wiki-topcats.egr,1791489,50888414,100000,3959.0,25.38

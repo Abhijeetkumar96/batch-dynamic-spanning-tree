@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+indochina-2004.txt,100,54.43
+indochina-2004.txt,1000,66.14
+indochina-2004.txt,10000,66.4
+indochina-2004.txt,100000,62.46

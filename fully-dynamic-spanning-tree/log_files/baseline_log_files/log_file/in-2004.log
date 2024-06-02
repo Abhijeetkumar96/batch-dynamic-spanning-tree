@@ -1,0 +1,259 @@
+filename: in-2004.egr
+Delete batch Size: 100000
+Depth of graph: 136
+Total execution time of all functions: 100.009 ms.
+
+Function execution times:
+Time of simple BFS : 45.42 ms
+Time of PR-RST module : 28.91 ms
+Time of Adam_BFS : 18.80 ms
+Time of CC : 4.23 ms
+Time of update datastr : 2.65 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100000
+Depth of graph: 136
+Total execution time of all functions: 101.839 ms.
+
+Function execution times:
+Time of simple BFS : 43.40 ms
+Time of PR-RST module : 32.27 ms
+Time of Adam_BFS : 18.27 ms
+Time of CC : 5.43 ms
+Time of update datastr : 2.48 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100000
+Depth of graph: 136
+Total execution time of all functions: 98.6123 ms.
+
+Function execution times:
+Time of simple BFS : 43.88 ms
+Time of PR-RST module : 29.01 ms
+Time of Adam_BFS : 18.31 ms
+Time of CC : 4.88 ms
+Time of update datastr : 2.53 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100000
+Depth of graph: 136
+Total execution time of all functions: 104.023 ms.
+
+Function execution times:
+Time of simple BFS : 44.24 ms
+Time of PR-RST module : 35.31 ms
+Time of Adam_BFS : 18.24 ms
+Time of CC : 3.68 ms
+Time of update datastr : 2.54 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100000
+Depth of graph: 136
+Total execution time of all functions: 125.823 ms.
+
+Function execution times:
+Time of PR-RST module : 46.73 ms
+Time of simple BFS : 43.54 ms
+Time of Adam_BFS : 18.38 ms
+Time of CC : 14.63 ms
+Time of update datastr : 2.54 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 10000
+Depth of graph: 136
+Total execution time of all functions: 103.33 ms.
+
+Function execution times:
+Time of simple BFS : 45.13 ms
+Time of PR-RST module : 32.28 ms
+Time of Adam_BFS : 18.33 ms
+Time of CC : 5.00 ms
+Time of update datastr : 2.59 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 10000
+Depth of graph: 136
+Total execution time of all functions: 97.7663 ms.
+
+Function execution times:
+Time of simple BFS : 43.55 ms
+Time of PR-RST module : 29.09 ms
+Time of Adam_BFS : 18.38 ms
+Time of CC : 4.25 ms
+Time of update datastr : 2.49 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 10000
+Depth of graph: 136
+Total execution time of all functions: 108.517 ms.
+
+Function execution times:
+Time of simple BFS : 44.47 ms
+Time of PR-RST module : 38.75 ms
+Time of Adam_BFS : 18.29 ms
+Time of CC : 4.22 ms
+Time of update datastr : 2.79 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 10000
+Depth of graph: 136
+Total execution time of all functions: 103.484 ms.
+
+Function execution times:
+Time of simple BFS : 43.10 ms
+Time of PR-RST module : 32.34 ms
+Time of Adam_BFS : 18.39 ms
+Time of update datastr : 5.17 ms
+Time of CC : 4.49 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 10000
+Depth of graph: 136
+Total execution time of all functions: 109.555 ms.
+
+Function execution times:
+Time of simple BFS : 44.74 ms
+Time of PR-RST module : 38.67 ms
+Time of Adam_BFS : 18.22 ms
+Time of CC : 5.22 ms
+Time of update datastr : 2.71 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100
+Depth of graph: 136
+Total execution time of all functions: 95.3026 ms.
+
+Function execution times:
+Time of simple BFS : 44.09 ms
+Time of PR-RST module : 25.83 ms
+Time of Adam_BFS : 18.32 ms
+Time of CC : 4.42 ms
+Time of update datastr : 2.65 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100
+Depth of graph: 136
+Total execution time of all functions: 111.287 ms.
+
+Function execution times:
+Time of simple BFS : 44.13 ms
+Time of PR-RST module : 41.72 ms
+Time of Adam_BFS : 18.30 ms
+Time of CC : 4.41 ms
+Time of update datastr : 2.72 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100
+Depth of graph: 136
+Total execution time of all functions: 102.957 ms.
+
+Function execution times:
+Time of simple BFS : 44.85 ms
+Time of PR-RST module : 32.21 ms
+Time of Adam_BFS : 18.30 ms
+Time of CC : 4.94 ms
+Time of update datastr : 2.66 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100
+Depth of graph: 136
+Total execution time of all functions: 108.798 ms.
+
+Function execution times:
+Time of simple BFS : 45.05 ms
+Time of PR-RST module : 38.63 ms
+Time of Adam_BFS : 18.30 ms
+Time of CC : 4.15 ms
+Time of update datastr : 2.68 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 100
+Depth of graph: 136
+Total execution time of all functions: 106.597 ms.
+
+Function execution times:
+Time of simple BFS : 45.28 ms
+Time of PR-RST module : 35.39 ms
+Time of Adam_BFS : 18.26 ms
+Time of CC : 4.92 ms
+Time of update datastr : 2.75 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 1000
+Depth of graph: 136
+Total execution time of all functions: 98.3054 ms.
+
+Function execution times:
+Time of simple BFS : 43.98 ms
+Time of PR-RST module : 29.04 ms
+Time of Adam_BFS : 18.39 ms
+Time of CC : 4.24 ms
+Time of update datastr : 2.66 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 1000
+Depth of graph: 136
+Total execution time of all functions: 98.8068 ms.
+
+Function execution times:
+Time of simple BFS : 44.24 ms
+Time of PR-RST module : 29.07 ms
+Time of Adam_BFS : 18.31 ms
+Time of CC : 4.49 ms
+Time of update datastr : 2.68 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 1000
+Depth of graph: 136
+Total execution time of all functions: 106.44 ms.
+
+Function execution times:
+Time of simple BFS : 44.80 ms
+Time of PR-RST module : 35.59 ms
+Time of Adam_BFS : 18.38 ms
+Time of CC : 4.98 ms
+Time of update datastr : 2.69 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 1000
+Depth of graph: 136
+Total execution time of all functions: 95.4248 ms.
+
+Function execution times:
+Time of simple BFS : 44.07 ms
+Time of PR-RST module : 25.92 ms
+Time of Adam_BFS : 18.42 ms
+Time of CC : 3.96 ms
+Time of update datastr : 3.05 ms
+----------------------------------------------------------------
+
+filename: in-2004.egr
+Delete batch Size: 1000
+Depth of graph: 136
+Total execution time of all functions: 104.174 ms.
+
+Function execution times:
+Time of simple BFS : 43.03 ms
+Time of PR-RST module : 35.60 ms
+Time of Adam_BFS : 18.45 ms
+Time of CC : 4.46 ms
+Time of update datastr : 2.64 ms
+----------------------------------------------------------------

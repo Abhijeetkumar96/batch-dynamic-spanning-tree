@@ -1,0 +1,259 @@
+filename: europe_osm.egr
+Delete batch Size: 100000
+Depth of graph: 17346
+Total execution time of all functions: 7519.99 ms.
+
+Function execution times:
+Time of simple BFS : 4107.84 ms
+Time of Adam_BFS : 2101.05 ms
+Time of PR-RST module : 1130.29 ms
+Time of CC : 175.81 ms
+Time of update datastr : 5.01 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100000
+Depth of graph: 17360
+Total execution time of all functions: 7605.47 ms.
+
+Function execution times:
+Time of simple BFS : 4112.98 ms
+Time of Adam_BFS : 2170.28 ms
+Time of PR-RST module : 1126.44 ms
+Time of CC : 190.76 ms
+Time of update datastr : 5.01 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100000
+Depth of graph: 17391
+Total execution time of all functions: 7528.32 ms.
+
+Function execution times:
+Time of simple BFS : 4117.06 ms
+Time of Adam_BFS : 2100.86 ms
+Time of PR-RST module : 1120.74 ms
+Time of CC : 184.57 ms
+Time of update datastr : 5.10 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100000
+Depth of graph: 17352
+Total execution time of all functions: 7622.02 ms.
+
+Function execution times:
+Time of simple BFS : 4148.14 ms
+Time of Adam_BFS : 2149.78 ms
+Time of PR-RST module : 1134.72 ms
+Time of CC : 184.36 ms
+Time of update datastr : 5.02 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100000
+Depth of graph: 17348
+Total execution time of all functions: 7701.29 ms.
+
+Function execution times:
+Time of simple BFS : 4110.36 ms
+Time of Adam_BFS : 2127.75 ms
+Time of PR-RST module : 1273.89 ms
+Time of CC : 184.27 ms
+Time of update datastr : 5.01 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 10000
+Depth of graph: 17346
+Total execution time of all functions: 7540.29 ms.
+
+Function execution times:
+Time of simple BFS : 4120.32 ms
+Time of Adam_BFS : 2094.17 ms
+Time of PR-RST module : 1129.29 ms
+Time of CC : 191.51 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 10000
+Depth of graph: 17346
+Total execution time of all functions: 7696.53 ms.
+
+Function execution times:
+Time of simple BFS : 4247.32 ms
+Time of Adam_BFS : 2138.53 ms
+Time of PR-RST module : 1129.06 ms
+Time of CC : 176.61 ms
+Time of update datastr : 5.01 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 10000
+Depth of graph: 17346
+Total execution time of all functions: 7576.28 ms.
+
+Function execution times:
+Time of simple BFS : 4152.99 ms
+Time of Adam_BFS : 2104.17 ms
+Time of PR-RST module : 1122.55 ms
+Time of CC : 191.58 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 10000
+Depth of graph: 17348
+Total execution time of all functions: 7576.65 ms.
+
+Function execution times:
+Time of simple BFS : 4148.66 ms
+Time of Adam_BFS : 2111.75 ms
+Time of PR-RST module : 1127.16 ms
+Time of CC : 184.06 ms
+Time of update datastr : 5.03 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 10000
+Depth of graph: 17346
+Total execution time of all functions: 7545.76 ms.
+
+Function execution times:
+Time of simple BFS : 4101.59 ms
+Time of Adam_BFS : 2108.16 ms
+Time of PR-RST module : 1125.84 ms
+Time of CC : 205.17 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100
+Depth of graph: 17346
+Total execution time of all functions: 7548.57 ms.
+
+Function execution times:
+Time of simple BFS : 4133.83 ms
+Time of Adam_BFS : 2099.42 ms
+Time of PR-RST module : 1127.15 ms
+Time of CC : 183.16 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100
+Depth of graph: 17346
+Total execution time of all functions: 7535.11 ms.
+
+Function execution times:
+Time of simple BFS : 4104.99 ms
+Time of Adam_BFS : 2111.37 ms
+Time of PR-RST module : 1126.03 ms
+Time of CC : 187.75 ms
+Time of update datastr : 4.97 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100
+Depth of graph: 17346
+Total execution time of all functions: 7534.03 ms.
+
+Function execution times:
+Time of simple BFS : 4110.34 ms
+Time of Adam_BFS : 2093.63 ms
+Time of PR-RST module : 1134.44 ms
+Time of CC : 190.61 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100
+Depth of graph: 17346
+Total execution time of all functions: 7583.26 ms.
+
+Function execution times:
+Time of simple BFS : 4120.99 ms
+Time of Adam_BFS : 2142.38 ms
+Time of PR-RST module : 1131.71 ms
+Time of CC : 183.18 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 100
+Depth of graph: 17346
+Total execution time of all functions: 7535.46 ms.
+
+Function execution times:
+Time of simple BFS : 4103.84 ms
+Time of Adam_BFS : 2124.77 ms
+Time of PR-RST module : 1127.46 ms
+Time of CC : 174.38 ms
+Time of update datastr : 5.01 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 1000
+Depth of graph: 17346
+Total execution time of all functions: 7534.72 ms.
+
+Function execution times:
+Time of simple BFS : 4098.40 ms
+Time of Adam_BFS : 2107.22 ms
+Time of PR-RST module : 1120.78 ms
+Time of CC : 203.32 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 1000
+Depth of graph: 17346
+Total execution time of all functions: 7535.57 ms.
+
+Function execution times:
+Time of simple BFS : 4108.32 ms
+Time of Adam_BFS : 2107.27 ms
+Time of PR-RST module : 1125.12 ms
+Time of CC : 189.85 ms
+Time of update datastr : 5.00 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 1000
+Depth of graph: 17346
+Total execution time of all functions: 7561.85 ms.
+
+Function execution times:
+Time of simple BFS : 4161.49 ms
+Time of Adam_BFS : 2105.28 ms
+Time of PR-RST module : 1121.10 ms
+Time of CC : 169.00 ms
+Time of update datastr : 4.99 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 1000
+Depth of graph: 17346
+Total execution time of all functions: 7572.45 ms.
+
+Function execution times:
+Time of simple BFS : 4114.30 ms
+Time of Adam_BFS : 2130.22 ms
+Time of PR-RST module : 1130.27 ms
+Time of CC : 192.65 ms
+Time of update datastr : 5.01 ms
+----------------------------------------------------------------
+
+filename: europe_osm.egr
+Delete batch Size: 1000
+Depth of graph: 17346
+Total execution time of all functions: 7540.69 ms.
+
+Function execution times:
+Time of simple BFS : 4108.47 ms
+Time of Adam_BFS : 2115.03 ms
+Time of PR-RST module : 1129.27 ms
+Time of CC : 184.21 ms
+Time of update datastr : 3.71 ms
+----------------------------------------------------------------

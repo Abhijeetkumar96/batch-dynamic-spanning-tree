@@ -1,0 +1,740 @@
+
+
+filename: kmer_U1a.egr
+Root: 5290758
+The input parent array is a BFS tree.
+Number of deleted tree edges: 64581
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100000
+
+Root: 5290758
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64581
+Insertion into hashtable over.
+num of superComponents: 64582
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 640.923 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 471.97 ms
+Time of ET: First & Last : 129.29 ms
+Time of Pointer Jumping : 32.92 ms
+Time of Update data structure : 2.06 ms
+Time of ET: Orientation : 1.97 ms
+Time of Path Reversal : 1.36 ms
+Time of Finding unique comps : 1.30 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 37366979
+The input parent array is a BFS tree.
+Number of deleted tree edges: 64128
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100000
+
+Root: 37366979
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64128
+Insertion into hashtable over.
+num of superComponents: 64129
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 420.342 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 255.59 ms
+Time of ET: First & Last : 125.07 ms
+Time of Pointer Jumping : 32.74 ms
+Time of ET: Orientation : 2.08 ms
+Time of Update data structure : 2.07 ms
+Time of Finding unique comps : 1.39 ms
+Time of Path Reversal : 1.35 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 51889564
+The input parent array is a BFS tree.
+Number of deleted tree edges: 65997
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100000
+
+Root: 51889564
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 65997
+Insertion into hashtable over.
+num of superComponents: 65998
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 381.147 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 220.46 ms
+Time of ET: First & Last : 120.79 ms
+Time of Pointer Jumping : 33.02 ms
+Time of Update data structure : 2.08 ms
+Time of ET: Orientation : 1.97 ms
+Time of Finding unique comps : 1.40 ms
+Time of Path Reversal : 1.38 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 9884290
+The input parent array is a BFS tree.
+Number of deleted tree edges: 64044
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100000
+
+Root: 9884290
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64044
+Insertion into hashtable over.
+num of superComponents: 64045
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 421.098 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 254.22 ms
+Time of ET: First & Last : 127.45 ms
+Time of Pointer Jumping : 32.71 ms
+Time of Update data structure : 2.05 ms
+Time of ET: Orientation : 1.97 ms
+Time of Path Reversal : 1.35 ms
+Time of Finding unique comps : 1.30 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 63995590
+The input parent array is a BFS tree.
+Number of deleted tree edges: 64007
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100000
+
+Root: 63995590
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 64007
+Insertion into hashtable over.
+num of superComponents: 64008
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 347.19 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 183.71 ms
+Time of ET: First & Last : 123.95 ms
+Time of Pointer Jumping : 32.74 ms
+Time of Update data structure : 2.05 ms
+Time of ET: Orientation : 1.96 ms
+Time of Finding unique comps : 1.39 ms
+Time of Path Reversal : 1.34 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 44492294
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6394
+numVert: 67716231, num_edges: 138866824 and delete batch size: 10000
+
+Root: 44492294
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6394
+Insertion into hashtable over.
+num of superComponents: 6395
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 380.517 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 219.93 ms
+Time of ET: First & Last : 124.18 ms
+Time of Pointer Jumping : 30.44 ms
+Time of Update data structure : 2.12 ms
+Time of ET: Orientation : 1.68 ms
+Time of Finding unique comps : 1.32 ms
+Time of Path Reversal : 0.82 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 50469881
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6376
+numVert: 67716231, num_edges: 138866824 and delete batch size: 10000
+
+Root: 50469881
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6376
+Insertion into hashtable over.
+num of superComponents: 6377
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 309.027 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 145.37 ms
+Time of ET: First & Last : 127.34 ms
+Time of Pointer Jumping : 30.41 ms
+Time of Update data structure : 1.98 ms
+Time of ET: Orientation : 1.68 ms
+Time of Finding unique comps : 1.31 ms
+Time of Path Reversal : 0.90 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 27266004
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6302
+numVert: 67716231, num_edges: 138866824 and delete batch size: 10000
+
+Root: 27266004
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6302
+Insertion into hashtable over.
+num of superComponents: 6303
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 382.211 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 218.12 ms
+Time of ET: First & Last : 127.69 ms
+Time of Pointer Jumping : 30.38 ms
+Time of Update data structure : 1.96 ms
+Time of ET: Orientation : 1.81 ms
+Time of Finding unique comps : 1.31 ms
+Time of Path Reversal : 0.90 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 14822426
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6144
+numVert: 67716231, num_edges: 138866824 and delete batch size: 10000
+
+Root: 14822426
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6144
+Insertion into hashtable over.
+num of superComponents: 6145
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 333.058 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 170.13 ms
+Time of ET: First & Last : 125.20 ms
+Time of Pointer Jumping : 30.27 ms
+Time of Update data structure : 3.09 ms
+Time of ET: Orientation : 2.14 ms
+Time of Finding unique comps : 1.32 ms
+Time of Path Reversal : 0.87 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 22071955
+The input parent array is a BFS tree.
+Number of deleted tree edges: 6383
+numVert: 67716231, num_edges: 138866824 and delete batch size: 10000
+
+Root: 22071955
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 6383
+Insertion into hashtable over.
+num of superComponents: 6384
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 490.721 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 332.66 ms
+Time of ET: First & Last : 121.54 ms
+Time of Pointer Jumping : 30.53 ms
+Time of Update data structure : 2.02 ms
+Time of ET: Orientation : 1.68 ms
+Time of Finding unique comps : 1.32 ms
+Time of Path Reversal : 0.93 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 58523045
+The input parent array is a BFS tree.
+Number of deleted tree edges: 61
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100
+
+Root: 58523045
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 61
+Insertion into hashtable over.
+num of superComponents: 62
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 221.616 ms.
+
+Function execution times:
+Time of ET: First & Last : 131.23 ms
+Time of HS: Find Repl edges : 57.67 ms
+Time of Pointer Jumping : 28.86 ms
+Time of Update data structure : 2.00 ms
+Time of Finding unique comps : 0.93 ms
+Time of Path Reversal : 0.58 ms
+Time of ET: Orientation : 0.29 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 60279010
+The input parent array is a BFS tree.
+Number of deleted tree edges: 60
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100
+
+Root: 60279010
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 60
+Insertion into hashtable over.
+num of superComponents: 61
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 247.466 ms.
+
+Function execution times:
+Time of ET: First & Last : 141.88 ms
+Time of HS: Find Repl edges : 72.77 ms
+Time of Pointer Jumping : 28.94 ms
+Time of Update data structure : 2.00 ms
+Time of Finding unique comps : 0.97 ms
+Time of Path Reversal : 0.58 ms
+Time of ET: Orientation : 0.28 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 18746228
+The input parent array is a BFS tree.
+Number of deleted tree edges: 65
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100
+
+Root: 18746228
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 65
+Insertion into hashtable over.
+num of superComponents: 66
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 260.166 ms.
+
+Function execution times:
+Time of ET: First & Last : 132.01 ms
+Time of HS: Find Repl edges : 95.55 ms
+Time of Pointer Jumping : 28.86 ms
+Time of Update data structure : 1.93 ms
+Time of Finding unique comps : 0.94 ms
+Time of Path Reversal : 0.61 ms
+Time of ET: Orientation : 0.24 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 1743764
+The input parent array is a BFS tree.
+Number of deleted tree edges: 66
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100
+
+Root: 1743764
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 66
+Insertion into hashtable over.
+num of superComponents: 67
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 248.329 ms.
+
+Function execution times:
+Time of ET: First & Last : 125.54 ms
+Time of HS: Find Repl edges : 90.24 ms
+Time of Pointer Jumping : 28.88 ms
+Time of Update data structure : 1.98 ms
+Time of Finding unique comps : 0.84 ms
+Time of Path Reversal : 0.58 ms
+Time of ET: Orientation : 0.22 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 13227535
+The input parent array is a BFS tree.
+Number of deleted tree edges: 54
+numVert: 67716231, num_edges: 138866824 and delete batch size: 100
+
+Root: 13227535
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 54
+Insertion into hashtable over.
+num of superComponents: 55
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 238.579 ms.
+
+Function execution times:
+Time of ET: First & Last : 148.66 ms
+Time of HS: Find Repl edges : 57.12 ms
+Time of Pointer Jumping : 28.92 ms
+Time of Update data structure : 2.13 ms
+Time of Finding unique comps : 0.84 ms
+Time of Path Reversal : 0.58 ms
+Time of ET: Orientation : 0.29 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 8446270
+The input parent array is a BFS tree.
+Number of deleted tree edges: 647
+numVert: 67716231, num_edges: 138866824 and delete batch size: 1000
+
+Root: 8446270
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 647
+Insertion into hashtable over.
+num of superComponents: 648
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 372.93 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 211.25 ms
+Time of ET: First & Last : 128.37 ms
+Time of Pointer Jumping : 29.20 ms
+Time of Update data structure : 2.01 ms
+Time of Finding unique comps : 1.17 ms
+Time of Path Reversal : 0.63 ms
+Time of ET: Orientation : 0.25 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 64221366
+The input parent array is a BFS tree.
+Number of deleted tree edges: 615
+numVert: 67716231, num_edges: 138866824 and delete batch size: 1000
+
+Root: 64221366
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 615
+Insertion into hashtable over.
+num of superComponents: 616
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 241.845 ms.
+
+Function execution times:
+Time of ET: First & Last : 133.29 ms
+Time of HS: Find Repl edges : 75.34 ms
+Time of Pointer Jumping : 29.02 ms
+Time of Update data structure : 1.97 ms
+Time of Finding unique comps : 1.25 ms
+Time of Path Reversal : 0.68 ms
+Time of ET: Orientation : 0.26 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 60774377
+The input parent array is a BFS tree.
+Number of deleted tree edges: 622
+numVert: 67716231, num_edges: 138866824 and delete batch size: 1000
+
+Root: 60774377
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 622
+Insertion into hashtable over.
+num of superComponents: 623
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 251.934 ms.
+
+Function execution times:
+Time of ET: First & Last : 123.71 ms
+Time of HS: Find Repl edges : 94.78 ms
+Time of Pointer Jumping : 29.18 ms
+Time of Update data structure : 2.06 ms
+Time of Finding unique comps : 1.26 ms
+Time of Path Reversal : 0.65 ms
+Time of ET: Orientation : 0.25 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 5853387
+The input parent array is a BFS tree.
+Number of deleted tree edges: 627
+numVert: 67716231, num_edges: 138866824 and delete batch size: 1000
+
+Root: 5853387
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 627
+Insertion into hashtable over.
+num of superComponents: 628
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 295.659 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 133.61 ms
+Time of ET: First & Last : 128.78 ms
+Time of Pointer Jumping : 29.19 ms
+Time of Update data structure : 1.99 ms
+Time of Finding unique comps : 1.16 ms
+Time of Path Reversal : 0.63 ms
+Time of ET: Orientation : 0.26 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: kmer_U1a.egr
+Root: 47408079
+The input parent array is a BFS tree.
+Number of deleted tree edges: 622
+numVert: 67716231, num_edges: 138866824 and delete batch size: 1000
+
+Root: 47408079
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 622
+Insertion into hashtable over.
+num of superComponents: 623
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 294.294 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 134.04 ms
+Time of ET: First & Last : 126.85 ms
+Time of Pointer Jumping : 29.15 ms
+Time of Update data structure : 2.06 ms
+Time of Finding unique comps : 1.24 ms
+Time of Path Reversal : 0.63 ms
+Time of ET: Orientation : 0.28 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1

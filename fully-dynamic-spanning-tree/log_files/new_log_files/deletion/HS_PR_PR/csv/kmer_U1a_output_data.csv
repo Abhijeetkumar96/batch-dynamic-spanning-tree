@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+kmer_U1a.txt,100,276.734
+kmer_U1a.txt,100,270.212
+kmer_U1a.txt,100,289.543
+kmer_U1a.txt,100,280.722
+kmer_U1a.txt,100,274.027
+kmer_U1a.txt,1000,293.93
+kmer_U1a.txt,1000,270.745
+kmer_U1a.txt,1000,299.234
+kmer_U1a.txt,1000,295.514
+kmer_U1a.txt,1000,293.294
+kmer_U1a.txt,10000,320.395
+kmer_U1a.txt,10000,298.443
+kmer_U1a.txt,10000,289.375
+kmer_U1a.txt,10000,301.563
+kmer_U1a.txt,10000,304.575
+kmer_U1a.txt,100000,327.794
+kmer_U1a.txt,100000,328.644
+kmer_U1a.txt,100000,331.815
+kmer_U1a.txt,100000,341.486
+kmer_U1a.txt,100000,324.928

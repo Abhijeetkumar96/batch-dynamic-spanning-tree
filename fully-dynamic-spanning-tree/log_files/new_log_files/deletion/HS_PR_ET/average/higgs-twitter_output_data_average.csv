@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+higgs-twitter.txt,100,9.37
+higgs-twitter.txt,1000,10.58
+higgs-twitter.txt,10000,13.46
+higgs-twitter.txt,100000,20.67

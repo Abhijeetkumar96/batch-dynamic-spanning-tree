@@ -1,0 +1,420 @@
+
+
+filename: uk-2002.egr
+Root: 18378174
+Number of deleted tree edges: 1603
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100000
+
+Root: 18378174
+Root: 18378174
+After repairing:
+Total execution time of all functions: 38.8106 ms.
+
+Function execution times:
+Time of Eulerian Tour : 32.59 ms
+Time of Pointer Jumping : 3.04 ms
+Time of Super graph Creation : 2.09 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 628460
+Number of deleted tree edges: 1328
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100000
+
+Root: 628460
+Root: 628460
+After repairing:
+Total execution time of all functions: 32.2099 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.43 ms
+Time of Pointer Jumping : 2.75 ms
+Time of Super graph Creation : 1.94 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 486600
+Number of deleted tree edges: 1420
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100000
+
+Root: 486600
+Root: 486600
+After repairing:
+Total execution time of all functions: 32.2303 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.05 ms
+Time of Pointer Jumping : 2.77 ms
+Time of Super graph Creation : 2.33 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 4417902
+Number of deleted tree edges: 1538
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100000
+
+Root: 4417902
+Root: 4417902
+After repairing:
+Total execution time of all functions: 31.158 ms.
+
+Function execution times:
+Time of Eulerian Tour : 25.58 ms
+Time of Pointer Jumping : 2.76 ms
+Time of Super graph Creation : 1.74 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 12301375
+Number of deleted tree edges: 1501
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100000
+
+Root: 12301375
+Root: 12301375
+After repairing:
+Total execution time of all functions: 32.1949 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.46 ms
+Time of Pointer Jumping : 2.75 ms
+Time of Super graph Creation : 1.91 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 3195417
+Number of deleted tree edges: 159
+numVert: 18520486, num_edges: 523651232 and delete batch size: 10000
+
+Root: 3195417
+Root: 3195417
+After repairing:
+Total execution time of all functions: 37.8165 ms.
+
+Function execution times:
+Time of Eulerian Tour : 31.95 ms
+Time of Pointer Jumping : 3.11 ms
+Time of Super graph Creation : 1.67 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 2546224
+Number of deleted tree edges: 157
+numVert: 18520486, num_edges: 523651232 and delete batch size: 10000
+
+Root: 2546224
+Root: 2546224
+After repairing:
+Total execution time of all functions: 31.1508 ms.
+
+Function execution times:
+Time of Eulerian Tour : 25.66 ms
+Time of Pointer Jumping : 2.75 ms
+Time of Super graph Creation : 1.66 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 15332386
+Number of deleted tree edges: 155
+numVert: 18520486, num_edges: 523651232 and delete batch size: 10000
+
+Root: 15332386
+Root: 15332386
+After repairing:
+Total execution time of all functions: 34.3126 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.27 ms
+Time of Pointer Jumping : 2.77 ms
+Time of Super graph Creation : 2.19 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 1078909
+Number of deleted tree edges: 101
+numVert: 18520486, num_edges: 523651232 and delete batch size: 10000
+
+Root: 1078909
+Root: 1078909
+After repairing:
+Total execution time of all functions: 33.2397 ms.
+
+Function execution times:
+Time of Eulerian Tour : 25.77 ms
+Time of Pointer Jumping : 3.78 ms
+Time of Super graph Creation : 2.59 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 6587833
+Number of deleted tree edges: 142
+numVert: 18520486, num_edges: 523651232 and delete batch size: 10000
+
+Root: 6587833
+Root: 6587833
+After repairing:
+Total execution time of all functions: 36.4907 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.48 ms
+Time of Super graph Creation : 4.10 ms
+Time of Pointer Jumping : 2.84 ms
+Time of finding unique comps : 1.06 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 15563881
+Number of deleted tree edges: 3
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100
+
+Root: 15563881
+Root: 15563881
+After repairing:
+Total execution time of all functions: 35.3392 ms.
+
+Function execution times:
+Time of Eulerian Tour : 30.22 ms
+Time of Pointer Jumping : 3.78 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.24 ms
+Time of Update rep array : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 5190868
+Number of deleted tree edges: 1
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100
+
+Root: 5190868
+Root: 5190868
+After repairing:
+Total execution time of all functions: 31.1421 ms.
+
+Function execution times:
+Time of Eulerian Tour : 26.27 ms
+Time of Pointer Jumping : 2.76 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 1.03 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 14035403
+Number of deleted tree edges: 2
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100
+
+Root: 14035403
+Root: 14035403
+After repairing:
+Total execution time of all functions: 38.9144 ms.
+
+Function execution times:
+Time of Eulerian Tour : 33.82 ms
+Time of Pointer Jumping : 3.17 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.84 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 14617258
+Number of deleted tree edges: 1
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100
+
+Root: 14617258
+Root: 14617258
+After repairing:
+Total execution time of all functions: 38.4787 ms.
+
+Function execution times:
+Time of Eulerian Tour : 33.30 ms
+Time of Pointer Jumping : 3.78 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.30 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 2371019
+Number of deleted tree edges: 0
+numVert: 18520486, num_edges: 523651232 and delete batch size: 100
+
+Root: 2371019
+Root: 2371019
+After repairing:
+Total execution time of all functions: 30.0939 ms.
+
+Function execution times:
+Time of Eulerian Tour : 25.76 ms
+Time of Pointer Jumping : 2.76 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.50 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 10522417
+Number of deleted tree edges: 17
+numVert: 18520486, num_edges: 523651232 and delete batch size: 1000
+
+Root: 10522417
+Root: 10522417
+After repairing:
+Total execution time of all functions: 33.2283 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.50 ms
+Time of Pointer Jumping : 2.75 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.90 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 4822387
+Number of deleted tree edges: 10
+numVert: 18520486, num_edges: 523651232 and delete batch size: 1000
+
+Root: 4822387
+Root: 4822387
+After repairing:
+Total execution time of all functions: 32.2459 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.05 ms
+Time of Pointer Jumping : 2.80 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.31 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 6045455
+Number of deleted tree edges: 17
+numVert: 18520486, num_edges: 523651232 and delete batch size: 1000
+
+Root: 6045455
+Root: 6045455
+After repairing:
+Total execution time of all functions: 41.3012 ms.
+
+Function execution times:
+Time of Eulerian Tour : 35.90 ms
+Time of Pointer Jumping : 3.45 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.86 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 1643513
+Number of deleted tree edges: 15
+numVert: 18520486, num_edges: 523651232 and delete batch size: 1000
+
+Root: 1643513
+Root: 1643513
+After repairing:
+Total execution time of all functions: 33.304 ms.
+
+Function execution times:
+Time of Eulerian Tour : 28.58 ms
+Time of Pointer Jumping : 2.81 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.84 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: uk-2002.egr
+Root: 15260343
+Number of deleted tree edges: 14
+numVert: 18520486, num_edges: 523651232 and delete batch size: 1000
+
+Root: 15260343
+Root: 15260343
+After repairing:
+Total execution time of all functions: 40.1692 ms.
+
+Function execution times:
+Time of Eulerian Tour : 34.90 ms
+Time of Pointer Jumping : 3.37 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.82 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

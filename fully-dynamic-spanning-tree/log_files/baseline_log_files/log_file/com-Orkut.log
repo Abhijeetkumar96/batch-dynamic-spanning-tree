@@ -1,0 +1,259 @@
+filename: com-Orkut.egr
+Delete batch Size: 100000
+Depth of graph: 8
+Total execution time of all functions: 164.946 ms.
+
+Function execution times:
+Time of simple BFS : 60.34 ms
+Time of CC : 34.57 ms
+Time of PR-RST module : 33.98 ms
+Time of Adam_BFS : 30.09 ms
+Time of update datastr : 5.97 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100000
+Depth of graph: 8
+Total execution time of all functions: 168.51 ms.
+
+Function execution times:
+Time of simple BFS : 60.10 ms
+Time of CC : 37.58 ms
+Time of PR-RST module : 34.37 ms
+Time of Adam_BFS : 31.54 ms
+Time of update datastr : 4.92 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100000
+Depth of graph: 8
+Total execution time of all functions: 155.895 ms.
+
+Function execution times:
+Time of simple BFS : 60.29 ms
+Time of PR-RST module : 31.90 ms
+Time of Adam_BFS : 29.88 ms
+Time of CC : 25.74 ms
+Time of update datastr : 8.08 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100000
+Depth of graph: 8
+Total execution time of all functions: 170.013 ms.
+
+Function execution times:
+Time of simple BFS : 60.27 ms
+Time of CC : 40.81 ms
+Time of PR-RST module : 33.18 ms
+Time of Adam_BFS : 30.82 ms
+Time of update datastr : 4.93 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100000
+Depth of graph: 8
+Total execution time of all functions: 159.361 ms.
+
+Function execution times:
+Time of simple BFS : 57.49 ms
+Time of CC : 34.25 ms
+Time of PR-RST module : 31.48 ms
+Time of Adam_BFS : 29.83 ms
+Time of update datastr : 6.31 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 10000
+Depth of graph: 8
+Total execution time of all functions: 137.101 ms.
+
+Function execution times:
+Time of simple BFS : 57.55 ms
+Time of Adam_BFS : 31.12 ms
+Time of PR-RST module : 23.12 ms
+Time of CC : 19.36 ms
+Time of update datastr : 5.95 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 10000
+Depth of graph: 8
+Total execution time of all functions: 158.597 ms.
+
+Function execution times:
+Time of simple BFS : 57.66 ms
+Time of CC : 32.92 ms
+Time of PR-RST module : 32.26 ms
+Time of Adam_BFS : 29.71 ms
+Time of update datastr : 6.05 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 10000
+Depth of graph: 8
+Total execution time of all functions: 157.634 ms.
+
+Function execution times:
+Time of simple BFS : 57.05 ms
+Time of CC : 41.34 ms
+Time of Adam_BFS : 30.02 ms
+Time of PR-RST module : 23.28 ms
+Time of update datastr : 5.95 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 10000
+Depth of graph: 8
+Total execution time of all functions: 150.814 ms.
+
+Function execution times:
+Time of simple BFS : 57.54 ms
+Time of PR-RST module : 33.11 ms
+Time of Adam_BFS : 29.97 ms
+Time of CC : 25.29 ms
+Time of update datastr : 4.89 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 10000
+Depth of graph: 8
+Total execution time of all functions: 142.419 ms.
+
+Function execution times:
+Time of simple BFS : 58.95 ms
+Time of Adam_BFS : 29.83 ms
+Time of CC : 23.38 ms
+Time of PR-RST module : 23.27 ms
+Time of update datastr : 6.99 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100
+Depth of graph: 8
+Total execution time of all functions: 148.571 ms.
+
+Function execution times:
+Time of simple BFS : 59.45 ms
+Time of Adam_BFS : 29.86 ms
+Time of CC : 29.40 ms
+Time of PR-RST module : 23.91 ms
+Time of update datastr : 5.94 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100
+Depth of graph: 8
+Total execution time of all functions: 138.666 ms.
+
+Function execution times:
+Time of simple BFS : 57.58 ms
+Time of Adam_BFS : 29.82 ms
+Time of PR-RST module : 23.46 ms
+Time of CC : 20.77 ms
+Time of update datastr : 7.03 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100
+Depth of graph: 8
+Total execution time of all functions: 155.795 ms.
+
+Function execution times:
+Time of simple BFS : 60.29 ms
+Time of CC : 37.12 ms
+Time of Adam_BFS : 29.68 ms
+Time of PR-RST module : 23.73 ms
+Time of update datastr : 4.98 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100
+Depth of graph: 8
+Total execution time of all functions: 146.371 ms.
+
+Function execution times:
+Time of simple BFS : 60.34 ms
+Time of Adam_BFS : 29.78 ms
+Time of CC : 26.24 ms
+Time of PR-RST module : 23.94 ms
+Time of update datastr : 6.07 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 100
+Depth of graph: 8
+Total execution time of all functions: 140.558 ms.
+
+Function execution times:
+Time of simple BFS : 60.62 ms
+Time of Adam_BFS : 29.75 ms
+Time of PR-RST module : 23.42 ms
+Time of CC : 18.67 ms
+Time of update datastr : 8.10 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 1000
+Depth of graph: 8
+Total execution time of all functions: 143.767 ms.
+
+Function execution times:
+Time of simple BFS : 60.41 ms
+Time of Adam_BFS : 30.02 ms
+Time of CC : 24.11 ms
+Time of PR-RST module : 23.22 ms
+Time of update datastr : 6.01 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 1000
+Depth of graph: 8
+Total execution time of all functions: 141.498 ms.
+
+Function execution times:
+Time of simple BFS : 59.37 ms
+Time of Adam_BFS : 30.03 ms
+Time of CC : 23.65 ms
+Time of PR-RST module : 23.48 ms
+Time of update datastr : 4.97 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 1000
+Depth of graph: 8
+Total execution time of all functions: 139.026 ms.
+
+Function execution times:
+Time of simple BFS : 60.10 ms
+Time of Adam_BFS : 29.89 ms
+Time of PR-RST module : 23.12 ms
+Time of CC : 19.99 ms
+Time of update datastr : 5.93 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 1000
+Depth of graph: 8
+Total execution time of all functions: 144.052 ms.
+
+Function execution times:
+Time of simple BFS : 60.46 ms
+Time of Adam_BFS : 29.74 ms
+Time of CC : 24.71 ms
+Time of PR-RST module : 23.19 ms
+Time of update datastr : 5.95 ms
+----------------------------------------------------------------
+
+filename: com-Orkut.egr
+Delete batch Size: 1000
+Depth of graph: 8
+Total execution time of all functions: 138.491 ms.
+
+Function execution times:
+Time of simple BFS : 59.20 ms
+Time of Adam_BFS : 29.92 ms
+Time of PR-RST module : 23.76 ms
+Time of CC : 18.61 ms
+Time of update datastr : 7.00 ms
+----------------------------------------------------------------

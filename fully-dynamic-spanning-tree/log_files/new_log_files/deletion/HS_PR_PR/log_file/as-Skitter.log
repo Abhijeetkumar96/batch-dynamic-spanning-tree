@@ -1,0 +1,620 @@
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100000
+Time of (15)PR Loop : 7.283000 ms 
+Time of (9)Hooking Shortcutting : 4.47600 ms 
+Time of (17)PR Shortcut : 3.13100 ms 
+Time of (3)Edge Deletion : 2.62000 ms 
+Time of (18)PR Reverse Paths : 1.37600 ms 
+Time of (1)Get key rem collections : 1.26700 ms 
+Time of (0)Extracting Roots : 0.54900 ms 
+Time of (6)Get key rem collections : 0.46700 ms 
+Time of (12)Transedges prefix : 0.46200 ms 
+Time of (8)Shortcut rep : 0.45600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.38300 ms 
+Time of (5)Generate new edges : 0.37400 ms 
+Time of (2)Convert to collection : 0.27100 ms 
+Time of (7)Convert to collection : 0.26800 ms 
+Time of (16)Component Parent, Reversals : 0.25500 ms 
+Time of (4)Remove edges : 0.21700 ms 
+Time of (10)Compress Graph : 0.07400 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 23.95500 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100000
+Time of (15)PR Loop : 7.339000 ms 
+Time of (9)Hooking Shortcutting : 4.53300 ms 
+Time of (17)PR Shortcut : 3.15900 ms 
+Time of (3)Edge Deletion : 2.49300 ms 
+Time of (18)PR Reverse Paths : 1.38400 ms 
+Time of (1)Get key rem collections : 1.27700 ms 
+Time of (0)Extracting Roots : 0.60500 ms 
+Time of (12)Transedges prefix : 0.49500 ms 
+Time of (8)Shortcut rep : 0.44600 ms 
+Time of (6)Get key rem collections : 0.43600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37900 ms 
+Time of (5)Generate new edges : 0.37400 ms 
+Time of (2)Convert to collection : 0.27200 ms 
+Time of (7)Convert to collection : 0.27100 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (4)Remove edges : 0.21500 ms 
+Time of (10)Compress Graph : 0.07800 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 24.03500 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100000
+Time of (15)PR Loop : 5.163000 ms 
+Time of (9)Hooking Shortcutting : 4.03800 ms 
+Time of (3)Edge Deletion : 3.27000 ms 
+Time of (17)PR Shortcut : 3.13800 ms 
+Time of (18)PR Reverse Paths : 1.37400 ms 
+Time of (1)Get key rem collections : 1.28400 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (6)Get key rem collections : 0.48500 ms 
+Time of (12)Transedges prefix : 0.46900 ms 
+Time of (8)Shortcut rep : 0.44900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.38200 ms 
+Time of (5)Generate new edges : 0.37500 ms 
+Time of (2)Convert to collection : 0.27400 ms 
+Time of (7)Convert to collection : 0.26900 ms 
+Time of (4)Remove edges : 0.25800 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (10)Compress Graph : 0.07600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 22.12200 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 5.848000 ms 
+Time of (15)PR Loop : 5.14800 ms 
+Time of (17)PR Shortcut : 3.13700 ms 
+Time of (3)Edge Deletion : 2.69100 ms 
+Time of (18)PR Reverse Paths : 1.36900 ms 
+Time of (1)Get key rem collections : 1.31600 ms 
+Time of (0)Extracting Roots : 0.54400 ms 
+Time of (6)Get key rem collections : 0.48300 ms 
+Time of (12)Transedges prefix : 0.48100 ms 
+Time of (8)Shortcut rep : 0.43800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37400 ms 
+Time of (5)Generate new edges : 0.37100 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (7)Convert to collection : 0.26700 ms 
+Time of (16)Component Parent, Reversals : 0.25200 ms 
+Time of (4)Remove edges : 0.22000 ms 
+Time of (10)Compress Graph : 0.07900 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 23.32100 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 5.447000 ms 
+Time of (15)PR Loop : 5.18100 ms 
+Time of (17)PR Shortcut : 3.11400 ms 
+Time of (3)Edge Deletion : 2.60000 ms 
+Time of (18)PR Reverse Paths : 1.37300 ms 
+Time of (1)Get key rem collections : 1.32900 ms 
+Time of (0)Extracting Roots : 0.54600 ms 
+Time of (6)Get key rem collections : 0.50300 ms 
+Time of (12)Transedges prefix : 0.46700 ms 
+Time of (8)Shortcut rep : 0.43900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37800 ms 
+Time of (5)Generate new edges : 0.37300 ms 
+Time of (2)Convert to collection : 0.27500 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.25500 ms 
+Time of (4)Remove edges : 0.21700 ms 
+Time of (10)Compress Graph : 0.07700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 22.86900 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 10000
+Time of (17)PR Shortcut : 3.106000 ms 
+Time of (9)Hooking Shortcutting : 2.59900 ms 
+Time of (3)Edge Deletion : 2.52500 ms 
+Time of (15)PR Loop : 1.73400 ms 
+Time of (18)PR Reverse Paths : 1.30500 ms 
+Time of (1)Get key rem collections : 1.27000 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (12)Transedges prefix : 0.46800 ms 
+Time of (8)Shortcut rep : 0.43700 ms 
+Time of (6)Get key rem collections : 0.42900 ms 
+Time of (5)Generate new edges : 0.37300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36000 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (4)Remove edges : 0.21000 ms 
+Time of (10)Compress Graph : 0.08000 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 16.25800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 10000
+Time of (17)PR Shortcut : 3.121000 ms 
+Time of (9)Hooking Shortcutting : 2.56700 ms 
+Time of (3)Edge Deletion : 2.51200 ms 
+Time of (15)PR Loop : 2.26500 ms 
+Time of (18)PR Reverse Paths : 1.30200 ms 
+Time of (1)Get key rem collections : 1.30200 ms 
+Time of (0)Extracting Roots : 0.54500 ms 
+Time of (12)Transedges prefix : 0.46500 ms 
+Time of (8)Shortcut rep : 0.43300 ms 
+Time of (6)Get key rem collections : 0.43100 ms 
+Time of (5)Generate new edges : 0.37400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35800 ms 
+Time of (2)Convert to collection : 0.27100 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.25300 ms 
+Time of (4)Remove edges : 0.21000 ms 
+Time of (10)Compress Graph : 0.08600 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 16.79600 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 3.782000 ms 
+Time of (17)PR Shortcut : 3.15700 ms 
+Time of (3)Edge Deletion : 2.53100 ms 
+Time of (15)PR Loop : 1.70700 ms 
+Time of (18)PR Reverse Paths : 1.30100 ms 
+Time of (1)Get key rem collections : 1.25800 ms 
+Time of (0)Extracting Roots : 0.54300 ms 
+Time of (12)Transedges prefix : 0.46700 ms 
+Time of (8)Shortcut rep : 0.44100 ms 
+Time of (6)Get key rem collections : 0.42600 ms 
+Time of (5)Generate new edges : 0.37300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35700 ms 
+Time of (2)Convert to collection : 0.27700 ms 
+Time of (7)Convert to collection : 0.26900 ms 
+Time of (16)Component Parent, Reversals : 0.24800 ms 
+Time of (4)Remove edges : 0.20900 ms 
+Time of (10)Compress Graph : 0.08900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 17.46100 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 10000
+Time of (17)PR Shortcut : 3.126000 ms 
+Time of (9)Hooking Shortcutting : 2.51600 ms 
+Time of (3)Edge Deletion : 2.49500 ms 
+Time of (1)Get key rem collections : 1.35100 ms 
+Time of (18)PR Reverse Paths : 1.29100 ms 
+Time of (15)PR Loop : 1.21300 ms 
+Time of (0)Extracting Roots : 0.54800 ms 
+Time of (12)Transedges prefix : 0.50100 ms 
+Time of (8)Shortcut rep : 0.43200 ms 
+Time of (6)Get key rem collections : 0.43000 ms 
+Time of (5)Generate new edges : 0.37400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36100 ms 
+Time of (2)Convert to collection : 0.27700 ms 
+Time of (7)Convert to collection : 0.27300 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (4)Remove edges : 0.22900 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 15.76800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 3.785000 ms 
+Time of (17)PR Shortcut : 3.10000 ms 
+Time of (3)Edge Deletion : 2.54500 ms 
+Time of (15)PR Loop : 1.72100 ms 
+Time of (18)PR Reverse Paths : 1.30600 ms 
+Time of (1)Get key rem collections : 1.28000 ms 
+Time of (0)Extracting Roots : 0.56000 ms 
+Time of (12)Transedges prefix : 0.46600 ms 
+Time of (6)Get key rem collections : 0.43100 ms 
+Time of (8)Shortcut rep : 0.42900 ms 
+Time of (5)Generate new edges : 0.37100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35900 ms 
+Time of (2)Convert to collection : 0.27100 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.24900 ms 
+Time of (4)Remove edges : 0.22500 ms 
+Time of (10)Compress Graph : 0.08300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 17.47900 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100
+Time of (17)PR Shortcut : 3.141000 ms 
+Time of (3)Edge Deletion : 2.49300 ms 
+Time of (9)Hooking Shortcutting : 2.47700 ms 
+Time of (1)Get key rem collections : 1.26800 ms 
+Time of (18)PR Reverse Paths : 1.24900 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (12)Transedges prefix : 0.46600 ms 
+Time of (6)Get key rem collections : 0.43400 ms 
+Time of (8)Shortcut rep : 0.42700 ms 
+Time of (15)PR Loop : 0.40400 ms 
+Time of (5)Generate new edges : 0.37100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35600 ms 
+Time of (2)Convert to collection : 0.27800 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.24500 ms 
+Time of (4)Remove edges : 0.21400 ms 
+Time of (10)Compress Graph : 0.07300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time (total): 14.73300 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100
+Time of (17)PR Shortcut : 3.091000 ms 
+Time of (3)Edge Deletion : 2.66700 ms 
+Time of (1)Get key rem collections : 1.27800 ms 
+Time of (18)PR Reverse Paths : 1.24400 ms 
+Time of (9)Hooking Shortcutting : 1.23000 ms 
+Time of (0)Extracting Roots : 0.54600 ms 
+Time of (12)Transedges prefix : 0.47500 ms 
+Time of (6)Get key rem collections : 0.43800 ms 
+Time of (8)Shortcut rep : 0.42900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37800 ms 
+Time of (5)Generate new edges : 0.37500 ms 
+Time of (15)PR Loop : 0.35900 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (7)Convert to collection : 0.27100 ms 
+Time of (16)Component Parent, Reversals : 0.24600 ms 
+Time of (4)Remove edges : 0.20800 ms 
+Time of (10)Compress Graph : 0.08900 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 13.62500 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100
+Time of (17)PR Shortcut : 3.165000 ms 
+Time of (3)Edge Deletion : 2.47700 ms 
+Time of (9)Hooking Shortcutting : 1.63800 ms 
+Time of (1)Get key rem collections : 1.39700 ms 
+Time of (18)PR Reverse Paths : 1.25500 ms 
+Time of (0)Extracting Roots : 0.56100 ms 
+Time of (12)Transedges prefix : 0.48100 ms 
+Time of (6)Get key rem collections : 0.44800 ms 
+Time of (8)Shortcut rep : 0.43200 ms 
+Time of (5)Generate new edges : 0.37500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35800 ms 
+Time of (15)PR Loop : 0.35800 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (7)Convert to collection : 0.27200 ms 
+Time of (16)Component Parent, Reversals : 0.24800 ms 
+Time of (4)Remove edges : 0.20400 ms 
+Time of (10)Compress Graph : 0.11000 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 14.07700 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100
+Time of (17)PR Shortcut : 3.106000 ms 
+Time of (3)Edge Deletion : 2.31900 ms 
+Time of (1)Get key rem collections : 1.27600 ms 
+Time of (18)PR Reverse Paths : 1.24800 ms 
+Time of (9)Hooking Shortcutting : 1.18300 ms 
+Time of (0)Extracting Roots : 0.55400 ms 
+Time of (12)Transedges prefix : 0.46800 ms 
+Time of (8)Shortcut rep : 0.43900 ms 
+Time of (6)Get key rem collections : 0.42900 ms 
+Time of (5)Generate new edges : 0.37500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35500 ms 
+Time of (15)PR Loop : 0.30900 ms 
+Time of (2)Convert to collection : 0.27400 ms 
+Time of (7)Convert to collection : 0.27100 ms 
+Time of (16)Component Parent, Reversals : 0.23800 ms 
+Time of (4)Remove edges : 0.21500 ms 
+Time of (10)Compress Graph : 0.08100 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 13.16900 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 100
+Time of (17)PR Shortcut : 3.108000 ms 
+Time of (3)Edge Deletion : 2.49700 ms 
+Time of (9)Hooking Shortcutting : 1.59400 ms 
+Time of (1)Get key rem collections : 1.33600 ms 
+Time of (18)PR Reverse Paths : 1.25000 ms 
+Time of (0)Extracting Roots : 0.53700 ms 
+Time of (12)Transedges prefix : 0.46700 ms 
+Time of (6)Get key rem collections : 0.43000 ms 
+Time of (8)Shortcut rep : 0.42800 ms 
+Time of (5)Generate new edges : 0.37300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35200 ms 
+Time of (15)PR Loop : 0.35200 ms 
+Time of (2)Convert to collection : 0.27400 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (4)Remove edges : 0.25400 ms 
+Time of (16)Component Parent, Reversals : 0.24500 ms 
+Time of (10)Compress Graph : 0.12500 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 13.92200 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 1000
+Time of (17)PR Shortcut : 3.124000 ms 
+Time of (3)Edge Deletion : 2.51700 ms 
+Time of (9)Hooking Shortcutting : 2.45700 ms 
+Time of (1)Get key rem collections : 1.34200 ms 
+Time of (18)PR Reverse Paths : 1.27100 ms 
+Time of (12)Transedges prefix : 0.54600 ms 
+Time of (15)PR Loop : 0.54200 ms 
+Time of (0)Extracting Roots : 0.53700 ms 
+Time of (6)Get key rem collections : 0.44800 ms 
+Time of (8)Shortcut rep : 0.44100 ms 
+Time of (5)Generate new edges : 0.37200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35400 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (4)Remove edges : 0.25100 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (10)Compress Graph : 0.07500 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (11)Get compressed list : 0.00700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time (total): 15.09000 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 1000
+Time of (17)PR Shortcut : 3.144000 ms 
+Time of (3)Edge Deletion : 2.53300 ms 
+Time of (9)Hooking Shortcutting : 2.04500 ms 
+Time of (1)Get key rem collections : 1.28300 ms 
+Time of (18)PR Reverse Paths : 1.24800 ms 
+Time of (0)Extracting Roots : 0.56100 ms 
+Time of (12)Transedges prefix : 0.50300 ms 
+Time of (15)PR Loop : 0.49700 ms 
+Time of (8)Shortcut rep : 0.43200 ms 
+Time of (6)Get key rem collections : 0.43200 ms 
+Time of (5)Generate new edges : 0.37200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36200 ms 
+Time of (2)Convert to collection : 0.27000 ms 
+Time of (7)Convert to collection : 0.26900 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (4)Remove edges : 0.20400 ms 
+Time of (10)Compress Graph : 0.07200 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 14.50800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 1000
+Time of (17)PR Shortcut : 3.043000 ms 
+Time of (3)Edge Deletion : 2.51700 ms 
+Time of (9)Hooking Shortcutting : 1.62700 ms 
+Time of (18)PR Reverse Paths : 1.27000 ms 
+Time of (1)Get key rem collections : 1.26800 ms 
+Time of (15)PR Loop : 0.54300 ms 
+Time of (0)Extracting Roots : 0.54200 ms 
+Time of (12)Transedges prefix : 0.47300 ms 
+Time of (8)Shortcut rep : 0.43300 ms 
+Time of (6)Get key rem collections : 0.42900 ms 
+Time of (5)Generate new edges : 0.37300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36200 ms 
+Time of (7)Convert to collection : 0.27000 ms 
+Time of (2)Convert to collection : 0.27000 ms 
+Time of (16)Component Parent, Reversals : 0.23900 ms 
+Time of (4)Remove edges : 0.21000 ms 
+Time of (10)Compress Graph : 0.07300 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 13.97000 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 1000
+Time of (17)PR Shortcut : 3.166000 ms 
+Time of (3)Edge Deletion : 2.51400 ms 
+Time of (9)Hooking Shortcutting : 2.03600 ms 
+Time of (18)PR Reverse Paths : 1.26700 ms 
+Time of (1)Get key rem collections : 1.26400 ms 
+Time of (0)Extracting Roots : 0.54800 ms 
+Time of (15)PR Loop : 0.54500 ms 
+Time of (12)Transedges prefix : 0.49100 ms 
+Time of (6)Get key rem collections : 0.43400 ms 
+Time of (8)Shortcut rep : 0.43100 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37700 ms 
+Time of (5)Generate new edges : 0.37400 ms 
+Time of (4)Remove edges : 0.29500 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (7)Convert to collection : 0.27100 ms 
+Time of (16)Component Parent, Reversals : 0.24800 ms 
+Time of (10)Compress Graph : 0.07200 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 14.63000 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 11096053
+Deleted : 1000
+Time of (17)PR Shortcut : 3.129000 ms 
+Time of (3)Edge Deletion : 2.53200 ms 
+Time of (9)Hooking Shortcutting : 2.41200 ms 
+Time of (1)Get key rem collections : 1.29600 ms 
+Time of (18)PR Reverse Paths : 1.24600 ms 
+Time of (0)Extracting Roots : 0.53700 ms 
+Time of (12)Transedges prefix : 0.49800 ms 
+Time of (15)PR Loop : 0.49300 ms 
+Time of (6)Get key rem collections : 0.43200 ms 
+Time of (8)Shortcut rep : 0.43100 ms 
+Time of (5)Generate new edges : 0.37500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35700 ms 
+Time of (7)Convert to collection : 0.27300 ms 
+Time of (2)Convert to collection : 0.27200 ms 
+Time of (16)Component Parent, Reversals : 0.24500 ms 
+Time of (4)Remove edges : 0.21000 ms 
+Time of (10)Compress Graph : 0.07300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 14.83700 ms 
+--------------------------------------------------------

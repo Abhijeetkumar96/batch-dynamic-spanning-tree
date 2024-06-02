@@ -1,0 +1,420 @@
+
+
+filename: soc-LiveJournal1.egr
+Root: 1041822
+Number of deleted tree edges: 5312
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 1041822
+Root: 1041822
+After repairing:
+Total execution time of all functions: 18.4734 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.17 ms
+Time of Super graph Creation : 1.65 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 4819663
+Number of deleted tree edges: 5487
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 4819663
+Root: 4819663
+After repairing:
+Total execution time of all functions: 19.6484 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.70 ms
+Time of Super graph Creation : 2.30 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3312972
+Number of deleted tree edges: 5455
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 3312972
+Root: 3312972
+After repairing:
+Total execution time of all functions: 18.4806 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.04 ms
+Time of Super graph Creation : 1.79 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 2376987
+Number of deleted tree edges: 5316
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 2376987
+Root: 2376987
+After repairing:
+Total execution time of all functions: 18.4811 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.69 ms
+Time of Super graph Creation : 2.14 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 2999831
+Number of deleted tree edges: 5389
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100000
+
+Root: 2999831
+Root: 2999831
+After repairing:
+Total execution time of all functions: 18.481 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.11 ms
+Time of Super graph Creation : 1.71 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 1357409
+Number of deleted tree edges: 544
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 1357409
+Root: 1357409
+After repairing:
+Total execution time of all functions: 17.419 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.68 ms
+Time of Super graph Creation : 1.09 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3081362
+Number of deleted tree edges: 550
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 3081362
+Root: 3081362
+After repairing:
+Total execution time of all functions: 18.4571 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.13 ms
+Time of Super graph Creation : 1.68 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3100718
+Number of deleted tree edges: 559
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 3100718
+Root: 3100718
+After repairing:
+Total execution time of all functions: 18.4589 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.00 ms
+Time of Super graph Creation : 1.81 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.57 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 1992419
+Number of deleted tree edges: 520
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 1992419
+Root: 1992419
+After repairing:
+Total execution time of all functions: 18.4677 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.16 ms
+Time of Super graph Creation : 1.65 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3517201
+Number of deleted tree edges: 445
+numVert: 4847571, num_edges: 85706224 and delete batch size: 10000
+
+Root: 3517201
+Root: 3517201
+After repairing:
+Total execution time of all functions: 18.4641 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.34 ms
+Time of Super graph Creation : 1.47 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 2674963
+Number of deleted tree edges: 8
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 2674963
+Root: 2674963
+After repairing:
+Total execution time of all functions: 17.411 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.60 ms
+Time of Super graph Creation : 1.16 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 2994493
+Number of deleted tree edges: 8
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 2994493
+Root: 2994493
+After repairing:
+Total execution time of all functions: 18.4681 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.04 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.78 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 4454239
+Number of deleted tree edges: 3
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 4454239
+Root: 4454239
+After repairing:
+Total execution time of all functions: 16.3585 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.45 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Super graph Creation : 0.26 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 490374
+Number of deleted tree edges: 7
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 490374
+Root: 490374
+After repairing:
+Total execution time of all functions: 18.4624 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.87 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.93 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 399146
+Number of deleted tree edges: 6
+numVert: 4847571, num_edges: 85706224 and delete batch size: 100
+
+Root: 399146
+Root: 399146
+After repairing:
+Total execution time of all functions: 17.4145 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.23 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Super graph Creation : 0.52 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 4780800
+Number of deleted tree edges: 43
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 4780800
+Root: 4780800
+After repairing:
+Total execution time of all functions: 17.4077 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.89 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.87 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 3156127
+Number of deleted tree edges: 56
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 3156127
+Root: 3156127
+After repairing:
+Total execution time of all functions: 17.412 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.15 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.60 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 1645398
+Number of deleted tree edges: 52
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 1645398
+Root: 1645398
+After repairing:
+Total execution time of all functions: 17.4188 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.12 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.64 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 1790412
+Number of deleted tree edges: 60
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 1790412
+Root: 1790412
+After repairing:
+Total execution time of all functions: 16.3619 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.49 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Super graph Creation : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: soc-LiveJournal1.egr
+Root: 1227662
+Number of deleted tree edges: 70
+numVert: 4847571, num_edges: 85706224 and delete batch size: 1000
+
+Root: 1227662
+Root: 1227662
+After repairing:
+Total execution time of all functions: 17.41 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.12 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.64 ms
+Time of Pointer Jumping : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

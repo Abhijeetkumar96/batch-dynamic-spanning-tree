@@ -83,7 +83,7 @@ public:
     void read_delete_batch(const std::string& delete_filename, std::vector<int>& parent);
     void create_hashtable_();
     void destroy_hashtable_();
-
+    void print_stats();
     ~dynamic_tree_manager();
 };
 

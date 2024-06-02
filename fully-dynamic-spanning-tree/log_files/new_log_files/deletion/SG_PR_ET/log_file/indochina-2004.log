@@ -1,0 +1,338 @@
+filename: indochina-2004.egr
+Number of deleted tree edges: 3854
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Total execution time of all functions: 113.878 ms.
+
+Function execution times:
+Time of Super graph Creation : 82.08 ms
+Time of Eulerian Tour : 23.65 ms
+Time of update data structure : 4.09 ms
+Time of PR-RST module : 2.16 ms
+Time of Pointer Jumping : 1.68 ms
+Time of Path Reversal : 0.18 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 4024
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Total execution time of all functions: 122.978 ms.
+
+Function execution times:
+Time of Super graph Creation : 90.59 ms
+Time of Eulerian Tour : 23.94 ms
+Time of update data structure : 4.02 ms
+Time of PR-RST module : 2.38 ms
+Time of Pointer Jumping : 1.84 ms
+Time of Path Reversal : 0.15 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 3970
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Total execution time of all functions: 102.98 ms.
+
+Function execution times:
+Time of Super graph Creation : 71.59 ms
+Time of Eulerian Tour : 23.31 ms
+Time of update data structure : 4.10 ms
+Time of PR-RST module : 1.95 ms
+Time of Pointer Jumping : 1.84 ms
+Time of Path Reversal : 0.16 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 3929
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Total execution time of all functions: 108.621 ms.
+
+Function execution times:
+Time of Super graph Creation : 73.91 ms
+Time of Eulerian Tour : 24.35 ms
+Time of update data structure : 6.31 ms
+Time of PR-RST module : 2.01 ms
+Time of Pointer Jumping : 1.84 ms
+Time of Path Reversal : 0.16 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 3909
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100000
+
+Total execution time of all functions: 117.977 ms.
+
+Function execution times:
+Time of Super graph Creation : 85.46 ms
+Time of Eulerian Tour : 24.16 ms
+Time of update data structure : 4.05 ms
+Time of PR-RST module : 2.30 ms
+Time of Pointer Jumping : 1.84 ms
+Time of Path Reversal : 0.14 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 396
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Total execution time of all functions: 110.946 ms.
+
+Function execution times:
+Time of Super graph Creation : 79.32 ms
+Time of Eulerian Tour : 23.70 ms
+Time of update data structure : 4.19 ms
+Time of PR-RST module : 1.79 ms
+Time of Pointer Jumping : 1.78 ms
+Time of Path Reversal : 0.12 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 370
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Total execution time of all functions: 116.567 ms.
+
+Function execution times:
+Time of Super graph Creation : 85.59 ms
+Time of Eulerian Tour : 23.78 ms
+Time of update data structure : 4.04 ms
+Time of Pointer Jumping : 1.78 ms
+Time of PR-RST module : 1.19 ms
+Time of Path Reversal : 0.15 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 379
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Total execution time of all functions: 105.883 ms.
+
+Function execution times:
+Time of Super graph Creation : 74.62 ms
+Time of Eulerian Tour : 24.44 ms
+Time of update data structure : 3.91 ms
+Time of Pointer Jumping : 1.79 ms
+Time of PR-RST module : 0.98 ms
+Time of Path Reversal : 0.11 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 364
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Total execution time of all functions: 111.402 ms.
+
+Function execution times:
+Time of Super graph Creation : 80.20 ms
+Time of Eulerian Tour : 23.90 ms
+Time of update data structure : 4.34 ms
+Time of Pointer Jumping : 1.79 ms
+Time of PR-RST module : 1.03 ms
+Time of Path Reversal : 0.11 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 377
+numVert: 7414866, num_edges: 301970226 and delete batch size: 10000
+
+Total execution time of all functions: 86.2972 ms.
+
+Function execution times:
+Time of Super graph Creation : 55.28 ms
+Time of Eulerian Tour : 23.53 ms
+Time of update data structure : 3.97 ms
+Time of Pointer Jumping : 1.78 ms
+Time of PR-RST module : 1.55 ms
+Time of Path Reversal : 0.13 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 3
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Total execution time of all functions: 70.9637 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.84 ms
+Time of Eulerian Tour : 23.93 ms
+Time of update data structure : 3.95 ms
+Time of Pointer Jumping : 1.78 ms
+Time of PR-RST module : 0.34 ms
+Time of Path Reversal : 0.10 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 3
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Total execution time of all functions: 70.7931 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.86 ms
+Time of Eulerian Tour : 23.78 ms
+Time of update data structure : 3.90 ms
+Time of Pointer Jumping : 1.77 ms
+Time of PR-RST module : 0.35 ms
+Time of Path Reversal : 0.10 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 3
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Total execution time of all functions: 72.6314 ms.
+
+Function execution times:
+Time of Super graph Creation : 39.18 ms
+Time of Eulerian Tour : 23.48 ms
+Time of update data structure : 4.01 ms
+Time of PR-RST module : 3.54 ms
+Time of Pointer Jumping : 1.93 ms
+Time of Path Reversal : 0.33 ms
+Time of Hash Table look up : 0.15 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 2
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Total execution time of all functions: 70.6331 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.71 ms
+Time of Eulerian Tour : 23.73 ms
+Time of update data structure : 3.93 ms
+Time of Pointer Jumping : 1.78 ms
+Time of PR-RST module : 0.35 ms
+Time of Path Reversal : 0.10 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 4
+numVert: 7414866, num_edges: 301970226 and delete batch size: 100
+
+Total execution time of all functions: 71.5284 ms.
+
+Function execution times:
+Time of Super graph Creation : 41.15 ms
+Time of Eulerian Tour : 24.20 ms
+Time of update data structure : 3.87 ms
+Time of Pointer Jumping : 1.78 ms
+Time of PR-RST module : 0.40 ms
+Time of Path Reversal : 0.10 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 46
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Total execution time of all functions: 84.7411 ms.
+
+Function execution times:
+Time of Super graph Creation : 54.00 ms
+Time of Eulerian Tour : 24.00 ms
+Time of update data structure : 4.02 ms
+Time of Pointer Jumping : 1.77 ms
+Time of PR-RST module : 0.80 ms
+Time of Path Reversal : 0.11 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 33
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Total execution time of all functions: 83.0319 ms.
+
+Function execution times:
+Time of Super graph Creation : 52.26 ms
+Time of Eulerian Tour : 23.74 ms
+Time of update data structure : 3.99 ms
+Time of Pointer Jumping : 1.77 ms
+Time of PR-RST module : 1.12 ms
+Time of Path Reversal : 0.10 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 30
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Total execution time of all functions: 87.8006 ms.
+
+Function execution times:
+Time of Super graph Creation : 57.38 ms
+Time of Eulerian Tour : 23.91 ms
+Time of update data structure : 4.06 ms
+Time of Pointer Jumping : 1.79 ms
+Time of PR-RST module : 0.50 ms
+Time of Path Reversal : 0.11 ms
+Time of Update rep array : 0.03 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 39
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Total execution time of all functions: 84.3465 ms.
+
+Function execution times:
+Time of Super graph Creation : 54.03 ms
+Time of Eulerian Tour : 23.68 ms
+Time of update data structure : 3.99 ms
+Time of Pointer Jumping : 1.78 ms
+Time of PR-RST module : 0.76 ms
+Time of Path Reversal : 0.08 ms
+Time of Update rep array : 0.02 ms
+Time of Hash Table look up : 0.02 ms
+
+
+filename: indochina-2004.egr
+Number of deleted tree edges: 33
+numVert: 7414866, num_edges: 301970226 and delete batch size: 1000
+
+Total execution time of all functions: 71.2026 ms.
+
+Function execution times:
+Time of Super graph Creation : 41.50 ms
+Time of Eulerian Tour : 23.20 ms
+Time of update data structure : 3.99 ms
+Time of Pointer Jumping : 1.78 ms
+Time of PR-RST module : 0.59 ms
+Time of Path Reversal : 0.10 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms

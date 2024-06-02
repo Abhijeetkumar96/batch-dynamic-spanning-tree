@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+in-2004.egr,136,100,51.94,25.56,37.45
+in-2004.egr,136,1000,51.19,25.56,33.79
+in-2004.egr,136,10000,51.98,26.11,37.38
+in-2004.egr,136,100000,53.21,27.52,36.99

@@ -1,0 +1,940 @@
+
+
+filename: hugebubbles-00020.egr
+Root: 13141819
+The input parent array is a BFS tree.
+Number of deleted tree edges: 53078
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 13141819
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 87.8773 ms.
+
+Function execution times:
+Time of PR_Shortcut : 50.46 ms
+Time of Super graph Creation : 12.08 ms
+Time of Path Reversal : 10.87 ms
+Time of Pointer Jumping : 7.29 ms
+Time of PR-RST module : 5.48 ms
+Time of Update data structure : 1.18 ms
+Time of Finding unique comps : 0.45 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 38221
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 80.52 ms.
+
+Function execution times:
+Time of PR_Shortcut : 50.41 ms
+Time of Path Reversal : 11.01 ms
+Time of PR-RST module : 8.76 ms
+Time of Pointer Jumping : 7.22 ms
+Time of Super graph Creation : 2.04 ms
+Time of Finding unique comps : 1.04 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 2719
+
+
+filename: hugebubbles-00020.egr
+Root: 19593847
+The input parent array is a BFS tree.
+Number of deleted tree edges: 57540
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 19593847
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 89.0022 ms.
+
+Function execution times:
+Time of PR_Shortcut : 50.61 ms
+Time of Super graph Creation : 12.06 ms
+Time of Path Reversal : 10.87 ms
+Time of Pointer Jumping : 7.34 ms
+Time of PR-RST module : 6.46 ms
+Time of Update data structure : 1.17 ms
+Time of Finding unique comps : 0.46 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 42104
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 84.17 ms.
+
+Function execution times:
+Time of PR_Shortcut : 54.52 ms
+Time of Path Reversal : 11.01 ms
+Time of Pointer Jumping : 7.26 ms
+Time of PR-RST module : 7.23 ms
+Time of Super graph Creation : 3.07 ms
+Time of Finding unique comps : 1.04 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 3116
+
+
+filename: hugebubbles-00020.egr
+Root: 8661913
+The input parent array is a BFS tree.
+Number of deleted tree edges: 51355
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 8661913
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 88.8504 ms.
+
+Function execution times:
+Time of PR_Shortcut : 50.53 ms
+Time of Super graph Creation : 12.03 ms
+Time of Path Reversal : 10.88 ms
+Time of Pointer Jumping : 7.27 ms
+Time of PR-RST module : 6.49 ms
+Time of Update data structure : 1.15 ms
+Time of Finding unique comps : 0.45 ms
+Time of Hash Table look up : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 37072
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 74.55 ms.
+
+Function execution times:
+Time of PR_Shortcut : 46.66 ms
+Time of Path Reversal : 8.36 ms
+Time of PR-RST module : 8.13 ms
+Time of Pointer Jumping : 7.21 ms
+Time of Super graph Creation : 3.12 ms
+Time of Finding unique comps : 1.03 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 2714
+
+
+filename: hugebubbles-00020.egr
+Root: 8616857
+The input parent array is a BFS tree.
+Number of deleted tree edges: 32159
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 8616857
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 85.9616 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.94 ms
+Time of Super graph Creation : 11.96 ms
+Time of Path Reversal : 10.89 ms
+Time of Pointer Jumping : 7.10 ms
+Time of PR-RST module : 4.44 ms
+Time of Update data structure : 1.16 ms
+Time of Finding unique comps : 0.44 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 23387
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 71.29 ms.
+
+Function execution times:
+Time of PR_Shortcut : 46.26 ms
+Time of Path Reversal : 9.01 ms
+Time of PR-RST module : 5.67 ms
+Time of Pointer Jumping : 5.57 ms
+Time of Super graph Creation : 3.73 ms
+Time of Finding unique comps : 1.02 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1630
+
+
+filename: hugebubbles-00020.egr
+Root: 4737135
+The input parent array is a BFS tree.
+Number of deleted tree edges: 49781
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 4737135
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 87.7959 ms.
+
+Function execution times:
+Time of PR_Shortcut : 50.48 ms
+Time of Super graph Creation : 12.00 ms
+Time of Path Reversal : 10.87 ms
+Time of Pointer Jumping : 7.26 ms
+Time of PR-RST module : 5.54 ms
+Time of Update data structure : 1.15 ms
+Time of Finding unique comps : 0.45 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 35943
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 78.83 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.21 ms
+Time of Path Reversal : 11.01 ms
+Time of PR-RST module : 7.22 ms
+Time of Pointer Jumping : 7.19 ms
+Time of Super graph Creation : 3.14 ms
+Time of Finding unique comps : 1.03 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Executing validate part.
+numComp in the graph: 2508
+
+
+filename: hugebubbles-00020.egr
+Root: 19603773
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5612
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 19603773
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 85.0025 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.07 ms
+Time of Super graph Creation : 11.86 ms
+Time of Path Reversal : 9.92 ms
+Time of Pointer Jumping : 6.75 ms
+Time of PR-RST module : 5.88 ms
+Time of Update data structure : 1.07 ms
+Time of Finding unique comps : 0.41 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 4068
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 74.16 ms.
+
+Function execution times:
+Time of PR_Shortcut : 46.83 ms
+Time of Path Reversal : 10.03 ms
+Time of PR-RST module : 6.93 ms
+Time of Pointer Jumping : 6.06 ms
+Time of Super graph Creation : 3.27 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 63
+
+
+filename: hugebubbles-00020.egr
+Root: 10830877
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4412
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 10830877
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 83.6173 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.40 ms
+Time of Super graph Creation : 11.88 ms
+Time of Path Reversal : 10.25 ms
+Time of Pointer Jumping : 6.69 ms
+Time of PR-RST module : 3.82 ms
+Time of Update data structure : 1.13 ms
+Time of Finding unique comps : 0.41 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 3093
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 73.69 ms.
+
+Function execution times:
+Time of PR_Shortcut : 48.31 ms
+Time of Path Reversal : 10.41 ms
+Time of Pointer Jumping : 6.22 ms
+Time of PR-RST module : 4.62 ms
+Time of Super graph Creation : 3.10 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 35
+
+
+filename: hugebubbles-00020.egr
+Root: 19289415
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5626
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 19289415
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 84.6479 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.44 ms
+Time of Super graph Creation : 12.82 ms
+Time of Path Reversal : 10.19 ms
+Time of Pointer Jumping : 6.75 ms
+Time of PR-RST module : 3.94 ms
+Time of Update data structure : 1.07 ms
+Time of Finding unique comps : 0.42 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 4055
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 73.02 ms.
+
+Function execution times:
+Time of PR_Shortcut : 48.39 ms
+Time of Path Reversal : 10.32 ms
+Time of Pointer Jumping : 6.25 ms
+Time of PR-RST module : 3.95 ms
+Time of Super graph Creation : 3.06 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 73
+
+
+filename: hugebubbles-00020.egr
+Root: 20181155
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4535
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 20181155
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 83.454 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.31 ms
+Time of Super graph Creation : 11.86 ms
+Time of Path Reversal : 9.48 ms
+Time of Pointer Jumping : 6.71 ms
+Time of PR-RST module : 4.52 ms
+Time of Update data structure : 1.12 ms
+Time of Finding unique comps : 0.42 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 3260
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 69.81 ms.
+
+Function execution times:
+Time of PR_Shortcut : 45.53 ms
+Time of Path Reversal : 9.62 ms
+Time of Pointer Jumping : 5.73 ms
+Time of PR-RST module : 4.31 ms
+Time of Super graph Creation : 3.59 ms
+Time of Finding unique comps : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 42
+
+
+filename: hugebubbles-00020.egr
+Root: 4264991
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3211
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 4264991
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 82.8215 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.03 ms
+Time of Super graph Creation : 11.59 ms
+Time of Path Reversal : 9.84 ms
+Time of Pointer Jumping : 6.64 ms
+Time of PR-RST module : 4.18 ms
+Time of Update data structure : 1.08 ms
+Time of Finding unique comps : 0.42 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 2232
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 66.87 ms.
+
+Function execution times:
+Time of PR_Shortcut : 45.61 ms
+Time of Path Reversal : 9.44 ms
+Time of Pointer Jumping : 5.55 ms
+Time of PR-RST module : 3.59 ms
+Time of Super graph Creation : 1.64 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 37
+
+
+filename: hugebubbles-00020.egr
+Root: 2857744
+The input parent array is a BFS tree.
+Number of deleted tree edges: 7
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 2857744
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 78.6791 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.21 ms
+Time of Path Reversal : 10.85 ms
+Time of Super graph Creation : 10.45 ms
+Time of Pointer Jumping : 6.13 ms
+Time of Update data structure : 1.11 ms
+Time of PR-RST module : 0.61 ms
+Time of Finding unique comps : 0.29 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 6
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 69.12 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.16 ms
+Time of Path Reversal : 11.01 ms
+Time of Pointer Jumping : 6.16 ms
+Time of Super graph Creation : 1.17 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.59 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 20176651
+The input parent array is a BFS tree.
+Number of deleted tree edges: 50
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 20176651
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 79.583 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.72 ms
+Time of Path Reversal : 10.88 ms
+Time of Super graph Creation : 10.54 ms
+Time of Pointer Jumping : 6.15 ms
+Time of Update data structure : 1.05 ms
+Time of PR-RST module : 0.92 ms
+Time of Finding unique comps : 0.30 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 40
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 59.77 ms.
+
+Function execution times:
+Time of PR_Shortcut : 42.67 ms
+Time of Path Reversal : 8.46 ms
+Time of Pointer Jumping : 6.18 ms
+Time of PR-RST module : 1.24 ms
+Time of Finding unique comps : 1.04 ms
+Time of Super graph Creation : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 20309961
+The input parent array is a BFS tree.
+Number of deleted tree edges: 59
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 20309961
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 79.4058 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.57 ms
+Time of Path Reversal : 10.87 ms
+Time of Super graph Creation : 10.55 ms
+Time of Pointer Jumping : 6.14 ms
+Time of Update data structure : 1.07 ms
+Time of PR-RST module : 0.87 ms
+Time of Finding unique comps : 0.29 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 45
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 59.09 ms.
+
+Function execution times:
+Time of PR_Shortcut : 42.48 ms
+Time of Path Reversal : 8.41 ms
+Time of Pointer Jumping : 6.15 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.87 ms
+Time of Super graph Creation : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 18843457
+The input parent array is a BFS tree.
+Number of deleted tree edges: 61
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 18843457
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 78.7021 ms.
+
+Function execution times:
+Time of PR_Shortcut : 48.31 ms
+Time of Path Reversal : 10.86 ms
+Time of Super graph Creation : 10.61 ms
+Time of Pointer Jumping : 6.14 ms
+Time of Update data structure : 1.24 ms
+Time of PR-RST module : 1.21 ms
+Time of Finding unique comps : 0.30 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 45
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 59.40 ms.
+
+Function execution times:
+Time of PR_Shortcut : 42.83 ms
+Time of Path Reversal : 8.36 ms
+Time of Pointer Jumping : 6.16 ms
+Time of Finding unique comps : 1.03 ms
+Time of PR-RST module : 0.85 ms
+Time of Super graph Creation : 0.15 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 20555906
+The input parent array is a BFS tree.
+Number of deleted tree edges: 38
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 20555906
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 79.6005 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.42 ms
+Time of Path Reversal : 10.86 ms
+Time of Super graph Creation : 10.58 ms
+Time of Pointer Jumping : 6.13 ms
+Time of PR-RST module : 1.21 ms
+Time of Update data structure : 1.08 ms
+Time of Finding unique comps : 0.29 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 23
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 59.90 ms.
+
+Function execution times:
+Time of PR_Shortcut : 43.34 ms
+Time of Path Reversal : 8.64 ms
+Time of Pointer Jumping : 5.23 ms
+Time of Super graph Creation : 1.01 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.65 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 16277008
+The input parent array is a BFS tree.
+Number of deleted tree edges: 322
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 16277008
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 80.1629 ms.
+
+Function execution times:
+Time of PR_Shortcut : 48.84 ms
+Time of Super graph Creation : 11.15 ms
+Time of Path Reversal : 10.86 ms
+Time of Pointer Jumping : 6.23 ms
+Time of PR-RST module : 1.61 ms
+Time of Update data structure : 1.07 ms
+Time of Finding unique comps : 0.38 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 237
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 70.23 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.10 ms
+Time of Path Reversal : 11.00 ms
+Time of Pointer Jumping : 6.22 ms
+Time of PR-RST module : 1.86 ms
+Time of Super graph Creation : 1.02 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 20527637
+The input parent array is a BFS tree.
+Number of deleted tree edges: 509
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 20527637
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 79.2672 ms.
+
+Function execution times:
+Time of PR_Shortcut : 48.19 ms
+Time of Super graph Creation : 11.18 ms
+Time of Path Reversal : 10.87 ms
+Time of Pointer Jumping : 6.32 ms
+Time of PR-RST module : 1.21 ms
+Time of Update data structure : 1.08 ms
+Time of Finding unique comps : 0.38 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 365
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 71.94 ms.
+
+Function execution times:
+Time of PR_Shortcut : 50.03 ms
+Time of Path Reversal : 11.01 ms
+Time of Pointer Jumping : 6.32 ms
+Time of PR-RST module : 2.63 ms
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.91 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 3012542
+The input parent array is a BFS tree.
+Number of deleted tree edges: 584
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 3012542
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 81.1847 ms.
+
+Function execution times:
+Time of PR_Shortcut : 48.95 ms
+Time of Super graph Creation : 11.13 ms
+Time of Path Reversal : 10.87 ms
+Time of Pointer Jumping : 6.34 ms
+Time of PR-RST module : 2.38 ms
+Time of Update data structure : 1.07 ms
+Time of Finding unique comps : 0.40 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 414
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 70.17 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.70 ms
+Time of Path Reversal : 11.02 ms
+Time of Pointer Jumping : 6.33 ms
+Time of PR-RST module : 1.19 ms
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 0.89 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 3
+
+
+filename: hugebubbles-00020.egr
+Root: 311064
+The input parent array is a BFS tree.
+Number of deleted tree edges: 593
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 311064
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 81.8046 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.67 ms
+Time of Super graph Creation : 11.11 ms
+Time of Path Reversal : 10.87 ms
+Time of Pointer Jumping : 6.36 ms
+Time of PR-RST module : 2.31 ms
+Time of Update data structure : 1.07 ms
+Time of Finding unique comps : 0.39 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 429
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 61.96 ms.
+
+Function execution times:
+Time of PR_Shortcut : 44.35 ms
+Time of Path Reversal : 9.01 ms
+Time of Pointer Jumping : 5.04 ms
+Time of PR-RST module : 1.40 ms
+Time of Super graph Creation : 1.13 ms
+Time of Finding unique comps : 1.01 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: hugebubbles-00020.egr
+Root: 10947475
+The input parent array is a BFS tree.
+Number of deleted tree edges: 318
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 10947475
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 81.8626 ms.
+
+Function execution times:
+Time of PR_Shortcut : 49.62 ms
+Time of Super graph Creation : 11.11 ms
+Time of Path Reversal : 10.87 ms
+Time of Pointer Jumping : 6.25 ms
+Time of Update data structure : 1.97 ms
+Time of PR-RST module : 1.64 ms
+Time of Finding unique comps : 0.37 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 229
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 62.51 ms.
+
+Function execution times:
+Time of PR_Shortcut : 43.54 ms
+Time of Path Reversal : 8.36 ms
+Time of Pointer Jumping : 6.25 ms
+Time of PR-RST module : 2.33 ms
+Time of Finding unique comps : 1.00 ms
+Time of Super graph Creation : 1.00 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2

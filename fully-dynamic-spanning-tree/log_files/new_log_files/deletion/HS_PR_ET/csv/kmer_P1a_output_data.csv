@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+kmer_P1a.txt,100,601.614
+kmer_P1a.txt,100,611.234
+kmer_P1a.txt,100,590.565
+kmer_P1a.txt,100,599.942
+kmer_P1a.txt,100,579.878
+kmer_P1a.txt,1000,580.011
+kmer_P1a.txt,1000,597.197
+kmer_P1a.txt,1000,563.092
+kmer_P1a.txt,1000,639.494
+kmer_P1a.txt,1000,637.338
+kmer_P1a.txt,10000,616.91
+kmer_P1a.txt,10000,622.241
+kmer_P1a.txt,10000,629.552
+kmer_P1a.txt,10000,650.261
+kmer_P1a.txt,10000,634.493
+kmer_P1a.txt,100000,634.322
+kmer_P1a.txt,100000,695.688
+kmer_P1a.txt,100000,638.404
+kmer_P1a.txt,100000,662.055
+kmer_P1a.txt,100000,663.334

@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+sx-stackoverflow.txt,100,22.082
+sx-stackoverflow.txt,100,23.521
+sx-stackoverflow.txt,100,23.206
+sx-stackoverflow.txt,100,21.523
+sx-stackoverflow.txt,100,25.313
+sx-stackoverflow.txt,1000,29.494
+sx-stackoverflow.txt,1000,22.666
+sx-stackoverflow.txt,1000,28.491
+sx-stackoverflow.txt,1000,28.796
+sx-stackoverflow.txt,1000,22.742
+sx-stackoverflow.txt,10000,24.368
+sx-stackoverflow.txt,10000,32.741
+sx-stackoverflow.txt,10000,26.805
+sx-stackoverflow.txt,10000,33.782
+sx-stackoverflow.txt,10000,28.52
+sx-stackoverflow.txt,100000,47.457
+sx-stackoverflow.txt,100000,35.626
+sx-stackoverflow.txt,100000,35.247
+sx-stackoverflow.txt,100000,42.249
+sx-stackoverflow.txt,100000,48.083

@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+hugebubbles-00020.txt,100,106.248
+hugebubbles-00020.txt,100,107.51
+hugebubbles-00020.txt,100,109.791
+hugebubbles-00020.txt,100,103.592
+hugebubbles-00020.txt,100,102.062
+hugebubbles-00020.txt,1000,108.082
+hugebubbles-00020.txt,1000,103.413
+hugebubbles-00020.txt,1000,105.134
+hugebubbles-00020.txt,1000,108.195
+hugebubbles-00020.txt,1000,106.767
+hugebubbles-00020.txt,10000,110.291
+hugebubbles-00020.txt,10000,115.891
+hugebubbles-00020.txt,10000,106.746
+hugebubbles-00020.txt,10000,108.604
+hugebubbles-00020.txt,10000,117.623
+hugebubbles-00020.txt,100000,131.128
+hugebubbles-00020.txt,100000,122.019
+hugebubbles-00020.txt,100000,123.742
+hugebubbles-00020.txt,100000,121.989
+hugebubbles-00020.txt,100000,133.756

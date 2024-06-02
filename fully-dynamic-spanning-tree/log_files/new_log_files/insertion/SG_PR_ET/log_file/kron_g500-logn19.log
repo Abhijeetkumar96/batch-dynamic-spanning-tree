@@ -1,0 +1,420 @@
+
+
+filename: kron_g500-logn19.egr
+Root: 507300
+Number of deleted tree edges: 782
+numVert: 524288, num_edges: 43791852 and delete batch size: 100000
+
+Root: 507300
+Root: 507300
+After repairing:
+Total execution time of all functions: 7.62324 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.09 ms
+Time of Super graph Creation : 2.23 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 221115
+Number of deleted tree edges: 952
+numVert: 524288, num_edges: 43791852 and delete batch size: 100000
+
+Root: 221115
+Root: 221115
+After repairing:
+Total execution time of all functions: 7.61823 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.19 ms
+Time of Super graph Creation : 2.14 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 323408
+Number of deleted tree edges: 869
+numVert: 524288, num_edges: 43791852 and delete batch size: 100000
+
+Root: 323408
+Root: 323408
+After repairing:
+Total execution time of all functions: 7.61316 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.02 ms
+Time of Super graph Creation : 2.30 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 503805
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 100000
+
+Root: 503805
+Root: 503805
+After repairing:
+Total execution time of all functions: 7.62217 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.14 ms
+Time of Super graph Creation : 2.19 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 140730
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 100000
+
+Root: 140730
+Root: 140730
+After repairing:
+Total execution time of all functions: 7.62001 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.11 ms
+Time of Super graph Creation : 2.23 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 447811
+Number of deleted tree edges: 93
+numVert: 524288, num_edges: 43791852 and delete batch size: 10000
+
+Root: 447811
+Root: 447811
+After repairing:
+Total execution time of all functions: 6.55282 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.21 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.05 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 24765
+Number of deleted tree edges: 93
+numVert: 524288, num_edges: 43791852 and delete batch size: 10000
+
+Root: 24765
+Root: 24765
+After repairing:
+Total execution time of all functions: 6.55593 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.17 ms
+Time of Super graph Creation : 1.09 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 36900
+Number of deleted tree edges: 83
+numVert: 524288, num_edges: 43791852 and delete batch size: 10000
+
+Root: 36900
+Root: 36900
+After repairing:
+Total execution time of all functions: 6.55126 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.18 ms
+Time of Super graph Creation : 1.08 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 446391
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 10000
+
+Root: 446391
+Root: 446391
+After repairing:
+Total execution time of all functions: 6.55951 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.19 ms
+Time of Super graph Creation : 1.07 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 273711
+Number of deleted tree edges: 117
+numVert: 524288, num_edges: 43791852 and delete batch size: 10000
+
+Root: 273711
+Root: 273711
+After repairing:
+Total execution time of all functions: 6.55277 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.15 ms
+Time of Super graph Creation : 1.10 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 216332
+Number of deleted tree edges: 1
+numVert: 524288, num_edges: 43791852 and delete batch size: 100
+
+Root: 216332
+Root: 216332
+After repairing:
+Total execution time of all functions: 6.55192 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.19 ms
+Time of Super graph Creation : 1.07 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 114605
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 100
+
+Root: 114605
+Root: 114605
+After repairing:
+Total execution time of all functions: 6.5586 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.17 ms
+Time of Super graph Creation : 1.09 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 471933
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 100
+
+Root: 471933
+Root: 471933
+After repairing:
+Total execution time of all functions: 6.5587 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.14 ms
+Time of Super graph Creation : 1.13 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 373528
+Number of deleted tree edges: 2
+numVert: 524288, num_edges: 43791852 and delete batch size: 100
+
+Root: 373528
+Root: 373528
+After repairing:
+Total execution time of all functions: 6.55836 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.17 ms
+Time of Super graph Creation : 1.09 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 430704
+Number of deleted tree edges: 1
+numVert: 524288, num_edges: 43791852 and delete batch size: 100
+
+Root: 430704
+Root: 430704
+After repairing:
+Total execution time of all functions: 6.55627 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.16 ms
+Time of Super graph Creation : 1.10 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 431891
+Number of deleted tree edges: 14
+numVert: 524288, num_edges: 43791852 and delete batch size: 1000
+
+Root: 431891
+Root: 431891
+After repairing:
+Total execution time of all functions: 6.55799 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.08 ms
+Time of Super graph Creation : 1.18 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 57003
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 1000
+
+Root: 57003
+Root: 57003
+After repairing:
+Total execution time of all functions: 6.54861 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.12 ms
+Time of Super graph Creation : 1.15 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 194569
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 1000
+
+Root: 194569
+Root: 194569
+After repairing:
+Total execution time of all functions: 6.55289 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.18 ms
+Time of Super graph Creation : 1.08 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 181995
+Number of deleted tree edges: 6
+numVert: 524288, num_edges: 43791852 and delete batch size: 1000
+
+Root: 181995
+Root: 181995
+After repairing:
+Total execution time of all functions: 6.55459 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.21 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 1.05 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: kron_g500-logn19.egr
+Root: 161719
+Number of deleted tree edges: 0
+numVert: 524288, num_edges: 43791852 and delete batch size: 1000
+
+Root: 161719
+Root: 161719
+After repairing:
+Total execution time of all functions: 6.55267 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.15 ms
+Time of Super graph Creation : 1.12 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

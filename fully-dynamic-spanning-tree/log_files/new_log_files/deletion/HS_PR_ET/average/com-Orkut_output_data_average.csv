@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+com-Orkut.txt,100,45.59
+com-Orkut.txt,1000,52.7
+com-Orkut.txt,10000,61.4
+com-Orkut.txt,100000,72.16

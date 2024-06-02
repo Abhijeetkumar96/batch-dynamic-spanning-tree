@@ -1,0 +1,5 @@
+filename,depth_of_graph,delete_batch_size,simple_BFS,adam_BFS,PR_RST
+wiki-topcats.egr,10,100,98.77,18.87,42.75
+wiki-topcats.egr,10,1000,95.17,17.56,47.66
+wiki-topcats.egr,10,10000,98.18,18.68,40.97
+wiki-topcats.egr,10,100000,95.68,17.63,40.08

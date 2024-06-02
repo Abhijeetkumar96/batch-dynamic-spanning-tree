@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+GAP-road.txt,100,84.064
+GAP-road.txt,100,84.435
+GAP-road.txt,100,78.229
+GAP-road.txt,100,80.203
+GAP-road.txt,100,83.497
+GAP-road.txt,1000,86.455
+GAP-road.txt,1000,83.377
+GAP-road.txt,1000,80.718
+GAP-road.txt,1000,85.379
+GAP-road.txt,1000,81.784
+GAP-road.txt,10000,89.42
+GAP-road.txt,10000,88.911
+GAP-road.txt,10000,96.069
+GAP-road.txt,10000,90.429
+GAP-road.txt,10000,86.659
+GAP-road.txt,100000,91.866
+GAP-road.txt,100000,88.947
+GAP-road.txt,100000,99.619
+GAP-road.txt,100000,98.5
+GAP-road.txt,100000,93.478

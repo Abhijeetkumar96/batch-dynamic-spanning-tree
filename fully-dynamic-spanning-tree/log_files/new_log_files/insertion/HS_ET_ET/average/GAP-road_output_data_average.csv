@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+GAP-road.egr,23947347,57708624,100,67.8,53.74
+GAP-road.egr,23947347,57708624,1000,706.8,44.0
+GAP-road.egr,23947347,57708624,10000,6891.2,62.32
+GAP-road.egr,23947347,57708624,100000,73295.0,79.97

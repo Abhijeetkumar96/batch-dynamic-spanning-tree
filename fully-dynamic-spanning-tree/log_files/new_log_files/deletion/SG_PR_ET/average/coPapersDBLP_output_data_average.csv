@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+coPapersDBLP.egr,540486,30491458,100,2.0,14.12
+coPapersDBLP.egr,540486,30491458,1000,32.4,12.91
+coPapersDBLP.egr,540486,30491458,10000,335.2,11.89
+coPapersDBLP.egr,540486,30491458,100000,3365.0,13.26

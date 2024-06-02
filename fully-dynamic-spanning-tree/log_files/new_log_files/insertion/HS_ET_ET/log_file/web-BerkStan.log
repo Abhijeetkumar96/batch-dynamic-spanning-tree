@@ -1,0 +1,762 @@
+
+
+filename: web-BerkStan.egr
+Root: 383879
+The input parent array is a BFS tree.
+Number of deleted tree edges: 53476
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 383879
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 53001
+Number of cross-edges: 476
+Insertion into hashtable over.
+num of superComponents: 53477
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 53001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 53000
+Insertion into hashtable over.
+num of superComponents: 53001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 7.58925 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.83 ms
+Time of HS: Find Repl edges : 2.78 ms
+Time of Finding unique comps : 1.02 ms
+Time of Eulerian Tour : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 655845
+The input parent array is a BFS tree.
+Number of deleted tree edges: 58557
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 655845
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 58481
+Number of cross-edges: 77
+Insertion into hashtable over.
+num of superComponents: 58558
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 58481
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 58480
+Insertion into hashtable over.
+num of superComponents: 58481
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 9.06165 ms.
+
+Function execution times:
+Time of ET: Orientation : 3.92 ms
+Time of HS: Find Repl edges : 3.15 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.69 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 323607
+The input parent array is a BFS tree.
+Number of deleted tree edges: 58900
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 323607
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 58481
+Number of cross-edges: 420
+Insertion into hashtable over.
+num of superComponents: 58901
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 58481
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 58480
+Insertion into hashtable over.
+num of superComponents: 58481
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 7.5918 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.83 ms
+Time of HS: Find Repl edges : 2.74 ms
+Time of Finding unique comps : 1.02 ms
+Time of Eulerian Tour : 0.71 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 564014
+The input parent array is a BFS tree.
+Number of deleted tree edges: 59236
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 564014
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 58481
+Number of cross-edges: 756
+Insertion into hashtable over.
+num of superComponents: 59237
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 58481
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 58480
+Insertion into hashtable over.
+num of superComponents: 58481
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 7.49015 ms.
+
+Function execution times:
+Time of ET: Orientation : 2.83 ms
+Time of HS: Find Repl edges : 2.70 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.66 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 642611
+The input parent array is a BFS tree.
+Number of deleted tree edges: 50163
+numVert: 685230, num_edges: 13300290 and delete batch size: 100000
+
+Root: 642611
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 50001
+Number of cross-edges: 163
+Insertion into hashtable over.
+num of superComponents: 50164
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 50001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 50000
+Insertion into hashtable over.
+num of superComponents: 50001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 7.488 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 3.75 ms
+Time of ET: Orientation : 1.77 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.67 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 197658
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5842
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 197658
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5801
+Number of cross-edges: 42
+Insertion into hashtable over.
+num of superComponents: 5843
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5801
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5800
+Insertion into hashtable over.
+num of superComponents: 5801
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.51901 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.79 ms
+Time of ET: Orientation : 1.72 ms
+Time of Finding unique comps : 0.99 ms
+Time of Eulerian Tour : 0.73 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 654359
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5901
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 654359
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5901
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 5902
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5901
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5900
+Insertion into hashtable over.
+num of superComponents: 5901
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 6.03701 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.29 ms
+Time of ET: Orientation : 1.71 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.74 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 453879
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4058
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 453879
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 4001
+Number of cross-edges: 58
+Insertion into hashtable over.
+num of superComponents: 4059
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 4001
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4000
+Insertion into hashtable over.
+num of superComponents: 4001
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.09339 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.64 ms
+Time of ET: Orientation : 1.42 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.73 ms
+Time of Pointer Jumping : 0.24 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 489117
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4309
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 489117
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 4301
+Number of cross-edges: 9
+Insertion into hashtable over.
+num of superComponents: 4310
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 4301
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4300
+Insertion into hashtable over.
+num of superComponents: 4301
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.04482 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.56 ms
+Time of ET: Orientation : 1.44 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.75 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 293890
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5764
+numVert: 685230, num_edges: 13300290 and delete batch size: 10000
+
+Root: 293890
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 5700
+Number of cross-edges: 65
+Insertion into hashtable over.
+num of superComponents: 5765
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 5700
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5699
+Insertion into hashtable over.
+num of superComponents: 5700
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 5.7843 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 2.07 ms
+Time of ET: Orientation : 1.71 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.71 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 327115
+The input parent array is a BFS tree.
+Number of deleted tree edges: 56
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 327115
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 57
+Number of cross-edges: 0
+Input tree not connected. num_comp: 57
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 56
+Insertion into hashtable over.
+num of superComponents: 57
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.06261 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.86 ms
+Time of Eulerian Tour : 0.72 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 65583
+The input parent array is a BFS tree.
+Number of deleted tree edges: 60
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 65583
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 61
+Number of cross-edges: 0
+Input tree not connected. num_comp: 61
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 60
+Insertion into hashtable over.
+num of superComponents: 61
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.64357 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.46 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.70 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 624816
+The input parent array is a BFS tree.
+Number of deleted tree edges: 54
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 624816
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 55
+Number of cross-edges: 0
+Input tree not connected. num_comp: 55
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 54
+Insertion into hashtable over.
+num of superComponents: 55
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 2.79761 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.74 ms
+Time of HS: Find Repl edges : 0.56 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.21 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 220241
+The input parent array is a BFS tree.
+Number of deleted tree edges: 69
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 220241
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 70
+Number of cross-edges: 0
+Input tree not connected. num_comp: 70
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 69
+Insertion into hashtable over.
+num of superComponents: 70
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.18258 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.00 ms
+Time of HS: Find Repl edges : 0.95 ms
+Time of Eulerian Tour : 0.75 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.20 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 221990
+The input parent array is a BFS tree.
+Number of deleted tree edges: 50
+numVert: 685230, num_edges: 13300290 and delete batch size: 100
+
+Root: 221990
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 49
+Number of cross-edges: 2
+Insertion into hashtable over.
+num of superComponents: 51
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 49
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 48
+Insertion into hashtable over.
+num of superComponents: 49
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.09797 ms.
+
+Function execution times:
+Time of Finding unique comps : 1.01 ms
+Time of HS: Find Repl edges : 0.87 ms
+Time of Eulerian Tour : 0.74 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.19 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 452452
+The input parent array is a BFS tree.
+Number of deleted tree edges: 701
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 452452
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 701
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 702
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 701
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 700
+Insertion into hashtable over.
+num of superComponents: 701
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.63624 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.37 ms
+Time of Finding unique comps : 1.01 ms
+Time of Eulerian Tour : 0.75 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 631385
+The input parent array is a BFS tree.
+Number of deleted tree edges: 650
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 631385
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 651
+Number of cross-edges: 0
+Input tree not connected. num_comp: 651
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 650
+Insertion into hashtable over.
+num of superComponents: 651
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.57154 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.30 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.75 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.23 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 674867
+The input parent array is a BFS tree.
+Number of deleted tree edges: 480
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 674867
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 481
+Number of cross-edges: 0
+Input tree not connected. num_comp: 481
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 480
+Insertion into hashtable over.
+num of superComponents: 481
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.74529 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.53 ms
+Time of Finding unique comps : 0.99 ms
+Time of Eulerian Tour : 0.72 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 59991
+The input parent array is a BFS tree.
+Number of deleted tree edges: 578
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 59991
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 571
+Number of cross-edges: 8
+Insertion into hashtable over.
+num of superComponents: 579
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 571
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 570
+Insertion into hashtable over.
+num of superComponents: 571
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.99829 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.80 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.70 ms
+Time of Pointer Jumping : 0.23 ms
+Time of ET: Orientation : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: web-BerkStan.egr
+Root: 52294
+The input parent array is a BFS tree.
+Number of deleted tree edges: 611
+numVert: 685230, num_edges: 13300290 and delete batch size: 1000
+
+Root: 52294
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 611
+Number of cross-edges: 1
+Insertion into hashtable over.
+num of superComponents: 612
+Reversing the paths using eulerian tour 
+Input tree not connected. num_comp: 611
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 610
+Insertion into hashtable over.
+num of superComponents: 611
+Reversing the paths using eulerian tour 
+
+Total execution time for Insertion: 3.5274 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 1.23 ms
+Time of Finding unique comps : 1.00 ms
+Time of Eulerian Tour : 0.79 ms
+Time of Pointer Jumping : 0.24 ms
+Time of ET: Orientation : 0.22 ms
+Time of Path Reversal : 0.03 ms
+Time of Hashtable insertion : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1

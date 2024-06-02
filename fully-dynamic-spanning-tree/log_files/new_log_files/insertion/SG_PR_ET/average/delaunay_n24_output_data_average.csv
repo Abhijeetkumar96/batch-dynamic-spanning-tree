@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+delaunay_n24.egr,16777216,100663202,100,15.4,45.6
+delaunay_n24.egr,16777216,100663202,1000,178.8,41.63
+delaunay_n24.egr,16777216,100663202,10000,1395.8,42.24
+delaunay_n24.egr,16777216,100663202,100000,14860.8,41.55

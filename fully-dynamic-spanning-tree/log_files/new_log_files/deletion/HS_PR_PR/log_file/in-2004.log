@@ -1,0 +1,615 @@
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100000
+Time of (3)Edge Deletion : 3.035000 ms 
+Time of (9)Hooking Shortcutting : 2.61800 ms 
+Time of (17)PR Shortcut : 2.55500 ms 
+Time of (15)PR Loop : 1.80500 ms 
+Time of (1)Get key rem collections : 1.30600 ms 
+Time of (18)PR Reverse Paths : 1.17600 ms 
+Time of (0)Extracting Roots : 0.52200 ms 
+Time of (6)Get key rem collections : 0.51400 ms 
+Time of (12)Transedges prefix : 0.50600 ms 
+Time of (5)Generate new edges : 0.44200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35700 ms 
+Time of (8)Shortcut rep : 0.32700 ms 
+Time of (2)Convert to collection : 0.32300 ms 
+Time of (7)Convert to collection : 0.31700 ms 
+Time of (4)Remove edges : 0.24900 ms 
+Time of (16)Component Parent, Reversals : 0.24000 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 16.38100 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100000
+Time of (3)Edge Deletion : 3.014000 ms 
+Time of (17)PR Shortcut : 2.54500 ms 
+Time of (15)PR Loop : 2.34000 ms 
+Time of (9)Hooking Shortcutting : 1.80300 ms 
+Time of (1)Get key rem collections : 1.34400 ms 
+Time of (18)PR Reverse Paths : 1.18800 ms 
+Time of (0)Extracting Roots : 0.52800 ms 
+Time of (12)Transedges prefix : 0.52000 ms 
+Time of (6)Get key rem collections : 0.49200 ms 
+Time of (5)Generate new edges : 0.44400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35900 ms 
+Time of (8)Shortcut rep : 0.32900 ms 
+Time of (2)Convert to collection : 0.31600 ms 
+Time of (7)Convert to collection : 0.31500 ms 
+Time of (4)Remove edges : 0.25600 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (10)Compress Graph : 0.06800 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 16.12600 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 3.610000 ms 
+Time of (3)Edge Deletion : 3.04500 ms 
+Time of (17)PR Shortcut : 2.51900 ms 
+Time of (15)PR Loop : 1.79000 ms 
+Time of (1)Get key rem collections : 1.32300 ms 
+Time of (18)PR Reverse Paths : 1.17400 ms 
+Time of (12)Transedges prefix : 0.53500 ms 
+Time of (0)Extracting Roots : 0.52500 ms 
+Time of (6)Get key rem collections : 0.49200 ms 
+Time of (5)Generate new edges : 0.44800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35800 ms 
+Time of (8)Shortcut rep : 0.33400 ms 
+Time of (2)Convert to collection : 0.32200 ms 
+Time of (7)Convert to collection : 0.31900 ms 
+Time of (4)Remove edges : 0.25300 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 17.37900 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100000
+Time of (3)Edge Deletion : 3.048000 ms 
+Time of (17)PR Shortcut : 2.55200 ms 
+Time of (9)Hooking Shortcutting : 1.79600 ms 
+Time of (15)PR Loop : 1.77500 ms 
+Time of (1)Get key rem collections : 1.32200 ms 
+Time of (18)PR Reverse Paths : 1.18100 ms 
+Time of (0)Extracting Roots : 0.53100 ms 
+Time of (12)Transedges prefix : 0.50300 ms 
+Time of (6)Get key rem collections : 0.48900 ms 
+Time of (5)Generate new edges : 0.44400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35800 ms 
+Time of (8)Shortcut rep : 0.32600 ms 
+Time of (7)Convert to collection : 0.31600 ms 
+Time of (2)Convert to collection : 0.31600 ms 
+Time of (4)Remove edges : 0.25600 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00300 ms 
+Time (total): 15.54100 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100000
+Time of (3)Edge Deletion : 3.032000 ms 
+Time of (17)PR Shortcut : 2.54500 ms 
+Time of (9)Hooking Shortcutting : 1.78800 ms 
+Time of (15)PR Loop : 1.77700 ms 
+Time of (1)Get key rem collections : 1.31100 ms 
+Time of (18)PR Reverse Paths : 1.19400 ms 
+Time of (0)Extracting Roots : 0.53600 ms 
+Time of (6)Get key rem collections : 0.52400 ms 
+Time of (12)Transedges prefix : 0.51100 ms 
+Time of (5)Generate new edges : 0.44300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36000 ms 
+Time of (8)Shortcut rep : 0.33200 ms 
+Time of (2)Convert to collection : 0.31900 ms 
+Time of (7)Convert to collection : 0.31600 ms 
+Time of (4)Remove edges : 0.25300 ms 
+Time of (16)Component Parent, Reversals : 0.24300 ms 
+Time of (10)Compress Graph : 0.06800 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 15.57400 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 10000
+Time of (3)Edge Deletion : 2.842000 ms 
+Time of (17)PR Shortcut : 2.55400 ms 
+Time of (9)Hooking Shortcutting : 1.71800 ms 
+Time of (1)Get key rem collections : 1.33600 ms 
+Time of (18)PR Reverse Paths : 1.16800 ms 
+Time of (15)PR Loop : 0.90300 ms 
+Time of (12)Transedges prefix : 0.59500 ms 
+Time of (6)Get key rem collections : 0.58000 ms 
+Time of (0)Extracting Roots : 0.52800 ms 
+Time of (5)Generate new edges : 0.44700 ms 
+Time of (8)Shortcut rep : 0.36700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36300 ms 
+Time of (4)Remove edges : 0.33500 ms 
+Time of (7)Convert to collection : 0.31900 ms 
+Time of (2)Convert to collection : 0.31700 ms 
+Time of (16)Component Parent, Reversals : 0.24400 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 14.70400 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 10000
+Time of (3)Edge Deletion : 2.906000 ms 
+Time of (17)PR Shortcut : 2.52800 ms 
+Time of (9)Hooking Shortcutting : 1.71200 ms 
+Time of (1)Get key rem collections : 1.32400 ms 
+Time of (18)PR Reverse Paths : 1.17000 ms 
+Time of (12)Transedges prefix : 0.58400 ms 
+Time of (15)PR Loop : 0.53600 ms 
+Time of (0)Extracting Roots : 0.52300 ms 
+Time of (6)Get key rem collections : 0.51900 ms 
+Time of (5)Generate new edges : 0.44500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35400 ms 
+Time of (8)Shortcut rep : 0.33100 ms 
+Time of (7)Convert to collection : 0.31900 ms 
+Time of (2)Convert to collection : 0.31800 ms 
+Time of (4)Remove edges : 0.25800 ms 
+Time of (16)Component Parent, Reversals : 0.24000 ms 
+Time of (10)Compress Graph : 0.06800 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 14.15700 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 10000
+Time of (3)Edge Deletion : 2.833000 ms 
+Time of (17)PR Shortcut : 2.54400 ms 
+Time of (9)Hooking Shortcutting : 1.71000 ms 
+Time of (1)Get key rem collections : 1.39000 ms 
+Time of (18)PR Reverse Paths : 1.18000 ms 
+Time of (15)PR Loop : 0.91100 ms 
+Time of (12)Transedges prefix : 0.57300 ms 
+Time of (6)Get key rem collections : 0.55800 ms 
+Time of (0)Extracting Roots : 0.52900 ms 
+Time of (5)Generate new edges : 0.44700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36000 ms 
+Time of (8)Shortcut rep : 0.33600 ms 
+Time of (7)Convert to collection : 0.32100 ms 
+Time of (2)Convert to collection : 0.32100 ms 
+Time of (4)Remove edges : 0.30300 ms 
+Time of (16)Component Parent, Reversals : 0.24300 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 14.64700 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 10000
+Time of (3)Edge Deletion : 2.868000 ms 
+Time of (17)PR Shortcut : 2.55700 ms 
+Time of (9)Hooking Shortcutting : 1.71300 ms 
+Time of (1)Get key rem collections : 1.35400 ms 
+Time of (18)PR Reverse Paths : 1.16400 ms 
+Time of (15)PR Loop : 0.91100 ms 
+Time of (6)Get key rem collections : 0.52300 ms 
+Time of (12)Transedges prefix : 0.52200 ms 
+Time of (0)Extracting Roots : 0.52000 ms 
+Time of (5)Generate new edges : 0.44500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36100 ms 
+Time of (8)Shortcut rep : 0.33400 ms 
+Time of (7)Convert to collection : 0.31900 ms 
+Time of (2)Convert to collection : 0.31800 ms 
+Time of (4)Remove edges : 0.25000 ms 
+Time of (16)Component Parent, Reversals : 0.23900 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 14.48600 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 10000
+Time of (3)Edge Deletion : 2.848000 ms 
+Time of (17)PR Shortcut : 2.58600 ms 
+Time of (9)Hooking Shortcutting : 1.75900 ms 
+Time of (1)Get key rem collections : 1.32600 ms 
+Time of (18)PR Reverse Paths : 1.17000 ms 
+Time of (15)PR Loop : 0.93700 ms 
+Time of (6)Get key rem collections : 0.71700 ms 
+Time of (12)Transedges prefix : 0.53900 ms 
+Time of (0)Extracting Roots : 0.53000 ms 
+Time of (5)Generate new edges : 0.44300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.37100 ms 
+Time of (8)Shortcut rep : 0.32900 ms 
+Time of (7)Convert to collection : 0.32000 ms 
+Time of (2)Convert to collection : 0.31600 ms 
+Time of (4)Remove edges : 0.29700 ms 
+Time of (16)Component Parent, Reversals : 0.24000 ms 
+Time of (10)Compress Graph : 0.07000 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 14.82100 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100
+Time of (3)Edge Deletion : 2.891000 ms 
+Time of (17)PR Shortcut : 2.56100 ms 
+Time of (1)Get key rem collections : 1.37800 ms 
+Time of (18)PR Reverse Paths : 1.14600 ms 
+Time of (9)Hooking Shortcutting : 0.85100 ms 
+Time of (12)Transedges prefix : 0.53300 ms 
+Time of (0)Extracting Roots : 0.53200 ms 
+Time of (6)Get key rem collections : 0.49700 ms 
+Time of (5)Generate new edges : 0.44600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35500 ms 
+Time of (8)Shortcut rep : 0.33600 ms 
+Time of (7)Convert to collection : 0.32100 ms 
+Time of (2)Convert to collection : 0.31700 ms 
+Time of (15)PR Loop : 0.25200 ms 
+Time of (16)Component Parent, Reversals : 0.23900 ms 
+Time of (4)Remove edges : 0.23600 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 12.98100 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100
+Time of (3)Edge Deletion : 2.838000 ms 
+Time of (12)PR Shortcut : 2.52700 ms 
+Time of (1)Get key rem collections : 1.34500 ms 
+Time of (13)PR Reverse Paths : 1.15000 ms 
+Time of (6)Get key rem collections : 0.53000 ms 
+Time of (0)Extracting Roots : 0.52100 ms 
+Time of (5)Generate new edges : 0.44400 ms 
+Time of (9)Hooking Shortcutting : 0.41700 ms 
+Time of (14)Reverse Edges and Connect Parent : 0.36100 ms 
+Time of (8)Shortcut rep : 0.33200 ms 
+Time of (7)Convert to collection : 0.31800 ms 
+Time of (2)Convert to collection : 0.31500 ms 
+Time of (4)Remove edges : 0.24300 ms 
+Time of (10)Compress Graph : 0.06500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 11.41000 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100
+Time of (3)Edge Deletion : 2.884000 ms 
+Time of (17)PR Shortcut : 2.53600 ms 
+Time of (1)Get key rem collections : 1.38900 ms 
+Time of (9)Hooking Shortcutting : 1.29000 ms 
+Time of (18)PR Reverse Paths : 1.15400 ms 
+Time of (0)Extracting Roots : 0.52800 ms 
+Time of (12)Transedges prefix : 0.52700 ms 
+Time of (6)Get key rem collections : 0.50200 ms 
+Time of (5)Generate new edges : 0.44500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35800 ms 
+Time of (8)Shortcut rep : 0.33300 ms 
+Time of (7)Convert to collection : 0.32000 ms 
+Time of (2)Convert to collection : 0.31700 ms 
+Time of (15)PR Loop : 0.29900 ms 
+Time of (4)Remove edges : 0.24400 ms 
+Time of (16)Component Parent, Reversals : 0.22900 ms 
+Time of (10)Compress Graph : 0.07000 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 13.45000 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100
+Time of (3)Edge Deletion : 2.845000 ms 
+Time of (17)PR Shortcut : 2.52100 ms 
+Time of (9)Hooking Shortcutting : 1.67300 ms 
+Time of (1)Get key rem collections : 1.46100 ms 
+Time of (18)PR Reverse Paths : 1.15900 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (12)Transedges prefix : 0.50800 ms 
+Time of (6)Get key rem collections : 0.50800 ms 
+Time of (5)Generate new edges : 0.44400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36100 ms 
+Time of (15)PR Loop : 0.34700 ms 
+Time of (8)Shortcut rep : 0.33000 ms 
+Time of (2)Convert to collection : 0.32200 ms 
+Time of (7)Convert to collection : 0.31700 ms 
+Time of (4)Remove edges : 0.24500 ms 
+Time of (16)Component Parent, Reversals : 0.23600 ms 
+Time of (10)Compress Graph : 0.06500 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 13.89800 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 100
+Time of (3)Edge Deletion : 2.870000 ms 
+Time of (17)PR Shortcut : 2.55500 ms 
+Time of (1)Get key rem collections : 1.40900 ms 
+Time of (18)PR Reverse Paths : 1.15300 ms 
+Time of (9)Hooking Shortcutting : 0.85700 ms 
+Time of (12)Transedges prefix : 0.54700 ms 
+Time of (0)Extracting Roots : 0.52300 ms 
+Time of (6)Get key rem collections : 0.49300 ms 
+Time of (5)Generate new edges : 0.44800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35400 ms 
+Time of (8)Shortcut rep : 0.32800 ms 
+Time of (2)Convert to collection : 0.32300 ms 
+Time of (7)Convert to collection : 0.31900 ms 
+Time of (15)PR Loop : 0.24900 ms 
+Time of (4)Remove edges : 0.24100 ms 
+Time of (16)Component Parent, Reversals : 0.23100 ms 
+Time of (10)Compress Graph : 0.06800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 12.99100 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 1000
+Time of (3)Edge Deletion : 2.917000 ms 
+Time of (17)PR Shortcut : 2.55700 ms 
+Time of (9)Hooking Shortcutting : 1.68600 ms 
+Time of (1)Get key rem collections : 1.32100 ms 
+Time of (18)PR Reverse Paths : 1.16500 ms 
+Time of (6)Get key rem collections : 0.68900 ms 
+Time of (12)Transedges prefix : 0.56400 ms 
+Time of (0)Extracting Roots : 0.52300 ms 
+Time of (5)Generate new edges : 0.44600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36000 ms 
+Time of (15)PR Loop : 0.34800 ms 
+Time of (8)Shortcut rep : 0.33500 ms 
+Time of (7)Convert to collection : 0.32400 ms 
+Time of (2)Convert to collection : 0.31600 ms 
+Time of (4)Remove edges : 0.25600 ms 
+Time of (16)Component Parent, Reversals : 0.23900 ms 
+Time of (10)Compress Graph : 0.06500 ms 
+Time of (14)PR init : 0.01200 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 14.13200 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 1000
+Time of (3)Edge Deletion : 2.863000 ms 
+Time of (17)PR Shortcut : 2.50700 ms 
+Time of (9)Hooking Shortcutting : 1.66300 ms 
+Time of (1)Get key rem collections : 1.31600 ms 
+Time of (18)PR Reverse Paths : 1.14800 ms 
+Time of (6)Get key rem collections : 0.58200 ms 
+Time of (0)Extracting Roots : 0.53000 ms 
+Time of (12)Transedges prefix : 0.51700 ms 
+Time of (5)Generate new edges : 0.44500 ms 
+Time of (15)PR Loop : 0.35800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35700 ms 
+Time of (8)Shortcut rep : 0.33100 ms 
+Time of (2)Convert to collection : 0.32100 ms 
+Time of (7)Convert to collection : 0.31700 ms 
+Time of (4)Remove edges : 0.25600 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (10)Compress Graph : 0.06900 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 13.84200 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 1000
+Time of (3)Edge Deletion : 2.870000 ms 
+Time of (17)PR Shortcut : 2.55300 ms 
+Time of (9)Hooking Shortcutting : 1.70900 ms 
+Time of (1)Get key rem collections : 1.42400 ms 
+Time of (18)PR Reverse Paths : 1.15900 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (12)Transedges prefix : 0.52900 ms 
+Time of (6)Get key rem collections : 0.51700 ms 
+Time of (5)Generate new edges : 0.44500 ms 
+Time of (7)Convert to collection : 0.40500 ms 
+Time of (15)PR Loop : 0.38900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36100 ms 
+Time of (8)Shortcut rep : 0.33000 ms 
+Time of (2)Convert to collection : 0.31900 ms 
+Time of (4)Remove edges : 0.24900 ms 
+Time of (16)Component Parent, Reversals : 0.23700 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 14.12300 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 1000
+Time of (3)Edge Deletion : 2.870000 ms 
+Time of (17)PR Shortcut : 2.51600 ms 
+Time of (9)Hooking Shortcutting : 1.68000 ms 
+Time of (1)Get key rem collections : 1.30600 ms 
+Time of (18)PR Reverse Paths : 1.15700 ms 
+Time of (12)Transedges prefix : 0.65300 ms 
+Time of (6)Get key rem collections : 0.61800 ms 
+Time of (0)Extracting Roots : 0.52800 ms 
+Time of (5)Generate new edges : 0.44400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.36400 ms 
+Time of (8)Shortcut rep : 0.32900 ms 
+Time of (7)Convert to collection : 0.31900 ms 
+Time of (2)Convert to collection : 0.31600 ms 
+Time of (15)PR Loop : 0.29500 ms 
+Time of (4)Remove edges : 0.24200 ms 
+Time of (16)Component Parent, Reversals : 0.23200 ms 
+Time of (10)Compress Graph : 0.06800 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 13.95800 ms 
+--------------------------------------------------------
+filename: in-2004.txt
+Nodes : 1382908
+Edges : 13591606
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 13591606
+Deleted : 1000
+Time of (3)Edge Deletion : 2.839000 ms 
+Time of (17)PR Shortcut : 2.55200 ms 
+Time of (9)Hooking Shortcutting : 1.67200 ms 
+Time of (1)Get key rem collections : 1.31900 ms 
+Time of (18)PR Reverse Paths : 1.16600 ms 
+Time of (6)Get key rem collections : 0.69400 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (12)Transedges prefix : 0.52400 ms 
+Time of (5)Generate new edges : 0.44400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.35900 ms 
+Time of (15)PR Loop : 0.35100 ms 
+Time of (8)Shortcut rep : 0.32700 ms 
+Time of (2)Convert to collection : 0.31800 ms 
+Time of (7)Convert to collection : 0.31700 ms 
+Time of (4)Remove edges : 0.24400 ms 
+Time of (16)Component Parent, Reversals : 0.24200 ms 
+Time of (10)Compress Graph : 0.06800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 13.99200 ms 
+--------------------------------------------------------

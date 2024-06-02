@@ -1,0 +1,901 @@
+
+
+filename: com-Orkut.egr
+Root: 2012698
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2174
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 2012698
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 52.5568 ms.
+
+Function execution times:
+Time of Super graph Creation : 36.69 ms
+Time of PR_Shortcut : 6.04 ms
+Time of Update data structure : 3.21 ms
+Time of PR-RST module : 2.82 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.02 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 235
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 13.02 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.24 ms
+Time of Super graph Creation : 2.49 ms
+Time of Path Reversal : 2.10 ms
+Time of PR-RST module : 1.51 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.64 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 44
+
+
+filename: com-Orkut.egr
+Root: 1618271
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2179
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 1618271
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 51.6912 ms.
+
+Function execution times:
+Time of Super graph Creation : 36.42 ms
+Time of PR_Shortcut : 5.55 ms
+Time of Update data structure : 3.09 ms
+Time of PR-RST module : 2.85 ms
+Time of Path Reversal : 2.08 ms
+Time of Finding unique comps : 1.02 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 223
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 13.85 ms.
+
+Function execution times:
+Time of PR_Shortcut : 6.07 ms
+Time of Super graph Creation : 2.50 ms
+Time of Path Reversal : 2.09 ms
+Time of PR-RST module : 1.53 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 41
+
+
+filename: com-Orkut.egr
+Root: 329223
+The input parent array is a BFS tree.
+Number of deleted tree edges: 1943
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 329223
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 53.9388 ms.
+
+Function execution times:
+Time of Super graph Creation : 35.98 ms
+Time of PR_Shortcut : 6.12 ms
+Time of Update data structure : 5.55 ms
+Time of PR-RST module : 2.53 ms
+Time of Path Reversal : 2.07 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 201
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 13.07 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.39 ms
+Time of Super graph Creation : 2.49 ms
+Time of Path Reversal : 2.08 ms
+Time of PR-RST module : 1.45 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 35
+
+
+filename: com-Orkut.egr
+Root: 646812
+The input parent array is a BFS tree.
+Number of deleted tree edges: 1951
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 646812
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 51.1165 ms.
+
+Function execution times:
+Time of Super graph Creation : 35.77 ms
+Time of PR_Shortcut : 5.58 ms
+Time of PR-RST module : 3.22 ms
+Time of Update data structure : 3.04 ms
+Time of Path Reversal : 1.81 ms
+Time of Finding unique comps : 1.02 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 191
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 13.80 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.45 ms
+Time of Super graph Creation : 3.64 ms
+Time of Path Reversal : 1.83 ms
+Time of PR-RST module : 1.32 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.54 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 30
+
+
+filename: com-Orkut.egr
+Root: 1612834
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2130
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 1612834
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 54.485 ms.
+
+Function execution times:
+Time of Super graph Creation : 40.26 ms
+Time of PR_Shortcut : 5.74 ms
+Time of Update data structure : 3.11 ms
+Time of Path Reversal : 2.09 ms
+Time of PR-RST module : 1.59 ms
+Time of Finding unique comps : 1.02 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 180
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 13.21 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.39 ms
+Time of Super graph Creation : 2.50 ms
+Time of Path Reversal : 2.11 ms
+Time of PR-RST module : 1.54 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.64 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 25
+
+
+filename: com-Orkut.egr
+Root: 1964694
+The input parent array is a BFS tree.
+Number of deleted tree edges: 217
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 1964694
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 48.9023 ms.
+
+Function execution times:
+Time of Super graph Creation : 35.35 ms
+Time of PR_Shortcut : 5.26 ms
+Time of Update data structure : 3.04 ms
+Time of Path Reversal : 2.09 ms
+Time of PR-RST module : 1.49 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.63 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 28
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 13.18 ms.
+
+Function execution times:
+Time of PR_Shortcut : 6.14 ms
+Time of Super graph Creation : 2.51 ms
+Time of Path Reversal : 2.10 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR-RST module : 0.78 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 2543185
+The input parent array is a BFS tree.
+Number of deleted tree edges: 196
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 2543185
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 49.2969 ms.
+
+Function execution times:
+Time of Super graph Creation : 35.36 ms
+Time of PR_Shortcut : 5.73 ms
+Time of Update data structure : 3.02 ms
+Time of Path Reversal : 2.06 ms
+Time of PR-RST module : 1.46 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 13
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 13.01 ms.
+
+Function execution times:
+Time of PR_Shortcut : 6.10 ms
+Time of Super graph Creation : 2.51 ms
+Time of Path Reversal : 2.08 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR-RST module : 0.67 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 1393791
+The input parent array is a BFS tree.
+Number of deleted tree edges: 223
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 1393791
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 49.6824 ms.
+
+Function execution times:
+Time of Super graph Creation : 35.40 ms
+Time of PR_Shortcut : 5.60 ms
+Time of Update data structure : 3.00 ms
+Time of Path Reversal : 2.10 ms
+Time of PR-RST module : 1.91 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 29
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 11.88 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.20 ms
+Time of Super graph Creation : 2.52 ms
+Time of Path Reversal : 1.73 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR-RST module : 0.77 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 1763261
+The input parent array is a BFS tree.
+Number of deleted tree edges: 217
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 1763261
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 53.4916 ms.
+
+Function execution times:
+Time of Super graph Creation : 35.35 ms
+Time of PR_Shortcut : 5.52 ms
+Time of Finding unique comps : 5.05 ms
+Time of Update data structure : 2.96 ms
+Time of Path Reversal : 2.06 ms
+Time of PR-RST module : 1.89 ms
+Time of Pointer Jumping : 0.63 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 19
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 12.68 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.95 ms
+Time of Super graph Creation : 2.51 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.62 ms
+Time of PR-RST module : 0.47 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 1417632
+The input parent array is a BFS tree.
+Number of deleted tree edges: 227
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 1417632
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 50.2858 ms.
+
+Function execution times:
+Time of Super graph Creation : 35.22 ms
+Time of PR_Shortcut : 5.97 ms
+Time of Update data structure : 3.06 ms
+Time of PR-RST module : 2.31 ms
+Time of Path Reversal : 2.06 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 21
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 12.34 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.32 ms
+Time of Super graph Creation : 2.52 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR-RST module : 0.76 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 943201
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 943201
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 45.5691 ms.
+
+Function execution times:
+Time of Super graph Creation : 32.87 ms
+Time of PR_Shortcut : 5.69 ms
+Time of Update data structure : 2.92 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.62 ms
+Time of PR-RST module : 0.34 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 2
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 9.87 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.42 ms
+Time of Path Reversal : 2.11 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Super graph Creation : 0.40 ms
+Time of PR-RST module : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 2501574
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 2501574
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 44.0963 ms.
+
+Function execution times:
+Time of Super graph Creation : 31.35 ms
+Time of PR_Shortcut : 5.56 ms
+Time of Update data structure : 3.05 ms
+Time of Path Reversal : 2.08 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.63 ms
+Time of PR-RST module : 0.40 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 265524
+The input parent array is a BFS tree.
+Number of deleted tree edges: 1
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 265524
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 43.7824 ms.
+
+Function execution times:
+Time of Super graph Creation : 31.28 ms
+Time of PR_Shortcut : 5.50 ms
+Time of Update data structure : 2.96 ms
+Time of Path Reversal : 2.10 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.63 ms
+Time of PR-RST module : 0.30 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1816241
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 1816241
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 43.6805 ms.
+
+Function execution times:
+Time of Super graph Creation : 31.17 ms
+Time of PR_Shortcut : 5.44 ms
+Time of Update data structure : 3.01 ms
+Time of Path Reversal : 2.08 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.62 ms
+Time of PR-RST module : 0.34 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 2049948
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 2049948
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 45.7031 ms.
+
+Function execution times:
+Time of Super graph Creation : 32.96 ms
+Time of PR_Shortcut : 5.42 ms
+Time of Update data structure : 3.02 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.63 ms
+Time of PR-RST module : 0.54 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 2
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 9.72 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.28 ms
+Time of Path Reversal : 2.11 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Super graph Creation : 0.40 ms
+Time of PR-RST module : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 2592224
+The input parent array is a BFS tree.
+Number of deleted tree edges: 15
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 2592224
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 45.5697 ms.
+
+Function execution times:
+Time of Super graph Creation : 32.77 ms
+Time of PR_Shortcut : 5.58 ms
+Time of Update data structure : 3.04 ms
+Time of Path Reversal : 2.10 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.63 ms
+Time of PR-RST module : 0.44 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 2
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 9.73 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.34 ms
+Time of Path Reversal : 2.11 ms
+Time of Finding unique comps : 0.98 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Super graph Creation : 0.38 ms
+Time of PR-RST module : 0.28 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1432564
+The input parent array is a BFS tree.
+Number of deleted tree edges: 22
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 1432564
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 47.0544 ms.
+
+Function execution times:
+Time of Super graph Creation : 33.79 ms
+Time of PR_Shortcut : 5.39 ms
+Time of Update data structure : 3.21 ms
+Time of Path Reversal : 2.08 ms
+Time of Finding unique comps : 0.99 ms
+Time of PR-RST module : 0.92 ms
+Time of Pointer Jumping : 0.63 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+Input tree not connected. num_comp: 3
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 10.27 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.57 ms
+Time of Path Reversal : 2.12 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.62 ms
+Time of PR-RST module : 0.53 ms
+Time of Super graph Creation : 0.40 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 434084
+The input parent array is a BFS tree.
+Number of deleted tree edges: 21
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 434084
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 47.0865 ms.
+
+Function execution times:
+Time of Super graph Creation : 33.68 ms
+Time of PR_Shortcut : 5.92 ms
+Time of Update data structure : 3.00 ms
+Time of Path Reversal : 2.06 ms
+Time of Finding unique comps : 1.00 ms
+Time of PR-RST module : 0.78 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 4
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 9.88 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.41 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Super graph Creation : 0.40 ms
+Time of PR-RST module : 0.33 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 2756126
+The input parent array is a BFS tree.
+Number of deleted tree edges: 22
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 2756126
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 46.8994 ms.
+
+Function execution times:
+Time of Super graph Creation : 33.82 ms
+Time of PR_Shortcut : 5.46 ms
+Time of Update data structure : 3.06 ms
+Time of Path Reversal : 2.08 ms
+Time of Finding unique comps : 1.01 ms
+Time of PR-RST module : 0.81 ms
+Time of Pointer Jumping : 0.63 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 5
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 10.11 ms.
+
+Function execution times:
+Time of PR_Shortcut : 5.37 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.62 ms
+Time of PR-RST module : 0.61 ms
+Time of Super graph Creation : 0.40 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2
+
+
+filename: com-Orkut.egr
+Root: 2848573
+The input parent array is a BFS tree.
+Number of deleted tree edges: 19
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 2848573
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Deletion: 46.7306 ms.
+
+Function execution times:
+Time of Super graph Creation : 33.11 ms
+Time of PR_Shortcut : 6.09 ms
+Time of Update data structure : 3.04 ms
+Time of Path Reversal : 2.06 ms
+Time of Finding unique comps : 0.99 ms
+Time of PR-RST module : 0.78 ms
+Time of Pointer Jumping : 0.62 ms
+Time of Hash Table look up : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+Input tree not connected. num_comp: 4
+Selected Algorithm: SG_PR_PR
+Finding Replacement edges using SG.
+Reversing the paths using PR module 
+Executing path_reversal:
+
+Total execution time for Insertion: 10.75 ms.
+
+Function execution times:
+Time of PR_Shortcut : 6.11 ms
+Time of Path Reversal : 2.09 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.62 ms
+Time of PR-RST module : 0.50 ms
+Time of Super graph Creation : 0.41 ms
+Time of Hash Table look up : 0.01 ms
+Time of Update rep array : 0.01 ms
+
+Executing validate part.
+numComp in the graph: 2

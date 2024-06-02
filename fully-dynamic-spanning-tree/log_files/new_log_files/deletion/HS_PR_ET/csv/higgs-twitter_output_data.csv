@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+higgs-twitter.txt,100,7.439
+higgs-twitter.txt,100,9.654
+higgs-twitter.txt,100,10.07
+higgs-twitter.txt,100,9.532
+higgs-twitter.txt,100,10.146
+higgs-twitter.txt,1000,10.286
+higgs-twitter.txt,1000,10.248
+higgs-twitter.txt,1000,11.324
+higgs-twitter.txt,1000,10.764
+higgs-twitter.txt,1000,10.271
+higgs-twitter.txt,10000,13.751
+higgs-twitter.txt,10000,15.216
+higgs-twitter.txt,10000,13.926
+higgs-twitter.txt,10000,12.065
+higgs-twitter.txt,10000,12.354
+higgs-twitter.txt,100000,20.142
+higgs-twitter.txt,100000,23.812
+higgs-twitter.txt,100000,19.573
+higgs-twitter.txt,100000,19.597
+higgs-twitter.txt,100000,20.204

@@ -1,0 +1,420 @@
+
+
+filename: coPapersDBLP.egr
+Root: 463338
+Number of deleted tree edges: 2251
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 463338
+Root: 463338
+After repairing:
+Total execution time of all functions: 6.56259 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.20 ms
+Time of Super graph Creation : 1.07 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 280415
+Number of deleted tree edges: 2300
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 280415
+Root: 280415
+After repairing:
+Total execution time of all functions: 6.56798 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.22 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.05 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 35441
+Number of deleted tree edges: 2290
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 35441
+Root: 35441
+After repairing:
+Total execution time of all functions: 7.62216 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.45 ms
+Time of Super graph Creation : 1.87 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 481050
+Number of deleted tree edges: 2277
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 481050
+Root: 481050
+After repairing:
+Total execution time of all functions: 6.56872 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.26 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 1.00 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 83709
+Number of deleted tree edges: 2121
+numVert: 540486, num_edges: 30491458 and delete batch size: 100000
+
+Root: 83709
+Root: 83709
+After repairing:
+Total execution time of all functions: 6.5613 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.14 ms
+Time of Super graph Creation : 1.12 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 50997
+Number of deleted tree edges: 202
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 50997
+Root: 50997
+After repairing:
+Total execution time of all functions: 7.60859 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.50 ms
+Time of Super graph Creation : 1.81 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 416929
+Number of deleted tree edges: 221
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 416929
+Root: 416929
+After repairing:
+Total execution time of all functions: 6.56072 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.15 ms
+Time of Super graph Creation : 1.11 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 12312
+Number of deleted tree edges: 221
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 12312
+Root: 12312
+After repairing:
+Total execution time of all functions: 6.56288 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.33 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.94 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 333762
+Number of deleted tree edges: 237
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 333762
+Root: 333762
+After repairing:
+Total execution time of all functions: 6.56319 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.14 ms
+Time of Super graph Creation : 1.12 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 160354
+Number of deleted tree edges: 240
+numVert: 540486, num_edges: 30491458 and delete batch size: 10000
+
+Root: 160354
+Root: 160354
+After repairing:
+Total execution time of all functions: 6.56474 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.29 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.97 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 491361
+Number of deleted tree edges: 3
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 491361
+Root: 491361
+After repairing:
+Total execution time of all functions: 6.56981 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.32 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.94 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 329045
+Number of deleted tree edges: 1
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 329045
+Root: 329045
+After repairing:
+Total execution time of all functions: 6.55857 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.23 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.02 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 224379
+Number of deleted tree edges: 1
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 224379
+Root: 224379
+After repairing:
+Total execution time of all functions: 6.56138 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.30 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.96 ms
+Time of Pointer Jumping : 0.22 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 314629
+Number of deleted tree edges: 1
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 314629
+Root: 314629
+After repairing:
+Total execution time of all functions: 6.56236 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.32 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.94 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 165135
+Number of deleted tree edges: 1
+numVert: 540486, num_edges: 30491458 and delete batch size: 100
+
+Root: 165135
+Root: 165135
+After repairing:
+Total execution time of all functions: 6.5541 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.35 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.91 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 394371
+Number of deleted tree edges: 22
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 394371
+Root: 394371
+After repairing:
+Total execution time of all functions: 6.56621 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.20 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 1.07 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 335489
+Number of deleted tree edges: 26
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 335489
+Root: 335489
+After repairing:
+Total execution time of all functions: 6.55899 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.34 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.92 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 36521
+Number of deleted tree edges: 29
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 36521
+Root: 36521
+After repairing:
+Total execution time of all functions: 6.56334 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.29 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.97 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 104740
+Number of deleted tree edges: 26
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 104740
+Root: 104740
+After repairing:
+Total execution time of all functions: 6.55341 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.26 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 1.00 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: coPapersDBLP.egr
+Root: 358031
+Number of deleted tree edges: 26
+numVert: 540486, num_edges: 30491458 and delete batch size: 1000
+
+Root: 358031
+Root: 358031
+After repairing:
+Total execution time of all functions: 6.56017 ms.
+
+Function execution times:
+Time of Eulerian Tour : 4.20 ms
+Time of Super graph Creation : 1.06 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.23 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

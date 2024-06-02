@@ -1,0 +1,615 @@
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 9.823000 ms 
+Time of (3)Edge Deletion : 3.69900 ms 
+Time of (15)PR Loop : 3.18400 ms 
+Time of (1)Get key rem collections : 2.65800 ms 
+Time of (6)Get key rem collections : 1.94500 ms 
+Time of (12)Transedges prefix : 1.88800 ms 
+Time of (17)PR Shortcut : 1.85200 ms 
+Time of (5)Generate new edges : 1.69900 ms 
+Time of (7)Convert to collection : 1.15700 ms 
+Time of (18)PR Reverse Paths : 1.15500 ms 
+Time of (2)Convert to collection : 1.14200 ms 
+Time of (4)Remove edges : 0.96200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.68900 ms 
+Time of (8)Shortcut rep : 0.65300 ms 
+Time of (0)Extracting Roots : 0.52800 ms 
+Time of (16)Component Parent, Reversals : 0.38400 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 33.50900 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 6.524000 ms 
+Time of (15)PR Loop : 3.81200 ms 
+Time of (3)Edge Deletion : 3.64200 ms 
+Time of (1)Get key rem collections : 2.89500 ms 
+Time of (6)Get key rem collections : 2.06200 ms 
+Time of (17)PR Shortcut : 2.03500 ms 
+Time of (12)Transedges prefix : 1.86700 ms 
+Time of (5)Generate new edges : 1.70300 ms 
+Time of (7)Convert to collection : 1.14900 ms 
+Time of (18)PR Reverse Paths : 1.14400 ms 
+Time of (2)Convert to collection : 1.14300 ms 
+Time of (4)Remove edges : 0.90000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.69100 ms 
+Time of (8)Shortcut rep : 0.63800 ms 
+Time of (0)Extracting Roots : 0.59500 ms 
+Time of (16)Component Parent, Reversals : 0.38700 ms 
+Time of (10)Compress Graph : 0.06900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 31.28100 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 6.790000 ms 
+Time of (3)Edge Deletion : 3.69700 ms 
+Time of (15)PR Loop : 3.54900 ms 
+Time of (1)Get key rem collections : 2.71000 ms 
+Time of (6)Get key rem collections : 2.16000 ms 
+Time of (17)PR Shortcut : 1.96800 ms 
+Time of (12)Transedges prefix : 1.79200 ms 
+Time of (5)Generate new edges : 1.69700 ms 
+Time of (7)Convert to collection : 1.14700 ms 
+Time of (2)Convert to collection : 1.14100 ms 
+Time of (18)PR Reverse Paths : 1.06100 ms 
+Time of (4)Remove edges : 0.88600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.75600 ms 
+Time of (8)Shortcut rep : 0.64500 ms 
+Time of (0)Extracting Roots : 0.54000 ms 
+Time of (16)Component Parent, Reversals : 0.24200 ms 
+Time of (10)Compress Graph : 0.06100 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 30.86300 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 9.572000 ms 
+Time of (3)Edge Deletion : 3.70500 ms 
+Time of (15)PR Loop : 3.17500 ms 
+Time of (1)Get key rem collections : 2.88800 ms 
+Time of (12)Transedges prefix : 1.96300 ms 
+Time of (6)Get key rem collections : 1.90100 ms 
+Time of (17)PR Shortcut : 1.82800 ms 
+Time of (5)Generate new edges : 1.70000 ms 
+Time of (7)Convert to collection : 1.15300 ms 
+Time of (2)Convert to collection : 1.15100 ms 
+Time of (18)PR Reverse Paths : 1.14500 ms 
+Time of (4)Remove edges : 0.91700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.70400 ms 
+Time of (8)Shortcut rep : 0.64500 ms 
+Time of (0)Extracting Roots : 0.54500 ms 
+Time of (16)Component Parent, Reversals : 0.24700 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 33.33500 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100000
+Time of (9)Hooking Shortcutting : 18.685000 ms 
+Time of (15)PR Loop : 3.76100 ms 
+Time of (3)Edge Deletion : 3.69400 ms 
+Time of (1)Get key rem collections : 2.78100 ms 
+Time of (17)PR Shortcut : 1.98600 ms 
+Time of (6)Get key rem collections : 1.98200 ms 
+Time of (12)Transedges prefix : 1.92600 ms 
+Time of (5)Generate new edges : 1.69900 ms 
+Time of (7)Convert to collection : 1.15300 ms 
+Time of (18)PR Reverse Paths : 1.14800 ms 
+Time of (2)Convert to collection : 1.14200 ms 
+Time of (4)Remove edges : 0.88200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.68500 ms 
+Time of (8)Shortcut rep : 0.64500 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (16)Component Parent, Reversals : 0.24600 ms 
+Time of (10)Compress Graph : 0.06500 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 43.03800 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 9.529000 ms 
+Time of (3)Edge Deletion : 3.49900 ms 
+Time of (1)Get key rem collections : 2.79200 ms 
+Time of (6)Get key rem collections : 2.22500 ms 
+Time of (17)PR Shortcut : 2.08500 ms 
+Time of (12)Transedges prefix : 1.96700 ms 
+Time of (5)Generate new edges : 1.70800 ms 
+Time of (15)PR Loop : 1.49100 ms 
+Time of (7)Convert to collection : 1.15600 ms 
+Time of (2)Convert to collection : 1.14100 ms 
+Time of (18)PR Reverse Paths : 1.10000 ms 
+Time of (4)Remove edges : 1.00700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72800 ms 
+Time of (8)Shortcut rep : 0.65800 ms 
+Time of (0)Extracting Roots : 0.55600 ms 
+Time of (16)Component Parent, Reversals : 0.24800 ms 
+Time of (10)Compress Graph : 0.07300 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time (total): 31.99200 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 5.813000 ms 
+Time of (3)Edge Deletion : 3.49500 ms 
+Time of (1)Get key rem collections : 2.68900 ms 
+Time of (6)Get key rem collections : 2.09600 ms 
+Time of (17)PR Shortcut : 2.07600 ms 
+Time of (12)Transedges prefix : 1.76000 ms 
+Time of (5)Generate new edges : 1.70900 ms 
+Time of (7)Convert to collection : 1.15300 ms 
+Time of (2)Convert to collection : 1.13900 ms 
+Time of (18)PR Reverse Paths : 1.11300 ms 
+Time of (4)Remove edges : 0.90000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72500 ms 
+Time of (8)Shortcut rep : 0.63200 ms 
+Time of (15)PR Loop : 0.62400 ms 
+Time of (0)Extracting Roots : 0.53800 ms 
+Time of (16)Component Parent, Reversals : 0.37400 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 26.92400 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 5.819000 ms 
+Time of (3)Edge Deletion : 3.53800 ms 
+Time of (1)Get key rem collections : 2.81100 ms 
+Time of (17)PR Shortcut : 1.98500 ms 
+Time of (12)Transedges prefix : 1.94100 ms 
+Time of (6)Get key rem collections : 1.90800 ms 
+Time of (5)Generate new edges : 1.70100 ms 
+Time of (15)PR Loop : 1.38500 ms 
+Time of (7)Convert to collection : 1.14600 ms 
+Time of (2)Convert to collection : 1.14500 ms 
+Time of (4)Remove edges : 1.02000 ms 
+Time of (18)PR Reverse Paths : 1.01000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.79000 ms 
+Time of (8)Shortcut rep : 0.63700 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (16)Component Parent, Reversals : 0.24400 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 27.70400 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 5.767000 ms 
+Time of (3)Edge Deletion : 3.46300 ms 
+Time of (1)Get key rem collections : 2.76200 ms 
+Time of (17)PR Shortcut : 2.06300 ms 
+Time of (6)Get key rem collections : 2.02400 ms 
+Time of (12)Transedges prefix : 1.84600 ms 
+Time of (5)Generate new edges : 1.70400 ms 
+Time of (7)Convert to collection : 1.15800 ms 
+Time of (2)Convert to collection : 1.14600 ms 
+Time of (18)PR Reverse Paths : 1.09900 ms 
+Time of (4)Remove edges : 1.06800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.73200 ms 
+Time of (8)Shortcut rep : 0.64400 ms 
+Time of (15)PR Loop : 0.61700 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (16)Component Parent, Reversals : 0.37900 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 27.09400 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 10000
+Time of (9)Hooking Shortcutting : 8.732000 ms 
+Time of (3)Edge Deletion : 3.49400 ms 
+Time of (1)Get key rem collections : 2.87200 ms 
+Time of (17)PR Shortcut : 2.11900 ms 
+Time of (12)Transedges prefix : 2.03600 ms 
+Time of (6)Get key rem collections : 1.93700 ms 
+Time of (15)PR Loop : 1.88500 ms 
+Time of (5)Generate new edges : 1.70600 ms 
+Time of (7)Convert to collection : 1.15300 ms 
+Time of (2)Convert to collection : 1.14600 ms 
+Time of (18)PR Reverse Paths : 1.10400 ms 
+Time of (4)Remove edges : 1.05000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72800 ms 
+Time of (8)Shortcut rep : 0.63400 ms 
+Time of (0)Extracting Roots : 0.53400 ms 
+Time of (16)Component Parent, Reversals : 0.24600 ms 
+Time of (10)Compress Graph : 0.06500 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 31.46500 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100
+Time of (9)Hooking Shortcutting : 2.870000 ms 
+Time of (1)Get key rem collections : 2.81500 ms 
+Time of (3)Edge Deletion : 2.57700 ms 
+Time of (17)PR Shortcut : 2.07800 ms 
+Time of (12)Transedges prefix : 2.03200 ms 
+Time of (6)Get key rem collections : 1.99300 ms 
+Time of (5)Generate new edges : 1.70600 ms 
+Time of (7)Convert to collection : 1.15200 ms 
+Time of (2)Convert to collection : 1.14100 ms 
+Time of (18)PR Reverse Paths : 1.07700 ms 
+Time of (4)Remove edges : 0.93000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.75800 ms 
+Time of (8)Shortcut rep : 0.63300 ms 
+Time of (0)Extracting Roots : 0.53200 ms 
+Time of (16)Component Parent, Reversals : 0.37500 ms 
+Time of (15)PR Loop : 0.26700 ms 
+Time of (10)Compress Graph : 0.06900 ms 
+Time of (14)PR init : 0.01600 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 23.03100 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100
+Time of (9)Hooking Shortcutting : 5.749000 ms 
+Time of (1)Get key rem collections : 2.83200 ms 
+Time of (3)Edge Deletion : 2.57600 ms 
+Time of (17)PR Shortcut : 2.10300 ms 
+Time of (6)Get key rem collections : 2.04100 ms 
+Time of (12)Transedges prefix : 1.90500 ms 
+Time of (5)Generate new edges : 1.70700 ms 
+Time of (7)Convert to collection : 1.15400 ms 
+Time of (2)Convert to collection : 1.14200 ms 
+Time of (18)PR Reverse Paths : 1.09300 ms 
+Time of (4)Remove edges : 0.90200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74000 ms 
+Time of (8)Shortcut rep : 0.64300 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (15)PR Loop : 0.36800 ms 
+Time of (16)Component Parent, Reversals : 0.24200 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 25.82600 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100
+Time of (9)Hooking Shortcutting : 4.319000 ms 
+Time of (1)Get key rem collections : 2.68500 ms 
+Time of (3)Edge Deletion : 2.57800 ms 
+Time of (17)PR Shortcut : 2.11800 ms 
+Time of (6)Get key rem collections : 2.06600 ms 
+Time of (12)Transedges prefix : 2.03600 ms 
+Time of (5)Generate new edges : 1.70800 ms 
+Time of (7)Convert to collection : 1.15400 ms 
+Time of (2)Convert to collection : 1.14600 ms 
+Time of (18)PR Reverse Paths : 1.08500 ms 
+Time of (4)Remove edges : 0.92300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.75200 ms 
+Time of (8)Shortcut rep : 0.64100 ms 
+Time of (0)Extracting Roots : 0.53500 ms 
+Time of (15)PR Loop : 0.32100 ms 
+Time of (16)Component Parent, Reversals : 0.25200 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 24.40900 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100
+Time of (9)Hooking Shortcutting : 2.878000 ms 
+Time of (1)Get key rem collections : 2.77000 ms 
+Time of (3)Edge Deletion : 2.58400 ms 
+Time of (17)PR Shortcut : 2.05900 ms 
+Time of (12)Transedges prefix : 1.99100 ms 
+Time of (6)Get key rem collections : 1.84800 ms 
+Time of (5)Generate new edges : 1.70300 ms 
+Time of (2)Convert to collection : 1.14700 ms 
+Time of (7)Convert to collection : 1.14600 ms 
+Time of (18)PR Reverse Paths : 1.09300 ms 
+Time of (4)Remove edges : 1.01400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74300 ms 
+Time of (8)Shortcut rep : 0.63700 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (16)Component Parent, Reversals : 0.37200 ms 
+Time of (15)PR Loop : 0.26800 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 22.88100 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 100
+Time of (1)Get key rem collections : 2.707000 ms 
+Time of (3)Edge Deletion : 2.57400 ms 
+Time of (12)PR Shortcut : 1.96400 ms 
+Time of (6)Get key rem collections : 1.88900 ms 
+Time of (14)Reverse Edges and Connect Parent : 1.78300 ms 
+Time of (5)Generate new edges : 1.70700 ms 
+Time of (9)Hooking Shortcutting : 1.43000 ms 
+Time of (7)Convert to collection : 1.15100 ms 
+Time of (2)Convert to collection : 1.13900 ms 
+Time of (13)PR Reverse Paths : 1.10300 ms 
+Time of (4)Remove edges : 0.90400 ms 
+Time of (8)Shortcut rep : 0.63600 ms 
+Time of (0)Extracting Roots : 0.54800 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 19.60500 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.745000 ms 
+Time of (3)Edge Deletion : 3.52000 ms 
+Time of (1)Get key rem collections : 2.63900 ms 
+Time of (6)Get key rem collections : 2.04500 ms 
+Time of (17)PR Shortcut : 2.01000 ms 
+Time of (12)Transedges prefix : 1.88300 ms 
+Time of (5)Generate new edges : 1.70900 ms 
+Time of (7)Convert to collection : 1.14900 ms 
+Time of (2)Convert to collection : 1.14900 ms 
+Time of (18)PR Reverse Paths : 1.02400 ms 
+Time of (4)Remove edges : 0.96200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.79100 ms 
+Time of (8)Shortcut rep : 0.63600 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (15)PR Loop : 0.45400 ms 
+Time of (16)Component Parent, Reversals : 0.25400 ms 
+Time of (10)Compress Graph : 0.06900 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 26.61600 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.748000 ms 
+Time of (3)Edge Deletion : 3.53300 ms 
+Time of (1)Get key rem collections : 2.66300 ms 
+Time of (17)PR Shortcut : 2.11100 ms 
+Time of (6)Get key rem collections : 1.97100 ms 
+Time of (12)Transedges prefix : 1.92600 ms 
+Time of (5)Generate new edges : 1.70400 ms 
+Time of (7)Convert to collection : 1.15500 ms 
+Time of (2)Convert to collection : 1.13800 ms 
+Time of (18)PR Reverse Paths : 1.09000 ms 
+Time of (4)Remove edges : 0.93300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74900 ms 
+Time of (8)Shortcut rep : 0.63600 ms 
+Time of (0)Extracting Roots : 0.52500 ms 
+Time of (15)PR Loop : 0.41400 ms 
+Time of (16)Component Parent, Reversals : 0.24100 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 26.62700 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.728000 ms 
+Time of (3)Edge Deletion : 3.51800 ms 
+Time of (1)Get key rem collections : 2.80300 ms 
+Time of (12)Transedges prefix : 2.00200 ms 
+Time of (17)PR Shortcut : 1.99600 ms 
+Time of (6)Get key rem collections : 1.92000 ms 
+Time of (5)Generate new edges : 1.70600 ms 
+Time of (7)Convert to collection : 1.14800 ms 
+Time of (2)Convert to collection : 1.14500 ms 
+Time of (18)PR Reverse Paths : 1.10600 ms 
+Time of (4)Remove edges : 0.98300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.72000 ms 
+Time of (8)Shortcut rep : 0.64000 ms 
+Time of (0)Extracting Roots : 0.52500 ms 
+Time of (15)PR Loop : 0.48300 ms 
+Time of (16)Component Parent, Reversals : 0.24400 ms 
+Time of (10)Compress Graph : 0.06700 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (13)Get edges : 0.00600 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 26.76200 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.725000 ms 
+Time of (3)Edge Deletion : 3.53800 ms 
+Time of (1)Get key rem collections : 2.74500 ms 
+Time of (17)PR Shortcut : 2.09100 ms 
+Time of (6)Get key rem collections : 1.94000 ms 
+Time of (12)Transedges prefix : 1.77300 ms 
+Time of (5)Generate new edges : 1.70800 ms 
+Time of (19)Reverse Edges and Connect Parent : 1.51800 ms 
+Time of (7)Convert to collection : 1.15600 ms 
+Time of (2)Convert to collection : 1.14300 ms 
+Time of (18)PR Reverse Paths : 1.09800 ms 
+Time of (4)Remove edges : 1.02100 ms 
+Time of (8)Shortcut rep : 0.64000 ms 
+Time of (0)Extracting Roots : 0.52900 ms 
+Time of (15)PR Loop : 0.46800 ms 
+Time of (16)Component Parent, Reversals : 0.24000 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 27.42200 ms 
+--------------------------------------------------------
+filename: hollywood-2009.txt
+Nodes : 1139905
+Edges : 56420218
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 56420218
+Deleted : 1000
+Time of (9)Hooking Shortcutting : 5.749000 ms 
+Time of (3)Edge Deletion : 3.50100 ms 
+Time of (1)Get key rem collections : 2.66800 ms 
+Time of (6)Get key rem collections : 1.98100 ms 
+Time of (17)PR Shortcut : 1.90400 ms 
+Time of (12)Transedges prefix : 1.85500 ms 
+Time of (5)Generate new edges : 1.70600 ms 
+Time of (7)Convert to collection : 1.15300 ms 
+Time of (2)Convert to collection : 1.14600 ms 
+Time of (18)PR Reverse Paths : 1.08700 ms 
+Time of (4)Remove edges : 0.94500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.74800 ms 
+Time of (8)Shortcut rep : 0.63700 ms 
+Time of (0)Extracting Roots : 0.53900 ms 
+Time of (15)PR Loop : 0.41500 ms 
+Time of (16)Component Parent, Reversals : 0.37600 ms 
+Time of (10)Compress Graph : 0.06600 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 26.49800 ms 
+--------------------------------------------------------

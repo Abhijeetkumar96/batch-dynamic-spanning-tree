@@ -1,0 +1,733 @@
+
+
+filename: com-Orkut.egr
+Root: 2844059
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2236
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 2844059
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2236
+Insertion into hashtable over.
+num of superComponents: 2237
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 42.0058 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 20.46 ms
+Time of ET: First & Last : 15.31 ms
+Time of Update data structure : 3.24 ms
+Time of ET: Orientation : 1.19 ms
+Time of Finding unique comps : 1.02 ms
+Time of Pointer Jumping : 0.66 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 866235
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2184
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 866235
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2184
+Insertion into hashtable over.
+num of superComponents: 2185
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 68.3954 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 46.97 ms
+Time of ET: First & Last : 15.58 ms
+Time of Update data structure : 3.17 ms
+Time of ET: Orientation : 1.22 ms
+Time of Finding unique comps : 0.66 ms
+Time of Pointer Jumping : 0.66 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1556290
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2009
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 1556290
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2009
+Insertion into hashtable over.
+num of superComponents: 2010
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 59.8415 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 37.62 ms
+Time of ET: First & Last : 16.08 ms
+Time of Update data structure : 3.15 ms
+Time of ET: Orientation : 1.18 ms
+Time of Finding unique comps : 1.02 ms
+Time of Pointer Jumping : 0.66 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1545473
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2135
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 1545473
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2135
+Insertion into hashtable over.
+num of superComponents: 2136
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 55.1745 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 33.35 ms
+Time of ET: First & Last : 15.61 ms
+Time of Update data structure : 3.18 ms
+Time of ET: Orientation : 1.21 ms
+Time of Finding unique comps : 1.02 ms
+Time of Pointer Jumping : 0.67 ms
+Time of Path Reversal : 0.09 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 701873
+The input parent array is a BFS tree.
+Number of deleted tree edges: 2037
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100000
+
+Root: 701873
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 2037
+Insertion into hashtable over.
+num of superComponents: 2038
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 62.5461 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 44.12 ms
+Time of ET: First & Last : 12.48 ms
+Time of Update data structure : 3.16 ms
+Time of Finding unique comps : 1.01 ms
+Time of ET: Orientation : 0.99 ms
+Time of Pointer Jumping : 0.67 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1926942
+The input parent array is a BFS tree.
+Number of deleted tree edges: 197
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 1926942
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 197
+Insertion into hashtable over.
+num of superComponents: 198
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 44.6656 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 23.88 ms
+Time of ET: First & Last : 15.72 ms
+Time of Update data structure : 3.02 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1064250
+The input parent array is a BFS tree.
+Number of deleted tree edges: 217
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 1064250
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 217
+Insertion into hashtable over.
+num of superComponents: 218
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 40.2165 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.46 ms
+Time of ET: First & Last : 15.49 ms
+Time of Update data structure : 3.21 ms
+Time of Finding unique comps : 1.01 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.30 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1621481
+The input parent array is a BFS tree.
+Number of deleted tree edges: 214
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 1621481
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 214
+Insertion into hashtable over.
+num of superComponents: 215
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 40.9184 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.42 ms
+Time of ET: First & Last : 16.23 ms
+Time of Update data structure : 3.22 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.31 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 3023889
+The input parent array is a BFS tree.
+Number of deleted tree edges: 240
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 3023889
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 240
+Insertion into hashtable over.
+num of superComponents: 241
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 69.2312 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 48.16 ms
+Time of ET: First & Last : 15.90 ms
+Time of Update data structure : 3.11 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 2538259
+The input parent array is a BFS tree.
+Number of deleted tree edges: 218
+numVert: 3072441, num_edges: 234370166 and delete batch size: 10000
+
+Root: 2538259
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 218
+Insertion into hashtable over.
+num of superComponents: 219
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 41.0609 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.57 ms
+Time of ET: First & Last : 16.03 ms
+Time of Update data structure : 3.41 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.31 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 2955886
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 2955886
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3
+Insertion into hashtable over.
+num of superComponents: 4
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 31.6981 ms.
+
+Function execution times:
+Time of ET: First & Last : 15.26 ms
+Time of HS: Find Repl edges : 11.02 ms
+Time of Update data structure : 3.42 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.26 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 928673
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 928673
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3
+Insertion into hashtable over.
+num of superComponents: 4
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 32.5682 ms.
+
+Function execution times:
+Time of ET: First & Last : 15.31 ms
+Time of HS: Find Repl edges : 12.20 ms
+Time of Update data structure : 3.06 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.26 ms
+Time of Path Reversal : 0.06 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 2730957
+The input parent array is a BFS tree.
+Number of deleted tree edges: 0
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 2730957
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 0
+
+Total execution time for Deletion: 12.5685 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 7.21 ms
+Time of Update data structure : 3.71 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.64 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 2834531
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 2834531
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4
+Insertion into hashtable over.
+num of superComponents: 5
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 34.9652 ms.
+
+Function execution times:
+Time of ET: First & Last : 15.91 ms
+Time of HS: Find Repl edges : 10.89 ms
+Time of Update data structure : 6.17 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.27 ms
+Time of Path Reversal : 0.06 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 432661
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5
+numVert: 3072441, num_edges: 234370166 and delete batch size: 100
+
+Root: 432661
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5
+Insertion into hashtable over.
+num of superComponents: 6
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 41.3703 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.32 ms
+Time of ET: First & Last : 16.87 ms
+Time of Update data structure : 3.17 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.27 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 373993
+The input parent array is a BFS tree.
+Number of deleted tree edges: 30
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 373993
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 30
+Insertion into hashtable over.
+num of superComponents: 31
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 40.0728 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.41 ms
+Time of ET: First & Last : 15.59 ms
+Time of Update data structure : 3.04 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.28 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1469205
+The input parent array is a BFS tree.
+Number of deleted tree edges: 17
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 1469205
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 17
+Insertion into hashtable over.
+num of superComponents: 18
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 40.1763 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.39 ms
+Time of ET: First & Last : 15.62 ms
+Time of Update data structure : 3.13 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 894213
+The input parent array is a BFS tree.
+Number of deleted tree edges: 21
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 894213
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 21
+Insertion into hashtable over.
+num of superComponents: 22
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 34.9686 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 15.20 ms
+Time of ET: First & Last : 14.65 ms
+Time of Update data structure : 3.10 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.28 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 2122289
+The input parent array is a BFS tree.
+Number of deleted tree edges: 18
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 2122289
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 18
+Insertion into hashtable over.
+num of superComponents: 19
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 41.0975 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.74 ms
+Time of ET: First & Last : 16.21 ms
+Time of Update data structure : 3.12 ms
+Time of Finding unique comps : 0.99 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.08 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: com-Orkut.egr
+Root: 1647022
+The input parent array is a BFS tree.
+Number of deleted tree edges: 24
+numVert: 3072441, num_edges: 234370166 and delete batch size: 1000
+
+Root: 1647022
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 24
+Insertion into hashtable over.
+num of superComponents: 25
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 40.5764 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 19.45 ms
+Time of ET: First & Last : 15.98 ms
+Time of Update data structure : 3.12 ms
+Time of Finding unique comps : 1.00 ms
+Time of Pointer Jumping : 0.64 ms
+Time of ET: Orientation : 0.28 ms
+Time of Path Reversal : 0.07 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1

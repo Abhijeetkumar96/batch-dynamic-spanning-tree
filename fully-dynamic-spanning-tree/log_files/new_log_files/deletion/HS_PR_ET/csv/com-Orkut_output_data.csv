@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+com-Orkut.txt,100,35.307
+com-Orkut.txt,100,36.834
+com-Orkut.txt,100,53.991
+com-Orkut.txt,100,53.365
+com-Orkut.txt,100,48.434
+com-Orkut.txt,1000,52.651
+com-Orkut.txt,1000,54.424
+com-Orkut.txt,1000,47.274
+com-Orkut.txt,1000,56.266
+com-Orkut.txt,1000,52.877
+com-Orkut.txt,10000,62.816
+com-Orkut.txt,10000,63.686
+com-Orkut.txt,10000,61.914
+com-Orkut.txt,10000,59.096
+com-Orkut.txt,10000,59.512
+com-Orkut.txt,100000,70.001
+com-Orkut.txt,100000,56.044
+com-Orkut.txt,100000,72.38
+com-Orkut.txt,100000,85.899
+com-Orkut.txt,100000,76.456

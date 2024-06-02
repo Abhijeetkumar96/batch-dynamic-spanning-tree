@@ -1,0 +1,740 @@
+
+
+filename: hugebubbles-00020.egr
+Root: 4259994
+The input parent array is a BFS tree.
+Number of deleted tree edges: 55869
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 4259994
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 55869
+Insertion into hashtable over.
+num of superComponents: 55870
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 250.767 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 188.95 ms
+Time of ET: First & Last : 47.34 ms
+Time of Pointer Jumping : 7.43 ms
+Time of ET: Orientation : 3.01 ms
+Time of Update data structure : 2.92 ms
+Time of Path Reversal : 0.56 ms
+Time of Finding unique comps : 0.51 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 13684315
+The input parent array is a BFS tree.
+Number of deleted tree edges: 39204
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 13684315
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 39204
+Insertion into hashtable over.
+num of superComponents: 39205
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 220.489 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 153.73 ms
+Time of ET: First & Last : 54.50 ms
+Time of Pointer Jumping : 7.27 ms
+Time of ET: Orientation : 2.61 ms
+Time of Update data structure : 1.22 ms
+Time of Path Reversal : 0.62 ms
+Time of Finding unique comps : 0.50 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 4492269
+The input parent array is a BFS tree.
+Number of deleted tree edges: 24246
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 4492269
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 24246
+Insertion into hashtable over.
+num of superComponents: 24247
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 208.554 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 150.81 ms
+Time of ET: First & Last : 45.65 ms
+Time of Pointer Jumping : 7.13 ms
+Time of ET: Orientation : 2.71 ms
+Time of Update data structure : 1.27 ms
+Time of Finding unique comps : 0.48 ms
+Time of Path Reversal : 0.47 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 10112369
+The input parent array is a BFS tree.
+Number of deleted tree edges: 35648
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 10112369
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 35648
+Insertion into hashtable over.
+num of superComponents: 35649
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 205.276 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 134.98 ms
+Time of ET: First & Last : 58.11 ms
+Time of Pointer Jumping : 7.24 ms
+Time of ET: Orientation : 2.70 ms
+Time of Update data structure : 1.19 ms
+Time of Finding unique comps : 0.50 ms
+Time of Path Reversal : 0.50 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 6007802
+The input parent array is a BFS tree.
+Number of deleted tree edges: 44901
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100000
+
+Root: 6007802
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 44901
+Insertion into hashtable over.
+num of superComponents: 44902
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 243.232 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 170.22 ms
+Time of ET: First & Last : 60.77 ms
+Time of Pointer Jumping : 7.34 ms
+Time of ET: Orientation : 2.45 ms
+Time of Update data structure : 1.22 ms
+Time of Path Reversal : 0.68 ms
+Time of Finding unique comps : 0.50 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 15641915
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4872
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 15641915
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4872
+Insertion into hashtable over.
+num of superComponents: 4873
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 130.745 ms.
+
+Function execution times:
+Time of ET: First & Last : 63.74 ms
+Time of HS: Find Repl edges : 55.36 ms
+Time of Pointer Jumping : 6.83 ms
+Time of ET: Orientation : 2.61 ms
+Time of Update data structure : 1.17 ms
+Time of Path Reversal : 0.52 ms
+Time of Finding unique comps : 0.47 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 5272872
+The input parent array is a BFS tree.
+Number of deleted tree edges: 3626
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 5272872
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 3626
+Insertion into hashtable over.
+num of superComponents: 3627
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 149.23 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 74.30 ms
+Time of ET: First & Last : 63.58 ms
+Time of Pointer Jumping : 6.76 ms
+Time of ET: Orientation : 2.60 ms
+Time of Update data structure : 1.12 ms
+Time of Finding unique comps : 0.47 ms
+Time of Path Reversal : 0.36 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 18577495
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4940
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 18577495
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4940
+Insertion into hashtable over.
+num of superComponents: 4941
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 151.339 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 75.76 ms
+Time of ET: First & Last : 63.97 ms
+Time of Pointer Jumping : 6.84 ms
+Time of ET: Orientation : 2.61 ms
+Time of Update data structure : 1.12 ms
+Time of Path Reversal : 0.53 ms
+Time of Finding unique comps : 0.47 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 11412221
+The input parent array is a BFS tree.
+Number of deleted tree edges: 4183
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 11412221
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 4183
+Insertion into hashtable over.
+num of superComponents: 4184
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 157.427 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 82.02 ms
+Time of ET: First & Last : 63.88 ms
+Time of Pointer Jumping : 6.80 ms
+Time of ET: Orientation : 2.60 ms
+Time of Update data structure : 1.09 ms
+Time of Path Reversal : 0.52 ms
+Time of Finding unique comps : 0.47 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 3228543
+The input parent array is a BFS tree.
+Number of deleted tree edges: 5711
+numVert: 21198119, num_edges: 63580358 and delete batch size: 10000
+
+Root: 3228543
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 5711
+Insertion into hashtable over.
+num of superComponents: 5712
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 130.447 ms.
+
+Function execution times:
+Time of HS: Find Repl edges : 67.41 ms
+Time of ET: First & Last : 51.46 ms
+Time of Pointer Jumping : 6.86 ms
+Time of ET: Orientation : 2.61 ms
+Time of Update data structure : 1.13 ms
+Time of Finding unique comps : 0.47 ms
+Time of Path Reversal : 0.45 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 9513294
+The input parent array is a BFS tree.
+Number of deleted tree edges: 51
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 9513294
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 51
+Insertion into hashtable over.
+num of superComponents: 52
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 97.2015 ms.
+
+Function execution times:
+Time of ET: First & Last : 64.18 ms
+Time of HS: Find Repl edges : 24.75 ms
+Time of Pointer Jumping : 6.23 ms
+Time of Update data structure : 1.07 ms
+Time of Finding unique comps : 0.34 ms
+Time of Path Reversal : 0.30 ms
+Time of ET: Orientation : 0.29 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 6058863
+The input parent array is a BFS tree.
+Number of deleted tree edges: 61
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 6058863
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 61
+Insertion into hashtable over.
+num of superComponents: 62
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 96.6391 ms.
+
+Function execution times:
+Time of ET: First & Last : 62.13 ms
+Time of HS: Find Repl edges : 26.25 ms
+Time of Pointer Jumping : 6.25 ms
+Time of Update data structure : 1.07 ms
+Time of Finding unique comps : 0.34 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.28 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 13547541
+The input parent array is a BFS tree.
+Number of deleted tree edges: 22
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 13547541
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 22
+Insertion into hashtable over.
+num of superComponents: 23
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 88.8517 ms.
+
+Function execution times:
+Time of ET: First & Last : 63.31 ms
+Time of HS: Find Repl edges : 17.20 ms
+Time of Pointer Jumping : 6.21 ms
+Time of Update data structure : 1.20 ms
+Time of Finding unique comps : 0.34 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.27 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 5616226
+The input parent array is a BFS tree.
+Number of deleted tree edges: 59
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 5616226
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 59
+Insertion into hashtable over.
+num of superComponents: 60
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 97.3214 ms.
+
+Function execution times:
+Time of ET: First & Last : 69.73 ms
+Time of HS: Find Repl edges : 19.33 ms
+Time of Pointer Jumping : 6.22 ms
+Time of Update data structure : 1.08 ms
+Time of Finding unique comps : 0.35 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.29 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 3122268
+The input parent array is a BFS tree.
+Number of deleted tree edges: 55
+numVert: 21198119, num_edges: 63580358 and delete batch size: 100
+
+Root: 3122268
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 55
+Insertion into hashtable over.
+num of superComponents: 56
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 100.747 ms.
+
+Function execution times:
+Time of ET: First & Last : 59.91 ms
+Time of HS: Find Repl edges : 27.76 ms
+Time of Pointer Jumping : 6.24 ms
+Time of Update data structure : 5.94 ms
+Time of Finding unique comps : 0.32 ms
+Time of ET: Orientation : 0.29 ms
+Time of Path Reversal : 0.26 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.01 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 4011862
+The input parent array is a BFS tree.
+Number of deleted tree edges: 418
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 4011862
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 418
+Insertion into hashtable over.
+num of superComponents: 419
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 103.568 ms.
+
+Function execution times:
+Time of ET: First & Last : 62.55 ms
+Time of HS: Find Repl edges : 32.52 ms
+Time of Pointer Jumping : 6.35 ms
+Time of Update data structure : 1.08 ms
+Time of Finding unique comps : 0.44 ms
+Time of ET: Orientation : 0.32 ms
+Time of Path Reversal : 0.26 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 9926322
+The input parent array is a BFS tree.
+Number of deleted tree edges: 487
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 9926322
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 487
+Insertion into hashtable over.
+num of superComponents: 488
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 103.766 ms.
+
+Function execution times:
+Time of ET: First & Last : 63.71 ms
+Time of HS: Find Repl edges : 31.32 ms
+Time of Pointer Jumping : 6.41 ms
+Time of Update data structure : 1.17 ms
+Time of Finding unique comps : 0.44 ms
+Time of Path Reversal : 0.35 ms
+Time of ET: Orientation : 0.32 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 10431432
+The input parent array is a BFS tree.
+Number of deleted tree edges: 410
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 10431432
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 410
+Insertion into hashtable over.
+num of superComponents: 411
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 103.135 ms.
+
+Function execution times:
+Time of ET: First & Last : 61.85 ms
+Time of HS: Find Repl edges : 32.70 ms
+Time of Pointer Jumping : 6.37 ms
+Time of Update data structure : 1.08 ms
+Time of Finding unique comps : 0.44 ms
+Time of Path Reversal : 0.33 ms
+Time of ET: Orientation : 0.32 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 6140761
+The input parent array is a BFS tree.
+Number of deleted tree edges: 103
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 6140761
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 103
+Insertion into hashtable over.
+num of superComponents: 104
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 98.6786 ms.
+
+Function execution times:
+Time of ET: First & Last : 63.42 ms
+Time of HS: Find Repl edges : 26.89 ms
+Time of Pointer Jumping : 6.26 ms
+Time of Update data structure : 1.15 ms
+Time of Finding unique comps : 0.34 ms
+Time of Path Reversal : 0.29 ms
+Time of ET: Orientation : 0.28 ms
+Time of Hashtable insertion : 0.02 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1
+
+
+filename: hugebubbles-00020.egr
+Root: 3456581
+The input parent array is a BFS tree.
+Number of deleted tree edges: 605
+numVert: 21198119, num_edges: 63580358 and delete batch size: 1000
+
+Root: 3456581
+Selected Algorithm: HS_ET_ET
+Finding Replacement edges using HS.
+Number of roots: 1
+Number of cross-edges: 605
+Insertion into hashtable over.
+num of superComponents: 606
+Reversing the paths using eulerian tour 
+
+Total execution time for Deletion: 117.175 ms.
+
+Function execution times:
+Time of ET: First & Last : 64.37 ms
+Time of HS: Find Repl edges : 44.11 ms
+Time of Pointer Jumping : 6.41 ms
+Time of Update data structure : 1.10 ms
+Time of Finding unique comps : 0.45 ms
+Time of Path Reversal : 0.37 ms
+Time of ET: Orientation : 0.33 ms
+Time of Hashtable insertion : 0.03 ms
+Time of Update rep array : 0.02 ms
+
+
+Total execution time for Insertion: 0.00 ms.
+
+Function execution times:
+
+Executing validate part.
+numComp in the graph: 1

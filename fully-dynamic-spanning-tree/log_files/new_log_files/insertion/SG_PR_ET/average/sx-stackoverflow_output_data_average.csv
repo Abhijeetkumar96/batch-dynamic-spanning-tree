@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+sx-stackoverflow.egr,2601977,56414194,100,4.6,12.62
+sx-stackoverflow.egr,2601977,56414194,1000,41.6,13.05
+sx-stackoverflow.egr,2601977,56414194,10000,405.6,13.68
+sx-stackoverflow.egr,2601977,56414194,100000,4020.0,13.27

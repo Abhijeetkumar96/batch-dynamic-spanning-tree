@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+kmer_V1r.egr,214005017,465410920,100,,785.03
+kmer_V1r.egr,214005017,465410920,1000,,792.52
+kmer_V1r.egr,214005017,465410920,10000,,798.38
+kmer_V1r.egr,214005017,465410920,100000,,804.06

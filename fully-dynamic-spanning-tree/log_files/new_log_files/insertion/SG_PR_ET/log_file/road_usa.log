@@ -1,0 +1,420 @@
+
+
+filename: road_usa.egr
+Root: 208599
+Number of deleted tree edges: 24507
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 208599
+Root: 208599
+After repairing:
+Total execution time of all functions: 57.857 ms.
+
+Function execution times:
+Time of Eulerian Tour : 48.62 ms
+Time of Pointer Jumping : 5.29 ms
+Time of Super graph Creation : 2.85 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 4910129
+Number of deleted tree edges: 24575
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 4910129
+Root: 4910129
+After repairing:
+Total execution time of all functions: 60.998 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.77 ms
+Time of Pointer Jumping : 5.29 ms
+Time of Super graph Creation : 1.84 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 1629163
+Number of deleted tree edges: 36729
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 1629163
+Root: 1629163
+After repairing:
+Total execution time of all functions: 62.072 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.63 ms
+Time of Pointer Jumping : 5.29 ms
+Time of Super graph Creation : 3.05 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 6093656
+Number of deleted tree edges: 12431
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 6093656
+Root: 6093656
+After repairing:
+Total execution time of all functions: 55.7324 ms.
+
+Function execution times:
+Time of Eulerian Tour : 46.82 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Super graph Creation : 2.54 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 7218455
+Number of deleted tree edges: 14316
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100000
+
+Root: 7218455
+Root: 7218455
+After repairing:
+Total execution time of all functions: 56.8004 ms.
+
+Function execution times:
+Time of Eulerian Tour : 48.01 ms
+Time of Pointer Jumping : 5.29 ms
+Time of Super graph Creation : 2.41 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 882257
+Number of deleted tree edges: 3795
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 882257
+Root: 882257
+After repairing:
+Total execution time of all functions: 62.0663 ms.
+
+Function execution times:
+Time of Eulerian Tour : 51.84 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Super graph Creation : 3.84 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 1617300
+Number of deleted tree edges: 3782
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 1617300
+Root: 1617300
+After repairing:
+Total execution time of all functions: 54.1214 ms.
+
+Function execution times:
+Time of Eulerian Tour : 45.12 ms
+Time of Pointer Jumping : 4.70 ms
+Time of Super graph Creation : 3.21 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 19192467
+Number of deleted tree edges: 1848
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 19192467
+Root: 19192467
+After repairing:
+Total execution time of all functions: 53.6312 ms.
+
+Function execution times:
+Time of Eulerian Tour : 44.64 ms
+Time of Pointer Jumping : 5.29 ms
+Time of Super graph Creation : 2.61 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 21204529
+Number of deleted tree edges: 3627
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 21204529
+Root: 21204529
+After repairing:
+Total execution time of all functions: 60.9787 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.34 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Super graph Creation : 2.26 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 11080862
+Number of deleted tree edges: 3004
+numVert: 23947347, num_edges: 57708624 and delete batch size: 10000
+
+Root: 11080862
+Root: 11080862
+After repairing:
+Total execution time of all functions: 63.1088 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.29 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Super graph Creation : 3.45 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 11754092
+Number of deleted tree edges: 27
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 11754092
+Root: 11754092
+After repairing:
+Total execution time of all functions: 65.1799 ms.
+
+Function execution times:
+Time of Eulerian Tour : 57.70 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Super graph Creation : 1.11 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 16242084
+Number of deleted tree edges: 28
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 16242084
+Root: 16242084
+After repairing:
+Total execution time of all functions: 57.8275 ms.
+
+Function execution times:
+Time of Eulerian Tour : 50.88 ms
+Time of Pointer Jumping : 5.28 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.58 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 16023015
+Number of deleted tree edges: 15
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 16023015
+Root: 16023015
+After repairing:
+Total execution time of all functions: 60.9589 ms.
+
+Function execution times:
+Time of Eulerian Tour : 53.62 ms
+Time of Pointer Jumping : 5.27 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.99 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 8349662
+Number of deleted tree edges: 15
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 8349662
+Root: 8349662
+After repairing:
+Total execution time of all functions: 46.9643 ms.
+
+Function execution times:
+Time of Eulerian Tour : 40.53 ms
+Time of Pointer Jumping : 4.92 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.44 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 5314936
+Number of deleted tree edges: 17
+numVert: 23947347, num_edges: 57708624 and delete batch size: 100
+
+Root: 5314936
+Root: 5314936
+After repairing:
+Total execution time of all functions: 58.8695 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.03 ms
+Time of Pointer Jumping : 5.28 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.47 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 17670913
+Number of deleted tree edges: 66
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 17670913
+Root: 17670913
+After repairing:
+Total execution time of all functions: 56.7734 ms.
+
+Function execution times:
+Time of Eulerian Tour : 49.81 ms
+Time of Pointer Jumping : 5.28 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.59 ms
+Time of Update rep array : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 296772
+Number of deleted tree edges: 233
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 296772
+Root: 296772
+After repairing:
+Total execution time of all functions: 59.9278 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.42 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Super graph Creation : 1.14 ms
+Time of finding unique comps : 1.08 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 17220411
+Number of deleted tree edges: 296
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 17220411
+Root: 17220411
+After repairing:
+Total execution time of all functions: 59.9297 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.71 ms
+Time of Pointer Jumping : 5.28 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.84 ms
+Time of Update rep array : 0.02 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 7532517
+Number of deleted tree edges: 172
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 7532517
+Root: 7532517
+After repairing:
+Total execution time of all functions: 59.9327 ms.
+
+Function execution times:
+Time of Eulerian Tour : 52.41 ms
+Time of Pointer Jumping : 5.28 ms
+Time of Super graph Creation : 1.16 ms
+Time of finding unique comps : 1.07 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: road_usa.egr
+Root: 3943562
+Number of deleted tree edges: 224
+numVert: 23947347, num_edges: 57708624 and delete batch size: 1000
+
+Root: 3943562
+Root: 3943562
+After repairing:
+Total execution time of all functions: 58.9387 ms.
+
+Function execution times:
+Time of Eulerian Tour : 51.61 ms
+Time of Pointer Jumping : 5.33 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 0.91 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

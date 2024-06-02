@@ -1,0 +1,420 @@
+
+
+filename: ljournal-2008.egr
+Root: 3834326
+Number of deleted tree edges: 5445
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Root: 3834326
+Root: 3834326
+After repairing:
+Total execution time of all functions: 18.5532 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.28 ms
+Time of Super graph Creation : 1.54 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 5041121
+Number of deleted tree edges: 4257
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Root: 5041121
+Root: 5041121
+After repairing:
+Total execution time of all functions: 18.542 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.99 ms
+Time of Super graph Creation : 1.83 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 1501311
+Number of deleted tree edges: 4373
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Root: 1501311
+Root: 1501311
+After repairing:
+Total execution time of all functions: 19.6045 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.69 ms
+Time of Super graph Creation : 2.18 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 400592
+Number of deleted tree edges: 5417
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Root: 400592
+Root: 400592
+After repairing:
+Total execution time of all functions: 19.6031 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.53 ms
+Time of Super graph Creation : 2.35 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 5108329
+Number of deleted tree edges: 3930
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100000
+
+Root: 5108329
+Root: 5108329
+After repairing:
+Total execution time of all functions: 19.6046 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.73 ms
+Time of Super graph Creation : 2.14 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 2276301
+Number of deleted tree edges: 504
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Root: 2276301
+Root: 2276301
+After repairing:
+Total execution time of all functions: 26.2239 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.41 ms
+Time of Super graph Creation : 1.77 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.96 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 3303981
+Number of deleted tree edges: 522
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Root: 3303981
+Root: 3303981
+After repairing:
+Total execution time of all functions: 18.5422 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.48 ms
+Time of Super graph Creation : 1.33 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 4947237
+Number of deleted tree edges: 515
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Root: 4947237
+Root: 4947237
+After repairing:
+Total execution time of all functions: 19.5886 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.02 ms
+Time of Super graph Creation : 1.84 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 2685931
+Number of deleted tree edges: 532
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Root: 2685931
+Root: 2685931
+After repairing:
+Total execution time of all functions: 18.5286 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.19 ms
+Time of Super graph Creation : 1.62 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 2900735
+Number of deleted tree edges: 527
+numVert: 5363260, num_edges: 99028690 and delete batch size: 10000
+
+Root: 2900735
+Root: 2900735
+After repairing:
+Total execution time of all functions: 19.594 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.16 ms
+Time of Super graph Creation : 1.71 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 2201758
+Number of deleted tree edges: 7
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Root: 2201758
+Root: 2201758
+After repairing:
+Total execution time of all functions: 21.8432 ms.
+
+Function execution times:
+Time of Eulerian Tour : 18.73 ms
+Time of Super graph Creation : 1.24 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.79 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 1892380
+Number of deleted tree edges: 4
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Root: 1892380
+Root: 1892380
+After repairing:
+Total execution time of all functions: 17.4912 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.28 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Super graph Creation : 0.48 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 2675575
+Number of deleted tree edges: 2
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Root: 2675575
+Root: 2675575
+After repairing:
+Total execution time of all functions: 18.5285 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.92 ms
+Time of finding unique comps : 1.06 ms
+Time of Super graph Creation : 0.89 ms
+Time of Pointer Jumping : 0.64 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 2358964
+Number of deleted tree edges: 9
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Root: 2358964
+Root: 2358964
+After repairing:
+Total execution time of all functions: 18.5344 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.37 ms
+Time of finding unique comps : 1.07 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Super graph Creation : 0.43 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 2131757
+Number of deleted tree edges: 6
+numVert: 5363260, num_edges: 99028690 and delete batch size: 100
+
+Root: 2131757
+Root: 2131757
+After repairing:
+Total execution time of all functions: 17.4895 ms.
+
+Function execution times:
+Time of Eulerian Tour : 14.98 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.78 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 1888152
+Number of deleted tree edges: 44
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Root: 1888152
+Root: 1888152
+After repairing:
+Total execution time of all functions: 18.5406 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.13 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.68 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 3523349
+Number of deleted tree edges: 48
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Root: 3523349
+Root: 3523349
+After repairing:
+Total execution time of all functions: 22.964 ms.
+
+Function execution times:
+Time of Eulerian Tour : 19.99 ms
+Time of finding unique comps : 1.08 ms
+Time of Super graph Creation : 1.03 ms
+Time of Pointer Jumping : 0.86 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 3144052
+Number of deleted tree edges: 52
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Root: 3144052
+Root: 3144052
+After repairing:
+Total execution time of all functions: 18.5373 ms.
+
+Function execution times:
+Time of Eulerian Tour : 16.32 ms
+Time of finding unique comps : 1.06 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Super graph Creation : 0.50 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 310064
+Number of deleted tree edges: 41
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Root: 310064
+Root: 310064
+After repairing:
+Total execution time of all functions: 25.1662 ms.
+
+Function execution times:
+Time of Eulerian Tour : 22.21 ms
+Time of finding unique comps : 1.08 ms
+Time of Pointer Jumping : 0.95 ms
+Time of Super graph Creation : 0.92 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1
+
+
+filename: ljournal-2008.egr
+Root: 208936
+Number of deleted tree edges: 52
+numVert: 5363260, num_edges: 99028690 and delete batch size: 1000
+
+Root: 208936
+Root: 208936
+After repairing:
+Total execution time of all functions: 18.5442 ms.
+
+Function execution times:
+Time of Eulerian Tour : 15.90 ms
+Time of finding unique comps : 1.07 ms
+Time of Super graph Creation : 0.92 ms
+Time of Pointer Jumping : 0.65 ms
+Time of Update rep array : 0.01 ms
+Executing validate part.
+Unique representatives after deleting edges: 1
+numComp after edge deletion: 1

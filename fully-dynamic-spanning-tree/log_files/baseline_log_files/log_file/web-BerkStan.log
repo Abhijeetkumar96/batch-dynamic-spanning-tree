@@ -1,0 +1,259 @@
+filename: web-BerkStan.egr
+Delete batch Size: 100000
+Depth of graph: 972
+Total execution time of all functions: 1184.32 ms.
+
+Function execution times:
+Time of simple BFS : 1065.67 ms
+Time of Adam_BFS : 99.58 ms
+Time of PR-RST module : 12.11 ms
+Time of CC : 3.61 ms
+Time of update datastr : 3.35 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100000
+Depth of graph: 972
+Total execution time of all functions: 257.104 ms.
+
+Function execution times:
+Time of simple BFS : 138.25 ms
+Time of Adam_BFS : 100.99 ms
+Time of PR-RST module : 11.88 ms
+Time of update datastr : 3.34 ms
+Time of CC : 2.65 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100000
+Depth of graph: 972
+Total execution time of all functions: 182.703 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.41 ms
+Time of simple BFS : 68.84 ms
+Time of PR-RST module : 10.21 ms
+Time of update datastr : 3.02 ms
+Time of CC : 2.22 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100000
+Depth of graph: 972
+Total execution time of all functions: 184.71 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.23 ms
+Time of simple BFS : 65.77 ms
+Time of PR-RST module : 15.40 ms
+Time of update datastr : 3.01 ms
+Time of CC : 2.30 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100000
+Depth of graph: 972
+Total execution time of all functions: 184.45 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.48 ms
+Time of simple BFS : 68.25 ms
+Time of PR-RST module : 12.01 ms
+Time of update datastr : 2.98 ms
+Time of CC : 2.73 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 10000
+Depth of graph: 972
+Total execution time of all functions: 183.768 ms.
+
+Function execution times:
+Time of Adam_BFS : 97.89 ms
+Time of simple BFS : 68.48 ms
+Time of PR-RST module : 12.05 ms
+Time of update datastr : 2.99 ms
+Time of CC : 2.36 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 10000
+Depth of graph: 972
+Total execution time of all functions: 185.503 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.70 ms
+Time of simple BFS : 69.08 ms
+Time of PR-RST module : 11.94 ms
+Time of update datastr : 2.94 ms
+Time of CC : 2.85 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 10000
+Depth of graph: 972
+Total execution time of all functions: 185.11 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.69 ms
+Time of simple BFS : 68.65 ms
+Time of PR-RST module : 11.95 ms
+Time of update datastr : 2.95 ms
+Time of CC : 2.87 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 10000
+Depth of graph: 972
+Total execution time of all functions: 185.664 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.45 ms
+Time of simple BFS : 69.89 ms
+Time of PR-RST module : 11.96 ms
+Time of update datastr : 2.99 ms
+Time of CC : 2.38 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 10000
+Depth of graph: 972
+Total execution time of all functions: 183.74 ms.
+
+Function execution times:
+Time of Adam_BFS : 97.90 ms
+Time of simple BFS : 67.95 ms
+Time of PR-RST module : 11.97 ms
+Time of CC : 2.99 ms
+Time of update datastr : 2.93 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100
+Depth of graph: 972
+Total execution time of all functions: 184.848 ms.
+
+Function execution times:
+Time of Adam_BFS : 97.97 ms
+Time of simple BFS : 69.14 ms
+Time of PR-RST module : 11.92 ms
+Time of update datastr : 2.97 ms
+Time of CC : 2.84 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100
+Depth of graph: 972
+Total execution time of all functions: 186.63 ms.
+
+Function execution times:
+Time of Adam_BFS : 97.76 ms
+Time of simple BFS : 68.68 ms
+Time of PR-RST module : 12.02 ms
+Time of update datastr : 5.80 ms
+Time of CC : 2.36 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100
+Depth of graph: 972
+Total execution time of all functions: 185.255 ms.
+
+Function execution times:
+Time of Adam_BFS : 97.87 ms
+Time of simple BFS : 68.98 ms
+Time of PR-RST module : 12.15 ms
+Time of CC : 3.31 ms
+Time of update datastr : 2.94 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100
+Depth of graph: 972
+Total execution time of all functions: 188.563 ms.
+
+Function execution times:
+Time of Adam_BFS : 99.48 ms
+Time of simple BFS : 69.93 ms
+Time of PR-RST module : 13.86 ms
+Time of update datastr : 2.93 ms
+Time of CC : 2.35 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 100
+Depth of graph: 972
+Total execution time of all functions: 186.287 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.43 ms
+Time of simple BFS : 68.74 ms
+Time of PR-RST module : 13.75 ms
+Time of update datastr : 2.98 ms
+Time of CC : 2.39 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 1000
+Depth of graph: 972
+Total execution time of all functions: 186.684 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.45 ms
+Time of simple BFS : 68.99 ms
+Time of PR-RST module : 13.74 ms
+Time of update datastr : 2.96 ms
+Time of CC : 2.54 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 1000
+Depth of graph: 972
+Total execution time of all functions: 186.461 ms.
+
+Function execution times:
+Time of Adam_BFS : 97.72 ms
+Time of simple BFS : 69.23 ms
+Time of PR-RST module : 13.70 ms
+Time of update datastr : 3.00 ms
+Time of CC : 2.81 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 1000
+Depth of graph: 972
+Total execution time of all functions: 187.74 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.40 ms
+Time of simple BFS : 68.38 ms
+Time of PR-RST module : 15.66 ms
+Time of update datastr : 2.92 ms
+Time of CC : 2.38 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 1000
+Depth of graph: 972
+Total execution time of all functions: 185.837 ms.
+
+Function execution times:
+Time of Adam_BFS : 98.32 ms
+Time of simple BFS : 68.37 ms
+Time of PR-RST module : 13.80 ms
+Time of update datastr : 2.97 ms
+Time of CC : 2.38 ms
+----------------------------------------------------------------
+
+filename: web-BerkStan.egr
+Delete batch Size: 1000
+Depth of graph: 972
+Total execution time of all functions: 184.921 ms.
+
+Function execution times:
+Time of Adam_BFS : 97.64 ms
+Time of simple BFS : 69.26 ms
+Time of PR-RST module : 12.24 ms
+Time of update datastr : 2.94 ms
+Time of CC : 2.85 ms
+----------------------------------------------------------------

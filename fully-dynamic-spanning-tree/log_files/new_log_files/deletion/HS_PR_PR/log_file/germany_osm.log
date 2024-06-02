@@ -1,0 +1,620 @@
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100000
+Time of (17)PR Shortcut : 27.278000 ms 
+Time of (9)Hooking Shortcutting : 17.66800 ms 
+Time of (15)PR Loop : 10.47800 ms 
+Time of (18)PR Reverse Paths : 8.41300 ms 
+Time of (8)Shortcut rep : 3.72400 ms 
+Time of (3)Edge Deletion : 3.20700 ms 
+Time of (1)Get key rem collections : 1.40200 ms 
+Time of (0)Extracting Roots : 0.64600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.60200 ms 
+Time of (6)Get key rem collections : 0.54900 ms 
+Time of (12)Transedges prefix : 0.49200 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.32300 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (7)Convert to collection : 0.29400 ms 
+Time of (10)Compress Graph : 0.25200 ms 
+Time of (4)Remove edges : 0.24300 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 76.30400 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100000
+Time of (17)PR Shortcut : 27.356000 ms 
+Time of (15)PR Loop : 10.49800 ms 
+Time of (9)Hooking Shortcutting : 10.09200 ms 
+Time of (18)PR Reverse Paths : 8.40800 ms 
+Time of (8)Shortcut rep : 3.44300 ms 
+Time of (3)Edge Deletion : 3.17600 ms 
+Time of (1)Get key rem collections : 1.41700 ms 
+Time of (0)Extracting Roots : 0.65800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.60000 ms 
+Time of (6)Get key rem collections : 0.51700 ms 
+Time of (12)Transedges prefix : 0.49900 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.31800 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29400 ms 
+Time of (4)Remove edges : 0.24600 ms 
+Time of (10)Compress Graph : 0.23500 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 68.48800 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100000
+Time of (17)PR Shortcut : 27.264000 ms 
+Time of (9)Hooking Shortcutting : 12.12100 ms 
+Time of (15)PR Loop : 8.89300 ms 
+Time of (18)PR Reverse Paths : 8.40700 ms 
+Time of (8)Shortcut rep : 3.66700 ms 
+Time of (3)Edge Deletion : 3.22400 ms 
+Time of (1)Get key rem collections : 1.43000 ms 
+Time of (0)Extracting Roots : 0.69700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.59400 ms 
+Time of (6)Get key rem collections : 0.53700 ms 
+Time of (12)Transedges prefix : 0.50200 ms 
+Time of (5)Generate new edges : 0.41000 ms 
+Time of (10)Compress Graph : 0.31500 ms 
+Time of (16)Component Parent, Reversals : 0.31100 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29300 ms 
+Time of (4)Remove edges : 0.24900 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 69.23900 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100000
+Time of (17)PR Shortcut : 26.577000 ms 
+Time of (9)Hooking Shortcutting : 14.30700 ms 
+Time of (15)PR Loop : 9.77200 ms 
+Time of (18)PR Reverse Paths : 8.41500 ms 
+Time of (8)Shortcut rep : 3.70800 ms 
+Time of (3)Edge Deletion : 3.16000 ms 
+Time of (1)Get key rem collections : 1.42600 ms 
+Time of (0)Extracting Roots : 0.65200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.59600 ms 
+Time of (6)Get key rem collections : 0.54900 ms 
+Time of (12)Transedges prefix : 0.51100 ms 
+Time of (5)Generate new edges : 0.41100 ms 
+Time of (16)Component Parent, Reversals : 0.31700 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Convert to collection : 0.29400 ms 
+Time of (4)Remove edges : 0.24800 ms 
+Time of (10)Compress Graph : 0.24400 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 71.51300 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100000
+Time of (17)PR Shortcut : 27.172000 ms 
+Time of (9)Hooking Shortcutting : 13.10500 ms 
+Time of (15)PR Loop : 9.72600 ms 
+Time of (18)PR Reverse Paths : 7.97400 ms 
+Time of (8)Shortcut rep : 3.65100 ms 
+Time of (3)Edge Deletion : 3.22900 ms 
+Time of (1)Get key rem collections : 1.40300 ms 
+Time of (0)Extracting Roots : 0.64700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.56100 ms 
+Time of (6)Get key rem collections : 0.53100 ms 
+Time of (12)Transedges prefix : 0.48800 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.33500 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Convert to collection : 0.29400 ms 
+Time of (4)Remove edges : 0.23900 ms 
+Time of (10)Compress Graph : 0.23000 ms 
+Time of (14)PR init : 0.01800 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 70.32000 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 10000
+Time of (17)PR Shortcut : 27.227000 ms 
+Time of (18)PR Reverse Paths : 6.99100 ms 
+Time of (9)Hooking Shortcutting : 5.87100 ms 
+Time of (8)Shortcut rep : 3.66700 ms 
+Time of (3)Edge Deletion : 2.97700 ms 
+Time of (15)PR Loop : 2.83000 ms 
+Time of (1)Get key rem collections : 1.42600 ms 
+Time of (0)Extracting Roots : 0.66900 ms 
+Time of (6)Get key rem collections : 0.66400 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.52900 ms 
+Time of (12)Transedges prefix : 0.50600 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (4)Remove edges : 0.30700 ms 
+Time of (16)Component Parent, Reversals : 0.30500 ms 
+Time of (2)Convert to collection : 0.30400 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (10)Compress Graph : 0.23300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 55.23400 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 10000
+Time of (17)PR Shortcut : 24.070000 ms 
+Time of (18)PR Reverse Paths : 6.94300 ms 
+Time of (9)Hooking Shortcutting : 4.46000 ms 
+Time of (15)PR Loop : 4.03800 ms 
+Time of (8)Shortcut rep : 3.65500 ms 
+Time of (3)Edge Deletion : 2.96200 ms 
+Time of (1)Get key rem collections : 1.41500 ms 
+Time of (6)Get key rem collections : 0.72400 ms 
+Time of (0)Extracting Roots : 0.65500 ms 
+Time of (12)Transedges prefix : 0.63200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.54000 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (16)Component Parent, Reversals : 0.29500 ms 
+Time of (4)Remove edges : 0.23400 ms 
+Time of (10)Compress Graph : 0.23300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 51.88200 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 10000
+Time of (17)PR Shortcut : 26.874000 ms 
+Time of (9)Hooking Shortcutting : 7.94000 ms 
+Time of (18)PR Reverse Paths : 6.94100 ms 
+Time of (15)PR Loop : 4.15500 ms 
+Time of (8)Shortcut rep : 3.46600 ms 
+Time of (3)Edge Deletion : 3.02800 ms 
+Time of (1)Get key rem collections : 1.40400 ms 
+Time of (0)Extracting Roots : 0.66200 ms 
+Time of (12)Transedges prefix : 0.54200 ms 
+Time of (6)Get key rem collections : 0.53600 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.52600 ms 
+Time of (5)Generate new edges : 0.41100 ms 
+Time of (2)Convert to collection : 0.30400 ms 
+Time of (7)Convert to collection : 0.29800 ms 
+Time of (16)Component Parent, Reversals : 0.29400 ms 
+Time of (4)Remove edges : 0.23700 ms 
+Time of (10)Compress Graph : 0.22700 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 57.86900 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 10000
+Time of (17)PR Shortcut : 26.754000 ms 
+Time of (18)PR Reverse Paths : 6.99900 ms 
+Time of (9)Hooking Shortcutting : 6.51600 ms 
+Time of (15)PR Loop : 4.10100 ms 
+Time of (8)Shortcut rep : 3.69300 ms 
+Time of (3)Edge Deletion : 3.01600 ms 
+Time of (1)Get key rem collections : 1.43200 ms 
+Time of (0)Extracting Roots : 0.65700 ms 
+Time of (6)Get key rem collections : 0.61300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.52500 ms 
+Time of (12)Transedges prefix : 0.51200 ms 
+Time of (5)Generate new edges : 0.40900 ms 
+Time of (2)Convert to collection : 0.30700 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (16)Component Parent, Reversals : 0.29600 ms 
+Time of (4)Remove edges : 0.23900 ms 
+Time of (10)Compress Graph : 0.23600 ms 
+Time of (14)PR init : 0.01500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 56.62600 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 10000
+Time of (17)PR Shortcut : 25.773000 ms 
+Time of (9)Hooking Shortcutting : 9.94200 ms 
+Time of (18)PR Reverse Paths : 6.96600 ms 
+Time of (15)PR Loop : 5.44700 ms 
+Time of (8)Shortcut rep : 3.64900 ms 
+Time of (3)Edge Deletion : 3.01000 ms 
+Time of (1)Get key rem collections : 1.43600 ms 
+Time of (0)Extracting Roots : 0.65000 ms 
+Time of (6)Get key rem collections : 0.62200 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.53100 ms 
+Time of (12)Transedges prefix : 0.49100 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.29900 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (10)Compress Graph : 0.23600 ms 
+Time of (4)Remove edges : 0.23600 ms 
+Time of (14)PR init : 0.01700 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 60.31700 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100
+Time of (17)PR Shortcut : 27.165000 ms 
+Time of (18)PR Reverse Paths : 6.14500 ms 
+Time of (9)Hooking Shortcutting : 5.45600 ms 
+Time of (8)Shortcut rep : 3.34100 ms 
+Time of (3)Edge Deletion : 2.95700 ms 
+Time of (1)Get key rem collections : 1.43800 ms 
+Time of (0)Extracting Roots : 0.63900 ms 
+Time of (6)Get key rem collections : 0.55000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.51200 ms 
+Time of (12)Transedges prefix : 0.48500 ms 
+Time of (15)PR Loop : 0.43900 ms 
+Time of (5)Generate new edges : 0.40700 ms 
+Time of (16)Component Parent, Reversals : 0.30200 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29500 ms 
+Time of (4)Remove edges : 0.23200 ms 
+Time of (10)Compress Graph : 0.22900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 50.91300 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100
+Time of (17)PR Shortcut : 26.741000 ms 
+Time of (18)PR Reverse Paths : 6.12500 ms 
+Time of (8)Shortcut rep : 3.33200 ms 
+Time of (3)Edge Deletion : 3.00800 ms 
+Time of (9)Hooking Shortcutting : 2.44500 ms 
+Time of (1)Get key rem collections : 1.41300 ms 
+Time of (0)Extracting Roots : 0.64300 ms 
+Time of (6)Get key rem collections : 0.52700 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.51400 ms 
+Time of (12)Transedges prefix : 0.50300 ms 
+Time of (15)PR Loop : 0.44300 ms 
+Time of (5)Generate new edges : 0.40700 ms 
+Time of (2)Convert to collection : 0.30400 ms 
+Time of (16)Component Parent, Reversals : 0.29700 ms 
+Time of (7)Convert to collection : 0.29500 ms 
+Time of (4)Remove edges : 0.26700 ms 
+Time of (10)Compress Graph : 0.23200 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 47.52000 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100
+Time of (17)PR Shortcut : 26.715000 ms 
+Time of (18)PR Reverse Paths : 6.14400 ms 
+Time of (9)Hooking Shortcutting : 5.46100 ms 
+Time of (8)Shortcut rep : 3.35300 ms 
+Time of (3)Edge Deletion : 2.98600 ms 
+Time of (1)Get key rem collections : 1.41400 ms 
+Time of (0)Extracting Roots : 0.64400 ms 
+Time of (6)Get key rem collections : 0.52500 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.50700 ms 
+Time of (15)PR Loop : 0.49000 ms 
+Time of (12)Transedges prefix : 0.48800 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.29800 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (4)Remove edges : 0.23500 ms 
+Time of (10)Compress Graph : 0.23300 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 50.51800 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100
+Time of (17)PR Shortcut : 26.588000 ms 
+Time of (18)PR Reverse Paths : 6.19300 ms 
+Time of (9)Hooking Shortcutting : 3.94100 ms 
+Time of (8)Shortcut rep : 3.34500 ms 
+Time of (3)Edge Deletion : 3.01200 ms 
+Time of (1)Get key rem collections : 1.45200 ms 
+Time of (0)Extracting Roots : 0.68000 ms 
+Time of (6)Get key rem collections : 0.59000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.50900 ms 
+Time of (12)Transedges prefix : 0.49900 ms 
+Time of (15)PR Loop : 0.49100 ms 
+Time of (5)Generate new edges : 0.40900 ms 
+Time of (16)Component Parent, Reversals : 0.29700 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (2)Convert to collection : 0.29600 ms 
+Time of (4)Remove edges : 0.24900 ms 
+Time of (10)Compress Graph : 0.23900 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 49.10900 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 100
+Time of (17)PR Shortcut : 27.181000 ms 
+Time of (18)PR Reverse Paths : 6.15500 ms 
+Time of (9)Hooking Shortcutting : 4.79300 ms 
+Time of (8)Shortcut rep : 3.34000 ms 
+Time of (3)Edge Deletion : 2.96200 ms 
+Time of (1)Get key rem collections : 1.39900 ms 
+Time of (0)Extracting Roots : 0.65700 ms 
+Time of (12)Transedges prefix : 0.62700 ms 
+Time of (6)Get key rem collections : 0.52900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.50400 ms 
+Time of (15)PR Loop : 0.43400 ms 
+Time of (5)Generate new edges : 0.40700 ms 
+Time of (7)Convert to collection : 0.29700 ms 
+Time of (2)Convert to collection : 0.29600 ms 
+Time of (16)Component Parent, Reversals : 0.29200 ms 
+Time of (10)Compress Graph : 0.23200 ms 
+Time of (4)Remove edges : 0.22900 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 50.35500 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 1000
+Time of (17)PR Shortcut : 26.709000 ms 
+Time of (9)Hooking Shortcutting : 6.73100 ms 
+Time of (18)PR Reverse Paths : 6.28100 ms 
+Time of (8)Shortcut rep : 3.60600 ms 
+Time of (3)Edge Deletion : 2.95200 ms 
+Time of (1)Get key rem collections : 1.43300 ms 
+Time of (15)PR Loop : 1.08500 ms 
+Time of (0)Extracting Roots : 0.65300 ms 
+Time of (6)Get key rem collections : 0.56300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.53400 ms 
+Time of (12)Transedges prefix : 0.49300 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.30100 ms 
+Time of (2)Convert to collection : 0.29900 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (10)Compress Graph : 0.28600 ms 
+Time of (4)Remove edges : 0.23100 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time of (11)Get compressed list : 0.00400 ms 
+Time (total): 52.88200 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 1000
+Time of (17)PR Shortcut : 27.389000 ms 
+Time of (9)Hooking Shortcutting : 8.62400 ms 
+Time of (18)PR Reverse Paths : 6.30000 ms 
+Time of (8)Shortcut rep : 3.61700 ms 
+Time of (3)Edge Deletion : 2.97600 ms 
+Time of (1)Get key rem collections : 1.42100 ms 
+Time of (0)Extracting Roots : 0.71000 ms 
+Time of (15)PR Loop : 0.63800 ms 
+Time of (6)Get key rem collections : 0.52800 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.51100 ms 
+Time of (12)Transedges prefix : 0.50600 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.32200 ms 
+Time of (2)Convert to collection : 0.30400 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (4)Remove edges : 0.23100 ms 
+Time of (10)Compress Graph : 0.22800 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 55.03300 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 1000
+Time of (17)PR Shortcut : 27.033000 ms 
+Time of (18)PR Reverse Paths : 6.25200 ms 
+Time of (9)Hooking Shortcutting : 5.66800 ms 
+Time of (8)Shortcut rep : 3.60900 ms 
+Time of (3)Edge Deletion : 3.01000 ms 
+Time of (1)Get key rem collections : 1.40700 ms 
+Time of (0)Extracting Roots : 0.65400 ms 
+Time of (15)PR Loop : 0.64000 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.53000 ms 
+Time of (6)Get key rem collections : 0.52700 ms 
+Time of (12)Transedges prefix : 0.49900 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (2)Convert to collection : 0.30000 ms 
+Time of (16)Component Parent, Reversals : 0.29800 ms 
+Time of (7)Convert to collection : 0.29600 ms 
+Time of (10)Compress Graph : 0.24000 ms 
+Time of (4)Remove edges : 0.22900 ms 
+Time of (14)PR init : 0.01400 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 51.62300 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 1000
+Time of (17)PR Shortcut : 27.288000 ms 
+Time of (18)PR Reverse Paths : 6.26600 ms 
+Time of (9)Hooking Shortcutting : 4.01500 ms 
+Time of (8)Shortcut rep : 3.62100 ms 
+Time of (3)Edge Deletion : 3.01300 ms 
+Time of (1)Get key rem collections : 1.41000 ms 
+Time of (15)PR Loop : 1.08500 ms 
+Time of (0)Extracting Roots : 0.68400 ms 
+Time of (6)Get key rem collections : 0.55000 ms 
+Time of (12)Transedges prefix : 0.53300 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.51200 ms 
+Time of (5)Generate new edges : 0.40800 ms 
+Time of (16)Component Parent, Reversals : 0.30800 ms 
+Time of (2)Convert to collection : 0.29800 ms 
+Time of (7)Convert to collection : 0.29500 ms 
+Time of (10)Compress Graph : 0.22900 ms 
+Time of (4)Remove edges : 0.22800 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (11)Get compressed list : 0.00600 ms 
+Time of (13)Get edges : 0.00400 ms 
+Time (total): 50.76600 ms 
+--------------------------------------------------------
+filename: germany_osm.txt
+Nodes : 11548845
+Edges : 12369181
+
+------------------------------------------------------
+Batch : 0
+
+ Current edges 12369181
+Deleted : 1000
+Time of (17)PR Shortcut : 26.860000 ms 
+Time of (9)Hooking Shortcutting : 6.86700 ms 
+Time of (18)PR Reverse Paths : 6.24600 ms 
+Time of (8)Shortcut rep : 3.62500 ms 
+Time of (3)Edge Deletion : 3.05600 ms 
+Time of (1)Get key rem collections : 1.42200 ms 
+Time of (0)Extracting Roots : 0.77200 ms 
+Time of (15)PR Loop : 0.63600 ms 
+Time of (12)Transedges prefix : 0.56500 ms 
+Time of (6)Get key rem collections : 0.52900 ms 
+Time of (19)Reverse Edges and Connect Parent : 0.51100 ms 
+Time of (5)Generate new edges : 0.40900 ms 
+Time of (16)Component Parent, Reversals : 0.30000 ms 
+Time of (7)Convert to collection : 0.30000 ms 
+Time of (2)Convert to collection : 0.29700 ms 
+Time of (10)Compress Graph : 0.23500 ms 
+Time of (4)Remove edges : 0.23000 ms 
+Time of (14)PR init : 0.01300 ms 
+Time of (13)Get edges : 0.00500 ms 
+Time of (11)Get compressed list : 0.00500 ms 
+Time (total): 52.88300 ms 
+--------------------------------------------------------

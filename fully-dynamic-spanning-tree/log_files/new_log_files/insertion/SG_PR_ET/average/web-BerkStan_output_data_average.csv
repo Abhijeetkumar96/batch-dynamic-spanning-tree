@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+web-BerkStan.egr,685230,13300290,100,1.8,6.58
+web-BerkStan.egr,685230,13300290,1000,12.2,6.57
+web-BerkStan.egr,685230,13300290,10000,70.8,7.62
+web-BerkStan.egr,685230,13300290,100000,1290.4,7.63

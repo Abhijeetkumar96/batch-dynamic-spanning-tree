@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+com-Orkut.egr,3072441,234370166,100,3.0,19.59
+com-Orkut.egr,3072441,234370166,1000,21.0,17.67
+com-Orkut.egr,3072441,234370166,10000,219.4,19.34
+com-Orkut.egr,3072441,234370166,100000,2039.2,19.61

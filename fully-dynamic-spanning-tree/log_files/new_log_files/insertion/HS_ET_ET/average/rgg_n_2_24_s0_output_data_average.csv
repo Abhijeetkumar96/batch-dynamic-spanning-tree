@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,tree_edges_count,total_time
+rgg_n_2_24_s0.egr,16777216,265114402,100,58.6,31.07
+rgg_n_2_24_s0.egr,16777216,265114402,1000,104.2,34.75
+rgg_n_2_24_s0.egr,16777216,265114402,10000,887.2,28.15
+rgg_n_2_24_s0.egr,16777216,265114402,100000,8292.4,27.36

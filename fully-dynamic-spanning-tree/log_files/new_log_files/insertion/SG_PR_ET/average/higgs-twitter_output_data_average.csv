@@ -1,0 +1,5 @@
+filename,numVertices,numEdges,batch_size,num_comps,total_time
+higgs-twitter.egr,456626,25017136,100,3.4,5.7
+higgs-twitter.egr,456626,25017136,1000,24.8,6.54
+higgs-twitter.egr,456626,25017136,10000,265.4,7.6
+higgs-twitter.egr,456626,25017136,100000,2666.2,7.61

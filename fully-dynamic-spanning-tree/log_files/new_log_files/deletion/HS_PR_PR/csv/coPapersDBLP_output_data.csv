@@ -1,0 +1,21 @@
+filename,Batch Size,total_time
+coPapersDBLP.txt,100,10.711
+coPapersDBLP.txt,100,9.143
+coPapersDBLP.txt,100,11.353
+coPapersDBLP.txt,100,9.09
+coPapersDBLP.txt,100,11.824
+coPapersDBLP.txt,1000,11.69
+coPapersDBLP.txt,1000,11.867
+coPapersDBLP.txt,1000,11.448
+coPapersDBLP.txt,1000,11.36
+coPapersDBLP.txt,1000,11.935
+coPapersDBLP.txt,10000,13.558
+coPapersDBLP.txt,10000,14.685
+coPapersDBLP.txt,10000,16.123
+coPapersDBLP.txt,10000,15.693
+coPapersDBLP.txt,10000,13.006
+coPapersDBLP.txt,100000,20.307
+coPapersDBLP.txt,100000,20.116
+coPapersDBLP.txt,100000,16.644
+coPapersDBLP.txt,100000,19.58
+coPapersDBLP.txt,100000,18.646

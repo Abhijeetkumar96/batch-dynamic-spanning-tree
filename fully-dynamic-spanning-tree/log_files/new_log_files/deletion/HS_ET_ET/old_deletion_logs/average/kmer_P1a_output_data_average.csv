@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+kmer_P1a.txt,100,575.93
+kmer_P1a.txt,1000,602.38
+kmer_P1a.txt,10000,634.35
+kmer_P1a.txt,100000,641.85

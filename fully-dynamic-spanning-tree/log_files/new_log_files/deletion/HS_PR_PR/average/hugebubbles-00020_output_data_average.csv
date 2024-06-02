@@ -1,0 +1,5 @@
+filename,Batch Size,total_time
+hugebubbles-00020.txt,100,91.64
+hugebubbles-00020.txt,1000,94.68
+hugebubbles-00020.txt,10000,103.96
+hugebubbles-00020.txt,100000,121.61

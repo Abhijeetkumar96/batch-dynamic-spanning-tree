@@ -1,0 +1,720 @@
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 6107
+Non-tree edges deleted : 93893
+Time of (12)Hooking Shortcutting : 5.376000 ms 
+Time of (6)Edge Deletion : 2.96600 ms 
+Time of (4)Multi component Euler tour internal  : 2.21000 ms 
+Time of (23)List ranking : 1.40000 ms 
+Time of (5)Retrieving back first and last times  : 1.29300 ms 
+Time of (1)Get key rem collections : 1.27200 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.11100 ms 
+Time of (21)CSR creation : 0.66700 ms 
+Time of (0)Extracting Roots : 0.56400 ms 
+Time of (11)Shortcut rep : 0.44800 ms 
+Time of (9)Get key rem collections : 0.44800 ms 
+Time of (8)Generate new edges : 0.37700 ms 
+Time of (2)Convert to collection : 0.28300 ms 
+Time of (10)Convert to collection : 0.27100 ms 
+Time of (7)Remove edges : 0.22400 ms 
+Time of (15)Transedges prefix : 0.22000 ms 
+Time of (19)Thrust Sorting : 0.21400 ms 
+Time of (13)Compress Graph : 0.07800 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (3)Processing for multi component Euler tour : 0.05300 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 19.57800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 6321
+Non-tree edges deleted : 93679
+Time of (12)Hooking Shortcutting : 3.996000 ms 
+Time of (6)Edge Deletion : 2.93700 ms 
+Time of (4)Multi component Euler tour internal  : 2.20600 ms 
+Time of (5)Retrieving back first and last times  : 1.46900 ms 
+Time of (23)List ranking : 1.41000 ms 
+Time of (1)Get key rem collections : 1.27500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.24800 ms 
+Time of (21)CSR creation : 0.66600 ms 
+Time of (0)Extracting Roots : 0.54700 ms 
+Time of (11)Shortcut rep : 0.44500 ms 
+Time of (9)Get key rem collections : 0.43100 ms 
+Time of (8)Generate new edges : 0.37500 ms 
+Time of (15)Transedges prefix : 0.28200 ms 
+Time of (2)Convert to collection : 0.27900 ms 
+Time of (10)Convert to collection : 0.27100 ms 
+Time of (7)Remove edges : 0.22000 ms 
+Time of (19)Thrust Sorting : 0.21700 ms 
+Time of (13)Compress Graph : 0.07700 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (3)Processing for multi component Euler tour : 0.05300 ms 
+Time of (18)Functor : 0.01700 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time (total): 18.50400 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 6237
+Non-tree edges deleted : 93763
+Time of (12)Hooking Shortcutting : 7.088000 ms 
+Time of (6)Edge Deletion : 3.08200 ms 
+Time of (4)Multi component Euler tour internal  : 2.19300 ms 
+Time of (5)Retrieving back first and last times  : 1.54100 ms 
+Time of (23)List ranking : 1.39900 ms 
+Time of (1)Get key rem collections : 1.27500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.24000 ms 
+Time of (21)CSR creation : 0.66600 ms 
+Time of (0)Extracting Roots : 0.54700 ms 
+Time of (9)Get key rem collections : 0.44200 ms 
+Time of (11)Shortcut rep : 0.43800 ms 
+Time of (8)Generate new edges : 0.37600 ms 
+Time of (2)Convert to collection : 0.27900 ms 
+Time of (10)Convert to collection : 0.27000 ms 
+Time of (7)Remove edges : 0.22300 ms 
+Time of (15)Transedges prefix : 0.21700 ms 
+Time of (19)Thrust Sorting : 0.21000 ms 
+Time of (13)Compress Graph : 0.07400 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (3)Processing for multi component Euler tour : 0.05300 ms 
+Time of (18)Functor : 0.01700 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 21.71600 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 6179
+Non-tree edges deleted : 93821
+Time of (12)Hooking Shortcutting : 7.250000 ms 
+Time of (6)Edge Deletion : 2.91400 ms 
+Time of (4)Multi component Euler tour internal  : 2.22900 ms 
+Time of (5)Retrieving back first and last times  : 1.48000 ms 
+Time of (23)List ranking : 1.40200 ms 
+Time of (1)Get key rem collections : 1.27800 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.24700 ms 
+Time of (21)CSR creation : 0.67000 ms 
+Time of (0)Extracting Roots : 0.55100 ms 
+Time of (9)Get key rem collections : 0.49400 ms 
+Time of (11)Shortcut rep : 0.44500 ms 
+Time of (8)Generate new edges : 0.37600 ms 
+Time of (2)Convert to collection : 0.27500 ms 
+Time of (10)Convert to collection : 0.27100 ms 
+Time of (7)Remove edges : 0.22200 ms 
+Time of (15)Transedges prefix : 0.21500 ms 
+Time of (19)Thrust Sorting : 0.20700 ms 
+Time of (13)Compress Graph : 0.07600 ms 
+Time of (20)Thrust gather : 0.05500 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 21.76100 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100000
+Tree edges deleted : 6277
+Non-tree edges deleted : 93723
+Time of (12)Hooking Shortcutting : 4.532000 ms 
+Time of (6)Edge Deletion : 2.95800 ms 
+Time of (4)Multi component Euler tour internal  : 2.22500 ms 
+Time of (5)Retrieving back first and last times  : 1.46500 ms 
+Time of (23)List ranking : 1.40200 ms 
+Time of (1)Get key rem collections : 1.29700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.24400 ms 
+Time of (21)CSR creation : 0.66700 ms 
+Time of (0)Extracting Roots : 0.55400 ms 
+Time of (11)Shortcut rep : 0.44400 ms 
+Time of (9)Get key rem collections : 0.42600 ms 
+Time of (8)Generate new edges : 0.37500 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (10)Convert to collection : 0.27100 ms 
+Time of (7)Remove edges : 0.25400 ms 
+Time of (15)Transedges prefix : 0.21800 ms 
+Time of (19)Thrust Sorting : 0.21400 ms 
+Time of (13)Compress Graph : 0.07700 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (18)Functor : 0.01800 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (22)Get Successor : 0.00800 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 19.05700 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 611
+Non-tree edges deleted : 9389
+Time of (12)Hooking Shortcutting : 3.811000 ms 
+Time of (6)Edge Deletion : 2.76600 ms 
+Time of (4)Multi component Euler tour internal  : 2.21100 ms 
+Time of (5)Retrieving back first and last times  : 1.34100 ms 
+Time of (1)Get key rem collections : 1.26200 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23600 ms 
+Time of (23)List ranking : 1.09500 ms 
+Time of (21)CSR creation : 0.64000 ms 
+Time of (0)Extracting Roots : 0.55100 ms 
+Time of (9)Get key rem collections : 0.52500 ms 
+Time of (11)Shortcut rep : 0.43800 ms 
+Time of (8)Generate new edges : 0.37900 ms 
+Time of (10)Convert to collection : 0.27400 ms 
+Time of (2)Convert to collection : 0.27200 ms 
+Time of (7)Remove edges : 0.26000 ms 
+Time of (15)Transedges prefix : 0.23100 ms 
+Time of (19)Thrust Sorting : 0.12200 ms 
+Time of (13)Compress Graph : 0.07500 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (3)Processing for multi component Euler tour : 0.05200 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 17.64300 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 614
+Non-tree edges deleted : 9386
+Time of (6)Edge Deletion : 2.861000 ms 
+Time of (12)Hooking Shortcutting : 2.60200 ms 
+Time of (4)Multi component Euler tour internal  : 2.22900 ms 
+Time of (5)Retrieving back first and last times  : 1.30000 ms 
+Time of (1)Get key rem collections : 1.26000 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23400 ms 
+Time of (23)List ranking : 1.09900 ms 
+Time of (21)CSR creation : 0.63600 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (9)Get key rem collections : 0.49300 ms 
+Time of (11)Shortcut rep : 0.43500 ms 
+Time of (8)Generate new edges : 0.37700 ms 
+Time of (15)Transedges prefix : 0.28000 ms 
+Time of (2)Convert to collection : 0.28000 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (7)Remove edges : 0.21500 ms 
+Time of (19)Thrust Sorting : 0.12400 ms 
+Time of (13)Compress Graph : 0.07500 ms 
+Time of (20)Thrust gather : 0.05300 ms 
+Time of (3)Processing for multi component Euler tour : 0.05200 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 16.48000 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 610
+Non-tree edges deleted : 9390
+Time of (12)Hooking Shortcutting : 3.912000 ms 
+Time of (6)Edge Deletion : 2.65200 ms 
+Time of (4)Multi component Euler tour internal  : 2.21200 ms 
+Time of (5)Retrieving back first and last times  : 1.55500 ms 
+Time of (1)Get key rem collections : 1.28200 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22900 ms 
+Time of (23)List ranking : 1.09400 ms 
+Time of (21)CSR creation : 0.64500 ms 
+Time of (0)Extracting Roots : 0.55300 ms 
+Time of (11)Shortcut rep : 0.44000 ms 
+Time of (9)Get key rem collections : 0.43800 ms 
+Time of (8)Generate new edges : 0.37900 ms 
+Time of (2)Convert to collection : 0.27600 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (7)Remove edges : 0.24900 ms 
+Time of (15)Transedges prefix : 0.24100 ms 
+Time of (19)Thrust Sorting : 0.12700 ms 
+Time of (13)Compress Graph : 0.07500 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (3)Processing for multi component Euler tour : 0.05200 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 17.78800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 614
+Non-tree edges deleted : 9386
+Time of (12)Hooking Shortcutting : 3.400000 ms 
+Time of (6)Edge Deletion : 2.30700 ms 
+Time of (4)Multi component Euler tour internal  : 2.29100 ms 
+Time of (5)Retrieving back first and last times  : 1.32500 ms 
+Time of (1)Get key rem collections : 1.27400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22700 ms 
+Time of (23)List ranking : 1.10800 ms 
+Time of (21)CSR creation : 0.64600 ms 
+Time of (0)Extracting Roots : 0.55900 ms 
+Time of (9)Get key rem collections : 0.50000 ms 
+Time of (11)Shortcut rep : 0.44100 ms 
+Time of (8)Generate new edges : 0.37700 ms 
+Time of (2)Convert to collection : 0.27400 ms 
+Time of (10)Convert to collection : 0.27200 ms 
+Time of (15)Transedges prefix : 0.23000 ms 
+Time of (7)Remove edges : 0.21400 ms 
+Time of (19)Thrust Sorting : 0.12000 ms 
+Time of (13)Compress Graph : 0.07500 ms 
+Time of (20)Thrust gather : 0.05600 ms 
+Time of (3)Processing for multi component Euler tour : 0.05200 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 16.79800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 10000
+Tree edges deleted : 628
+Non-tree edges deleted : 9372
+Time of (12)Hooking Shortcutting : 3.849000 ms 
+Time of (6)Edge Deletion : 2.34400 ms 
+Time of (4)Multi component Euler tour internal  : 2.23700 ms 
+Time of (5)Retrieving back first and last times  : 1.32700 ms 
+Time of (1)Get key rem collections : 1.27500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23300 ms 
+Time of (23)List ranking : 1.09800 ms 
+Time of (21)CSR creation : 0.64600 ms 
+Time of (0)Extracting Roots : 0.56200 ms 
+Time of (9)Get key rem collections : 0.52300 ms 
+Time of (11)Shortcut rep : 0.44100 ms 
+Time of (8)Generate new edges : 0.38000 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (15)Transedges prefix : 0.23000 ms 
+Time of (7)Remove edges : 0.21300 ms 
+Time of (19)Thrust Sorting : 0.12100 ms 
+Time of (13)Compress Graph : 0.07600 ms 
+Time of (20)Thrust gather : 0.05400 ms 
+Time of (3)Processing for multi component Euler tour : 0.05100 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (17)Component Parent, Reversals : 0.00700 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 17.25600 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 11
+Non-tree edges deleted : 89
+Time of (12)Hooking Shortcutting : 2.498000 ms 
+Time of (4)Multi component Euler tour internal  : 2.31700 ms 
+Time of (6)Edge Deletion : 2.26800 ms 
+Time of (5)Retrieving back first and last times  : 1.45500 ms 
+Time of (1)Get key rem collections : 1.29500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22000 ms 
+Time of (21)CSR creation : 0.64300 ms 
+Time of (0)Extracting Roots : 0.56400 ms 
+Time of (23)List ranking : 0.53800 ms 
+Time of (9)Get key rem collections : 0.44000 ms 
+Time of (11)Shortcut rep : 0.43700 ms 
+Time of (8)Generate new edges : 0.37600 ms 
+Time of (2)Convert to collection : 0.28200 ms 
+Time of (10)Convert to collection : 0.27100 ms 
+Time of (15)Transedges prefix : 0.22000 ms 
+Time of (7)Remove edges : 0.20600 ms 
+Time of (19)Thrust Sorting : 0.10700 ms 
+Time of (13)Compress Graph : 0.07700 ms 
+Time of (3)Processing for multi component Euler tour : 0.05200 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 15.36600 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 6
+Non-tree edges deleted : 94
+Time of (4)Multi component Euler tour internal  : 2.274000 ms 
+Time of (6)Edge Deletion : 2.24900 ms 
+Time of (1)Get key rem collections : 1.26100 ms 
+Time of (12)Hooking Shortcutting : 1.23700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.21700 ms 
+Time of (5)Retrieving back first and last times  : 1.19600 ms 
+Time of (21)CSR creation : 0.62700 ms 
+Time of (0)Extracting Roots : 0.52300 ms 
+Time of (9)Get key rem collections : 0.45000 ms 
+Time of (11)Shortcut rep : 0.44600 ms 
+Time of (23)List ranking : 0.44200 ms 
+Time of (8)Generate new edges : 0.37800 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (2)Convert to collection : 0.27200 ms 
+Time of (15)Transedges prefix : 0.22200 ms 
+Time of (7)Remove edges : 0.20800 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (13)Compress Graph : 0.07500 ms 
+Time of (3)Processing for multi component Euler tour : 0.05100 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00800 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 13.58800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 4
+Non-tree edges deleted : 96
+Time of (6)Edge Deletion : 2.238000 ms 
+Time of (4)Multi component Euler tour internal  : 2.21900 ms 
+Time of (12)Hooking Shortcutting : 1.65300 ms 
+Time of (1)Get key rem collections : 1.40000 ms 
+Time of (5)Retrieving back first and last times  : 1.27400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23300 ms 
+Time of (21)CSR creation : 0.61600 ms 
+Time of (0)Extracting Roots : 0.57900 ms 
+Time of (9)Get key rem collections : 0.45800 ms 
+Time of (11)Shortcut rep : 0.43900 ms 
+Time of (8)Generate new edges : 0.38000 ms 
+Time of (23)List ranking : 0.33800 ms 
+Time of (2)Convert to collection : 0.27900 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (15)Transedges prefix : 0.22200 ms 
+Time of (7)Remove edges : 0.21600 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (13)Compress Graph : 0.07500 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.04700 ms 
+Time of (18)Functor : 0.01600 ms 
+Time of (24)Component Parent, Reversals : 0.01000 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time (total): 14.14300 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 3
+Non-tree edges deleted : 97
+Time of (5)Retrieving back first and last times  : 2.460000 ms 
+Time of (4)Multi component Euler tour internal  : 2.32400 ms 
+Time of (6)Edge Deletion : 2.22200 ms 
+Time of (1)Get key rem collections : 1.33500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22300 ms 
+Time of (12)Hooking Shortcutting : 1.18900 ms 
+Time of (21)CSR creation : 0.63100 ms 
+Time of (0)Extracting Roots : 0.53200 ms 
+Time of (9)Get key rem collections : 0.44300 ms 
+Time of (11)Shortcut rep : 0.43800 ms 
+Time of (8)Generate new edges : 0.37900 ms 
+Time of (23)List ranking : 0.36200 ms 
+Time of (10)Convert to collection : 0.27500 ms 
+Time of (2)Convert to collection : 0.27100 ms 
+Time of (7)Remove edges : 0.22200 ms 
+Time of (15)Transedges prefix : 0.21900 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (13)Compress Graph : 0.07700 ms 
+Time of (3)Processing for multi component Euler tour : 0.05000 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 14.84900 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 100
+Tree edges deleted : 6
+Non-tree edges deleted : 94
+Time of (4)Multi component Euler tour internal  : 2.273000 ms 
+Time of (6)Edge Deletion : 2.23500 ms 
+Time of (12)Hooking Shortcutting : 1.60300 ms 
+Time of (1)Get key rem collections : 1.28500 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.21200 ms 
+Time of (5)Retrieving back first and last times  : 1.18300 ms 
+Time of (21)CSR creation : 0.62300 ms 
+Time of (0)Extracting Roots : 0.54400 ms 
+Time of (9)Get key rem collections : 0.43600 ms 
+Time of (11)Shortcut rep : 0.43100 ms 
+Time of (23)List ranking : 0.42400 ms 
+Time of (8)Generate new edges : 0.37500 ms 
+Time of (2)Convert to collection : 0.27400 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (15)Transedges prefix : 0.22500 ms 
+Time of (7)Remove edges : 0.21500 ms 
+Time of (19)Thrust Sorting : 0.10100 ms 
+Time of (13)Compress Graph : 0.07100 ms 
+Time of (3)Processing for multi component Euler tour : 0.05000 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00700 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (17)Component Parent, Reversals : 0.00400 ms 
+Time of (16)Get edges : 0.00300 ms 
+Time (total): 13.91800 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 75
+Non-tree edges deleted : 925
+Time of (6)Edge Deletion : 2.830000 ms 
+Time of (4)Multi component Euler tour internal  : 2.21800 ms 
+Time of (12)Hooking Shortcutting : 1.65400 ms 
+Time of (5)Retrieving back first and last times  : 1.29100 ms 
+Time of (1)Get key rem collections : 1.28100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23900 ms 
+Time of (23)List ranking : 0.79500 ms 
+Time of (21)CSR creation : 0.63700 ms 
+Time of (0)Extracting Roots : 0.55100 ms 
+Time of (9)Get key rem collections : 0.44400 ms 
+Time of (11)Shortcut rep : 0.44000 ms 
+Time of (8)Generate new edges : 0.37900 ms 
+Time of (2)Convert to collection : 0.27500 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (15)Transedges prefix : 0.25000 ms 
+Time of (7)Remove edges : 0.21400 ms 
+Time of (19)Thrust Sorting : 0.11900 ms 
+Time of (13)Compress Graph : 0.08100 ms 
+Time of (3)Processing for multi component Euler tour : 0.05400 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 15.12500 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 56
+Non-tree edges deleted : 944
+Time of (6)Edge Deletion : 4.637000 ms 
+Time of (4)Multi component Euler tour internal  : 2.20200 ms 
+Time of (12)Hooking Shortcutting : 2.09000 ms 
+Time of (5)Retrieving back first and last times  : 1.44200 ms 
+Time of (1)Get key rem collections : 1.27400 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22200 ms 
+Time of (23)List ranking : 0.70100 ms 
+Time of (21)CSR creation : 0.65100 ms 
+Time of (0)Extracting Roots : 0.55500 ms 
+Time of (11)Shortcut rep : 0.43700 ms 
+Time of (9)Get key rem collections : 0.43600 ms 
+Time of (8)Generate new edges : 0.37900 ms 
+Time of (2)Convert to collection : 0.27900 ms 
+Time of (10)Convert to collection : 0.27400 ms 
+Time of (7)Remove edges : 0.23800 ms 
+Time of (15)Transedges prefix : 0.21900 ms 
+Time of (19)Thrust Sorting : 0.11200 ms 
+Time of (13)Compress Graph : 0.07300 ms 
+Time of (3)Processing for multi component Euler tour : 0.05100 ms 
+Time of (20)Thrust gather : 0.04800 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (22)Get Successor : 0.00500 ms 
+Time (total): 17.36600 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 66
+Non-tree edges deleted : 934
+Time of (6)Edge Deletion : 2.894000 ms 
+Time of (4)Multi component Euler tour internal  : 2.28800 ms 
+Time of (12)Hooking Shortcutting : 1.65400 ms 
+Time of (1)Get key rem collections : 1.33400 ms 
+Time of (5)Retrieving back first and last times  : 1.30000 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.22000 ms 
+Time of (23)List ranking : 0.78500 ms 
+Time of (21)CSR creation : 0.64000 ms 
+Time of (0)Extracting Roots : 0.56000 ms 
+Time of (9)Get key rem collections : 0.44100 ms 
+Time of (11)Shortcut rep : 0.43600 ms 
+Time of (8)Generate new edges : 0.37700 ms 
+Time of (2)Convert to collection : 0.27500 ms 
+Time of (10)Convert to collection : 0.27200 ms 
+Time of (7)Remove edges : 0.23000 ms 
+Time of (15)Transedges prefix : 0.22700 ms 
+Time of (19)Thrust Sorting : 0.11800 ms 
+Time of (13)Compress Graph : 0.08100 ms 
+Time of (3)Processing for multi component Euler tour : 0.05500 ms 
+Time of (20)Thrust gather : 0.05000 ms 
+Time of (18)Functor : 0.01500 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 15.28500 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 68
+Non-tree edges deleted : 932
+Time of (4)Multi component Euler tour internal  : 2.300000 ms 
+Time of (6)Edge Deletion : 2.25600 ms 
+Time of (12)Hooking Shortcutting : 2.12200 ms 
+Time of (1)Get key rem collections : 1.30800 ms 
+Time of (5)Retrieving back first and last times  : 1.28700 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.21400 ms 
+Time of (23)List ranking : 0.80000 ms 
+Time of (21)CSR creation : 0.64100 ms 
+Time of (0)Extracting Roots : 0.55700 ms 
+Time of (11)Shortcut rep : 0.44100 ms 
+Time of (9)Get key rem collections : 0.44100 ms 
+Time of (8)Generate new edges : 0.37700 ms 
+Time of (2)Convert to collection : 0.28000 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (15)Transedges prefix : 0.22300 ms 
+Time of (7)Remove edges : 0.21600 ms 
+Time of (19)Thrust Sorting : 0.11600 ms 
+Time of (13)Compress Graph : 0.08300 ms 
+Time of (3)Processing for multi component Euler tour : 0.05300 ms 
+Time of (20)Thrust gather : 0.05100 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.01100 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (22)Get Successor : 0.00600 ms 
+Time of (17)Component Parent, Reversals : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 15.08900 ms 
+--------------------------------------------------------
+filename: as-Skitter.txt
+Nodes : 1696415
+Edges : 11096053
+
+------------------------------------------------------
+Deleted : 1000
+Tree edges deleted : 60
+Non-tree edges deleted : 940
+Time of (6)Edge Deletion : 2.825000 ms 
+Time of (12)Hooking Shortcutting : 2.48900 ms 
+Time of (4)Multi component Euler tour internal  : 2.27300 ms 
+Time of (1)Get key rem collections : 1.40300 ms 
+Time of (5)Retrieving back first and last times  : 1.29100 ms 
+Time of (25)Reverse Edges and Connect Parent : 1.23800 ms 
+Time of (23)List ranking : 0.70700 ms 
+Time of (21)CSR creation : 0.63500 ms 
+Time of (0)Extracting Roots : 0.53700 ms 
+Time of (9)Get key rem collections : 0.48500 ms 
+Time of (11)Shortcut rep : 0.43100 ms 
+Time of (8)Generate new edges : 0.37800 ms 
+Time of (10)Convert to collection : 0.27300 ms 
+Time of (2)Convert to collection : 0.27300 ms 
+Time of (15)Transedges prefix : 0.22700 ms 
+Time of (7)Remove edges : 0.21600 ms 
+Time of (19)Thrust Sorting : 0.11400 ms 
+Time of (13)Compress Graph : 0.07900 ms 
+Time of (3)Processing for multi component Euler tour : 0.05200 ms 
+Time of (20)Thrust gather : 0.04900 ms 
+Time of (18)Functor : 0.01400 ms 
+Time of (24)Component Parent, Reversals : 0.00900 ms 
+Time of (17)Component Parent, Reversals : 0.00500 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (22)Get Successor : 0.00400 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 16.01600 ms 
+--------------------------------------------------------

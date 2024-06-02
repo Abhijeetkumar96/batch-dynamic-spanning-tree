@@ -1,0 +1,580 @@
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 37.131000 ms 
+Time of (4)Multi component Euler tour internal  : 22.63600 ms 
+Time of (5)Retrieving back first and last times  : 20.34900 ms 
+Time of (9)Get key rem collections : 16.31900 ms 
+Time of (1)Get key rem collections : 15.50300 ms 
+Time of (8)Generate new edges : 13.66600 ms 
+Time of (15)Transedges prefix : 9.54700 ms 
+Time of (2)Convert to collection : 8.73100 ms 
+Time of (10)Convert to collection : 8.07800 ms 
+Time of (7)Remove edges : 7.13400 ms 
+Time of (18)PR Loop : 6.57300 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.62900 ms 
+Time of (6)Edge Deletion : 2.95300 ms 
+Time of (11)Shortcut rep : 1.78800 ms 
+Time of (0)Extracting Roots : 0.71400 ms 
+Time of (3)Processing for multi component Euler tour : 0.43100 ms 
+Time of (13)Compress Graph : 0.35500 ms 
+Time of (19)Component Parent, Reversals : 0.31800 ms 
+Time of (17)PR init : 0.01700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 175.88400 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 37.077000 ms 
+Time of (9)Get key rem collections : 21.59700 ms 
+Time of (4)Multi component Euler tour internal  : 21.08900 ms 
+Time of (5)Retrieving back first and last times  : 20.79500 ms 
+Time of (1)Get key rem collections : 14.76900 ms 
+Time of (8)Generate new edges : 13.29500 ms 
+Time of (15)Transedges prefix : 9.52700 ms 
+Time of (2)Convert to collection : 8.60300 ms 
+Time of (10)Convert to collection : 8.28000 ms 
+Time of (7)Remove edges : 6.87400 ms 
+Time of (6)Edge Deletion : 4.04000 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.48500 ms 
+Time of (18)PR Loop : 2.18800 ms 
+Time of (11)Shortcut rep : 1.78000 ms 
+Time of (0)Extracting Roots : 0.84500 ms 
+Time of (3)Processing for multi component Euler tour : 0.43800 ms 
+Time of (13)Compress Graph : 0.36200 ms 
+Time of (19)Component Parent, Reversals : 0.31800 ms 
+Time of (17)PR init : 0.01900 ms 
+Time of (16)Get edges : 0.01500 ms 
+Time of (14)Get compressed list : 0.01500 ms 
+Time (total): 175.41100 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 37.034000 ms 
+Time of (4)Multi component Euler tour internal  : 19.83100 ms 
+Time of (5)Retrieving back first and last times  : 18.50200 ms 
+Time of (9)Get key rem collections : 14.10400 ms 
+Time of (1)Get key rem collections : 13.43800 ms 
+Time of (8)Generate new edges : 13.03200 ms 
+Time of (15)Transedges prefix : 9.49400 ms 
+Time of (10)Convert to collection : 8.08100 ms 
+Time of (2)Convert to collection : 7.94000 ms 
+Time of (7)Remove edges : 6.73500 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.42900 ms 
+Time of (6)Edge Deletion : 2.95500 ms 
+Time of (11)Shortcut rep : 1.76900 ms 
+Time of (18)PR Loop : 1.60300 ms 
+Time of (0)Extracting Roots : 0.70000 ms 
+Time of (3)Processing for multi component Euler tour : 0.37600 ms 
+Time of (13)Compress Graph : 0.32400 ms 
+Time of (19)Component Parent, Reversals : 0.30300 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 159.68000 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 37.289000 ms 
+Time of (4)Multi component Euler tour internal  : 21.28900 ms 
+Time of (5)Retrieving back first and last times  : 18.03300 ms 
+Time of (9)Get key rem collections : 16.18300 ms 
+Time of (1)Get key rem collections : 14.51200 ms 
+Time of (8)Generate new edges : 13.04700 ms 
+Time of (15)Transedges prefix : 9.64600 ms 
+Time of (2)Convert to collection : 8.93100 ms 
+Time of (10)Convert to collection : 8.08500 ms 
+Time of (7)Remove edges : 6.63200 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.27900 ms 
+Time of (6)Edge Deletion : 2.97000 ms 
+Time of (11)Shortcut rep : 1.76900 ms 
+Time of (18)PR Loop : 1.62200 ms 
+Time of (0)Extracting Roots : 0.69900 ms 
+Time of (3)Processing for multi component Euler tour : 0.40500 ms 
+Time of (13)Compress Graph : 0.31500 ms 
+Time of (19)Component Parent, Reversals : 0.30300 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 165.03700 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100000
+Time of (12)Hooking Shortcutting : 55.661000 ms 
+Time of (4)Multi component Euler tour internal  : 28.02300 ms 
+Time of (1)Get key rem collections : 18.50700 ms 
+Time of (5)Retrieving back first and last times  : 17.70900 ms 
+Time of (9)Get key rem collections : 13.92900 ms 
+Time of (8)Generate new edges : 13.04900 ms 
+Time of (2)Convert to collection : 10.40700 ms 
+Time of (15)Transedges prefix : 9.74600 ms 
+Time of (10)Convert to collection : 8.06900 ms 
+Time of (7)Remove edges : 7.95600 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.20500 ms 
+Time of (6)Edge Deletion : 2.97700 ms 
+Time of (11)Shortcut rep : 1.76300 ms 
+Time of (18)PR Loop : 1.60000 ms 
+Time of (0)Extracting Roots : 0.77300 ms 
+Time of (3)Processing for multi component Euler tour : 0.53200 ms 
+Time of (19)Component Parent, Reversals : 0.30900 ms 
+Time of (13)Compress Graph : 0.28800 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 194.53100 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 36.960000 ms 
+Time of (4)Multi component Euler tour internal  : 30.10000 ms 
+Time of (1)Get key rem collections : 19.07800 ms 
+Time of (5)Retrieving back first and last times  : 17.58700 ms 
+Time of (9)Get key rem collections : 14.01600 ms 
+Time of (8)Generate new edges : 13.05100 ms 
+Time of (2)Convert to collection : 11.02800 ms 
+Time of (15)Transedges prefix : 9.64600 ms 
+Time of (10)Convert to collection : 8.08500 ms 
+Time of (7)Remove edges : 6.70000 ms 
+Time of (6)Edge Deletion : 3.40200 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.26500 ms 
+Time of (11)Shortcut rep : 1.76300 ms 
+Time of (0)Extracting Roots : 0.76500 ms 
+Time of (3)Processing for multi component Euler tour : 0.56300 ms 
+Time of (18)PR Loop : 0.48800 ms 
+Time of (19)Component Parent, Reversals : 0.30400 ms 
+Time of (13)Compress Graph : 0.28600 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 177.11500 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 37.009000 ms 
+Time of (4)Multi component Euler tour internal  : 23.21900 ms 
+Time of (5)Retrieving back first and last times  : 18.07500 ms 
+Time of (9)Get key rem collections : 16.06800 ms 
+Time of (1)Get key rem collections : 15.28600 ms 
+Time of (8)Generate new edges : 13.84500 ms 
+Time of (15)Transedges prefix : 9.56800 ms 
+Time of (2)Convert to collection : 8.79300 ms 
+Time of (10)Convert to collection : 8.07000 ms 
+Time of (7)Remove edges : 7.29900 ms 
+Time of (6)Edge Deletion : 3.27500 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.08200 ms 
+Time of (11)Shortcut rep : 1.76900 ms 
+Time of (19)Component Parent, Reversals : 1.60400 ms 
+Time of (0)Extracting Roots : 0.71900 ms 
+Time of (18)PR Loop : 0.52200 ms 
+Time of (3)Processing for multi component Euler tour : 0.44200 ms 
+Time of (13)Compress Graph : 0.28200 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 168.95200 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 36.963000 ms 
+Time of (5)Retrieving back first and last times  : 30.88300 ms 
+Time of (4)Multi component Euler tour internal  : 21.31400 ms 
+Time of (1)Get key rem collections : 20.06400 ms 
+Time of (9)Get key rem collections : 15.06000 ms 
+Time of (8)Generate new edges : 13.22000 ms 
+Time of (15)Transedges prefix : 9.56200 ms 
+Time of (2)Convert to collection : 9.24700 ms 
+Time of (10)Convert to collection : 8.08500 ms 
+Time of (7)Remove edges : 7.28800 ms 
+Time of (6)Edge Deletion : 3.34900 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.30900 ms 
+Time of (11)Shortcut rep : 1.76900 ms 
+Time of (0)Extracting Roots : 0.71800 ms 
+Time of (18)PR Loop : 0.50900 ms 
+Time of (3)Processing for multi component Euler tour : 0.41200 ms 
+Time of (19)Component Parent, Reversals : 0.30400 ms 
+Time of (13)Compress Graph : 0.30000 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time (total): 182.38500 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 37.038000 ms 
+Time of (4)Multi component Euler tour internal  : 20.99700 ms 
+Time of (5)Retrieving back first and last times  : 19.96300 ms 
+Time of (1)Get key rem collections : 14.51400 ms 
+Time of (9)Get key rem collections : 13.99900 ms 
+Time of (8)Generate new edges : 13.39500 ms 
+Time of (15)Transedges prefix : 9.66400 ms 
+Time of (2)Convert to collection : 8.36200 ms 
+Time of (10)Convert to collection : 8.08200 ms 
+Time of (7)Remove edges : 7.96300 ms 
+Time of (6)Edge Deletion : 3.28200 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.23100 ms 
+Time of (11)Shortcut rep : 1.79400 ms 
+Time of (0)Extracting Roots : 0.67800 ms 
+Time of (18)PR Loop : 0.49800 ms 
+Time of (3)Processing for multi component Euler tour : 0.41100 ms 
+Time of (19)Component Parent, Reversals : 0.32400 ms 
+Time of (13)Compress Graph : 0.28700 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 164.50400 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 10000
+Time of (12)Hooking Shortcutting : 38.486000 ms 
+Time of (4)Multi component Euler tour internal  : 21.67000 ms 
+Time of (5)Retrieving back first and last times  : 19.60500 ms 
+Time of (1)Get key rem collections : 14.22400 ms 
+Time of (9)Get key rem collections : 14.11000 ms 
+Time of (8)Generate new edges : 12.99800 ms 
+Time of (15)Transedges prefix : 9.56700 ms 
+Time of (2)Convert to collection : 8.32600 ms 
+Time of (10)Convert to collection : 8.07900 ms 
+Time of (7)Remove edges : 7.65900 ms 
+Time of (6)Edge Deletion : 3.40100 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.34800 ms 
+Time of (11)Shortcut rep : 1.75300 ms 
+Time of (0)Extracting Roots : 0.67300 ms 
+Time of (18)PR Loop : 0.50500 ms 
+Time of (3)Processing for multi component Euler tour : 0.41100 ms 
+Time of (19)Component Parent, Reversals : 0.29500 ms 
+Time of (13)Compress Graph : 0.27600 ms 
+Time of (17)PR init : 0.01100 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 165.40600 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 21.068000 ms 
+Time of (5)Retrieving back first and last times  : 19.58800 ms 
+Time of (12)Hooking Shortcutting : 18.46000 ms 
+Time of (9)Get key rem collections : 15.35300 ms 
+Time of (1)Get key rem collections : 14.20600 ms 
+Time of (8)Generate new edges : 13.06000 ms 
+Time of (15)Transedges prefix : 11.71400 ms 
+Time of (2)Convert to collection : 8.26400 ms 
+Time of (10)Convert to collection : 8.08400 ms 
+Time of (7)Remove edges : 6.69600 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.55200 ms 
+Time of (6)Edge Deletion : 2.71800 ms 
+Time of (11)Shortcut rep : 1.75400 ms 
+Time of (0)Extracting Roots : 0.68100 ms 
+Time of (3)Processing for multi component Euler tour : 0.40300 ms 
+Time of (19)Component Parent, Reversals : 0.29700 ms 
+Time of (13)Compress Graph : 0.28500 ms 
+Time of (18)PR Loop : 0.22400 ms 
+Time of (17)PR init : 0.01100 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 146.42800 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 21.732000 ms 
+Time of (5)Retrieving back first and last times  : 19.77300 ms 
+Time of (12)Hooking Shortcutting : 18.45400 ms 
+Time of (1)Get key rem collections : 14.56800 ms 
+Time of (9)Get key rem collections : 14.01000 ms 
+Time of (8)Generate new edges : 13.23200 ms 
+Time of (15)Transedges prefix : 9.53600 ms 
+Time of (2)Convert to collection : 8.42300 ms 
+Time of (10)Convert to collection : 8.07500 ms 
+Time of (7)Remove edges : 8.06200 ms 
+Time of (6)Edge Deletion : 6.86300 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.35300 ms 
+Time of (11)Shortcut rep : 1.76100 ms 
+Time of (0)Extracting Roots : 0.69600 ms 
+Time of (3)Processing for multi component Euler tour : 0.41600 ms 
+Time of (13)Compress Graph : 0.32700 ms 
+Time of (19)Component Parent, Reversals : 0.30200 ms 
+Time of (18)PR Loop : 0.24100 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (14)Get compressed list : 0.00800 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time (total): 149.85300 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 23.053000 ms 
+Time of (5)Retrieving back first and last times  : 19.59100 ms 
+Time of (12)Hooking Shortcutting : 18.45600 ms 
+Time of (1)Get key rem collections : 15.29900 ms 
+Time of (9)Get key rem collections : 13.99400 ms 
+Time of (8)Generate new edges : 13.67200 ms 
+Time of (15)Transedges prefix : 9.57900 ms 
+Time of (2)Convert to collection : 8.81800 ms 
+Time of (10)Convert to collection : 8.10600 ms 
+Time of (7)Remove edges : 7.12100 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.59200 ms 
+Time of (6)Edge Deletion : 2.58100 ms 
+Time of (11)Shortcut rep : 1.76100 ms 
+Time of (0)Extracting Roots : 0.71800 ms 
+Time of (3)Processing for multi component Euler tour : 0.44100 ms 
+Time of (19)Component Parent, Reversals : 0.30100 ms 
+Time of (13)Compress Graph : 0.29500 ms 
+Time of (18)PR Loop : 0.24600 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 147.65300 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100
+Time of (12)Hooking Shortcutting : 36.854000 ms 
+Time of (4)Multi component Euler tour internal  : 21.30700 ms 
+Time of (5)Retrieving back first and last times  : 19.85800 ms 
+Time of (9)Get key rem collections : 16.03800 ms 
+Time of (1)Get key rem collections : 14.08500 ms 
+Time of (8)Generate new edges : 13.04500 ms 
+Time of (15)Transedges prefix : 9.67700 ms 
+Time of (2)Convert to collection : 8.26300 ms 
+Time of (10)Convert to collection : 8.07700 ms 
+Time of (7)Remove edges : 6.66200 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.44800 ms 
+Time of (6)Edge Deletion : 2.70900 ms 
+Time of (11)Shortcut rep : 1.76100 ms 
+Time of (0)Extracting Roots : 0.69900 ms 
+Time of (3)Processing for multi component Euler tour : 0.40100 ms 
+Time of (18)PR Loop : 0.30200 ms 
+Time of (19)Component Parent, Reversals : 0.29700 ms 
+Time of (13)Compress Graph : 0.28600 ms 
+Time of (17)PR init : 0.01200 ms 
+Time of (14)Get compressed list : 0.00500 ms 
+Time of (16)Get edges : 0.00400 ms 
+Time (total): 163.79000 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 100
+Time of (4)Multi component Euler tour internal  : 20.072000 ms 
+Time of (5)Retrieving back first and last times  : 19.97100 ms 
+Time of (12)Hooking Shortcutting : 18.43000 ms 
+Time of (9)Get key rem collections : 15.47600 ms 
+Time of (1)Get key rem collections : 14.36700 ms 
+Time of (8)Generate new edges : 13.15400 ms 
+Time of (15)Transedges prefix : 9.82000 ms 
+Time of (2)Convert to collection : 8.42600 ms 
+Time of (10)Convert to collection : 8.21100 ms 
+Time of (7)Remove edges : 6.79000 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.14100 ms 
+Time of (6)Edge Deletion : 2.69900 ms 
+Time of (11)Shortcut rep : 1.80200 ms 
+Time of (19)Component Parent, Reversals : 1.59800 ms 
+Time of (0)Extracting Roots : 0.69100 ms 
+Time of (3)Processing for multi component Euler tour : 0.41300 ms 
+Time of (13)Compress Graph : 0.28300 ms 
+Time of (18)PR Loop : 0.22200 ms 
+Time of (17)PR init : 0.01100 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time of (16)Get edges : 0.00500 ms 
+Time (total): 145.58800 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 36.999000 ms 
+Time of (4)Multi component Euler tour internal  : 21.41600 ms 
+Time of (5)Retrieving back first and last times  : 19.84400 ms 
+Time of (9)Get key rem collections : 16.32300 ms 
+Time of (1)Get key rem collections : 14.42400 ms 
+Time of (8)Generate new edges : 13.34700 ms 
+Time of (15)Transedges prefix : 9.52800 ms 
+Time of (10)Convert to collection : 8.43900 ms 
+Time of (2)Convert to collection : 8.36600 ms 
+Time of (7)Remove edges : 7.87900 ms 
+Time of (6)Edge Deletion : 3.57800 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.51700 ms 
+Time of (11)Shortcut rep : 1.75800 ms 
+Time of (0)Extracting Roots : 0.70800 ms 
+Time of (3)Processing for multi component Euler tour : 0.40700 ms 
+Time of (18)PR Loop : 0.36800 ms 
+Time of (19)Component Parent, Reversals : 0.30100 ms 
+Time of (13)Compress Graph : 0.28800 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time of (14)Get compressed list : 0.00600 ms 
+Time (total): 167.51800 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 36.875000 ms 
+Time of (4)Multi component Euler tour internal  : 21.72300 ms 
+Time of (5)Retrieving back first and last times  : 19.58000 ms 
+Time of (1)Get key rem collections : 14.56700 ms 
+Time of (9)Get key rem collections : 14.02300 ms 
+Time of (8)Generate new edges : 13.05400 ms 
+Time of (15)Transedges prefix : 9.54200 ms 
+Time of (2)Convert to collection : 8.42100 ms 
+Time of (10)Convert to collection : 8.08600 ms 
+Time of (7)Remove edges : 7.82700 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.32500 ms 
+Time of (6)Edge Deletion : 2.58800 ms 
+Time of (11)Shortcut rep : 1.76500 ms 
+Time of (0)Extracting Roots : 0.68900 ms 
+Time of (3)Processing for multi component Euler tour : 0.41500 ms 
+Time of (18)PR Loop : 0.36300 ms 
+Time of (19)Component Parent, Reversals : 0.29900 ms 
+Time of (13)Compress Graph : 0.28900 ms 
+Time of (17)PR init : 0.01700 ms 
+Time of (16)Get edges : 0.00700 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 163.46200 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 36.990000 ms 
+Time of (4)Multi component Euler tour internal  : 20.48000 ms 
+Time of (5)Retrieving back first and last times  : 19.64300 ms 
+Time of (9)Get key rem collections : 15.94200 ms 
+Time of (1)Get key rem collections : 13.62000 ms 
+Time of (8)Generate new edges : 13.06300 ms 
+Time of (15)Transedges prefix : 9.63100 ms 
+Time of (10)Convert to collection : 8.07800 ms 
+Time of (2)Convert to collection : 8.06000 ms 
+Time of (7)Remove edges : 6.67700 ms 
+Time of (6)Edge Deletion : 3.61500 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.42100 ms 
+Time of (11)Shortcut rep : 1.76000 ms 
+Time of (0)Extracting Roots : 0.72300 ms 
+Time of (3)Processing for multi component Euler tour : 0.39400 ms 
+Time of (18)PR Loop : 0.36700 ms 
+Time of (13)Compress Graph : 0.32100 ms 
+Time of (19)Component Parent, Reversals : 0.30200 ms 
+Time of (17)PR init : 0.01500 ms 
+Time of (16)Get edges : 0.00800 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 163.11700 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 37.000000 ms 
+Time of (5)Retrieving back first and last times  : 24.27900 ms 
+Time of (4)Multi component Euler tour internal  : 21.20800 ms 
+Time of (9)Get key rem collections : 15.13500 ms 
+Time of (1)Get key rem collections : 14.24700 ms 
+Time of (8)Generate new edges : 13.04400 ms 
+Time of (15)Transedges prefix : 9.54400 ms 
+Time of (2)Convert to collection : 8.32000 ms 
+Time of (10)Convert to collection : 8.03200 ms 
+Time of (7)Remove edges : 6.86300 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.48000 ms 
+Time of (6)Edge Deletion : 2.63400 ms 
+Time of (11)Shortcut rep : 1.76000 ms 
+Time of (0)Extracting Roots : 0.69900 ms 
+Time of (3)Processing for multi component Euler tour : 0.41000 ms 
+Time of (18)PR Loop : 0.39800 ms 
+Time of (19)Component Parent, Reversals : 0.30000 ms 
+Time of (13)Compress Graph : 0.29000 ms 
+Time of (17)PR init : 0.01600 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time of (16)Get edges : 0.00600 ms 
+Time (total): 167.67200 ms 
+--------------------------------------------------------
+filename: arabic-2005.txt
+Nodes : 22744080
+Edges : 553903601
+
+------------------------------------------------------
+Deleted : 1000
+Time of (12)Hooking Shortcutting : 37.842000 ms 
+Time of (5)Retrieving back first and last times  : 24.34300 ms 
+Time of (4)Multi component Euler tour internal  : 21.33700 ms 
+Time of (9)Get key rem collections : 17.25900 ms 
+Time of (1)Get key rem collections : 14.92600 ms 
+Time of (8)Generate new edges : 13.34100 ms 
+Time of (15)Transedges prefix : 9.62800 ms 
+Time of (2)Convert to collection : 8.62000 ms 
+Time of (10)Convert to collection : 8.44100 ms 
+Time of (7)Remove edges : 7.03300 ms 
+Time of (6)Edge Deletion : 3.56500 ms 
+Time of (20)Reverse Edges and Connect Parent : 3.35500 ms 
+Time of (11)Shortcut rep : 1.87300 ms 
+Time of (0)Extracting Roots : 0.69000 ms 
+Time of (3)Processing for multi component Euler tour : 0.42700 ms 
+Time of (18)PR Loop : 0.35700 ms 
+Time of (19)Component Parent, Reversals : 0.30000 ms 
+Time of (13)Compress Graph : 0.28600 ms 
+Time of (17)PR init : 0.01400 ms 
+Time of (16)Get edges : 0.00900 ms 
+Time of (14)Get compressed list : 0.00700 ms 
+Time (total): 173.65300 ms 
+--------------------------------------------------------
