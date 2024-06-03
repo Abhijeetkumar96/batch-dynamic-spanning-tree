@@ -511,7 +511,7 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     stop = std::chrono::high_resolution_clock::now();
     duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("ET: Orientation", duration);
+    add_function_time("Orientation (ET)", duration);
 
     #ifdef DEBUG
         std::cout << "num of Replacement edges: " << num_cross_edges << std::endl;

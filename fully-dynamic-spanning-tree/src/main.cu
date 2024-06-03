@@ -1,7 +1,6 @@
 #include <vector>
+#include <string>
 #include <random>
-#include <chrono>
-#include <fstream>
 #include <iostream>
 
 #include "serial_rst/spanning_tree.hpp"
@@ -96,10 +95,14 @@ int main(int argc, char* argv[]) {
     std::vector<int> parent(G.numVert);
     std::vector<int> roots;
 
-    std::random_device rd;  // Obtain a random number from hardware
-    std::mt19937 gen(rd()); // Seed the generator
-    std::uniform_int_distribution<> distr(0, G.numVert - 1); // Define the range
-    int root = distr(gen); // Generate a random number within the range
+    int root = args.root_vertex;
+
+    if(root == -1) {
+        std::random_device rd;  // Obtain a random number from hardware
+        std::mt19937 gen(rd()); // Seed the generator
+        std::uniform_int_distribution<> distr(0, G.numVert - 1); // Define the range
+        root = distr(gen); // Generate a random number within the range
+    }
 
     // root = 2;
     std::cout << "Root: " << root << std::endl;

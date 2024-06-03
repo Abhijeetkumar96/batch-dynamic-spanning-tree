@@ -2,6 +2,7 @@
 #define GRAPH_H
 
 #include <iostream>
+#include <iomanip>
 #include <fstream>
 #include <vector>
 #include <stdexcept>
@@ -75,7 +76,7 @@ public:
     int max_degree = 0;
     int min_degree = 0;
     int median_degree = 0;
-    double avg_degree = 0;
+    int avg_degree = 0;
     long double var = 0;
     int depth = 0;
 
@@ -154,11 +155,13 @@ public:
         vertex_degrees_var();
         std::cout << "|V| = " << numVert;
         std::cout << "\n|E| = " << numEdges;
+        std::cout << std::fixed << std::setprecision(2);
         std::cout << "\nvariance (v) = " << var;
         std::cout << "\nMin degree = " << min_degree;
         std::cout << "\nAvg degree = " << avg_degree;
         std::cout << "\nMedian degree = " << median_degree;
         std::cout << "\nMax degree = " << max_degree;
+
     }
 
 private:
@@ -255,14 +258,16 @@ private:
 
         // initialize min and max to degree of first vertex
         max_degree = min_degree = vertices[1] - vertices[0];
-        for (long long v = 0; v < n; ++v) {
+        for (int v = 0; v < n; ++v) {
             degree[v] = vertices[v+1] - vertices[v];
+            avg_degree+= degree[v];
             if (max_degree < degree[v])  
                 max_degree = degree[v];
             if (degree[v] < min_degree)  
                 min_degree = degree[v];
         }
-        avg_degree = (double)numEdges/n;
+        
+        avg_degree /= numVert;
 
         var = 0;
         

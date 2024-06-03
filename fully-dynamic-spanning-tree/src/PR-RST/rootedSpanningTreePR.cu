@@ -161,7 +161,7 @@ int* RootedSpanningTree(int* d_u_arr, int* d_v_arr, const int numVert, const int
     auto stop = std::chrono::high_resolution_clock::now();
     auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("PR-RST module", duration);
+    add_function_time("Orientation (PR-RST)", duration);
 
 	#ifdef DEBUG
 		std::vector<int> h_parent(n);

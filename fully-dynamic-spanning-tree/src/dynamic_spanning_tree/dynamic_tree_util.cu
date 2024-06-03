@@ -294,7 +294,7 @@ void listRanking(int* d_next, std::vector<int>& new_dist, int n) {
     CUDA_CHECK(cudaFree(d_new_next), "Failed to free");
 }
 
-void find_path_length(int* d_parent, int num_vert, int& min_rank, int& max_rank, double& avg_rank, double& median_rank) {
+void find_path_length(int* d_parent, int num_vert, int& min_rank, int& max_rank, int& avg_rank, int& median_rank) {
 
     std::vector<int> host_Rank;
     // Call the CUDA function for list ranking
@@ -389,8 +389,7 @@ void dynamic_tree_manager::print_stats() {
     CUDA_CHECK(cudaMalloc(&updated_parent, size), "Failed to allocate memory for d_parent");
     CUDA_CHECK(cudaMemcpy(updated_parent, d_parent, size,  cudaMemcpyDeviceToDevice), "Failed to copy d_parent to device");
 
-    int min_length, max_length;
-    double avg_length, median_length;
+    int min_length, max_length, avg_length, median_length;
     int cross_edges_count = cal_cross_edges(updated_parent, num_vert, d_updated_edge_list, num_edges);
     find_path_length(updated_parent, num_vert, min_length, max_length, avg_length, median_length);
 

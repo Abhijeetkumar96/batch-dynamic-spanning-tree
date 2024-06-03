@@ -24,6 +24,7 @@ public:
         Rep_Algorithm rep_algorithm = HOOKING_SHORTCUTTING;
         PR_Algorithm pr_algorithm   = EULERIAN_TOUR;
         int cudaDevice = 0;
+        int root_vertex = -1;
         bool verbose = false;
         bool checkerMode = false;
         bool error = false;
@@ -95,6 +96,8 @@ private:
                 args.verbose = true;
             } else if (arg == "-c") {
                 args.checkerMode = true;
+            } else if (arg == "-x" && i + 1 < argc) {
+                args.root_vertex = std::stoi(argv[++i]);
             } else {
                 std::cerr << "Unknown argument: " << arg << std::endl;
                 args.error = true;
@@ -128,6 +131,7 @@ const std::string CommandLineParser::help_msg =
     "  -s                   Print stats of the input graph.\n"
     "  -v                   Enable verbose output.\n"
     "  -c                   Enable checker mode for verification.\n"
+    "  -x $root_vertex      Set the root/starting vertex of the rooted spanning tree.\n"
     "\n"
     "Usage Examples:\n"
     "  Run with specific input and batch files, using SuperGraph for edge replacement and Eulerian Tour for path reversal:\n"
@@ -136,6 +140,8 @@ const std::string CommandLineParser::help_msg =
     "    ./dynamic_spanning_tree -i path/to/graph.txt -s\n"
     "  Run on a specific CUDA device with verbose output, using Hooking and Shortcutting and Path Reversal:\n"
     "    ./dynamic_spanning_tree -i path/to/input.bin -d 1 -v -r HS -p PR\n"
+    "  Specify the root vertex for a rooted spanning tree:\n"
+    "    ./dynamic_spanning_tree -i path/to/input.txt -x 0\n"
     "\n";
 
 #endif // COMMAND_LINE_PARSER_H
