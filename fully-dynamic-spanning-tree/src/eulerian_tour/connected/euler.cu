@@ -1,3 +1,4 @@
+#include "eulerian_tour/disconnected/list_ranking.cuh"
 #include <iostream>
 #include <chrono>
 #include <vector>
@@ -11,7 +12,7 @@
 #include "common/Timer.hpp"
 #include "common/cuda_utility.cuh"
 #include "eulerian_tour/connected/euler_tour.cuh"
-#include "eulerian_tour/connected/list_ranking.cuh"
+// #include "eulerian_tour/connected/list_ranking.cuh"
 
 // #define DEBUG
 
@@ -133,12 +134,13 @@ void find_successor_kernel(
 }
 
 __global__
-void update_rank_kernel(int* euler_tour_arr, int n_edges, int* rank) {
+void update_rank_kernel(int* euler_tour_arr, int n_edges) {
 
     int i = threadIdx.x + blockDim.x * blockIdx.x;
     
     if(i < n_edges) {
-        rank[i] = n_edges - 1 - euler_tour_arr[i];
+        int k = euler_tour_arr[i];
+        euler_tour_arr[i] = n_edges - k;
     }
 }
 
@@ -248,7 +250,7 @@ void update_root_last(
     int* d_child_count      =   eulerTour->d_child_count; 
     int* d_child_num        =   eulerTour->d_child_num;
     int* d_child_list       =   eulerTour->d_child_list;
-    int2* d_edge_num         =   eulerTour->d_edge_num;
+    int2* d_edge_num        =   eulerTour->d_edge_num;
     int* starting_index     =   eulerTour->starting_index;
     int* new_first          =   eulerTour->new_first;
     int* new_last           =   eulerTour->new_last;
@@ -259,6 +261,19 @@ void update_root_last(
     int numThreads = 1024;
     int numBlocks = (numNodes + numThreads - 1) / numThreads;
 
+    #ifdef DEBUG
+        std::cout << "\nParent array from SCE::cal_first_last:\n";
+        std::vector<int> parent(numNodes);
+        CUDA_CHECK(cudaMemcpy(parent.data(), d_parent, sizeof(int)*numNodes, cudaMemcpyDeviceToHost),
+            "Failed to copy back parent");
+        int j = 0;
+        for(auto i : parent) 
+            std::cout << "parent[" << j++ << "] = " << i << std::endl;
+        std::cout << std::endl;
+
+    #endif
+
+    auto start = std::chrono::high_resolution_clock::now();
     // Launch kernel with calculated dimensions
     find_degrees<<<numBlocks, numThreads>>>(
         d_parent, 
@@ -331,23 +346,29 @@ void update_root_last(
 
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
 
+    int value = -1;
+    // update the successor of last_edge
+    CUDA_CHECK(cudaMemcpy(&d_successor[*d_last_edge], &value, sizeof(int), cudaMemcpyHostToDevice), 
+        "Failed to update the last edge");
+
     #ifdef DEBUG
         //Copy back the data
         std::vector<int> h_successor(edges);
         cudaMemcpy(h_successor.data(), d_successor, edges*sizeof(int), cudaMemcpyDeviceToHost);
-        std::cout<<"\nPrinting successor array : \n";
+        std::cout<<"\nPrinting successor array: \n";
         for(int i = 0; i<h_successor.size(); ++i)
         {
           std::cout<<"successor["<<i<<"] = "<<h_successor[i]<<"\n";
         }
 
-        std::cout<<"\nPrinting last_edge array : \n";
+        std::cout<<"\nPrinting last_edge: \n";
         std::cout << *d_last_edge << std::endl;
         
     #endif
 
     //apply list ranking on successor to get Euler tour
-    cuda_list_rank(edges, *d_last_edge, d_successor, d_euler_tour_arr, eulerTour->getListRanking());
+    // cuda_list_rank(edges, *d_last_edge, d_successor, d_euler_tour_arr, eulerTour->getListRanking());
+    CudaSimpleListRank(d_successor, d_euler_tour_arr, edges, eulerTour->notAllDone, eulerTour->devNotAllDone, eulerTour->devRankNext);
 
     #ifdef DEBUG
         std::vector<int> h_euler_tour_arr(edges);
@@ -365,10 +386,15 @@ void update_root_last(
 
     //edges is 2 times the original number of edges
 
-    // numBlocks = (edges + numThreads - 1) / numThreads;
+    numBlocks = (edges + numThreads - 1) / numThreads;
 
-    // update_rank_kernel<<<numBlocks, numThreads>>>(d_euler_tour_arr, edges, rank);
-    // cudaDeviceSynchronize();
+    update_rank_kernel<<<numBlocks, numThreads>>>(d_euler_tour_arr, edges);
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_rank_kernel");
+
+    auto stop = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    // std::cout << "My Eulerian Tour: " << duration << " ms.\n";
 
     numBlocks = (numNodes + numThreads - 1) / numThreads;
 
@@ -392,10 +418,8 @@ void update_root_last(
         root);
 
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize");
-
-    // bool g_verbose = true;
     
-    if(g_verbose) {
+    #ifdef DEBUG
         int* h_first = new int[numNodes];
         int* h_last = new int[numNodes];
         
@@ -408,6 +432,6 @@ void update_root_last(
         for (int i = 0; i < numNodes; ++i) {
             std::cout << "Node " << i << ": " << h_first[i] << "\t" << h_last[i] << "\n";
         }    
-    }
+    #endif
 }
 } // namespace sce

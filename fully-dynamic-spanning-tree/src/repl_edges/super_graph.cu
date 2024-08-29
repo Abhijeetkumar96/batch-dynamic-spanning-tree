@@ -253,10 +253,18 @@ void super_graph(dynamic_tree_manager& tree_ds,
         DisplayDeviceEdgeList(d_super_graph_u, d_super_graph_v, num_edges);
     }
     
+    auto stop = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("SG: Insertion into hashtable", duration);
+
+
+
     // find unique edges
     // unique_super_graph_edges is the count of new set of edges
     // remove selfloops and duplicates
 
+    start = std::chrono::high_resolution_clock::now();
     remove_self_loops_duplicates(
         d_super_graph_u, 
         d_super_graph_v, 
@@ -267,10 +275,10 @@ void super_graph(dynamic_tree_manager& tree_ds,
         d_new_super_graph_u, 
         d_new_super_graph_v);
 
-    auto stop = std::chrono::high_resolution_clock::now();
-    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+    stop = std::chrono::high_resolution_clock::now();
+    duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("Super graph Creation", duration);
+    add_function_time("SG: Remove self loops dupl", duration);
 
     if(*unique_super_graph_edges < 1) {
         std::cerr << "No cross edges found to connect the graphs.\n";
@@ -314,7 +322,7 @@ void super_graph(dynamic_tree_manager& tree_ds,
     stop = std::chrono::high_resolution_clock::now();
     duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("Hash Table look up", duration);
+    add_function_time("SG: Hash Table look up", duration);
 
     if(g_verbose) {
         std::cout << "Replacement edges:" << std::endl;

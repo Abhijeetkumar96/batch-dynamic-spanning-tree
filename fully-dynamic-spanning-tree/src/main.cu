@@ -105,13 +105,13 @@ int main(int argc, char* argv[]) {
     }
 
     // root = 2;
-    std::cout << "Root: " << root << std::endl;
+    // std::cout << "Root: " << root << std::endl;
     bool _flag = true;
 
     int numComp = -1;
 
     if(_flag) {
-        std::cout << "The input parent array is a BFS tree.\n";
+        // std::cout << "The input parent array is a BFS tree.\n";
         numComp = bfs(G.vertices, G.edges, root, parent, roots);
     }
     else {
@@ -138,11 +138,9 @@ int main(int argc, char* argv[]) {
         std::cout << "The edge list has been updated.\n";
     }
 
-    if(args.print_stat) {
-        G.print_stat();
-        tree_ds.print_stats();
-        return EXIT_SUCCESS;
-    }
+    // printing stats
+    // G.print_stat();
+    // tree_ds.print_stats();
 
     repair_spanning_tree(tree_ds);
 
@@ -155,7 +153,7 @@ int main(int argc, char* argv[]) {
     
     // validate the output
     repair_spanning_tree(tree_ds, false);
-    // std::cout << "After repairing:\n";
+    std::cout << "After repairing:\n";
     print_total_function_time("Insertion");
 
     int temp = validate(new_parent, G.numVert);

@@ -155,7 +155,6 @@ void path_reversal_ET(
 	int* new_parent   = tree_ds.new_parent;   // parent array after deleting edges
 	int* d_unique_rep = tree_ds.d_unique_rep; // all the unique representatives in the forest
 
-
 	numBlocks = (p_size + numThreads - 1) / numThreads;    
 
 	update_parent_kernel<<<numBlocks, numThreads>>>(

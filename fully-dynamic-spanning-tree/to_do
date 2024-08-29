@@ -1,6 +1,62 @@
-Possible BUG:
-build/dynamic_spanning_tree -i datasets/connected_datasets/myforestfiregraph.txt -b datasets/delete_batch/myforestfiregraph.txt -r HS -p PR -v
+To do (Jun 14):
+  - Say about EulerianTour Tree vs Forest.
+  - Plot for 2 BFS or only Adam_BFS.
 
+Why orientation is important.
+How to reverse the path in O(1) const time.
+
+We can get orientation by two ways.
+
+Don't have solutions in problem statement. 
+
+To do (Jun 10):
+--------------------------------* begin *--------------------------------
+  - 1st graph:
+    --> x-axis only datasets
+    --> LHS: num_vert
+    --> RHS: key_edges
+
+  - 2nd graph:
+    --> running time on y-axis
+    --> x-axis datasets
+
+  - 3rd graph:
+    --> plot for insertion operation 
+
+  - Plot eulerian Tour running times (my version vs euler-meets-cuda)
+
+  --------------------------------* done *--------------------------------
+
+To do (Jun 4):
+  - Understanding Behaviourial Analysis
+    In SG, majority of time is being taken by remove_self_loops_dups function.
+    Show the co-relation between updated_edgelist & remove_self_loops_dups function running time.
+    In HS, major running time is taken by Hooking function.
+    Show the co-relation between numEdges, cross-edges & numVerts(shortcutting).
+    * There is a scope to improve the shortcutting running times by replacing the pointerJumping code.
+
+  - Relation between max Vertex & Eulerian Tour
+
+To do (Jun 2):
+  Write code for behaviourial analysis - 
+    a. num cross_edges - done
+    b. updated edge_list size - done
+    c. min path length - done
+    d. max path length - done
+    e. avg path length - done
+
+TO_DO:
+  1. Integrate the new list ranking code to single component eulerian Tour -- done
+
+--------------------------------* Measuring Times starts *--------------------------------
+auto stop = std::chrono::high_resolution_clock::now();
+auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+add_function_time("update datastr", duration);
+
+--------------------------------* Measuring Times ends *--------------------------------
+
+--------------------------------* Eulerian Tour starts *--------------------------------
 - We need to sort the input to the eulerian Tour, becoz after creating the new edgelist after updating the edges as per the mapping array, they no longer may be sorted.
 
 for e.g.
@@ -14,6 +70,7 @@ Therefore, the actual edgelist that goes as input to euler becomes:
 (0,1)
 
 - So sorting is needed for eulerianTour.
+--------------------------------* Eulerian Tour ends *--------------------------------
 
 - To hooking - shortcutting, the input is all edges even for insertion?
 Why? I dont need to give all edges as input, rather only the new batch of edges for insertion.

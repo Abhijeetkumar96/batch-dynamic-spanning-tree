@@ -5,6 +5,9 @@
 //---------------------------------------------------------------------
 // Standard Libraries
 //---------------------------------------------------------------------
+#include "eulerian_tour/connected/euler_tour.cuh"
+#include "eulerian_tour/disconnected/euler_tour.cuh"
+
 #include <set>
 #include <cuda_runtime.h>
 
@@ -15,9 +18,7 @@
 #include "common/cuda_utility.cuh"
 
 #include "dynamic_spanning_tree/dynamic_tree.cuh"
-
-#include "eulerian_tour/connected/euler_tour.cuh"
-#include "eulerian_tour/disconnected/euler_tour.cuh"
+#include "dynamic_spanning_tree/profile_emc.cuh"
 
 #include "PR-RST/shortcutting.cuh"
 
@@ -187,13 +188,13 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 	// get_replacement_edges(tree_ds, rep_edge_mag, num_comp, is_deletion);
 	
 	// 5. Get the replacement edges
-	std::cout << "Selected Algorithm: " << rep_edge_algo << "_" << path_rev_algo << std::endl;
+	// std::cout << "Selected Algorithm: " << rep_edge_algo << "_" << path_rev_algo << std::endl;
 
 	if(rep_edge_algo == "SG_PR") {
-		std::cout << "Finding Replacement edges using SG.\n";
+		// std::cout << "Finding Replacement edges using SG.\n";
         super_graph(tree_ds, rep_edge_mag, is_deletion);
     } else if(rep_edge_algo == "HS_ET") {
-    	std::cout << "Finding Replacement edges using HS.\n";
+    	// std::cout << "Finding Replacement edges using HS.\n";
         hooking_shortcutting(tree_ds, rep_edge_mag, is_deletion);
     } else {
         std::cerr << "Unrecognized algorithm to use\n";
@@ -209,14 +210,18 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 
     // 6. reverse the path 
     if (path_rev_algo == "ET") {
-    	std::cout << "Reversing the paths using eulerian tour " << std::endl;
+    	// std::cout << "Reversing the paths using eulerian tour " << std::endl;
+
+    	// profiling against emc::eulerian_tour
+	    // emc_tour(tree_ds.d_org_parent, num_vert);
+
 	    int *d_first = nullptr;
     	int *d_last = nullptr;
 
     	// Declare the pointer outside of the if-else block
     	mce::EulerianTour* mce_euler_mag = nullptr;
     	sce::EulerianTour* sce_euler_mag = nullptr;
-    
+
 	    // 5. Find the eulerian Tour 
 	    if(!is_connected) {
 	    	// std::cout << "Started Multi-component eulerian Tour.\n";
@@ -252,7 +257,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 		stop = std::chrono::high_resolution_clock::now();
 	    duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-	    add_function_time("Path Reversal", duration);
+	    add_function_time("ET: Path Reversal", duration);
 
 	    // Free the memory allocated for euler_mag 
 	    if(mce_euler_mag)
@@ -284,7 +289,7 @@ void repair_spanning_tree(dynamic_tree_manager& tree_ds, bool is_deletion) {
 		auto stop = std::chrono::high_resolution_clock::now();
 	    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-	    add_function_time("PR_Shortcut", duration);
+	    add_function_time("PR: Shortcut", duration);
 
 	    thrust::device_vector <int> onPath(num_vert);
 		path_reversal_PR(tree_ds, rep_edge_mag, onPath, pr_arr, pr_arr_size, log_2_size, num_comp);

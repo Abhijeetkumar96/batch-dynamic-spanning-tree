@@ -155,6 +155,8 @@ public:
         vertex_degrees_var();
         std::cout << "|V| = " << numVert;
         std::cout << "\n|E| = " << numEdges;
+        std::cout << std::fixed << std::setprecision(9);
+        std::cout << "\ndensity (p): " << density();
         std::cout << std::fixed << std::setprecision(2);
         std::cout << "\nvariance (v) = " << var;
         std::cout << "\nMin degree = " << min_degree;

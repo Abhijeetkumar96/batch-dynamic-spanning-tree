@@ -52,9 +52,9 @@ void path_reversal_PR(
 	thrust::device_vector<int> &pr_arr_size,
 	int log_2_size, const int& unique_rep_count) {
 
-	int num_vert  = tree_ds.num_vert;
-	int num_edges = tree_ds.num_edges;
-	int* d_rep 		= tree_ds.d_parent;
+	int num_vert  	= tree_ds.num_vert;
+	int num_edges 	= tree_ds.num_edges;
+	int* d_rep 	  	= tree_ds.d_parent;
 	int* d_rep_map 	= tree_ds.d_rep_map;
     int* edge_u   = rep_edge_mag.d_edge_u;
     int* parent_u = rep_edge_mag.d_parent_u;
@@ -73,6 +73,8 @@ void path_reversal_PR(
 	int numThreads = 1024;
 	int numBlocks = (n + numThreads - 1) / numThreads;    
 
+	auto start = std::chrono::high_resolution_clock::now();
+
 	generate_interval_kernel<<<numBlocks, numThreads>>>(
 		edge_u,
 		interval,
@@ -82,8 +84,6 @@ void path_reversal_PR(
 		n);
 	
 	CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after generate_interval_kernel");
-
-	auto start = std::chrono::high_resolution_clock::now();
 
 	int p_size = tree_ds.num_vert;
 	int* new_parent = tree_ds.new_parent;
@@ -123,7 +123,7 @@ void path_reversal_PR(
 	auto stop = std::chrono::high_resolution_clock::now();
     auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("Path Reversal", duration);
+    add_function_time("PR: Path Reversal", duration);
 
 	// g_verbose = false;
 

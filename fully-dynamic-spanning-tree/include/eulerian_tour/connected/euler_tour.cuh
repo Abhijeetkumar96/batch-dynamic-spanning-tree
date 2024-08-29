@@ -25,6 +25,11 @@ class EulerianTour {
         int* d_euler_tour_arr;
         int2 *d_edge_num;
 
+        // list_ranking_params
+        int *notAllDone;
+        int *devNotAllDone; 
+        unsigned long long *devRankNext;
+
         ListRanking* getListRanking() const {
             return listRanking;
         }
@@ -57,6 +62,12 @@ class EulerianTour {
             CUDA_CHECK(cudaMalloc(&d_euler_tour_arr, edges * sizeof(int)),              "Failed to allocate memory for d_euler_tour_arr");
             CUDA_CHECK(cudaMalloc(&new_first, N * sizeof(int)),                         "Failed to allocate memory for new_first");
             CUDA_CHECK(cudaMalloc(&new_last, N * sizeof(int)),                          "Failed to allocate memory for new_last");
+
+            // list_ranking params
+            CUDA_CHECK(cudaMalloc((void **)&devRankNext, sizeof(unsigned long long) * edges), "Failed to allocate devRankNext");
+            CUDA_CHECK(cudaMalloc((void **)&devNotAllDone, sizeof(int)), "Failed to allocate devNotAllDone");
+            CUDA_CHECK(cudaMallocHost(&notAllDone, sizeof(int)), "Failed to allocate notAllDone");
+
 
             CUDA_CHECK(cudaMallocManaged(&d_last_edge, sizeof(int)),                    "Failed to allocate memory for d_last_edge");
 

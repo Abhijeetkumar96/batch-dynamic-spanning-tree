@@ -177,6 +177,8 @@ void cuda_euler_tour(uint64_t* d_edge_list, int N, int num_edges, int* d_roots, 
         print_device_edge_list(d_edge_list, num_edges);
     #endif
 
+    auto start = std::chrono::high_resolution_clock::now();
+
     uint64_t* d_sorted_keys = euler.d_sorted_keys;
 
     int* d_u = euler.d_u;
@@ -286,6 +288,11 @@ void cuda_euler_tour(uint64_t* d_edge_list, int N, int num_edges, int* d_roots, 
 
     //apply list ranking on successor to get Euler tour
     CudaSimpleListRank(succ, devRank, E, euler.notAllDone, euler.devNotAllDone, euler.devRankNext);
+
+    auto stop = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    // std::cout << "emc phase 2: " << duration << " ms.\n";
 
     #ifdef DEBUG
         std::cout << "d_first array:" << std::endl;

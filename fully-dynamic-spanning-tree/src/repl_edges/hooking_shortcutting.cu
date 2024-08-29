@@ -155,11 +155,13 @@ void hooking(
 
     int flag = 1;
     int shortcutFlag = 1;
+    int itr_count = 0;
     bool maxIteration = true;
 
     while(flag) {
-
+        itr_count++;
         flag = false;
+        // auto start = std::chrono::high_resolution_clock::now();
         CUDA_CHECK(cudaMemcpy(c_flag, &flag, sizeof(int), cudaMemcpyHostToDevice), "Failed to copy flag to device");
         HOOKING <<<num_blocks_edges, num_threads>>> (
             edges,
@@ -172,8 +174,13 @@ void hooking(
         CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after HOOKING");
         
         CUDA_CHECK(cudaMemcpy(&flag, c_flag, sizeof(int), cudaMemcpyDeviceToHost), "Failed to copy flag back to device");
-        maxIteration = !maxIteration;
+        // auto stop = std::chrono::high_resolution_clock::now();
+        // auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
+        // std::cout << "One round of Hooking took: " << duration << " ms.\n";
+
+        maxIteration = !maxIteration;
+        // start = std::chrono::high_resolution_clock::now();
         // !!! This should be done before updating
         STORE_TRANS_EDGES<<<num_blocks_edges, num_threads>>> (
             edges,
@@ -191,8 +198,14 @@ void hooking(
             d_componentParent,
             d_rep);
         CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after UPDATE_REP_PARENT");
+
+        // stop = std::chrono::high_resolution_clock::now();
+        // duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+        // std::cout << "One round of storing trans edges & update rep parent took: " << duration << " ms.\n";
         
         shortcutFlag = true;
+        // auto start = std::chrono::high_resolution_clock::now();
         while(shortcutFlag) {
             shortcutFlag = false;
             CUDA_CHECK(cudaMemcpy(c_shortcutFlag, &shortcutFlag, sizeof(int), cudaMemcpyHostToDevice), "Failed to copy shortcutFlag to device");
@@ -200,7 +213,16 @@ void hooking(
             CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize after SHORTCUTTING kernel");
             CUDA_CHECK(cudaMemcpy(&shortcutFlag, c_shortcutFlag, sizeof(int), cudaMemcpyDeviceToHost), "Failed to copy back shortcutFlag to host");
         }
+
+        // pointer_jumping(d_rep, nodes);
+
+        // auto stop = std::chrono::high_resolution_clock::now();
+        // auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+        // std::cout << "One round of shortcutting took: " << duration << " ms.\n";
     }
+
+    // std::cout << "num iterations: " << itr_count << "\n";
 
     #ifdef DEBUG
         std::cout << "Printing Final Rep array:" << std::endl;
@@ -420,25 +442,43 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
         c_flag,
         c_shortcutFlag);
 
-    long num_cross_edges = edges;
-
-    // find actual cross_edges
-    select_flagged(d_edge_list, d_super_tree, d_cross_edges_flag, num_cross_edges);
-
-    int num_roots = nodes;
-    // find actual roots
-    select_flagged(d_actual_roots, d_super_tree_roots, d_roots_flag, num_roots);
-
-    int numThreads = 256;
-    long numBlocks = (num_roots + numThreads - 1) / numThreads;
-
-    update_roots_mapping<<<numBlocks, numThreads>>>(d_super_tree_roots, d_rep, d_rep_map, num_roots);
-    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_roots_mapping");
-
     auto stop = std::chrono::high_resolution_clock::now();
     auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("HS: Find Repl edges", duration);
+    add_function_time("HS: Hooking", duration);
+
+    long num_cross_edges = edges;
+
+    start = std::chrono::high_resolution_clock::now();
+    // find actual cross_edges
+    select_flagged(d_edge_list, d_super_tree, d_cross_edges_flag, num_cross_edges);
+    stop = std::chrono::high_resolution_clock::now();
+    duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("HS: Compaction cross-edges", duration);
+
+    int num_roots = nodes;
+    
+    start = std::chrono::high_resolution_clock::now();
+    // find actual roots
+    select_flagged(d_actual_roots, d_super_tree_roots, d_roots_flag, num_roots);
+
+    stop = std::chrono::high_resolution_clock::now();
+    duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("HS: Compaction actual roots", duration);
+
+    int numThreads = 1024;
+    long numBlocks = (num_roots + numThreads - 1) / numThreads;
+
+    start = std::chrono::high_resolution_clock::now();
+    update_roots_mapping<<<numBlocks, numThreads>>>(d_super_tree_roots, d_rep, d_rep_map, num_roots);
+    CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_roots_mapping");
+
+    stop = std::chrono::high_resolution_clock::now();
+    duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    add_function_time("HS: Update Root Mapping", duration);
 
     *tree_ds.super_graph_edges = static_cast<int>(num_cross_edges);
 
@@ -473,7 +513,7 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     stop = std::chrono::high_resolution_clock::now();
     duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("Hashtable insertion", duration);
+    add_function_time("HS: Hashtable insertion", duration);
 
     std::cout << "Insertion into hashtable over." << std::endl;
 
@@ -511,7 +551,7 @@ void hooking_shortcutting(dynamic_tree_manager& tree_ds,
     stop = std::chrono::high_resolution_clock::now();
     duration = std::chrono::duration<double, std::milli>(stop - start).count();
 
-    add_function_time("Orientation (ET)", duration);
+    add_function_time("HS: Orientation (ET)", duration);
 
     #ifdef DEBUG
         std::cout << "num of Replacement edges: " << num_cross_edges << std::endl;

@@ -55,6 +55,7 @@ void extractHighBits(const unsigned long long *devRankNext, int *devRank, int N)
 
 // param: int *devNext is the input array 
 // param: int *devRank is the output array 
+// param: int N is the size of input array
 void CudaSimpleListRank(int *devNext, int *devRank, int N, int *notAllDone, int *devNotAllDone, unsigned long long *devRankNext) {
 
     int threadsPerBlock = 1024; // This can be tuned based on your device capabilities

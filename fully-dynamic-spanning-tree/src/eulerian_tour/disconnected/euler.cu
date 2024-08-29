@@ -333,7 +333,7 @@ void cal_first_last(
     }
     
     // g_verbose = false;
-
+    auto start = std::chrono::high_resolution_clock::now();
     update_parent<<<num_blocks_vert, blockSize>>>(d_parent, d_roots, num_comp);
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_parent kernel");
 
@@ -491,6 +491,11 @@ void cal_first_last(
     CUDA_CHECK(cudaDeviceSynchronize(), "Failed to synchronize update_rank kernel");
 
     // std::cout << "update_rank kernel over.\n";
+
+    auto stop = std::chrono::high_resolution_clock::now();
+    auto duration = std::chrono::duration<double, std::milli>(stop - start).count();
+
+    // std::cout << "My Eulerian Tour: " << duration << " ms.\n";
 
     if(g_verbose) {
         std::cout << "d_rank array:\n";

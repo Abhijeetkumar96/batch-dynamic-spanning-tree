@@ -48,4 +48,4 @@ private:
 void cuda_list_rank(int N, int head, const int *devNextSrc, int *devRank, ListRanking* lrParam);
 void CudaSimpleListRank(int *devNext, int *devRank, int N, int *notAllDone, int *devNotAllDone, unsigned long long *devRankNext);
 
-#endif
+#endif // LIST_RANKING_H
