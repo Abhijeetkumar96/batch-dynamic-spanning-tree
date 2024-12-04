@@ -17,20 +17,29 @@ This repository contains a CUDA-based many-core solution designed to repair a sp
 
 ## Installation
 
-1. **Clone the repository**:
+1. **Clone the repository**:  
    ```bash
    git clone https://github.com/Abhijeetkumar96/batch-dynamic-spanning-tree
    ```
-2. **Navigate to the cloned directory:**
+
+2. **Navigate to the cloned directory**:  
    ```bash
    cd fully-dynamic-spanning-tree
    ```
-3. **Compile the code:**
-  ```bash
-    mkdir build && cd build
-    cmake ..
-    make -j$(nproc)
-  ```
+
+3. **Update the CUDA architecture**:  
+   Open the `CMakeLists.txt` file and ensure the following line reflects your GPU architecture:  
+   ```cmake
+   set(CMAKE_CUDA_ARCHITECTURES 80)
+   ```  
+   Replace `80` with your GPU's compute capability if needed. You can check your GPU's compute capability [here](https://developer.nvidia.com/cuda-gpus).
+
+4. **Compile the code**:  
+   ```bash
+   mkdir build && cd build
+   cmake ..
+   make -j$(nproc)
+   ```
 
 **Remember to run make clean in between if you switch build types, to ensure that all objects and targets are properly rebuilt.**
 
@@ -66,6 +75,29 @@ node1 node2
 node2 node3
 ...
 ```
+
+### **Help Command**  
+For a detailed explanation of the command-line arguments and their options, run:  
+```bash
+build/dynamic_spanning_tree -h
+```
+
+## Testing and Verification
+
+1. **Demo datasets**:  
+   A few small datasets are provided in the `datasets` folder for testing and verification purposes.
+
+2. **Run the validation script**:  
+   To test the code, run the script:  
+   ```bash
+   ./validate.sh
+   ```
+
+3. **Datasets from the paper**:  
+   The datasets used in the paper can be found at: [Link to datasets]  
+   To download and test these datasets, run the script:  
+   ```bash
+   ./download_and_run.sh
 
 ## Contributing
 
